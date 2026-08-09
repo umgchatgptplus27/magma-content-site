@@ -145,7 +145,7 @@ function buildMarkdown(p: Omit<ValidInput, "slug" | "date"> & { date: string }):
     p.thumbnail ? `thumbnail: ${JSON.stringify(p.thumbnail)}` : null,
     p.period ? `period: ${JSON.stringify(p.period)}` : null,
     p.dashboardUrl ? `dashboardUrl: ${JSON.stringify(p.dashboardUrl)}` : null,
-    p.draft ? "draft: true" : null,
+    `draft: ${p.draft}`,
     "---",
     "",
     p.content.trim(),
