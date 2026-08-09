@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import LegalPage from "@/components/LegalPage";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
   title: "면책조항",
-  description: "MAGMA 콘텐츠의 정보 제공 범위와 이용자 책임을 안내합니다.",
-};
+  description: "MAGMA 패션 정보와 의류 관리 가이드의 정보 제공 범위, 전문 조언의 한계 및 외부 링크 이용자 책임을 안내합니다.",
+  path: "/disclaimer",
+});
 
 export default function DisclaimerPage() {
   return (

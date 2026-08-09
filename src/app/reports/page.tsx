@@ -1,8 +1,13 @@
 import type { Metadata } from "next";
 import ReportCard from "@/components/ReportCard";
 import { getAll } from "@/lib/content";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = { title: "실적 보고" };
+export const metadata: Metadata = pageMetadata({
+  title: "브랜드·콘텐츠 실적 보고",
+  description: "MAGMA가 공개하는 브랜드 인지도, 콘텐츠 및 운영 데이터의 기준과 결과를 확인할 수 있습니다.",
+  path: "/reports",
+});
 
 export default function ReportsPage() {
   const reports = getAll("reports");

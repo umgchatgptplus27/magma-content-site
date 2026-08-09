@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import LegalPage from "@/components/LegalPage";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
   title: "이용약관",
-  description: "MAGMA 웹사이트 이용 조건을 안내합니다.",
-};
+  description: "MAGMA 웹사이트 콘텐츠의 이용 조건, 저작권, 이용자 의무와 서비스 변경 기준을 안내합니다.",
+  path: "/terms",
+});
 
 export default function TermsPage() {
   return (

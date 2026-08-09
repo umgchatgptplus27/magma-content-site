@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import LegalPage from "@/components/LegalPage";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "소개 및 문의",
-  description: "MAGMA의 콘텐츠 운영 원칙과 문의 방법을 안내합니다.",
-};
+export const metadata: Metadata = pageMetadata({
+  title: "MAGMA 소개 및 문의",
+  description: "3040 남성 패션 정보와 의류 선택·관리 가이드를 운영하는 MAGMA의 콘텐츠 원칙과 문의 방법을 안내합니다.",
+  path: "/about",
+});
 
 export default function AboutPage() {
   return (

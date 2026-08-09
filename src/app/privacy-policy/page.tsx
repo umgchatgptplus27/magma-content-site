@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import LegalPage from "@/components/LegalPage";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = pageMetadata({
   title: "개인정보처리방침",
-  description: "MAGMA의 개인정보 수집·이용 및 광고 쿠키 처리 방침입니다.",
-};
+  description: "MAGMA 웹사이트의 개인정보 수집·이용, 광고 쿠키 및 Google AdSense 처리 기준과 이용자의 선택 방법을 안내합니다.",
+  path: "/privacy-policy",
+});
 
 export default function PrivacyPolicyPage() {
   return (

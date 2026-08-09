@@ -29,7 +29,8 @@ export default function HeroMedia() {
           src={poster}
           alt=""
           fill
-          priority
+          preload
+          quality={70}
           sizes="100vw"
           className="object-cover"
         />

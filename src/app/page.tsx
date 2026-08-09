@@ -5,6 +5,14 @@ import ReportCard from "@/components/ReportCard";
 import ImageSlot from "@/components/ImageSlot";
 import { siteConfig } from "@config";
 import { getAll } from "@/lib/content";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata = pageMetadata({
+  title: "3040 남성 패션·의류 관리 가이드",
+  description: "3040 남성을 위한 옷 선택, 핏 점검, 소재 이해와 의류 관리 가이드를 MAGMA의 기준으로 정리합니다.",
+  path: "/",
+  image: "/images/magma-hero-poster.png",
+});
 
 export default function Home() {
   const posts = getAll("posts").slice(0, 3);
