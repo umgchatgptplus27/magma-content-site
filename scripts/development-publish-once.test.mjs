@@ -77,6 +77,38 @@ test("preflight scopes the payload to one slug and does not write state", () => 
   assert.equal(fs.existsSync(prepared.statePath), false);
 });
 
+test("preflight rejects missing slug and a thumbnail duplicated in body", () => {
+  const missingSlug = fixture();
+  const withoutSlug = missingSlug.source.replace(`slug: "${missingSlug.slug}"\n`, "");
+  fs.writeFileSync(missingSlug.sourcePath, withoutSlug, "utf8");
+  assert.throws(
+    () =>
+      prepareDevelopmentPublish({
+        root: missingSlug.root,
+        slug: missingSlug.slug,
+        taskId: "t_fixture",
+        expectedSourceSha256: sha256(withoutSlug),
+        endpoint: "http://127.0.0.1:3001/api/posts",
+      }),
+    isCode("source_slug_missing"),
+  );
+
+  const duplicatedThumbnail = fixture();
+  const withDuplicate = `${duplicatedThumbnail.source}\n![thumbnail](/images/${duplicatedThumbnail.slug}-thumbnail.webp)\n`;
+  fs.writeFileSync(duplicatedThumbnail.sourcePath, withDuplicate, "utf8");
+  assert.throws(
+    () =>
+      prepareDevelopmentPublish({
+        root: duplicatedThumbnail.root,
+        slug: duplicatedThumbnail.slug,
+        taskId: "t_fixture",
+        expectedSourceSha256: sha256(withDuplicate),
+        endpoint: "http://127.0.0.1:3001/api/posts",
+      }),
+    isCode("approved_image_manifest_must_have_six_unique_assets"),
+  );
+});
+
 test("rejects an invalid date before a request can start", () => {
   const item = fixture("date: 2026/07/25");
   assert.throws(

@@ -12,6 +12,9 @@ import sys
 from pathlib import Path
 
 SLUG_RE = __import__("re").compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+DEFAULT_DEVELOPMENT_ENV_FILE = (
+    Path.home() / ".hermes" / "profiles" / "ethan" / "secrets" / "magma-content-site-development.env"
+)
 SYSTEM_FILES = (
     "cards/blog-pipeline-template.md",
     "scripts/development-publish-once.mjs",
@@ -50,6 +53,36 @@ def copy_system_files(source: Path, workspace: Path) -> None:
         shutil.copy2(src, dst)
 
 
+def validate_development_env_file(value: Path) -> Path:
+    source = value.expanduser().resolve()
+    if not source.is_file():
+        raise RuntimeError(f"development_env_file_missing:{source}")
+    if source.stat().st_mode & 0o077:
+        raise RuntimeError("development_env_file_permissions_must_be_600")
+    lines = source.read_text(encoding="utf-8").splitlines()
+    publish_keys = [line for line in lines if line.startswith("PUBLISH_API_KEY=") and line != "PUBLISH_API_KEY="]
+    if len(publish_keys) != 1:
+        raise RuntimeError("development_env_publish_api_key_invalid")
+    return source
+
+
+def provision_development_env(workspace: Path, source: Path) -> None:
+    target = workspace / ".env.local"
+    if target.is_symlink():
+        if target.resolve() == source:
+            return
+        raise RuntimeError(f"development_env_link_targets_other_file:{target}")
+    if target.exists():
+        raise RuntimeError(f"development_env_target_exists_not_symlink:{target}")
+    target.symlink_to(source)
+
+
+def verify_development_env_link(workspace: Path, source: Path) -> None:
+    target = workspace / ".env.local"
+    if not target.is_symlink() or target.resolve() != source:
+        raise RuntimeError(f"development_env_link_missing_or_wrong:{target}")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source-repo", required=True, type=Path)
@@ -58,6 +91,7 @@ def main() -> int:
     parser.add_argument("--slug", required=True)
     parser.add_argument("--board", required=True)
     parser.add_argument("--creator", required=True, type=Path)
+    parser.add_argument("--development-env-file", type=Path, default=DEFAULT_DEVELOPMENT_ENV_FILE)
     parser.add_argument("--slack-notifier-profile", default="ethan")
     parser.add_argument("--verify-only", action="store_true")
     args = parser.parse_args()
@@ -69,6 +103,7 @@ def main() -> int:
     workspace = runs_root / args.slug
     branch = f"pipeline/{args.slug}"
     context_path = workspace / ".magma-pipeline-run.json"
+    development_env_file = validate_development_env_file(args.development_env_file)
     run(["git", "fetch", "origin", "main", "--quiet"], source)
     baseline = run(["git", "rev-parse", "origin/main"], source).strip()
 
@@ -90,12 +125,24 @@ def main() -> int:
             "workspace": str(workspace),
             "development_port": port,
             "development_url": f"http://127.0.0.1:{port}",
+            "development_env_file": str(development_env_file),
         }
         context_path.write_text(json.dumps(context, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         copy_system_files(source, workspace)
+        provision_development_env(workspace, development_env_file)
 
     if context.get("topic") != args.topic:
         raise RuntimeError("existing_pipeline_workspace_topic_mismatch")
+    recorded_env_file = context.get("development_env_file")
+    if recorded_env_file and Path(recorded_env_file).expanduser().resolve() != development_env_file:
+        raise RuntimeError("existing_pipeline_workspace_development_env_mismatch")
+    if args.verify_only:
+        verify_development_env_link(workspace, development_env_file)
+    else:
+        provision_development_env(workspace, development_env_file)
+        if not recorded_env_file:
+            context["development_env_file"] = str(development_env_file)
+            context_path.write_text(json.dumps(context, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     template = (workspace / "cards/blog-pipeline-template.md").read_text(encoding="utf-8")
     values = {
         "{{TOPIC}}": args.topic,

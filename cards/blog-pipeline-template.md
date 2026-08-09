@@ -233,12 +233,25 @@ MAGMA 발행 검토 담당자로서 윤문 원고와 이미지 인계 문서를 
 
 [작업]
 1. 초안과 이미지 인계서를 결합해 `content-pipeline/drafts/{{SLUG}}-final.md`를 작성한다.
-2. 기존 초안·인계서의 썸네일 경로를 대조하고 최종 frontmatter의 `thumbnail`이 `/images/{{SLUG}}-thumbnail.webp`인지 확인한다.
-3. 최종 원고의 frontmatter는 `draft: true`로 둔다. 핵심 섹션 1~5에 대응 이미지 Markdown과 확정 alt 문구를 하나씩 삽입한다.
+2. 최종 frontmatter에는 다음 필드를 모두 넣고 값이 정확한지 확인한다: `title`, `description`, 실제 달력 날짜의 `date: YYYY-MM-DD`, `slug: "{{SLUG}}"`, 문자열 배열 `tags`, `thumbnail: "/images/{{SLUG}}-thumbnail.webp"`, `draft: true`.
+3. 본문 Markdown에는 `look-1`부터 `look-5`까지 각 1개, 정확히 5개의 이미지 Markdown과 확정 alt 문구만 삽입한다. 썸네일은 frontmatter와 검토 HTML에만 사용하며 본문 Markdown에 다시 삽입하지 않는다. 본문 이미지·frontmatter 썸네일을 합쳐 정확히 6개의 고유 asset이어야 한다.
 4. 이미지 자리표시자, 이미지 슬롯, TODO, 미확정 alt 문구가 남지 않았는지 검사한다. 하나라도 남으면 승인 요청이나 API 호출 없이 위치를 보고한다.
-5. `content-pipeline/drafts/{{SLUG}}-review.html`을 생성한다. 제목·설명·태그·slug·썸네일·전체 본문과 함께 썸네일 1장 및 본문 이미지 5장, 총 6장이 실제로 보이도록 한다.
-6. 최종 원고와 검토 HTML의 경로·해시, 게시 예정 정보를 대표에게 제시하고 `needs_input` Blocked로 이동한다. 차단 사유는 `최종 원고 승인 대기 — 개발 API 호출 0회`로 기록한다.
-7. Blocked 전 카드 댓글에 다음 안내와 복사 문구를 모두 남긴다. 대표가 검토 HTML과 최종 원고를 확인한 뒤 자연어 승인문을 새 댓글로 그대로 복사할 수 있어야 한다. 실제 SHA-256 값은 안내 댓글에서 각 경로 옆에 함께 제시한다.
+5. 최종 원고 해시를 계산한 뒤 다음 무쓰기 preflight를 실행한다. 성공 전에는 검토 HTML을 승인 대상으로 제시하거나 `needs_input` Blocked로 이동하지 않는다.
+
+   ```bash
+   SOURCE_SHA256=$(shasum -a 256 content-pipeline/drafts/{{SLUG}}-final.md | cut -d ' ' -f1)
+   node scripts/development-publish-once.mjs \
+     --slug "{{SLUG}}" \
+     --task-id "review-preflight-{{SLUG}}" \
+     --expected-source-sha256 "$SOURCE_SHA256" \
+     --endpoint "{{DEV_URL}}/api/posts" \
+     --preflight-only
+   ```
+
+   이 명령은 API 요청·원장 생성·파일 쓰기를 하지 않는다. `source_slug_missing`, 날짜 오류, 이미지가 6개 초과·중복·누락된 오류는 이 단계에서 고쳐 새 해시를 만든 뒤에만 승인 요청을 한다.
+6. `content-pipeline/drafts/{{SLUG}}-review.html`을 생성한다. 제목·설명·태그·slug·썸네일·전체 본문과 함께 썸네일 1장 및 본문 이미지 5장, 총 6장이 실제로 보이도록 한다.
+7. 최종 원고와 검토 HTML의 경로·해시, 게시 예정 정보를 대표에게 제시하고 `needs_input` Blocked로 이동한다. 차단 사유는 `최종 원고 승인 대기 — 개발 API 호출 0회`로 기록한다.
+8. Blocked 전 카드 댓글에 다음 안내와 복사 문구를 모두 남긴다. 대표가 검토 HTML과 최종 원고를 확인한 뒤 자연어 승인문을 새 댓글로 그대로 복사할 수 있어야 한다. 실제 SHA-256 값은 안내 댓글에서 각 경로 옆에 함께 제시한다.
 
    ```text
    카드에 필요한 최종 원고 승인 문구를 구체적으로 남겼습니다.
@@ -262,8 +275,8 @@ MAGMA 발행 검토 담당자로서 윤문 원고와 이미지 인계 문서를 
    운영 서버에는 아직 발행하지 마세요.
    ```
 
-8. 최종 원고 승인에는 별도 `final` 스킬이나 번호형 세 항목을 요구하지 않는다. 위 복사 문구 또는 동일한 의미가 명확한 자연어 댓글이면 유효하다. 다만 최종 문안과 이미지 6장 승인, 개발 서버 한 건 발행 요청, 운영 서버 미발행 의사가 모두 드러나야 한다.
-9. 명시적 승인 후 재개되면 승인 대상 경로와 해시가 변하지 않았는지 확인하고 이 카드를 완료한다. 개발 API 호출은 후속 개발 검증 카드에만 맡긴다.
+9. 최종 원고 승인에는 별도 `final` 스킬이나 번호형 세 항목을 요구하지 않는다. 위 복사 문구 또는 동일한 의미가 명확한 자연어 댓글이면 유효하다. 다만 최종 문안과 이미지 6장 승인, 개발 서버 한 건 발행 요청, 운영 서버 미발행 의사가 모두 드러나야 한다.
+10. 명시적 승인 후 재개되면 승인 대상 경로와 해시가 변하지 않았는지 확인하고 이 카드를 완료한다. 개발 API 호출은 후속 개발 검증 카드에만 맡긴다.
 
 [제약]
 이 카드의 개발 POST, 운영 POST, Git push와 deploy 호출 횟수는 모두 0회다. 사람 승인 대기는 `needs_input` Blocked를 정확히 한 번만 사용한다. `review` Kanban 상태를 승인 대기로 사용하지 않는다. 승인 전후에 API 호출, 임의 slug 변경, 키 출력, 원시 인증 응답 저장을 금지한다.
