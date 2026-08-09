@@ -13,27 +13,27 @@ export default function HeroMedia() {
   const { video, poster } = siteConfig.hero;
   return (
     <div className="absolute inset-0 -z-10 overflow-hidden">
-      {video ? (
+      <Image
+        src={poster}
+        alt=""
+        fill
+        preload
+        quality={70}
+        sizes="100vw"
+        className="object-cover"
+      />
+      {video && (
         <video
           autoPlay
           muted
           loop
           playsInline
-          poster={poster}
-          className="h-full w-full object-cover"
+          preload="metadata"
+          aria-hidden="true"
+          className="hidden h-full w-full object-cover md:block motion-reduce:hidden"
         >
-          <source src={video} type="video/mp4" />
+          <source media="(min-width: 768px)" src={video} type="video/mp4" />
         </video>
-      ) : (
-        <Image
-          src={poster}
-          alt=""
-          fill
-          preload
-          quality={70}
-          sizes="100vw"
-          className="object-cover"
-        />
       )}
       <div className="absolute inset-0 bg-gradient-to-r from-canvas/70 via-canvas/35 to-canvas/15" />
     </div>
