@@ -1,39 +1,12 @@
-"use client";
-
 import Image from "next/image";
-import { useEffect, useRef } from "react";
 import { siteConfig } from "@config";
 
-interface HeroMediaProps {
-  motionEnabled: boolean;
-  motionPlaying: boolean;
-  onPlaybackBlocked: () => void;
-}
-
 /**
- * 홈 히어로 배경. poster는 항상 LCP 이미지로 유지하고, 데스크톱에서만
- * 사용자가 허용한 경우에 한해 배경 동영상을 재생한다.
+ * 홈 히어로 배경. 데스크톱 기본 동영상은 서버 HTML에서 바로 렌더해
+ * hydration 지연과 무관하게 재생한다. reduced-motion과 모바일은 poster를 사용한다.
  */
-export default function HeroMedia({
-  motionEnabled,
-  motionPlaying,
-  onPlaybackBlocked,
-}: HeroMediaProps) {
+export default function HeroMedia() {
   const { video, poster } = siteConfig.hero;
-  const videoRef = useRef<HTMLVideoElement>(null);
-
-  useEffect(() => {
-    const element = videoRef.current;
-    if (!element) return;
-
-    if (!motionPlaying) {
-      element.pause();
-      return;
-    }
-
-    element.play().catch(onPlaybackBlocked);
-  }, [motionPlaying, onPlaybackBlocked]);
-
   return (
     <div className="absolute inset-0 -z-10 overflow-hidden">
       <Image
@@ -45,18 +18,22 @@ export default function HeroMedia({
         sizes="100vw"
         className="object-cover"
       />
-      {video && motionEnabled && (
+      {video && (
         <video
-          ref={videoRef}
-          autoPlay={motionPlaying}
+          id="hero-motion-video"
+          autoPlay
           muted
           loop
           playsInline
           preload="metadata"
           aria-hidden="true"
-          className="hidden h-full w-full object-cover md:block"
+          className="hidden h-full w-full object-cover md:block motion-reduce:hidden"
         >
-          <source media="(min-width: 768px)" src={video} type="video/mp4" />
+          <source
+            media="(min-width: 768px) and (prefers-reduced-motion: no-preference)"
+            src={video}
+            type="video/mp4"
+          />
         </video>
       )}
       <div className="absolute inset-0 bg-gradient-to-r from-canvas/70 via-canvas/35 to-canvas/15" />
