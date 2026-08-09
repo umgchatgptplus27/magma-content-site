@@ -55,9 +55,17 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="ko">
       <head>
         <JsonLd data={organizationSchema} />
+        {process.env.NODE_ENV === "production" && (
+          <script
+            defer
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643"
+            crossOrigin="anonymous"
+            fetchPriority="low"
+          />
+        )}
       </head>
       <body className="min-h-screen flex flex-col">
-        <AdSenseLoader />
+        {process.env.NODE_ENV !== "production" && <AdSenseLoader />}
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
