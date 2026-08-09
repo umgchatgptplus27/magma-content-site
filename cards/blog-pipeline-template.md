@@ -427,8 +427,9 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
 9. `deploy`의 `production_write_once.py`만 사용한다. 이 helper가 저장소·브랜치 전역 `fcntl.flock`인 `~/.hermes/locks/magma-content-site-main-production.lock`을 획득한 뒤 최신 `origin/main`에서 승인된 slug의 평면 경로 WebP 6개만 커밋·push하고 운영 POST 응답 확인까지 하나의 외부 쓰기 구간으로 직렬화해야 한다. 직접 `git push`, `ledger.py mark-image-push-started`, `ledger.py mark-image-push-verified`, `post_once.py`를 호출하지 않는다.
 10. lock 획득 후 승인 intent·payload·7개 파일 해시와 최신 remote SHA를 다시 확인한다. lock 대기·timeout·remote 선점은 이미지 push 및 운영 POST 시작 횟수를 소비하지 않아야 한다. 현재 작업 폴더를 pull, rebase, reset, clean 또는 stash하지 않으며 Vercel CLI를 사용하지 않는다.
 11. helper는 이미지 push와 운영 POST를 각각 시작 전에 원장에 기록하고 단일 시도로 수행한다. 운영 API `https://magma-content-site-neon.vercel.app/api/posts`는 승인된 최종 원고로 정확히 1회 호출해 `draft: false`로 공개한다. HTTP 오류, 409, 타임아웃, 연결 끊김, 리다이렉트 이상, 응답 파싱 실패 또는 결과 불명확 상황에서 재시도하지 않는다. Vercel 공개 polling, lint, build는 전역 lock 해제 후 수행한다.
-12. 성공 후 추가 쓰기 없이 GitHub 커밋 범위, 공개 글, 원격 Markdown과 이미지 6장의 HTTP 상태·해시를 검증한다. 이어서 `npm run lint`와 `npm run build`를 실행한다.
-13. 성공하면 카드를 완료한다. 오류나 불명확 결과면 비밀값을 제거해 보고하고 자동 재시도 없는 `capability` Blocked로 전환한다.
+12. 성공 후 추가 쓰기 없이 GitHub 커밋 범위, 대표 공개 주소 `https://www.eurachoachoa.com/blog/{{SLUG}}`, sitemap, 원격 Markdown과 이미지 6장의 HTTP 상태·해시를 검증한다. 이어서 `npm run lint`와 `npm run build`를 실행한다.
+13. 운영 검증이 통과한 경우에만 `/Users/jarvis/.hermes/workspace/magma-content-site-production-mirror`에서 `git fetch origin main`과 `git merge --ff-only origin/main`으로 3000 미러를 fast-forward하고, mirror HEAD가 최신 `origin/main`과 같은지 확인한다. WIP와 run worktree는 reset·clean·rebase하지 않는다.
+14. 성공하면 카드를 완료한다. 오류나 불명확 결과면 비밀값을 제거해 보고하고 자동 재시도 없는 `capability` Blocked로 전환한다.
 
 [제약]
 별도 운영 승인 전 운영 쓰기 호출 횟수는 0회이며 작업공간 파일 변경도 0회다. 승인 대기는 `needs_input` Blocked를 정확히 한 번만 사용하며 `review` Kanban 상태를 사용하지 않는다. 운영 승인 후에도 이미지 push와 운영 API POST를 재시도하지 않는다. 모든 운영 외부 쓰기는 저장소·브랜치 전역 lock을 보유한 `production_write_once.py` 안에서만 수행한다. 최종 원고 승인, 개발 성공, 강제 스킬 지정 또는 일반 `/deploy` 요청만으로 운영 승인을 대신하지 않는다. 키, Authorization 헤더, 원시 인증 응답, Vercel CLI 사용, 현재 작업 폴더의 승인 전 변경과 승인 범위 밖 파일 반영을 금지한다.
@@ -455,7 +456,7 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
 
 ## 등록 후 검증 체크리스트
 
-- 변수 표기가 `{{TOPIC}}`, `{{SLUG}}` 두 종류뿐인지 확인한다.
+- 입력 변수 `{{TOPIC}}`, `{{SLUG}}`와 생성기가 고정하는 기준 SHA·branch·worktree·port·URL 변수가 모두 해소됐는지 확인한다.
 - 카드가 `기획 → 리서치 → 집필 → 비주얼 → 최종 원고 승인 → 개발 검증 → 운영 발행` 순서로 연결되었는지 확인한다.
 - 담당이 `ethan → oliver → noah → mia → noah → noah → noah`인지 확인한다.
 - 전문 스킬이 표와 일치하고 각 담당 프로필에서 로드 가능한지 확인한다.
