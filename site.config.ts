@@ -28,11 +28,8 @@ export const siteConfig: SiteConfig = {
     href: "",
   },
   hero: {
-    // 6.5 「모션그래픽 생성 — 히어로 모션」 실습 슬롯.
-    // 모션그래픽을 만들어 public/hero.mp4 로 저장한 뒤, 아래 video 를 "/hero.mp4" 로만 바꾸면
-    // 홈 배경이 영상으로 바뀝니다 (HeroMedia.tsx 컴포넌트는 손대지 않습니다).
-    // null 로 두면 poster 이미지로 완전히 동작합니다.
-    video: "/hero.mp4",
+    // 현재 홈 히어로는 정적 poster만 사용한다. 동영상 재도입은 실제 데스크톱 재생 검증 후 별도 결정한다.
+    video: null,
     poster: "/images/magma-hero-poster.png",
-  },
+  }
 };
