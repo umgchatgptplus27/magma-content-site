@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
       eyebrow="PRIVACY POLICY"
       title="개인정보처리방침"
       summary="MAGMA는 이용자의 개인정보를 중요하게 여기며, 본 방침은 www.eurachoachoa.com의 개인정보 처리 기준을 안내합니다."
-      updatedAt="2026년 8월 9일"
+      updatedAt="2026년 8월 22일"
       sections={[
         {
           title: "수집하는 정보",
@@ -50,6 +50,9 @@ export default function PrivacyPolicyPage() {
               </p>
               <p>
                 이용자는 <a className="text-primary underline underline-offset-2" href="https://adssettings.google.com" target="_blank" rel="noreferrer">Google 광고 설정</a>에서 개인 맞춤 광고를 관리하거나 해제할 수 있습니다. 또한 브라우저 설정에서 쿠키 저장을 차단하거나 삭제할 수 있으며, Network Advertising Initiative의 <a className="text-primary underline underline-offset-2" href="https://optout.networkadvertising.org/" target="_blank" rel="noreferrer">광고 쿠키 거부 페이지</a>를 통해 일부 제3자 맞춤 광고를 관리할 수 있습니다. 쿠키를 제한할 경우 일부 서비스 기능이나 개인화된 광고 제공 방식이 달라질 수 있습니다.
+              </p>
+              <p>
+                Google이 파트너 사이트 또는 앱을 사용할 때 데이터를 사용하는 방식은 <a className="text-primary underline underline-offset-2" href="https://policies.google.com/technologies/partner-sites?hl=ko" target="_blank" rel="noreferrer">Google 파트너 사이트 데이터 사용 안내</a>에서 확인할 수 있습니다.
               </p>
             </>
           ),
