@@ -50,9 +50,17 @@ export function getOne(collection: Collection, slug: string): ContentDoc | null 
   return readDoc(collection, `${slug}.md`);
 }
 
-/** 마크다운 → HTML. GFM 지원, raw HTML 은 안전하게 제거. */
+/** 본문 선두의 H1(# ...) 제거 — 제목은 페이지 컴포넌트가 frontmatter title로 렌더하므로 이중 H1 방지. */
+function stripLeadingH1(md: string): string {
+  return md.replace(/^\s*#\s+[^\n]*\n+/, "");
+}
+
+/** 마크다운 → HTML. GFM 지원, raw HTML 은 안전하게 제거, 선두 H1은 제거(이중 H1 방지). */
 export async function renderMarkdown(md: string): Promise<string> {
-  const out = await remark().use(remarkGfm).use(remarkHtml, { sanitize: true }).process(md);
+  const out = await remark()
+    .use(remarkGfm)
+    .use(remarkHtml, { sanitize: true })
+    .process(stripLeadingH1(md));
   return String(out);
 }
 

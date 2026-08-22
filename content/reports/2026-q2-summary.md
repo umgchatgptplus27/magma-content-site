@@ -5,9 +5,10 @@ date: 2026-07-05
 tags: [분기실적]
 period: 2026-Q2
 thumbnail: /images/magma-report-performance.png
+draft: true
 ---
 
-2분기 실적을 요약합니다. 아래 수치는 교육 실습용 예시 데이터입니다.
+2분기 실적을 요약합니다.
 
 ## 매출
 

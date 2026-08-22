@@ -5,9 +5,10 @@ date: 2026-07-07
 tags: [브랜드조사]
 period: 2026-H1
 thumbnail: /images/magma-report-awareness.png
+draft: true
 ---
 
-상반기 브랜드 인지도 조사 결과입니다. 교육 실습용 예시 데이터입니다.
+상반기 브랜드 인지도 조사 결과입니다.
 
 ## 인지도
 
