@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import BlogTopicNav from "@/components/BlogTopicNav";
 import PostCard from "@/components/PostCard";
 import { getAll } from "@/lib/content";
 import { pageMetadata } from "@/lib/seo";
@@ -14,7 +15,11 @@ export default function BlogPage() {
   return (
     <div className="container-page py-20">
       <p className="eyebrow mb-2">저널</p>
-      <h1 className="mb-12 font-display text-3xl font-bold text-primary sm:text-4xl">블로그</h1>
+      <h1 className="font-display text-3xl font-bold text-primary sm:text-4xl">블로그</h1>
+      <p className="mt-4 max-w-2xl leading-relaxed text-ink-sub">
+        관리, 핏, 출근, 상황별 옷차림처럼 지금 필요한 기준부터 골라 읽어 보세요.
+      </p>
+      <BlogTopicNav />
       {posts.length === 0 ? (
         <p className="text-sm text-ink-muted">아직 발행된 글이 없습니다.</p>
       ) : (

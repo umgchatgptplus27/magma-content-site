@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { BLOG_TOPICS } from "@/lib/blog-topics";
 import { contentHref, getAll } from "@/lib/content";
 
 const SITE_URL = "https://www.eurachoachoa.com";
@@ -19,6 +20,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: "monthly",
     priority: 0.8,
   }));
+  const topicHubs: MetadataRoute.Sitemap = BLOG_TOPICS.map((topic) => ({
+    url: `${SITE_URL}/blog/topic/${topic.slug}`,
+    changeFrequency: "weekly",
+    priority: 0.7,
+  }));
   const reports: MetadataRoute.Sitemap = getAll("reports").map((item) => ({
     url: `${SITE_URL}${contentHref("reports", item.slug)}`,
     lastModified: new Date(`${item.date}T00:00:00.000Z`),
@@ -26,5 +32,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticPages, ...posts, ...reports];
+  return [...staticPages, ...topicHubs, ...posts, ...reports];
 }
