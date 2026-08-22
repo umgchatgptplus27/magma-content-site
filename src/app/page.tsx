@@ -1,7 +1,6 @@
 import Hero from "@/components/Hero";
 import SectionHeading from "@/components/SectionHeading";
 import PostCard from "@/components/PostCard";
-import ReportCard from "@/components/ReportCard";
 import ImageSlot from "@/components/ImageSlot";
 import { siteConfig } from "@config";
 import { getAll } from "@/lib/content";
@@ -16,7 +15,6 @@ export const metadata = pageMetadata({
 
 export default function Home() {
   const posts = getAll("posts").slice(0, 3);
-  const reports = getAll("reports").slice(0, 2);
   return (
     <>
       <Hero />
@@ -52,19 +50,7 @@ export default function Home() {
         )}
       </section>
 
-      {/* 최신 실적 */}
-      <section className="container-page py-16">
-        <SectionHeading eyebrow="데이터" title="실적 보고" href="/reports" cta="실적 전체" />
-        {reports.length === 0 ? (
-          <p className="text-sm text-ink-muted">아직 공개된 실적 보고가 없습니다.</p>
-        ) : (
-          <div className="grid gap-6 sm:grid-cols-2">
-            {reports.map((r) => (
-              <ReportCard key={r.slug} report={r} />
-            ))}
-          </div>
-        )}
-      </section>
+
     </>
   );
 }
