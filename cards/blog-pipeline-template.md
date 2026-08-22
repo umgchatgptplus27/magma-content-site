@@ -383,7 +383,7 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
 1. 개발 API가 `draft: false`로 정확히 1회 시작됐고 성공 결과가 읽기 전용으로 검증됐는지 확인한다. 상세 `http://127.0.0.1:<port>/blog/{{SLUG}}`가 HTTP 200이고 승인된 제목·본문·본문 이미지 5장을 표시하며, `http://127.0.0.1:<port>/blog` 목록이 해당 글 링크·승인된 썸네일 1장을 표시하고, 전체 이미지 파일 6장이 모두 HTTP 200이어야 한다. 오류·불명확 상태나 어느 미리보기 표면이라도 미노출이면 운영 쓰기 없이 Blocked로 보고한다.
 2. `external-account-write-safety`와 `deploy`가 실행 담당 프로필에서 로드되는지 확인한다. 하나라도 없으면 운영 쓰기 없이 `capability` Blocked로 보고한다.
 3. 첫 실행에서는 GitHub 저장소·브랜치, 운영 호스트 `https://magma-content-site-neon.vercel.app`, 운영 `POST /api/posts`, 기존 동일 slug, 이미지 반영 방식과 격리 작업공간을 읽기 전용으로 감사한다.
-4. 개발 미리보기에 사용된 `draft: false` Markdown을 기준으로 승인 대상 public payload와 manifest를 게시물 Markdown 1개와 평면 경로 WebP 6개로 고정한다. `content-pipeline/**`와 다른 미추적 파일은 제외하고 경로·해시·공개 상태를 제시한다. 운영 사전 감사에서는 개발 검증이 만든 파일의 `draft` 값이나 작업공간 파일을 수정하지 않는다.
+4. 개발 미리보기에 사용된 공개 Markdown `content/posts/{{SLUG}}.md`(개발 helper가 정규화한 `draft: false` 버전)를 기준으로 승인 대상 public payload와 manifest를 고정한다. 승인 댓글에는 이 **공개 Markdown 파일의 SHA-256**과 평면 경로 WebP 6개의 해시를 제시한다. 승인용 원본 `content-pipeline/drafts/{{SLUG}}-final.md`의 해시를 public manifest 해시로 대체하지 않는다. `content-pipeline/**`와 다른 미추적 파일은 제외하고 경로·해시·공개 상태를 제시한다. 운영 사전 감사에서는 개발 검증이 만든 파일의 `draft` 값이나 작업공간 파일을 수정하지 않는다.
 5. 대상·범위·단일 실행 조건을 대표에게 제시하고 운영 쓰기 없이 `needs_input` Blocked로 이동한다. 차단 사유는 `운영 대상·범위·단일 실행 승인 대기 — 운영 쓰기 0회`로 기록한다. 최종 원고 승인을 운영 승인으로 대신하지 않는다.
 6. Blocked 전 카드 댓글에 다음 안내와 slug가 치환된 복사 문구를 모두 남긴다. 대표가 세 승인 의미를 확인한 뒤 마지막 한 줄을 새 댓글로 그대로 복사할 수 있어야 한다.
 
@@ -404,7 +404,7 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
 8. 별도 운영 승인 후 재개되면 승인 댓글, 대상, public payload, manifest와 파일 해시가 변하지 않았는지 확인한다. 변경됐거나 승인이 모호하면 운영 쓰기를 수행하지 않고 갱신된 복사 문구를 다시 제공한다.
 9. `deploy`의 `production_write_once.py`만 사용한다. 이 helper가 저장소·브랜치 전역 `fcntl.flock`인 `~/.hermes/locks/magma-content-site-main-production.lock`을 획득한 뒤 최신 `origin/main`에서 승인된 slug의 평면 경로 WebP 6개만 커밋·push하고 운영 POST 응답 확인까지 하나의 외부 쓰기 구간으로 직렬화해야 한다. 직접 `git push`, `ledger.py mark-image-push-started`, `ledger.py mark-image-push-verified`, `post_once.py`를 호출하지 않는다.
 10. lock 획득 후 승인 intent·payload·7개 파일 해시와 최신 remote SHA를 다시 확인한다. lock 대기·timeout·remote 선점은 이미지 push 및 운영 POST 시작 횟수를 소비하지 않아야 한다. 현재 작업 폴더를 pull, rebase, reset, clean 또는 stash하지 않으며 Vercel CLI를 사용하지 않는다.
-11. helper는 이미지 push와 운영 POST를 각각 시작 전에 원장에 기록하고 단일 시도로 수행한다. 운영 API `https://magma-content-site-neon.vercel.app/api/posts`는 승인된 최종 원고로 정확히 1회 호출해 `draft: false`로 공개한다. HTTP 오류, 409, 타임아웃, 연결 끊김, 리다이렉트 이상, 응답 파싱 실패 또는 결과 불명확 상황에서 재시도하지 않는다. Vercel 공개 polling, lint, build는 전역 lock 해제 후 수행한다.
+11. helper는 이미지 push와 운영 POST를 각각 시작 전에 원장에 기록하고 단일 시도로 수행한다. 운영 API `https://magma-content-site-neon.vercel.app/api/posts`는 승인된 **공개 Markdown payload**로 정확히 1회 호출해 `draft: false`로 공개한다. HTTP 오류, 409, 타임아웃, 연결 끊김, 리다이렉트 이상, 응답 파싱 실패 또는 결과 불명확 상황에서 재시도하지 않는다. Vercel 공개 polling, lint, build는 전역 lock 해제 후 수행한다.
 12. 성공 후 추가 쓰기 없이 GitHub 커밋 범위, 공개 글, 원격 Markdown과 이미지 6장의 HTTP 상태·해시를 검증한다. 이어서 `npm run lint`와 `npm run build`를 실행한다.
 13. 성공하면 카드를 완료한다. 오류나 불명확 결과면 비밀값을 제거해 보고하고 자동 재시도 없는 `capability` Blocked로 전환한다.
 
