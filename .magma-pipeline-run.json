@@ -1,0 +1,11 @@
+{
+  "slug": "mens-coat-fabric-selection-guide",
+  "topic": "3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준",
+  "run_key": "mens-coat-fabric-selection-guide-4b5d8a65f9eb",
+  "baseline_sha": "4b5d8a65f9eb36161ca4540ca9762c367444bed1",
+  "branch": "pipeline/mens-coat-fabric-selection-guide",
+  "workspace": "/Users/jarvis/.hermes/workspace/magma-content-site-runs/mens-coat-fabric-selection-guide",
+  "development_port": 3253,
+  "development_url": "http://127.0.0.1:3253",
+  "development_env_file": "/Users/jarvis/.hermes/profiles/ethan/secrets/magma-content-site-development.env"
+}

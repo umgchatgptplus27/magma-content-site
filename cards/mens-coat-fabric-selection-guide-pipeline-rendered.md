@@ -6,18 +6,18 @@
 
 다음 두 값은 생성 시 입력으로 바꾼다.
 
-- 글의 주제: `{{TOPIC}}`
-- 주소 이름: `{{SLUG}}`
+- 글의 주제: `3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준`
+- 주소 이름: `mens-coat-fabric-selection-guide`
 
 아래 다섯 값은 생성 스크립트가 최신 `origin/main`에서 자동으로 고정한다. 작업자가 임의로 변경하지 않는다.
 
-- 기준 운영 커밋: `{{BASELINE_SHA}}`
-- slug별 작업 브랜치: `{{WORKTREE_BRANCH}}`
-- slug별 격리 작업공간: `{{WORKSPACE}}`
-- 임시 개발 검증 포트: `{{DEV_PORT}}`
-- 임시 개발 검증 기준 URL: `{{DEV_URL}}`
+- 기준 운영 커밋: `4b5d8a65f9eb36161ca4540ca9762c367444bed1`
+- slug별 작업 브랜치: `pipeline/mens-coat-fabric-selection-guide`
+- slug별 격리 작업공간: `/Users/jarvis/.hermes/workspace/magma-content-site-runs/mens-coat-fabric-selection-guide`
+- 임시 개발 검증 포트: `3253`
+- 임시 개발 검증 기준 URL: `http://127.0.0.1:3253`
 
-`{{SLUG}}`는 `^[a-z0-9]+(-[a-z0-9]+)*$` 형식을 사용한다. 제목, 본문, 산출물 경로, 이미지 경로, 개발 상태 기록과 운영 발행 경로는 아래 카드 정의에서 자동으로 `{{SLUG}}`를 사용한다. 임의의 대체 slug나 중복 회피용 slug를 만들지 않는다.
+`mens-coat-fabric-selection-guide`는 `^[a-z0-9]+(-[a-z0-9]+)*$` 형식을 사용한다. 제목, 본문, 산출물 경로, 이미지 경로, 개발 상태 기록과 운영 발행 경로는 아래 카드 정의에서 자동으로 `mens-coat-fabric-selection-guide`를 사용한다. 임의의 대체 slug나 중복 회피용 slug를 만들지 않는다.
 
 ## 등록 순서와 연결
 
@@ -31,9 +31,9 @@
 | 6 | 개발 검증 | noah | 최종 원고 승인 | 없음 | todo | Slack Home |
 | 7 | 운영 발행 | noah | 개발 검증 | external-account-write-safety, deploy | todo | Slack Home |
 
-- 작업공간: `{{WORKSPACE}}` — slug별로 최신 `origin/main`에서 생성된 격리 Git worktree다.
-- 기준 운영 커밋: `{{BASELINE_SHA}}` — 기획 시작·개발 검증·운영 발행 전후에 비교 기준으로 기록한다.
-- 개발 검증 URL: `{{DEV_URL}}` — 3000은 운영 미러이므로 개발 POST·개발 발행 대상으로 사용하지 않는다.
+- 작업공간: `/Users/jarvis/.hermes/workspace/magma-content-site-runs/mens-coat-fabric-selection-guide` — slug별로 최신 `origin/main`에서 생성된 격리 Git worktree다.
+- 기준 운영 커밋: `4b5d8a65f9eb36161ca4540ca9762c367444bed1` — 기획 시작·개발 검증·운영 발행 전후에 비교 기준으로 기록한다.
+- 개발 검증 URL: `http://127.0.0.1:3253` — 3000은 운영 미러이므로 개발 POST·개발 발행 대상으로 사용하지 않는다.
 - 작업공간 종류: `dir`
 - 우선순위: `0`
 - 첫 기획 카드만 사용자 시작 결정 전까지 scheduled로 둔다.
@@ -52,7 +52,7 @@
 ### 메타데이터
 
 - 카드 키: `기획`
-- 제목: `기획 — {{SLUG}} 콘텐츠 브리프 수립`
+- 제목: `기획 — mens-coat-fabric-selection-guide 콘텐츠 브리프 수립`
 - 담당: `ethan`
 - 부모: 없음
 - 전문 스킬: 없음
@@ -68,13 +68,13 @@ MAGMA 콘텐츠 기획자로서 블로그 글의 독자, 목적, 핵심 메시�
 작업 시작과 동시에 `~/.hermes/company/README.md`를 가장 먼저 읽는다. 이어서 회사 지식베이스의 타깃·브랜드 방향·디자인·보이스 관련 정본을 확인한다. 최소 검토 문서는 `00-회사개요.md`, `04-디자인시스템.md`, `05-네이밍-브랜드보이스.md`, `20-런칭-전략-요약.md`다. 확정되지 않은 내용은 확정된 브랜드 기준처럼 사용하지 않는다.
 
 [작업]
-주제는 `{{TOPIC}}`, slug는 `{{SLUG}}`로 고정한다. 3040 남성 독자가 이 주제에서 겪는 구체적인 고민을 정의하고 글이 제공할 실용적 효용을 한 문장으로 정리한다. 글의 핵심 구성 5개가 서로 겹치지 않도록 선정 기준과 각 방향을 제안한다. 도입부, 핵심 섹션 1~5, 마무리로 이어지는 목차와 각 섹션에서 반드시 답해야 할 질문을 작성한다. Oliver가 검증해야 할 조사 질문과 Mia가 시각화해야 할 장면을 구분한다.
+주제는 `3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준`, slug는 `mens-coat-fabric-selection-guide`로 고정한다. 3040 남성 독자가 이 주제에서 겪는 구체적인 고민을 정의하고 글이 제공할 실용적 효용을 한 문장으로 정리한다. 글의 핵심 구성 5개가 서로 겹치지 않도록 선정 기준과 각 방향을 제안한다. 도입부, 핵심 섹션 1~5, 마무리로 이어지는 목차와 각 섹션에서 반드시 답해야 할 질문을 작성한다. Oliver가 검증해야 할 조사 질문과 Mia가 시각화해야 할 장면을 구분한다.
 
 [제약]
 제품 출시, 소재 성능, 시장 수치 등 확인되지 않은 내용을 사실로 단정하지 않는다. 유행어, 과장 표현, 억지로 젊어 보이게 하는 접근을 피한다. 주제와 slug를 임의로 변경하지 않는다. 근거 문서는 읽기 전용으로 다루며 원본 산출물은 지정된 콘텐츠 파이프라인 경로에 둔다.
 
 [출력]
-`content-pipeline/briefs/{{SLUG}}-brief.md`
+`content-pipeline/briefs/mens-coat-fabric-selection-guide-brief.md`
 
 문서에는 독자 정의, 콘텐츠 목적, 핵심 메시지, 선정 기준, 핵심 방향 5개, 목차, 조사 질문, 비주얼 요구사항, 단계별 인계 조건을 포함한다.
 
@@ -88,7 +88,7 @@ MAGMA 콘텐츠 기획자로서 블로그 글의 독자, 목적, 핵심 메시�
 ### 메타데이터
 
 - 카드 키: `리서치`
-- 제목: `리서치 — {{TOPIC}} 근거 조사`
+- 제목: `리서치 — 3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준 근거 조사`
 - 담당: `oliver`
 - 부모: `기획`
 - 전문 스킬: `deep-research`
@@ -98,10 +98,10 @@ MAGMA 콘텐츠 기획자로서 블로그 글의 독자, 목적, 핵심 메시�
 ### 카드 본문
 
 [역할]
-MAGMA 리서처로서 기획 브리프의 조사 질문을 검증하고 `{{TOPIC}}`을 뒷받침할 신뢰 가능한 자료를 수집한다. 집필자가 사실과 편집적 해석, 스타일 제안을 구분해 사용할 수 있도록 근거를 구조화한다.
+MAGMA 리서처로서 기획 브리프의 조사 질문을 검증하고 `3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준`을 뒷받침할 신뢰 가능한 자료를 수집한다. 집필자가 사실과 편집적 해석, 스타일 제안을 구분해 사용할 수 있도록 근거를 구조화한다.
 
 [근거]
-`content-pipeline/briefs/{{SLUG}}-brief.md`를 기준으로 조사한다. 최신성, 출처의 전문성, 원문 접근 가능성을 기준으로 공식 자료, 패션 산업 매체, 신뢰할 수 있는 편집 매체와 브랜드 자료를 우선한다. 과거 자료를 사용할 때는 현재 글에 적용할 수 있는 이유를 별도로 설명한다.
+`content-pipeline/briefs/mens-coat-fabric-selection-guide-brief.md`를 기준으로 조사한다. 최신성, 출처의 전문성, 원문 접근 가능성을 기준으로 공식 자료, 패션 산업 매체, 신뢰할 수 있는 편집 매체와 브랜드 자료를 우선한다. 과거 자료를 사용할 때는 현재 글에 적용할 수 있는 이유를 별도로 설명한다.
 
 [작업]
 브리프의 핵심 구성 5개를 각각 검증하고, 더 타당한 대안이 있으면 교체 제안과 이유를 적는다. 모든 사실 주장과 트렌드 판단에 원문 출처 URL을 붙인다. 각 근거를 `주장 / 핵심 인용 또는 요약 / 출처명 / URL / 게시일 또는 확인일 / 근거 강도` 형식으로 정리한다. 스타일링 제안과 검증 가능한 사실을 분리한다. 주제에 따라 필요한 실루엣, 소재, 색상, 레이어링, 신발, 액세서리, 사용 장면과 주의점을 조사한다.
@@ -110,7 +110,7 @@ MAGMA 리서처로서 기획 브리프의 조사 질문을 검증하고 `{{TOPIC
 URL이 없는 근거는 채택하지 않는다. 출처가 불명확하거나 단일 사례만으로 일반화하기 어려운 내용은 반드시 `근거 부족`이라고 표시한다. 검색 결과 제목이나 AI 요약만을 근거로 사용하지 말고 원문을 확인한다. 수치, 소재 기능, 기후 적합성, 트렌드의 유행 정도를 임의로 만들지 않는다. 협찬성 콘텐츠는 이해관계를 표시한다.
 
 [출력]
-`content-pipeline/research/{{SLUG}}-research.md`
+`content-pipeline/research/mens-coat-fabric-selection-guide-research.md`
 
 문서에는 핵심 결론, 구성별 근거표 5개, 공통 스타일링 근거, 반대 근거 또는 주의점, `근거 부족` 목록, Noah가 인용 가능한 문장, 전체 출처 URL 목록을 포함한다.
 
@@ -124,7 +124,7 @@ URL이 없는 근거는 채택하지 않는다. 출처가 불명확하거나 단
 ### 메타데이터
 
 - 카드 키: `집필`
-- 제목: `집필 — {{SLUG}} 블로그 초안 작성 및 윤문`
+- 제목: `집필 — mens-coat-fabric-selection-guide 블로그 초안 작성 및 윤문`
 - 담당: `noah`
 - 부모: `리서치`
 - 전문 스킬: `humanize-korean`
@@ -139,20 +139,20 @@ MAGMA 카피라이터로서 기획 브리프와 Oliver의 검증 자료를 바�
 [근거]
 다음 문서를 함께 사용한다.
 
-- `content-pipeline/briefs/{{SLUG}}-brief.md`
-- `content-pipeline/research/{{SLUG}}-research.md`
+- `content-pipeline/briefs/mens-coat-fabric-selection-guide-brief.md`
+- `content-pipeline/research/mens-coat-fabric-selection-guide-research.md`
 - `~/.hermes/company/05-네이밍-브랜드보이스.md`
 
 시장·트렌드·소재 관련 사실은 Oliver의 URL 근거가 있는 항목만 사용한다. `근거 부족`으로 표시된 내용은 사실처럼 쓰지 않거나 불확실성을 명시한다.
 
 [작업]
-제목은 `{{TOPIC}}`으로 작성한다. 도입부에서 독자의 상황과 글의 효용을 간결하게 제시한다. 핵심 구성 1~5를 독립된 섹션으로 만들고 각 섹션에 구체적인 조합, 어울리는 장면, 선택 이유, 색상·소재·신발 또는 액세서리 팁을 포함한다. 확인 가능한 사실에는 출처 링크를 자연스럽게 연결한다. 각 섹션에 Mia가 참고할 이미지 장면 설명과 최종 이미지 경로 자리표시자를 넣는다. 초고 완성 후 제목·도입·소제목·문장 리듬·중복·맞춤법·근거 일치 여부를 다시 검토하고 윤문한다.
+제목은 `3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준`으로 작성한다. 도입부에서 독자의 상황과 글의 효용을 간결하게 제시한다. 핵심 구성 1~5를 독립된 섹션으로 만들고 각 섹션에 구체적인 조합, 어울리는 장면, 선택 이유, 색상·소재·신발 또는 액세서리 팁을 포함한다. 확인 가능한 사실에는 출처 링크를 자연스럽게 연결한다. 각 섹션에 Mia가 참고할 이미지 장면 설명과 최종 이미지 경로 자리표시자를 넣는다. 초고 완성 후 제목·도입·소제목·문장 리듬·중복·맞춤법·근거 일치 여부를 다시 검토하고 윤문한다.
 
 [제약]
 브랜드 보이스에 따라 과장, 허세 어휘, 유행어 남용과 느낌표를 사용하지 않는다. `즉시`, `무조건`, `완벽한`, `확실히`, `인생 코디`와 같은 단정적 광고 표현을 피한다. 출처에 없는 수치나 효능을 추가하지 않는다. MAGMA 제품이 실제 출시되었거나 특정 기능을 제공하는 것처럼 쓰지 않는다. 이미지가 제작되기 전에는 존재하지 않는 이미지 파일을 완성본처럼 주장하지 않는다.
 
 [출력]
-`content-pipeline/drafts/{{SLUG}}-draft.md`
+`content-pipeline/drafts/mens-coat-fabric-selection-guide-draft.md`
 
 초안에는 제목, 설명문, 추천 태그, 도입부, 핵심 섹션 5개, 마무리, 출처 링크, 섹션별 이미지 장면 설명, 이미지 자리표시자와 alt 문구 초안을 포함한다.
 
@@ -166,7 +166,7 @@ MAGMA 카피라이터로서 기획 브리프와 Oliver의 검증 자료를 바�
 ### 메타데이터
 
 - 카드 키: `비주얼`
-- 제목: `비주얼 — {{SLUG}} 썸네일·본문 이미지 제작`
+- 제목: `비주얼 — mens-coat-fabric-selection-guide 썸네일·본문 이미지 제작`
 - 담당: `mia`
 - 부모: `집필`
 - 전문 스킬: `bk-design`, `baoyu-article-illustrator`
@@ -179,10 +179,10 @@ MAGMA 카피라이터로서 기획 브리프와 Oliver의 검증 자료를 바�
 MAGMA 디자이너로서 글의 내용과 장면을 시각화한다. 대표 썸네일 1장과 핵심 섹션별 이미지 5장을 하나의 일관된 시리즈로 제작한다.
 
 [근거]
-`content-pipeline/drafts/{{SLUG}}-draft.md`의 구성, 장면 설명과 alt 문구를 기준으로 한다. 작업 전 BlueKiwi에서 `MAGMA Design System`의 현재 활성 버전을 조회하고 컬러, 무드, 이미지 사용 규칙을 확인한다. 회사 정본 `~/.hermes/company/04-디자인시스템.md`도 함께 대조한다.
+`content-pipeline/drafts/mens-coat-fabric-selection-guide-draft.md`의 구성, 장면 설명과 alt 문구를 기준으로 한다. 작업 전 BlueKiwi에서 `MAGMA Design System`의 현재 활성 버전을 조회하고 컬러, 무드, 이미지 사용 규칙을 확인한다. 회사 정본 `~/.hermes/company/04-디자인시스템.md`도 함께 대조한다.
 
 [작업]
-따뜻한 자연 톤, 차분한 깊이, 절제된 강조라는 MAGMA 무드를 유지한다. 썸네일은 `{{TOPIC}}`의 전체 분위기와 3040 남성 타깃을 대표하도록 구성한다. 본문 이미지 5장은 각 섹션의 의류 조합, 색상, 신발, 액세서리와 장소가 구분되도록 제작한다. 6장 전체의 인물 연령대, 색보정, 광원, 여백과 스타일을 일관되게 맞춘다. 이미지별 파일명, 대응 섹션, 장면 설명과 최종 alt 문구를 목록으로 남긴다.
+따뜻한 자연 톤, 차분한 깊이, 절제된 강조라는 MAGMA 무드를 유지한다. 썸네일은 `3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준`의 전체 분위기와 3040 남성 타깃을 대표하도록 구성한다. 본문 이미지 5장은 각 섹션의 의류 조합, 색상, 신발, 액세서리와 장소가 구분되도록 제작한다. 6장 전체의 인물 연령대, 색보정, 광원, 여백과 스타일을 일관되게 맞춘다. 이미지별 파일명, 대응 섹션, 장면 설명과 최종 alt 문구를 목록으로 남긴다.
 
 [제약]
 이미지 안에 제목, 설명, 캡션 등 어떤 글자도 넣지 않는다. MAGMA를 포함한 로고, 워터마크, 가독 가능한 브랜드 마크를 넣지 않는다. 네온, 요란한 그라데이션, 차가운 순백 중심의 화면, 과도하게 젊은 스트리트 연출을 피한다. 글의 구성과 다른 의상이나 장면으로 임의 변경하지 않는다. BlueKiwi 기준과 회사 디자인 정본이 충돌하면 작업을 멈추고 차이를 보고한다.
@@ -190,14 +190,14 @@ MAGMA 디자이너로서 글의 내용과 장면을 시각화한다. 대표 썸�
 [출력]
 다음 6개 파일을 `public/images/`에 저장한다.
 
-- `{{SLUG}}-thumbnail.webp`
-- `{{SLUG}}-look-1.webp`
-- `{{SLUG}}-look-2.webp`
-- `{{SLUG}}-look-3.webp`
-- `{{SLUG}}-look-4.webp`
-- `{{SLUG}}-look-5.webp`
+- `mens-coat-fabric-selection-guide-thumbnail.webp`
+- `mens-coat-fabric-selection-guide-look-1.webp`
+- `mens-coat-fabric-selection-guide-look-2.webp`
+- `mens-coat-fabric-selection-guide-look-3.webp`
+- `mens-coat-fabric-selection-guide-look-4.webp`
+- `mens-coat-fabric-selection-guide-look-5.webp`
 
-이미지 대응표와 alt 문구는 `content-pipeline/drafts/{{SLUG}}-visual-handoff.md`에 정리한다.
+이미지 대응표와 alt 문구는 `content-pipeline/drafts/mens-coat-fabric-selection-guide-visual-handoff.md`에 정리한다.
 
 [합격 기준]
 썸네일 1장과 본문 이미지 5장, 총 6장이 모두 존재해야 한다. 각 본문 이미지가 초안의 해당 섹션과 시각적으로 일치해야 한다. 이미지 안에 글자·로고·워터마크가 없어야 한다. 6장을 함께 보았을 때 동일한 브랜드 시리즈로 인식되어야 한다. BlueKiwi의 MAGMA Design System과 회사 디자인 정본을 모두 충족해야 한다. 6개 WebP가 정상적으로 열리고 파일명과 alt 문구가 일대일로 대응해야 한다. `npm run lint`와 `npm run build`가 통과해야 한다.
@@ -209,7 +209,7 @@ MAGMA 디자이너로서 글의 내용과 장면을 시각화한다. 대표 썸�
 ### 메타데이터
 
 - 카드 키: `최종 원고 승인`
-- 제목: `최종 원고 승인 — {{SLUG}} 원고·이미지 검토`
+- 제목: `최종 원고 승인 — mens-coat-fabric-selection-guide 원고·이미지 검토`
 - 담당: `noah`
 - 부모: `비주얼`
 - 전문 스킬: 없음
@@ -224,33 +224,33 @@ MAGMA 발행 검토 담당자로서 윤문 원고와 이미지 인계 문서를 
 [근거]
 다음 산출물과 프로젝트 계약을 사용한다.
 
-- `content-pipeline/drafts/{{SLUG}}-draft.md`
-- `content-pipeline/drafts/{{SLUG}}-visual-handoff.md`
-- `public/images/{{SLUG}}-thumbnail.webp`
-- `public/images/{{SLUG}}-look-1.webp`부터 `public/images/{{SLUG}}-look-5.webp`까지
+- `content-pipeline/drafts/mens-coat-fabric-selection-guide-draft.md`
+- `content-pipeline/drafts/mens-coat-fabric-selection-guide-visual-handoff.md`
+- `public/images/mens-coat-fabric-selection-guide-thumbnail.webp`
+- `public/images/mens-coat-fabric-selection-guide-look-1.webp`부터 `public/images/mens-coat-fabric-selection-guide-look-5.webp`까지
 - 프로젝트의 frontmatter 규칙
 
-확정된 slug는 `{{SLUG}}`다. slug를 변경하거나 중복 회피용 임의 slug를 만들지 않는다.
+확정된 slug는 `mens-coat-fabric-selection-guide`다. slug를 변경하거나 중복 회피용 임의 slug를 만들지 않는다.
 
 [작업]
-1. 초안과 이미지 인계서를 결합해 `content-pipeline/drafts/{{SLUG}}-final.md`를 작성한다.
-2. 최종 frontmatter에는 다음 필드를 모두 넣고 값이 정확한지 확인한다: `title`, `description`, 실제 달력 날짜의 `date: YYYY-MM-DD`, `slug: "{{SLUG}}"`, 문자열 배열 `tags`, `thumbnail: "/images/{{SLUG}}-thumbnail.webp"`, `draft: true`.
+1. 초안과 이미지 인계서를 결합해 `content-pipeline/drafts/mens-coat-fabric-selection-guide-final.md`를 작성한다.
+2. 최종 frontmatter에는 다음 필드를 모두 넣고 값이 정확한지 확인한다: `title`, `description`, 실제 달력 날짜의 `date: YYYY-MM-DD`, `slug: "mens-coat-fabric-selection-guide"`, 문자열 배열 `tags`, `thumbnail: "/images/mens-coat-fabric-selection-guide-thumbnail.webp"`, `draft: true`.
 3. 본문 Markdown에는 `look-1`부터 `look-5`까지 각 1개, 정확히 5개의 이미지 Markdown과 확정 alt 문구만 삽입한다. 썸네일은 frontmatter와 검토 HTML에만 사용하며 본문 Markdown에 다시 삽입하지 않는다. 본문 이미지·frontmatter 썸네일을 합쳐 정확히 6개의 고유 asset이어야 한다.
 4. 이미지 자리표시자, 이미지 슬롯, TODO, 미확정 alt 문구가 남지 않았는지 검사한다. 하나라도 남으면 승인 요청이나 API 호출 없이 위치를 보고한다.
 5. 최종 원고 해시를 계산한 뒤 다음 무쓰기 preflight를 실행한다. 성공 전에는 검토 HTML을 승인 대상으로 제시하거나 `needs_input` Blocked로 이동하지 않는다.
 
    ```bash
-   SOURCE_SHA256=$(shasum -a 256 content-pipeline/drafts/{{SLUG}}-final.md | cut -d ' ' -f1)
+   SOURCE_SHA256=$(shasum -a 256 content-pipeline/drafts/mens-coat-fabric-selection-guide-final.md | cut -d ' ' -f1)
    node scripts/development-publish-once.mjs \
-     --slug "{{SLUG}}" \
-     --task-id "review-preflight-{{SLUG}}" \
+     --slug "mens-coat-fabric-selection-guide" \
+     --task-id "review-preflight-mens-coat-fabric-selection-guide" \
      --expected-source-sha256 "$SOURCE_SHA256" \
-     --endpoint "{{DEV_URL}}/api/posts" \
+     --endpoint "http://127.0.0.1:3253/api/posts" \
      --preflight-only
    ```
 
    이 명령은 API 요청·원장 생성·파일 쓰기를 하지 않는다. `source_slug_missing`, 날짜 오류, 이미지가 6개 초과·중복·누락된 오류는 이 단계에서 고쳐 새 해시를 만든 뒤에만 승인 요청을 한다.
-6. `content-pipeline/drafts/{{SLUG}}-review.html`을 생성한다. 제목·설명·태그·slug·썸네일·전체 본문과 함께 썸네일 1장 및 본문 이미지 5장, 총 6장이 실제로 보이도록 한다.
+6. `content-pipeline/drafts/mens-coat-fabric-selection-guide-review.html`을 생성한다. 제목·설명·태그·slug·썸네일·전체 본문과 함께 썸네일 1장 및 본문 이미지 5장, 총 6장이 실제로 보이도록 한다.
 7. 최종 원고와 검토 HTML의 경로·해시, 게시 예정 정보를 대표에게 제시하고 `needs_input` Blocked로 이동한다. 차단 사유는 `최종 원고 승인 대기 — 개발 API 호출 0회`로 기록한다.
 8. Blocked 전 카드 댓글에 다음 안내와 복사 문구를 모두 남긴다. 대표가 검토 HTML과 최종 원고를 확인한 뒤 자연어 승인문을 새 댓글로 그대로 복사할 수 있어야 한다. 실제 SHA-256 값은 안내 댓글에서 각 경로 옆에 함께 제시한다.
 
@@ -258,8 +258,8 @@ MAGMA 발행 검토 담당자로서 윤문 원고와 이미지 인계 문서를 
    카드에 필요한 최종 원고 승인 문구를 구체적으로 남겼습니다.
 
    확인할 검토 파일:
-   - content-pipeline/drafts/{{SLUG}}-review.html — SHA-256: <실제 해시>
-   - content-pipeline/drafts/{{SLUG}}-final.md — SHA-256: <실제 해시>
+   - content-pipeline/drafts/mens-coat-fabric-selection-guide-review.html — SHA-256: <실제 해시>
+   - content-pipeline/drafts/mens-coat-fabric-selection-guide-final.md — SHA-256: <실제 해시>
 
    확인 범위:
    - 최종 문안
@@ -283,8 +283,8 @@ MAGMA 발행 검토 담당자로서 윤문 원고와 이미지 인계 문서를 
 이 카드의 개발 POST, 운영 POST, Git push와 deploy 호출 횟수는 모두 0회다. 사람 승인 대기는 `needs_input` Blocked를 정확히 한 번만 사용한다. `review` Kanban 상태를 승인 대기로 사용하지 않는다. 승인 전후에 API 호출, 임의 slug 변경, 키 출력, 원시 인증 응답 저장을 금지한다.
 
 [출력]
-- `content-pipeline/drafts/{{SLUG}}-final.md`
-- `content-pipeline/drafts/{{SLUG}}-review.html`
+- `content-pipeline/drafts/mens-coat-fabric-selection-guide-final.md`
+- `content-pipeline/drafts/mens-coat-fabric-selection-guide-review.html`
 - 제목·설명·태그·slug·썸네일·`draft: true`를 포함한 게시 예정 정보
 - 썸네일 1장과 본문 이미지 5장의 검증 결과
 - 승인 대상 파일의 SHA-256
@@ -303,7 +303,7 @@ MAGMA 발행 검토 담당자로서 윤문 원고와 이미지 인계 문서를 
 ### 메타데이터
 
 - 카드 키: `개발 검증`
-- 제목: `개발 검증 — {{SLUG}} API 단일 발행`
+- 제목: `개발 검증 — mens-coat-fabric-selection-guide API 단일 발행`
 - 담당: `noah`
 - 부모: `최종 원고 승인`
 - 전문 스킬: 없음
@@ -320,54 +320,54 @@ MAGMA 개발 발행 검증 담당자로서 승인된 최종 원고를 로컬 개
 다음 기록과 프로젝트 계약을 사용한다.
 
 - 부모 카드의 최종 원고 승인 댓글·완료 결과
-- `content-pipeline/drafts/{{SLUG}}-final.md`
-- `content-pipeline/.state/{{SLUG}}-development.json`
+- `content-pipeline/drafts/mens-coat-fabric-selection-guide-final.md`
+- `content-pipeline/.state/mens-coat-fabric-selection-guide-development.json`
 - `scripts/development-publish-once.mjs`
-- `POST {{DEV_URL}}/api/posts` 계약
+- `POST http://127.0.0.1:3253/api/posts` 계약
 
 [작업]
 1. 부모 카드가 완료됐고 대표의 명시적 최종 원고 승인, 승인 파일 경로와 해시가 기록됐는지 확인한다.
 2. `development_send_started`, 이전 개발 호출, 대상 파일 또는 성공 기록이 이미 있으면 POST하지 않고 기존 결과를 읽기 전용으로 조정·확인한다.
-3. `{{WORKSPACE}}`에서 `npm ci`를 수행한 뒤, worker 세션과 분리된 run별 preview lease를 아래 helper로 확보한다. helper는 포트 LISTEN만으로 준비 완료를 선언하지 않고 `{{DEV_URL}}/`와 `{{DEV_URL}}/blog`를 순차 HTTP 200으로 warm-up한다. 출력의 `action`, lease `pid`, `log_path`, `started_at`, 기준 URL을 운영 발행 카드에 인계한다. 3000은 운영 미러이므로 시작·POST·산출물 작성 대상으로 사용하지 않는다.
+3. `/Users/jarvis/.hermes/workspace/magma-content-site-runs/mens-coat-fabric-selection-guide`에서 `npm ci`를 수행한 뒤, worker 세션과 분리된 run별 preview lease를 아래 helper로 확보한다. helper는 포트 LISTEN만으로 준비 완료를 선언하지 않고 `http://127.0.0.1:3253/`와 `http://127.0.0.1:3253/blog`를 순차 HTTP 200으로 warm-up한다. 출력의 `action`, lease `pid`, `log_path`, `started_at`, 기준 URL을 운영 발행 카드에 인계한다. 3000은 운영 미러이므로 시작·POST·산출물 작성 대상으로 사용하지 않는다.
 
    ```bash
    node scripts/development-preview-supervisor.mjs ensure \
-     --slug "{{SLUG}}" \
-     --base-url "{{DEV_URL}}"
+     --slug "mens-coat-fabric-selection-guide" \
+     --base-url "http://127.0.0.1:3253"
    ```
 
    이미 건강한 lease는 재사용한다. lease가 없거나 HTTP readiness를 잃었으면 helper가 같은 worktree·포트에서만 재기동할 수 있다. 이 복구는 API·원장 쓰기 없이 미리보기 프로세스만 다루며 개발 POST를 추가 호출하지 않는다.
-4. 외부 쓰기와 상태 원장 변경 없이 다음 명령을 먼저 실행한다. 이 preflight는 해당 `{{SLUG}}`의 승인 원고 한 개만 읽어 승인 SHA-256, slug, `draft: true`, 이미지 6장과 필수 메타데이터를 확인하고, YAML Date 객체 또는 정확한 날짜 문자열을 `YYYY-MM-DD`로 정규화한 뒤 실제 달력 날짜인지 검증해야 한다.
+4. 외부 쓰기와 상태 원장 변경 없이 다음 명령을 먼저 실행한다. 이 preflight는 해당 `mens-coat-fabric-selection-guide`의 승인 원고 한 개만 읽어 승인 SHA-256, slug, `draft: true`, 이미지 6장과 필수 메타데이터를 확인하고, YAML Date 객체 또는 정확한 날짜 문자열을 `YYYY-MM-DD`로 정규화한 뒤 실제 달력 날짜인지 검증해야 한다.
 
    ```bash
    node scripts/development-publish-once.mjs \
-     --slug "{{SLUG}}" \
+     --slug "mens-coat-fabric-selection-guide" \
      --task-id "<현재 카드 ID>" \
      --expected-source-sha256 "<부모 승인 댓글의 실제 SHA-256>" \
-     --endpoint "{{DEV_URL}}/api/posts" \
+     --endpoint "http://127.0.0.1:3253/api/posts" \
      --preflight-only
    ```
 
-5. preflight가 통과한 경우에만 아래 helper를 한 번 실행한다. helper는 모든 로컬 검증을 마친 동일 payload를 사용하고, 첫 개발 POST 직전에 `content-pipeline/.state/{{SLUG}}-development.json`에 `development_send_started: true`와 `requests_started: 1`을 원자적으로 기록한 뒤 `POST {{DEV_URL}}/api/posts`를 정확히 1회 호출한다. 직접 curl·fetch 또는 임시 발행 스크립트를 만들지 않는다.
+5. preflight가 통과한 경우에만 아래 helper를 한 번 실행한다. helper는 모든 로컬 검증을 마친 동일 payload를 사용하고, 첫 개발 POST 직전에 `content-pipeline/.state/mens-coat-fabric-selection-guide-development.json`에 `development_send_started: true`와 `requests_started: 1`을 원자적으로 기록한 뒤 `POST http://127.0.0.1:3253/api/posts`를 정확히 1회 호출한다. 직접 curl·fetch 또는 임시 발행 스크립트를 만들지 않는다.
 
    ```bash
    node --env-file=.env.local scripts/development-publish-once.mjs \
-     --slug "{{SLUG}}" \
+     --slug "mens-coat-fabric-selection-guide" \
      --task-id "<현재 카드 ID>" \
      --expected-source-sha256 "<부모 승인 댓글의 실제 SHA-256>" \
-     --endpoint "{{DEV_URL}}/api/posts"
+     --endpoint "http://127.0.0.1:3253/api/posts"
    ```
 
-6. 페이로드에는 `collection: "posts"`, `slug: "{{SLUG}}"`, 확정된 `title`, `description`, 정규화·검증된 `date: "YYYY-MM-DD"`, `content`, `tags`, `thumbnail`, `draft: false`만 포함한다. 개발 서버에서 렌더링된 결과를 보고 운영 발행 여부를 판단할 수 있도록 이 단계에서만 로컬 공개 상태로 만든다.
+6. 페이로드에는 `collection: "posts"`, `slug: "mens-coat-fabric-selection-guide"`, 확정된 `title`, `description`, 정규화·검증된 `date: "YYYY-MM-DD"`, `content`, `tags`, `thumbnail`, `draft: false`만 포함한다. 개발 서버에서 렌더링된 결과를 보고 운영 발행 여부를 판단할 수 있도록 이 단계에서만 로컬 공개 상태로 만든다.
 7. `.env.local`의 `PUBLISH_API_KEY`는 환경에서만 읽고 값, Authorization 헤더, 원시 인증 응답 또는 비밀값이 포함된 예외를 출력·기록하지 않는다.
 8. 기존 상태 원장에 `development_send_started: true`, `requests_started >= 1` 또는 기존 HTTP 결과가 있으면 일반 unblock이나 재시도 승인 댓글이 있어도 helper가 POST 전에 거부해야 한다. 성공·실패·타임아웃·응답 불명확 여부와 관계없이 개발 POST를 추가 호출하지 않는다.
-9. 성공하면 응답과 생성 Markdown을 읽기 전용으로 검증한다. 상세 `{{DEV_URL}}/blog/{{SLUG}}`에서 HTTP 200·승인된 제목·본문·본문 이미지 5장을 확인하고, `{{DEV_URL}}/blog` 목록에서 해당 글 링크와 승인된 썸네일 1장을 확인한다. 썸네일 1장과 본문 이미지 5장, 전체 이미지 파일 6장이 모두 HTTP 200인지 확인한 뒤 호출 횟수 1회, 개발 미리보기 URL, 결과와 해시를 기록한다.
+9. 성공하면 응답과 생성 Markdown을 읽기 전용으로 검증한다. 상세 `http://127.0.0.1:3253/blog/mens-coat-fabric-selection-guide`에서 HTTP 200·승인된 제목·본문·본문 이미지 5장을 확인하고, `http://127.0.0.1:3253/blog` 목록에서 해당 글 링크와 승인된 썸네일 1장을 확인한다. 썸네일 1장과 본문 이미지 5장, 전체 이미지 파일 6장이 모두 HTTP 200인지 확인한 뒤 호출 횟수 1회, 개발 미리보기 URL, 결과와 해시를 기록한다.
 10. Google SEO Starter Guide의 기술 기본 요건을 개발 미리보기에서 검토한다. 다음 명령으로 글 상세·sitemap·robots를 읽기 전용으로 검사하고, 결과 JSON을 카드에 남긴다. 이 검사는 색인 또는 검색 순위를 보장하는 검사가 아니다.
 
    ```bash
    node scripts/verify-development-seo.mjs \
-     --base-url "{{DEV_URL}}" \
-     --slug "{{SLUG}}" \
+     --base-url "http://127.0.0.1:3253" \
+     --slug "mens-coat-fabric-selection-guide" \
      --public-origin "https://www.eurachoachoa.com"
    ```
 
@@ -379,13 +379,13 @@ MAGMA 개발 발행 검증 담당자로서 승인된 최종 원고를 로컬 개
 개발 POST 시작 횟수는 최대 1회다. `scripts/development-publish-once.mjs`의 무쓰기 preflight와 단일 실행 경로만 사용하며 직접 curl·fetch와 임시 발행 스크립트를 금지한다. 승인 확인용 시험 POST, 초안 POST, 임의 slug 변경과 재시도를 금지한다. 성공 후 `needs_input` Blocked를 만들지 않고 `done`으로 완료한다. 오류 Blocked를 해제하더라도 기존 결과를 읽기 전용으로 확인할 뿐 개발 POST를 다시 호출하지 않는다. 개발 검증 성공만으로 임시 서버를 종료하지 않으며, 운영 발행 카드가 재검증하고 운영 승인 대기를 마칠 때까지 같은 포트·작업공간에서 유지한다. 운영 API, Git push와 deploy 호출 횟수는 0회다. 이 카드에서 발견한 코드 결함·계약 불일치·응답 불명확 상태는 현재 카드의 `capability` Blocked와 정제된 증거로만 보고한다. 복구 카드·하위 카드·의존성·assignee 변경을 새로 만들거나, 새 task ID/원장을 사용한 재시도 경로를 만들지 않는다. 별도 복구 작업은 대표의 명시적 범위 승인 후 오케스트레이터만 생성할 수 있다.
 
 [출력]
-- `content-pipeline/.state/{{SLUG}}-development.json`
-- slug `{{SLUG}}` 한 건의 date 정규화 결과와 무쓰기 preflight 통과 기록
+- `content-pipeline/.state/mens-coat-fabric-selection-guide-development.json`
+- slug `mens-coat-fabric-selection-guide` 한 건의 date 정규화 결과와 무쓰기 preflight 통과 기록
 - 개발 API HTTP 응답 코드 또는 정제된 오류 분류
 - 응답에 존재하는 `collection`, `slug`, `url`, `mode`, `commitUrl`
 - 개발 API 시작 횟수 1회 이하와 자동 재시도 0회 확인
 - 승인 원고와 `draft: false` 생성 Markdown의 일치 검증
-- 상세 `{{DEV_URL}}/blog/{{SLUG}}`의 HTTP 200·승인된 제목·본문·본문 이미지 5장, `{{DEV_URL}}/blog` 목록의 해당 글 링크·승인된 썸네일 1장, 전체 이미지 파일 6장의 HTTP 200 확인
+- 상세 `http://127.0.0.1:3253/blog/mens-coat-fabric-selection-guide`의 HTTP 200·승인된 제목·본문·본문 이미지 5장, `http://127.0.0.1:3253/blog` 목록의 해당 글 링크·승인된 썸네일 1장, 전체 이미지 파일 6장의 HTTP 200 확인
 - 운영 발행 카드가 재검증할 수 있는 run별 preview lease의 `action`·PID·시작 명령·로그 경로·기준 URL 인계
 - 성공 시 카드 `done` 및 후속 운영 발행 카드 인계 메타데이터
 - 오류·불명확 결과 시 `capability` Blocked와 수동 조정 필요 기록
@@ -400,7 +400,7 @@ MAGMA 개발 발행 검증 담당자로서 승인된 최종 원고를 로컬 개
 ### 메타데이터
 
 - 카드 키: `운영 발행`
-- 제목: `운영 발행 — {{SLUG}} 별도 승인 및 deploy`
+- 제목: `운영 발행 — mens-coat-fabric-selection-guide 별도 승인 및 deploy`
 - 담당: `noah`
 - 부모: `개발 검증`
 - 전문 스킬: `external-account-write-safety`, `deploy`
@@ -417,20 +417,20 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
 다음 기록과 안전 절차를 사용한다.
 
 - 부모 카드의 개발 API 호출 횟수·성공 검증 메타데이터
-- `content-pipeline/drafts/{{SLUG}}-final.md`
-- `content-pipeline/.state/{{SLUG}}-development.json`
-- `public/images/{{SLUG}}-thumbnail.webp`
-- `public/images/{{SLUG}}-look-1.webp`부터 `public/images/{{SLUG}}-look-5.webp`까지
+- `content-pipeline/drafts/mens-coat-fabric-selection-guide-final.md`
+- `content-pipeline/.state/mens-coat-fabric-selection-guide-development.json`
+- `public/images/mens-coat-fabric-selection-guide-thumbnail.webp`
+- `public/images/mens-coat-fabric-selection-guide-look-1.webp`부터 `public/images/mens-coat-fabric-selection-guide-look-5.webp`까지
 - 운영 쓰기 안전 절차: `external-account-write-safety`
 - 운영 배포 절차: `deploy`
 
 [작업]
-1. 개발 API가 `draft: false`로 정확히 1회 시작됐고 성공 결과가 읽기 전용으로 검증됐는지 확인한다. 운영 쓰기 전에 아래 helper로 run별 preview lease를 확보한다. helper는 기존 건강한 lease를 재사용하고, lease가 없거나 HTTP readiness를 잃었을 때만 같은 worktree·포트에서 재기동한 뒤 `/`·`/blog` HTTP 200을 순차 확인한다. 이 조치는 개발 API POST·Git push·운영 POST를 호출하지 않는다. 이어서 상세 `{{DEV_URL}}/blog/{{SLUG}}`가 HTTP 200이고 승인된 제목·본문·본문 이미지 5장을 표시하며, `{{DEV_URL}}/blog` 목록이 해당 글 링크·승인된 썸네일 1장을 표시하고, 전체 이미지 파일 6장이 모두 HTTP 200이어야 한다. 오류·불명확 상태나 어느 미리보기 표면이라도 미노출이면 운영 쓰기 없이 Blocked로 보고한다.
+1. 개발 API가 `draft: false`로 정확히 1회 시작됐고 성공 결과가 읽기 전용으로 검증됐는지 확인한다. 운영 쓰기 전에 아래 helper로 run별 preview lease를 확보한다. helper는 기존 건강한 lease를 재사용하고, lease가 없거나 HTTP readiness를 잃었을 때만 같은 worktree·포트에서 재기동한 뒤 `/`·`/blog` HTTP 200을 순차 확인한다. 이 조치는 개발 API POST·Git push·운영 POST를 호출하지 않는다. 이어서 상세 `http://127.0.0.1:3253/blog/mens-coat-fabric-selection-guide`가 HTTP 200이고 승인된 제목·본문·본문 이미지 5장을 표시하며, `http://127.0.0.1:3253/blog` 목록이 해당 글 링크·승인된 썸네일 1장을 표시하고, 전체 이미지 파일 6장이 모두 HTTP 200이어야 한다. 오류·불명확 상태나 어느 미리보기 표면이라도 미노출이면 운영 쓰기 없이 Blocked로 보고한다.
 
    ```bash
    node scripts/development-preview-supervisor.mjs ensure \
-     --slug "{{SLUG}}" \
-     --base-url "{{DEV_URL}}"
+     --slug "mens-coat-fabric-selection-guide" \
+     --base-url "http://127.0.0.1:3253"
    ```
 2. `external-account-write-safety`와 `deploy`가 실행 담당 프로필에서 로드되는지 확인한다. 하나라도 없으면 운영 쓰기 없이 `capability` Blocked로 보고한다.
 3. 첫 실행에서는 GitHub 저장소·브랜치, 운영 호스트 `https://magma-content-site-neon.vercel.app`, 운영 `POST /api/posts`, 기존 동일 slug, 이미지 반영 방식과 격리 작업공간을 읽기 전용으로 감사한다.
@@ -441,14 +441,14 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
    ```text
    카드에 필요한 승인 문구를 구체적으로 남겼습니다.
 
-   운영 승인 전 확인할 개발 미리보기: {{DEV_URL}}/blog/{{SLUG}}
+   운영 승인 전 확인할 개발 미리보기: http://127.0.0.1:3253/blog/mens-coat-fabric-selection-guide
 
    1. 운영 저장소·호스트가 의도한 대상이라는 소유 확인
-   2. 개발 미리보기에서 확인한 {{SLUG}} payload와 Markdown 1개·WebP 6개 범위 승인
+   2. 개발 미리보기에서 확인한 mens-coat-fabric-selection-guide payload와 Markdown 1개·WebP 6개 범위 승인
    3. 이미지 push 최대 1회, 운영 POST 최대 1회, 자동 재시도 0회 실행 승인
 
    복사해 새 대표 댓글로 남길 문구:
-   /deploy 승인 — 1) `umgchatgptplus27/magma-content-site`의 `main`과 `magma-content-site-neon.vercel.app`이 제가 의도한 운영 대상임을 확인합니다. 2) 개발 미리보기 `{{DEV_URL}}/blog/{{SLUG}}`에서 확인한 `{{SLUG}}` public payload와 Markdown 1개·WebP 6개, 총 7개 manifest를 승인합니다. 3) 이미지 push 최대 1회와 운영 POST 최대 1회, 자동 재시도 0회 조건으로 실행을 승인합니다.
+   /deploy 승인 — 1) `umgchatgptplus27/magma-content-site`의 `main`과 `magma-content-site-neon.vercel.app`이 제가 의도한 운영 대상임을 확인합니다. 2) 개발 미리보기 `http://127.0.0.1:3253/blog/mens-coat-fabric-selection-guide`에서 확인한 `mens-coat-fabric-selection-guide` public payload와 Markdown 1개·WebP 6개, 총 7개 manifest를 승인합니다. 3) 이미지 push 최대 1회와 운영 POST 최대 1회, 자동 재시도 0회 조건으로 실행을 승인합니다.
    ```
 
 7. `/deploy 승인` 한 댓글은 위 세 항목이 `1)`, `2)`, `3)`으로 각각 명시된 경우에만 유효하다. 일반 `/deploy`, “운영 서버 배포 부탁해” 또는 강제 스킬 지정만으로 승인하지 않는다.
@@ -456,14 +456,14 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
 9. `deploy`의 `production_write_once.py`만 사용한다. 이 helper가 저장소·브랜치 전역 `fcntl.flock`인 `~/.hermes/locks/magma-content-site-main-production.lock`을 획득한 뒤 최신 `origin/main`에서 승인된 slug의 평면 경로 WebP 6개만 커밋·push하고 운영 POST 응답 확인까지 하나의 외부 쓰기 구간으로 직렬화해야 한다. 직접 `git push`, `ledger.py mark-image-push-started`, `ledger.py mark-image-push-verified`, `post_once.py`를 호출하지 않는다.
 10. lock 획득 후 승인 intent·payload·7개 파일 해시와 최신 remote SHA를 다시 확인한다. lock 대기·timeout·remote 선점은 이미지 push 및 운영 POST 시작 횟수를 소비하지 않아야 한다. 현재 작업 폴더를 pull, rebase, reset, clean 또는 stash하지 않으며 Vercel CLI를 사용하지 않는다.
 11. helper는 이미지 push와 운영 POST를 각각 시작 전에 원장에 기록하고 단일 시도로 수행한다. 운영 API `https://magma-content-site-neon.vercel.app/api/posts`는 승인된 최종 원고로 정확히 1회 호출해 `draft: false`로 공개한다. HTTP 오류, 409, 타임아웃, 연결 끊김, 리다이렉트 이상, 응답 파싱 실패 또는 결과 불명확 상황에서 재시도하지 않는다. Vercel 공개 polling, lint, build는 전역 lock 해제 후 수행한다.
-12. 성공 후 추가 쓰기 없이 GitHub 커밋 범위, 대표 공개 주소 `https://www.eurachoachoa.com/blog/{{SLUG}}`, sitemap, 원격 Markdown과 이미지 6장의 HTTP 상태·해시를 검증한다. 이어서 `npm run lint`와 `npm run build`를 실행한다.
+12. 성공 후 추가 쓰기 없이 GitHub 커밋 범위, 대표 공개 주소 `https://www.eurachoachoa.com/blog/mens-coat-fabric-selection-guide`, sitemap, 원격 Markdown과 이미지 6장의 HTTP 상태·해시를 검증한다. 이어서 `npm run lint`와 `npm run build`를 실행한다.
 13. 운영 검증이 통과한 경우에만 `/Users/jarvis/.hermes/workspace/magma-content-site-production-mirror`에서 `git fetch origin main`과 `git merge --ff-only origin/main`으로 3000 미러를 fast-forward하고, mirror HEAD가 최신 `origin/main`과 같은지 확인한다. WIP와 run worktree는 reset·clean·rebase하지 않는다.
 14. 성공하면 공개 검증·3000 미러 fast-forward까지 마친 뒤 아래 helper로 run별 lease를 종료하고 포트가 더 이상 listen하지 않는지 확인한 다음 카드를 완료한다. 운영 실행 전에 재개 전 별도 조정이 필요한 `capability` Blocked로 끝나면 그 시점에도 같은 helper로 종료·포트 해제하고, `needs_input` 승인 대기에서는 종료하지 않는다. 오류나 불명확 결과면 비밀값을 제거해 보고하고 자동 재시도 없는 `capability` Blocked로 전환한다.
 
    ```bash
    node scripts/development-preview-supervisor.mjs stop \
-     --slug "{{SLUG}}" \
-     --base-url "{{DEV_URL}}"
+     --slug "mens-coat-fabric-selection-guide" \
+     --base-url "http://127.0.0.1:3253"
    ```
 
 [제약]
@@ -471,7 +471,7 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
 
 [출력]
 - 읽기 전용 운영 대상 감사 결과
-- 운영 승인 전 run별 preview lease의 action·PID·로그 경로와 `{{DEV_URL}}/blog/{{SLUG}}` HTTP 200 및 콘텐츠·이미지 검증 결과
+- 운영 승인 전 run별 preview lease의 action·PID·로그 경로와 `http://127.0.0.1:3253/blog/mens-coat-fabric-selection-guide` HTTP 200 및 콘텐츠·이미지 검증 결과
 - 승인 대상 Markdown 1개·WebP 6개 manifest와 해시
 - `운영 대상·범위·단일 실행 승인 대기 — 운영 쓰기 0회` Blocked 기록
 - “카드에 필요한 승인 문구를 구체적으로 남겼습니다.” 안내와 세 승인 항목
@@ -492,12 +492,12 @@ MAGMA 운영 발행 담당자로서 개발 검증 결과를 인계받아 운영 
 
 ## 등록 후 검증 체크리스트
 
-- 입력 변수 `{{TOPIC}}`, `{{SLUG}}`와 생성기가 고정하는 기준 SHA·branch·worktree·port·URL 변수가 모두 해소됐는지 확인한다.
+- 입력 변수 `3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준`, `mens-coat-fabric-selection-guide`와 생성기가 고정하는 기준 SHA·branch·worktree·port·URL 변수가 모두 해소됐는지 확인한다.
 - 카드가 `기획 → 리서치 → 집필 → 비주얼 → 최종 원고 승인 → 개발 검증 → 운영 발행` 순서로 연결되었는지 확인한다.
 - 담당이 `ethan → oliver → noah → mia → noah → noah → noah`인지 확인한다.
 - 전문 스킬이 표와 일치하고 각 담당 프로필에서 로드 가능한지 확인한다.
 - 모든 본문이 `[역할] → [근거] → [작업] → [제약] → [출력] → [합격 기준]` 순서를 유지하는지 확인한다.
-- 모든 콘텐츠·상태·이미지 경로가 `{{SLUG}}`에서 파생되는지 확인한다.
+- 모든 콘텐츠·상태·이미지 경로가 `mens-coat-fabric-selection-guide`에서 파생되는지 확인한다.
 - 첫 기획 카드만 scheduled이고 나머지 여섯 카드는 todo인지 확인한다.
 - 카드 7장 모두 Ethan 프로필의 Slack Home 채널에 구독되고, 일곱 카드의 `thread_id`가 동일한 세트 전용 값이며 다른 slug 세트의 `thread_id`와 다른지 확인한다. Slack에는 시작·상태 변경·차단·재개·완료·오류가 기록되고 heartbeat·spawn 내부 로그는 제외되는지 확인한다.
 - 최종 원고 승인 카드가 API 쓰기 없이 `needs_input` Blocked를 한 번만 사용하고, 댓글에 검토 파일·해시·확인 범위와 자연어 승인 복사 문구를 남기는지 확인한다.
