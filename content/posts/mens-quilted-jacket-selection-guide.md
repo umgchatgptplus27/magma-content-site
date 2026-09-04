@@ -64,7 +64,7 @@ draft: false
 
 **색상·액세서리 팁:** 이 단계에서는 시계, 스카프, 장갑을 더하기보다 손목과 어깨 솔기가 보이게 둡니다. 소매 길이와 앞여밈을 가리지 않아야 확인이 쉬워집니다.
 
-![퀼티드 재킷의 어깨와 기장, 앉은 모습을 확인하는 남성](/images/mens-quilted-jacket-selection-guide-look-2.webp)
+![퀼티드 재킷의 어깨와 기장, 앉은 모습을 확인하는 남성](/images/mens-quilted-jacket-selection-guide-look-2-replacement-20260904-v1.webp)
 
 ## 3. 레이어는 이너와 탈의 가능성을 따로 확인한다
 
