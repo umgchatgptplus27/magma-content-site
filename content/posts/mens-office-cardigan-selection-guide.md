@@ -25,7 +25,7 @@ Rutgers의 커리어 안내는 비즈니스 캐주얼과 프로페셔널의 정�
 
 
 
-![겉옷과 무문자 일정 카드를 곁에 두고 출근 전 복장 조건을 확인하는 가디건 차림의 남성](/images/mens-office-cardigan-selection-guide-look-1.webp)
+
 
 ## 2. 셔츠 위 한 겹은 이름보다 목선과 여밈의 균형을 봅니다
 

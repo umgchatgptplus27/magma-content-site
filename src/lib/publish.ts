@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import { randomBytes, timingSafeEqual } from "crypto";
 import { COLLECTIONS, Collection, contentHref } from "@/lib/content";
+import { publicationIssues } from "@/lib/content-quality.mjs";
 
 export class PublishError extends Error {
   constructor(
@@ -34,6 +35,16 @@ export function verifyApiKey(header: string | null): boolean {
 
 export async function publishPost(input: unknown): Promise<PublishResult> {
   const p = validate(input);
+  if (!p.draft) {
+    const issues = publicationIssues(`${p.title}\n${p.description}\n${p.content}`);
+    if (issues.length > 0) {
+      throw new PublishError(422, {
+        error: "공개 콘텐츠에 제작 메타 또는 미완성 이미지 지시가 남아 있습니다. 정비 후 다시 제출하세요.",
+        code: "publication_quality_failed",
+        issues,
+      });
+    }
+  }
   const slug = makeSlug(p.title, p.slug);
   const date = p.date ?? kstToday();
   const md = buildMarkdown({ ...p, date });

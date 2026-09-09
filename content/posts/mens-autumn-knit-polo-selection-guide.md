@@ -129,4 +129,4 @@ The Woolmark Company는 보풀이 팔꿈치·겨드랑이·옆면처럼 마찰�
 - [The Woolmark Company — How do I dry wool?](https://www.woolmark.com/care/how-to-dry-wool/) (확인일: 2026-09-08)
 - [American Cleaning Institute — Laundry Basics](https://www.cleaninginstitute.org/cleaning-tips/clothes/laundry-basics) (확인일: 2026-09-08)
 
-편집 메모: 니트 폴로의 칼라·구조·레이어·관리와 관련한 사실은 Oliver의 원문 조사 범위로 제한했습니다. 특정 소재·칼라·두께·색·핏의 보편적 우열, 실제 MAGMA 제품의 출시·가격·소재·성능·재고·사이즈는 주장하지 않았습니다.
+이 글은 특정 소재·칼라·두께·색·핏의 보편적 우열이나 실제 MAGMA 제품의 출시·가격·소재·성능·재고·사이즈를 보장하지 않습니다.

@@ -62,7 +62,7 @@ thumbnail: "/images/mens-wardrobe-photo-inventory-guide-thumbnail.webp"
 
 브랜드명, 구매가, 구매일, 주문번호, 영수증 전체와 결제 정보는 필수 칸이 아닙니다. 비교에 꼭 필요한 경우에도 공개 공유용 기록과 분리하는 편이 낫습니다. 라벨이 닳았거나 구매 내역이 없으면 추정으로 채우지 말고 `미확인`으로 남겨 두세요. 빈칸은 실패가 아니라 다음 확인의 위치입니다.
 
-![옷 사진마다 무문자 최소 기록 카드가 대응하는 정돈된 기록 보드](/images/mens-wardrobe-photo-inventory-guide-look-3.webp)
+
 
 ## 4. 같은 색보다, 같은 장면을 대신할 수 있는지 봅니다
 

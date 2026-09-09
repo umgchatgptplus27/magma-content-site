@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import JsonLd from "@/components/JsonLd";
 import RelatedPosts from "@/components/RelatedPosts";
@@ -62,7 +63,7 @@ export default async function PostPage(
     <>
       <article className="reading py-20">
         <header className="mb-12">
-          <div className="flex items-center gap-3 text-xs text-ink-muted">
+          <div className="flex flex-wrap items-center gap-3 text-xs text-ink-muted">
             <time dateTime={post.date}>{post.date}</time>
             {post.tags.map((tag, index) => (
               <span key={`${tag}-${index}`} className="text-accent">{tag}</span>
@@ -70,6 +71,9 @@ export default async function PostPage(
           </div>
           <h1 className="mt-3 font-display text-3xl font-bold leading-snug text-primary sm:text-4xl">{post.title}</h1>
           <p className="mt-4 text-lg text-ink-sub">{post.description}</p>
+          <p className="mt-4 text-sm text-ink-muted">
+            MAGMA · <Link href="/about" className="underline underline-offset-4">콘텐츠 제작 방식·출처 원칙</Link>
+          </p>
         </header>
         {post.thumbnail && (
           <div className="relative mb-12 aspect-[16/9] overflow-hidden rounded-card border border-line bg-card">

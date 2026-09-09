@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import BlogTopicNav from "@/components/BlogTopicNav";
-import PostCard from "@/components/PostCard";
+import BlogListing from "@/components/BlogListing";
 import { getAll } from "@/lib/content";
 import { pageMetadata } from "@/lib/seo";
 
@@ -12,23 +11,5 @@ export const metadata: Metadata = pageMetadata({
 
 export default function BlogPage() {
   const posts = getAll("posts");
-  return (
-    <div className="container-page py-20">
-      <p className="eyebrow mb-2">저널</p>
-      <h1 className="font-display text-3xl font-bold text-primary sm:text-4xl">블로그</h1>
-      <p className="mt-4 max-w-2xl leading-relaxed text-ink-sub">
-        관리, 핏, 출근, 상황별 옷차림처럼 지금 필요한 기준부터 골라 읽어 보세요.
-      </p>
-      <BlogTopicNav />
-      {posts.length === 0 ? (
-        <p className="text-sm text-ink-muted">아직 발행된 글이 없습니다.</p>
-      ) : (
-        <div className="grid gap-8 sm:grid-cols-2">
-          {posts.map((p) => (
-            <PostCard key={p.slug} post={p} />
-          ))}
-        </div>
-      )}
-    </div>
-  );
+  return <BlogListing posts={posts} />;
 }

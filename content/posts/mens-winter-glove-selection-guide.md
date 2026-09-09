@@ -47,7 +47,7 @@ thumbnail: "/images/mens-winter-glove-selection-guide-thumbnail.webp"
 사진에서 보이지 않는 안감 부착, 내부 솔기, 단열층과 손바닥 보강의 범위는 `미확인`으로 남깁니다. 제조사나 판매자에게 문의하고 실물을 봅니다. 판매명과 소재가 마음에 들어도 구조 정보가 부족하면 구매를 미뤄도 됩니다.
 
 
-![같은 다크 브라운 계열의 5지형·미튼형·three-finger형 장갑을 손등과 손바닥, 측면, 입구에서 비교한 무문자 구조 보드](/images/mens-winter-glove-selection-guide-look-2.webp)
+
 
 ## 3. 표기 사이즈보다 양손 접촉과 기본 동작을 기록합니다
 

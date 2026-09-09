@@ -21,7 +21,7 @@ draft: false
 New Era는 자사 캡에 쓰이는 원단이 다양해 하나의 ‘황금 규칙’이 없다고 안내합니다. 이는 모든 모자에 적용되는 규칙은 아니지만, 형태나 계절만으로 관리법을 고르지 말아야 할 이유가 됩니다. [New Era Customer Care](https://help.neweracap.com/hc/en-us/articles/4420830186765-Product) 라벨이 없거나 읽히지 않으면 제품 식별 정보와 사진을 준비해 판매처·제조사에 문의하거나, 처리를 보류합니다.
 
 
-![모자 안쪽의 무문자 케어라벨과 착용 밴드를 확인하는 손](/images/mens-hat-care-guide-look-1.webp)
+
 
 ## 2. 땀 자국과 손상 신호를 먼저 분리합니다
 
@@ -43,7 +43,7 @@ New Era는 자사 캡에 쓰이는 원단이 다양해 하나의 ‘황금 규�
 New Era는 자사 캡 안내에서 세탁기와 완전 침수, 기계 건조, 강한 화학물질과 드라이클리닝을 피하라고 적습니다. 이 사례를 모든 캡이나 버킷햇의 보편 규칙으로 바꾸지는 않습니다. 제품별 안내가 우선이라는 점을 보여 주는 참고로만 둡니다. [New Era Customer Care](https://help.neweracap.com/hc/en-us/articles/4420830186765-Product)
 
 
-![모자를 정리하며 무문자 라벨로 관리 범위를 다시 확인하는 남성](/images/mens-hat-care-guide-look-3.webp)
+
 
 ## 4. 건조 뒤에는 형태와 마감을 다시 봅니다
 

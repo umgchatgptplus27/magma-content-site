@@ -5,10 +5,12 @@
   "engines": { "node": ">=20" },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run check:publication && next build",
     "start": "next start",
     "lint": "eslint",
-    "preflight": "node scripts/preflight.mjs"
+    "preflight": "node scripts/preflight.mjs",
+    "check:publication": "node scripts/check-publication-quality.mjs",
+    "test:editorial": "node --test scripts/content-quality.test.mjs scripts/blog-pagination.test.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

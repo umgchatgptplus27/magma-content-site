@@ -13,7 +13,7 @@ draft: false
 
 ## 1. 옷장보다 먼저 일정과 가족 안내를 확인합니다
 
-![무문자 안내 카드를 보며 이동 전 옷 후보를 점검하는 남성](/images/mens-chuseok-hometown-visit-outfit-guide-look-1.webp)
+
 
 ### 실행 조합
 

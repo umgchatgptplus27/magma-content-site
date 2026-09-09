@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
     name: "MAGMA",
     tagline: "유행은 지나가도, 기본은 남습니다",
     description:
-      "과장보다 단정함을, 유행보다 오래 입을 옷을. 3040 남성을 위해 시간이 지나도 유효한 기본을 만듭니다.",
+      "3040 남성을 위한 패션 정보. 가진 옷의 핏을 살피고, 구매 전 치수를 비교하고, 제품 안내에 맞게 관리하는 방법을 정리합니다.",
   },
   links: {
     github: "https://github.com/dandacompany",

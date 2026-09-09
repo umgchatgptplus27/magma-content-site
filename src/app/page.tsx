@@ -5,6 +5,7 @@ import ImageSlot from "@/components/ImageSlot";
 import { siteConfig } from "@config";
 import { getAll } from "@/lib/content";
 import { pageMetadata } from "@/lib/seo";
+import BlogTopicNav from "@/components/BlogTopicNav";
 
 export const metadata = pageMetadata({
   title: "3040 남성 패션·의류 관리 가이드",
@@ -23,14 +24,15 @@ export default function Home() {
       <section className="container-page py-24">
         <div className="grid items-center gap-12 md:grid-cols-2">
           <div>
-            <p className="eyebrow mb-3">브랜드</p>
+            <p className="eyebrow mb-3">패션 정보 가이드</p>
             <h2 className="font-display text-3xl font-bold leading-snug text-primary">
-              {siteConfig.company.name}는 오래&nbsp;입을&nbsp;기본을 만듭니다
+              {siteConfig.company.name}와 옷의 선택·관리를 차근차근
             </h2>
             <p className="mt-5 leading-relaxed text-ink-sub">
-              유행을 좇는 대신 과장 없는 단정함을 택합니다.
-              계절이 바뀌어도 다시 손이 가는 옷을, 3040 남성을 위해 만듭니다.
+              옷을 판매하는 상품 소개가 아니라, 보유한 옷과 구매 후보를 비교하는 정보 공간입니다.
+              핏과 실측, 출근 옷차림, 세탁과 보관 중 지금 필요한 주제부터 읽어 보세요.
             </p>
+            <BlogTopicNav />
           </div>
           <ImageSlot ratio="4/5" label="브랜드 비주얼" />
         </div>

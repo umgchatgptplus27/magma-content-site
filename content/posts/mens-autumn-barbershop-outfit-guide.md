@@ -98,4 +98,4 @@ Michigan LARA의 자료는 깨끗한 케이프와 넥 스트립, 타월의 사�
 - [REI Expert Advice — Layering basics](https://www.rei.com/learn/expert-advice/layering-basics.html) (확인일: 2026-09-06)
 - [GINETEX — Care symbols](https://www.ginetex.net/GB/labelling/care-symbols.asp) (ISO 3758:2023 체계, 확인일: 2026-09-06)
 
-편집 메모: 시설 운영·소재 성능·핏의 편안함·시술 뒤 결과는 특정 매장이나 사람에게 일반화하지 않았습니다. 출처가 확인된 범위와 편집 제안을 나눠 썼으며, 본문 이미지는 검수된 완성 자산으로 반영했습니다.
+시설 운영·소재 성능·핏의 편안함·시술 뒤 결과는 특정 매장이나 사람에게 일반화할 수 없습니다. 출처가 확인된 범위와 편집 제안을 구분해 참고하세요.

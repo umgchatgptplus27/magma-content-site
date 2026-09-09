@@ -1,0 +1,4565 @@
+{
+  "summary": {
+    "base": "03c2d9b360148ea647b0a9c6eb8c57be4d39122d",
+    "method": "휴리스틱 전수 인벤토리. Google 판정·승인 점수·전체 수동 품질검토 아님.",
+    "total": 219,
+    "baseTotal": 219,
+    "published": 218,
+    "changed": 52,
+    "rewritten": 2,
+    "removedBodyImages": 47,
+    "remainingMechanicalIssues": 0,
+    "lostSourceUrls": [],
+    "actions": {
+      "보강 검토": 209,
+      "유지(범위 조정 재작성)": 2,
+      "통합 검토": 8
+    }
+  },
+  "entries": [
+    {
+      "slug": "draft-post-example",
+      "title": "다음 시즌 예고 (작성 중)",
+      "published": false,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "working-with-agent-team",
+        "similarity": 0.048
+      }
+    },
+    {
+      "slug": "hello-magma-contents",
+      "title": "MAGMA를 시작하며 — 오래 입을 기본에 대하여",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-pilling-care-guide",
+        "similarity": 0.074
+      }
+    },
+    {
+      "slug": "mens-after-work-appointment-outfit-guide",
+      "title": "3040 남성을 위한 가을 출근 후 약속 옷차림: 재킷을 벗고도 균형 잡는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 19
+        },
+        {
+          "code": "unreadable_example",
+          "line": 58
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 2,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-after-workout-outfit-guide",
+        "similarity": 0.182
+      }
+    },
+    {
+      "slug": "mens-after-workout-outfit-guide",
+      "title": "3040 남성을 위한 출근 후 운동 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-new-job-first-day-outfit-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-airport-security-outfit-guide",
+      "title": "3040 남성을 위한 공항 보안검색 옷차림: 신발·주머니·레이어를 점검하는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-long-drive-outfit-guide",
+        "similarity": 0.111
+      }
+    },
+    {
+      "slug": "mens-all-day-standing-shoe-guide",
+      "title": "하루 종일 서 있는 날, 3040 남성이 신발을 고르는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-fabric-selection-guide",
+        "similarity": 0.143
+      }
+    },
+    {
+      "slug": "mens-anniversary-dinner-outfit-guide",
+      "title": "3040 남성을 위한 기념일 레스토랑 저녁 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.143
+      }
+    },
+    {
+      "slug": "mens-autumn-barbershop-outfit-guide",
+      "title": "가을 바버숍 방문을 위한 3040 남성 옷차림: 앉고 벗고 다시 입기 편한 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-camera-walk-outfit-guide",
+        "similarity": 0.182
+      }
+    },
+    {
+      "slug": "mens-autumn-cafe-work-outfit-guide",
+      "title": "3040 남성 가을 카페 작업 옷차림: 오래 앉아도 흐트러지지 않는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "production_metadata",
+          "line": 2
+        },
+        {
+          "code": "production_metadata",
+          "line": 3
+        },
+        {
+          "code": "unreadable_example",
+          "line": 19
+        },
+        {
+          "code": "unreadable_example",
+          "line": 51
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-camera-walk-outfit-guide",
+        "similarity": 0.136
+      }
+    },
+    {
+      "slug": "mens-autumn-camera-walk-outfit-guide",
+      "title": "가을 클래식 카메라 산책을 위한 3040 남성 옷차림: 오래 걷고 가볍게 촬영하는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        },
+        {
+          "code": "unreadable_example",
+          "line": 68
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-library-reading-outfit-guide",
+        "similarity": 0.196
+      }
+    },
+    {
+      "slug": "mens-autumn-cardigan-layering-guide",
+      "title": "3040 남성을 위한 가을 카디건 레이어링: 셔츠·티셔츠·재킷 사이 균형을 잡는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-office-knit-vest-guide",
+        "similarity": 0.344
+      }
+    },
+    {
+      "slug": "mens-autumn-knit-polo-selection-guide",
+      "title": "3040 남성을 위한 가을 니트 폴로 셔츠 선택: 칼라·두께·레이어링을 가르는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-layering-guide",
+        "similarity": 0.16
+      }
+    },
+    {
+      "slug": "mens-autumn-library-reading-outfit-guide",
+      "title": "가을 도서관 독서 모임을 위한 3040 남성 옷차림: 조용한 공간과 오래 앉는 시간을 고려하는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-camera-walk-outfit-guide",
+        "similarity": 0.196
+      }
+    },
+    {
+      "slug": "mens-autumn-minimal-office-set-up-guide",
+      "title": "가을 남성 출근 셋업: 세 가지 조합 비교와 재킷·팬츠 핏 점검",
+      "published": true,
+      "changed": true,
+      "rewritten": true,
+      "beforeIssues": [
+        {
+          "code": "unfinished_generation",
+          "line": 136
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 5,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "유지(범위 조정 재작성)",
+      "reason": "자료 기반 관찰표와 가상 예시로 재작성; 실제 제품 경험은 미확보",
+      "nearestTitle": {
+        "slug": "mens-shirt-fit-guide",
+        "similarity": 0.13
+      }
+    },
+    {
+      "slug": "mens-autumn-office-knit-vest-guide",
+      "title": "3040 남성을 위한 가을 오피스 니트 베스트 선택: 셔츠·재킷 사이 균형을 잡는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "image_brief",
+          "line": 20
+        },
+        {
+          "code": "unreadable_example",
+          "line": 20
+        },
+        {
+          "code": "image_brief",
+          "line": 38
+        },
+        {
+          "code": "image_brief",
+          "line": 56
+        },
+        {
+          "code": "image_brief",
+          "line": 74
+        },
+        {
+          "code": "image_brief",
+          "line": 92
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-cardigan-layering-guide",
+        "similarity": 0.344
+      }
+    },
+    {
+      "slug": "mens-autumn-road-trip-outfit-guide",
+      "title": "3040 남성을 위한 가을 주말 드라이브 옷차림: 운전·휴식·도착을 나누는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        },
+        {
+          "code": "unreadable_example",
+          "line": 22
+        },
+        {
+          "code": "unreadable_example",
+          "line": 32
+        },
+        {
+          "code": "unreadable_example",
+          "line": 64
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-moving-day-outfit-guide",
+        "similarity": 0.147
+      }
+    },
+    {
+      "slug": "mens-autumn-sea-fishing-outfit-guide",
+      "title": "3040 남성을 위한 가을 바다낚시 옷차림: 바람·물기·이동을 고려한 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-parents-birthday-dinner-outfit-guide",
+        "similarity": 0.206
+      }
+    },
+    {
+      "slug": "mens-autumn-small-concert-outfit-guide",
+      "title": "3040 남성을 위한 가을 저녁 소규모 공연 옷차림: 관람·이동·귀가를 나누는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        },
+        {
+          "code": "unreadable_example",
+          "line": 22
+        },
+        {
+          "code": "unreadable_example",
+          "line": 48
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-running-crew-outfit-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-autumn-terrace-evening-outfit-guide",
+      "title": "3040 남성 가을 테라스 저녁 모임 옷차림: 기온 차와 분위기를 함께 고려하는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 14
+        },
+        {
+          "code": "unreadable_example",
+          "line": 46
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-home-dinner-host-outfit-guide",
+        "similarity": 0.167
+      }
+    },
+    {
+      "slug": "mens-autumn-wedding-guest-guide",
+      "title": "3040 남성을 위한 가을 결혼식 하객 복장 가이드",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-summer-wedding-guest-guide",
+        "similarity": 0.364
+      }
+    },
+    {
+      "slug": "mens-belt-selection-guide",
+      "title": "3040 남성을 위한 벨트 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-back-dart-selection-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-bike-commute-outfit-guide",
+      "title": "3040 남성을 위한 자전거 출퇴근 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-new-job-first-day-outfit-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-black-tie-invitation-guide",
+      "title": "3040 남성을 위한 블랙타이 초대 복장: 턱시도 한 벌을 점검하는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 19
+        },
+        {
+          "code": "unreadable_example",
+          "line": 71
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 2,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-exhibition-opening-outfit-guide",
+        "similarity": 0.136
+      }
+    },
+    {
+      "slug": "mens-blazer-separates-styling-guide",
+      "title": "3040 남성을 위한 블레이저를 셋업 밖에서 활용하는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-overshirt-styling-guide",
+        "similarity": 0.136
+      }
+    },
+    {
+      "slug": "mens-boot-selection-styling-guide",
+      "title": "3040 남성을 위한 부츠 선택·코디 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-winter-glove-selection-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-business-casual-guide",
+      "title": "3040 남성 비즈니스 캐주얼 가이드",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "rainy-season-office-look",
+        "similarity": 0.067
+      }
+    },
+    {
+      "slug": "mens-business-conference-outfit-guide",
+      "title": "3040 남성 컨퍼런스 참석 복장: 이동·세션·네트워킹을 나누는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "production_metadata",
+          "line": 4
+        },
+        {
+          "code": "production_metadata",
+          "line": 5
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-moving-day-outfit-guide",
+        "similarity": 0.143
+      }
+    },
+    {
+      "slug": "mens-business-trip-packing-guide",
+      "title": "3040 남성을 위한 출장 옷차림 짐 싸기 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-career-interview-outfit-guide",
+      "title": "3040 남성을 위한 이직 면접 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.222
+      }
+    },
+    {
+      "slug": "mens-chino-styling-guide",
+      "title": "3040 남성을 위한 치노 팬츠를 출근과 주말에 단정하게 입는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-sweatshirt-styling-guide",
+        "similarity": 0.286
+      }
+    },
+    {
+      "slug": "mens-chuseok-hometown-visit-outfit-guide",
+      "title": "3040 남성을 위한 추석 고향 방문 옷차림: 이동·차례·가족 모임을 고려한 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 8
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-family-gathering-outfit-guide",
+        "similarity": 0.217
+      }
+    },
+    {
+      "slug": "mens-client-meeting-outfit-guide",
+      "title": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-wine-tasting-outfit-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-clothes-brush-selection-care-guide",
+      "title": "3040 남성을 위한 옷솔 선택과 의류 브러싱 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-commute-umbrella-selection-guide",
+        "similarity": 0.105
+      }
+    },
+    {
+      "slug": "mens-clothing-alteration-guide",
+      "title": "3040 남성을 위한 옷 수선 우선순위 판단 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-garment-repair-replace-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-clothing-color-fade-care-guide",
+      "title": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-garment-static-cling-care-guide",
+        "similarity": 0.263
+      }
+    },
+    {
+      "slug": "mens-coat-fabric-selection-guide",
+      "title": "3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-pocket-selection-guide",
+        "similarity": 0.133
+      }
+    },
+    {
+      "slug": "mens-coat-length-fit-guide",
+      "title": "3040 남성을 위한 코트 기장·실루엣 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-harrington-jacket-selection-guide",
+        "similarity": 0.12
+      }
+    },
+    {
+      "slug": "mens-commute-umbrella-selection-guide",
+      "title": "3040 남성을 위한 출근용 우산 선택과 옷차림 연결 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-funeral-attire-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-company-workshop-outfit-guide",
+      "title": "3040 남성을 위한 사내 워크숍 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-presentation-outfit-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-corduroy-trouser-styling-guide",
+      "title": "3040 남성을 위한 코듀로이 팬츠 코디: 질감·색·실루엣을 조절하는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-coat-length-fit-guide",
+        "similarity": 0.083
+      }
+    },
+    {
+      "slug": "mens-denim-shirt-commute-guide",
+      "title": "3040 남성을 위한 초가을 데님 셔츠 출근 코디: 5가지 판단 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trench-coat-commute-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-denim-trouser-first-wash-guide",
+      "title": "3040 남성 데님 팬츠 첫 세탁 전 확인할 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "통합 검토",
+      "reason": "제목 2-gram Jaccard 유사도 ≥ 0.5. 중복 확정 아님; 본문·검색 의도·유입 확인 뒤 결정",
+      "nearestTitle": {
+        "slug": "mens-new-shirt-first-wash-guide",
+        "similarity": 0.5
+      }
+    },
+    {
+      "slug": "mens-derby-oxford-shoe-guide",
+      "title": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-dress-shoe-sole-selection-guide",
+        "similarity": 0.125
+      }
+    },
+    {
+      "slug": "mens-dog-walk-outfit-guide",
+      "title": "3040 남성을 위한 늦여름 반려견 산책 옷차림: 시간대별 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "production_metadata",
+          "line": 4
+        },
+        {
+          "code": "production_metadata",
+          "line": 5
+        },
+        {
+          "code": "production_metadata",
+          "line": 6
+        },
+        {
+          "code": "unreadable_example",
+          "line": 22
+        },
+        {
+          "code": "unreadable_example",
+          "line": 68
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-long-drive-outfit-guide",
+        "similarity": 0.15
+      }
+    },
+    {
+      "slug": "mens-dress-shoe-fit-check-guide",
+      "title": "3040 남성을 위한 구두 발등·뒤꿈치 핏 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-fit-guide",
+        "similarity": 0.182
+      }
+    },
+    {
+      "slug": "mens-dress-shoe-sole-selection-guide",
+      "title": "3040 남성을 위한 구두 밑창 소재·구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-shoulder-construction-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-dry-cleaning-checklist-guide",
+      "title": "3040 남성을 위한 세탁소 의뢰 전후 의류 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-garment-care-label-guide",
+        "similarity": 0.133
+      }
+    },
+    {
+      "slug": "mens-early-autumn-office-transition-guide",
+      "title": "3040 남성을 위한 이른 가을 출근 옷차림 전환: 아침·사무실·이동·귀가까지 5가지 판단 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-morning-run-to-office-outfit-guide",
+        "similarity": 0.211
+      }
+    },
+    {
+      "slug": "mens-early-autumn-sock-weight-guide",
+      "title": "3040 남성을 위한 초가을 출근 양말 두께 선택 기준 5가지",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-gauge-selection-guide",
+        "similarity": 0.188
+      }
+    },
+    {
+      "slug": "mens-evening-walk-layering-guide",
+      "title": "3040 남성을 위한 선선한 저녁 산책 옷차림: 셔츠와 가디건을 고르는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-fabric-selection-guide",
+        "similarity": 0.182
+      }
+    },
+    {
+      "slug": "mens-exhibition-opening-outfit-guide",
+      "title": "3040 남성을 위한 전시 오프닝 초대 복장 가이드",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-black-tie-invitation-guide",
+        "similarity": 0.136
+      }
+    },
+    {
+      "slug": "mens-eyewear-outfit-guide",
+      "title": "3040 남성을 위한 안경 프레임과 옷차림 조화 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-commute-umbrella-selection-guide",
+        "similarity": 0.158
+      }
+    },
+    {
+      "slug": "mens-fabric-texture-pairing-guide",
+      "title": "3040 남성을 위한 상·하의 소재 질감 조합 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-muted-color-pairing-guide",
+        "similarity": 0.083
+      }
+    },
+    {
+      "slug": "mens-family-camping-outfit-guide",
+      "title": "3040 남성을 위한 가족 캠핑 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-family-gathering-outfit-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-family-gathering-outfit-guide",
+      "title": "3040 남성을 위한 주말 가족 모임 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-family-camping-outfit-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-first-birthday-party-dad-outfit-guide",
+      "title": "3040 아빠를 위한 돌잔치 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-park-outing-dad-outfit-guide",
+        "similarity": 0.316
+      }
+    },
+    {
+      "slug": "mens-first-golf-round-outfit-guide",
+      "title": "3040 남성을 위한 첫 골프 라운드 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.182
+      }
+    },
+    {
+      "slug": "mens-first-hiking-outfit-guide",
+      "title": "3040 남성을 위한 첫 등산 옷차림 가이드",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 48
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-formal-family-meeting-outfit-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-first-manager-wardrobe-guide",
+      "title": "3040 남성을 위한 첫 관리자 승진 후 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.167
+      }
+    },
+    {
+      "slug": "mens-first-pilates-class-outfit-guide",
+      "title": "3040 남성 첫 필라테스 수업 옷차림: 움직임과 출근 후 전환을 고려한 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-after-workout-outfit-guide",
+        "similarity": 0.148
+      }
+    },
+    {
+      "slug": "mens-first-residents-meeting-outfit-guide",
+      "title": "3040 남성 첫 입주자 모임 옷차림: 단정함과 편안함을 함께 고르는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        },
+        {
+          "code": "unreadable_example",
+          "line": 64
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-terrace-evening-outfit-guide",
+        "similarity": 0.163
+      }
+    },
+    {
+      "slug": "mens-first-running-crew-outfit-guide",
+      "title": "3040 남성 첫 러닝크루 참여 전 옷차림: 집결·러닝·귀가를 나누는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-small-concert-outfit-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-first-tailoring-consultation-guide",
+      "title": "3040 남성을 위한 첫 맞춤정장 상담 전 준비: 목적·예산·핏을 정리하는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-wardrobe-budget-guide",
+        "similarity": 0.043
+      }
+    },
+    {
+      "slug": "mens-first-tennis-lesson-outfit-guide",
+      "title": "3040 남성을 위한 첫 테니스 레슨 옷차림: 코트와 귀가까지 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-early-autumn-office-transition-guide",
+        "similarity": 0.152
+      }
+    },
+    {
+      "slug": "mens-fitting-room-checklist-guide",
+      "title": "3040 남성을 위한 매장 시착 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-long-drive-outfit-guide",
+        "similarity": 0.167
+      }
+    },
+    {
+      "slug": "mens-flannel-shirt-selection-guide",
+      "title": "3040 남성을 위한 플란넬 셔츠 선택: 두께·무늬·출근 경계 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-open-collar-shirt-guide",
+        "similarity": 0.16
+      }
+    },
+    {
+      "slug": "mens-formal-family-meeting-outfit-guide",
+      "title": "3040 남성을 위한 상견례 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-funeral-attire-guide",
+      "title": "3040 남성을 위한 조문 옷차림 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-video-meeting-outfit-guide",
+        "similarity": 0.4
+      }
+    },
+    {
+      "slug": "mens-garment-care-label-guide",
+      "title": "3040 남성을 위한 의류 세탁 라벨 읽는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-online-clothing-review-guide",
+        "similarity": 0.143
+      }
+    },
+    {
+      "slug": "mens-garment-finish-quality-guide",
+      "title": "3040 남성을 위한 옷 구매 전 봉제·마감 품질 확인 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-hem-finish-selection-guide",
+        "similarity": 0.059
+      }
+    },
+    {
+      "slug": "mens-garment-hanger-selection-guide",
+      "title": "3040 남성을 위한 재킷·셔츠·팬츠 옷걸이 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-garment-lining-selection-guide",
+        "similarity": 0.214
+      }
+    },
+    {
+      "slug": "mens-garment-lining-selection-guide",
+      "title": "3040 남성을 위한 재킷·팬츠 안감 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-hem-finish-selection-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-garment-odor-care-guide",
+      "title": "3040 남성을 위한 옷에 밴 냄새를 줄이는 착용 후 관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-clothing-color-fade-care-guide",
+        "similarity": 0.15
+      }
+    },
+    {
+      "slug": "mens-garment-repair-replace-guide",
+      "title": "3040 남성을 위한 낡은 옷 수선·교체 판단 기준 5가지",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 74
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-clothing-alteration-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-garment-stain-first-aid-guide",
+      "title": "3040 남성을 위한 옷에 얼룩이 생겼을 때 응급 대응 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-garment-odor-care-guide",
+        "similarity": 0.042
+      }
+    },
+    {
+      "slug": "mens-garment-static-cling-care-guide",
+      "title": "3040 남성을 위한 옷 정전기와 들러붙음을 줄이는 관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-clothing-color-fade-care-guide",
+        "similarity": 0.263
+      }
+    },
+    {
+      "slug": "mens-garment-zipper-troubleshooting-guide",
+      "title": "3040 남성을 위한 의류 지퍼 걸림·벌어짐 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-dry-cleaning-checklist-guide",
+        "similarity": 0.111
+      }
+    },
+    {
+      "slug": "mens-gray-hair-color-pairing-guide",
+      "title": "3040 남성을 위한 새치·백발과 옷 색 조합 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-muted-color-pairing-guide",
+        "similarity": 0.182
+      }
+    },
+    {
+      "slug": "mens-harrington-jacket-selection-guide",
+      "title": "3040 남성 해링턴 재킷 선택: 원단·실루엣·레이어·장면·관리 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 18
+        },
+        {
+          "code": "unreadable_example",
+          "line": 76
+        },
+        {
+          "code": "unreadable_example",
+          "line": 84
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-quilted-jacket-selection-guide",
+        "similarity": 0.481
+      }
+    },
+    {
+      "slug": "mens-hat-care-guide",
+      "title": "3040 남성을 위한 여름 모자 관리: 땀 자국과 형태를 지키는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        },
+        {
+          "code": "unreadable_example",
+          "line": 38
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 2,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-summer-commute-sweat-care-guide",
+        "similarity": 0.133
+      }
+    },
+    {
+      "slug": "mens-hat-selection-guide",
+      "title": "3040 남성을 위한 모자를 단정하게 고르는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "통합 검토",
+      "reason": "제목 2-gram Jaccard 유사도 ≥ 0.5. 중복 확정 아님; 본문·검색 의도·유입 확인 뒤 결정",
+      "nearestTitle": {
+        "slug": "mens-polo-shirt-selection-guide",
+        "similarity": 0.538
+      }
+    },
+    {
+      "slug": "mens-health-checkup-outfit-guide",
+      "title": "3040 남성을 위한 건강검진 당일 옷차림 준비 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-moving-day-outfit-guide",
+        "similarity": 0.16
+      }
+    },
+    {
+      "slug": "mens-home-dinner-host-outfit-guide",
+      "title": "3040 남성을 위한 집에서 여는 저녁 모임 옷차림: 손님맞이 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 19
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-family-gathering-outfit-guide",
+        "similarity": 0.211
+      }
+    },
+    {
+      "slug": "mens-hospital-visitor-outfit-guide",
+      "title": "3040 남성을 위한 병문안 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-hotel-travel-outfit-guide",
+      "title": "3040 남성을 위한 호텔 조식과 로비를 오가는 여행 옷차림",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-weekend-overnight-trip-outfit-guide",
+        "similarity": 0.174
+      }
+    },
+    {
+      "slug": "mens-housewarming-guest-outfit-guide",
+      "title": "3040 남성을 위한 집들이 초대 옷차림 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-weekend-bookstore-outfit-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-invitation-dress-code-guide",
+      "title": "3040 남성을 위한 행사 초대장 드레스코드 해석 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-housewarming-guest-outfit-guide",
+        "similarity": 0.059
+      }
+    },
+    {
+      "slug": "mens-jacket-button-repair-guide",
+      "title": "남성 재킷 단추가 헐거울 때: 수선 전 점검 순서",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        },
+        {
+          "code": "unreadable_example",
+          "line": 50
+        },
+        {
+          "code": "unreadable_example",
+          "line": 52
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 2,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-buttoning-guide",
+        "similarity": 0.115
+      }
+    },
+    {
+      "slug": "mens-jacket-buttoning-guide",
+      "title": "3040 남성을 위한 재킷 단추를 상황에 맞게 잠그는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-sleeve-button-selection-guide",
+        "similarity": 0.118
+      }
+    },
+    {
+      "slug": "mens-jacket-canvas-construction-guide",
+      "title": "3040 남성을 위한 재킷 심지·앞판 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-shoulder-construction-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-jacket-collar-gap-fit-guide",
+      "title": "3040 남성을 위한 재킷 칼라 들뜸 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-sleeve-pitch-fit-guide",
+        "similarity": 0.133
+      }
+    },
+    {
+      "slug": "mens-jacket-innerwear-selection-guide",
+      "title": "3040 남성을 위한 재킷 안 이너 선택: 출근과 저녁 약속 사이 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-linen-blazer-selection-guide",
+        "similarity": 0.308
+      }
+    },
+    {
+      "slug": "mens-jacket-lapel-selection-guide",
+      "title": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-vent-selection-guide",
+        "similarity": 0.222
+      }
+    },
+    {
+      "slug": "mens-jacket-pocket-selection-guide",
+      "title": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-coat-fabric-selection-guide",
+        "similarity": 0.133
+      }
+    },
+    {
+      "slug": "mens-jacket-shoulder-construction-guide",
+      "title": "3040 남성을 위한 재킷 어깨 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-canvas-construction-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-jacket-sleeve-button-selection-guide",
+      "title": "3040 남성을 위한 재킷 소매 단추 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-sleeve-pitch-fit-guide",
+        "similarity": 0.214
+      }
+    },
+    {
+      "slug": "mens-jacket-sleeve-pitch-fit-guide",
+      "title": "3040 남성을 위한 재킷 소매 비틀림·주름 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-sleeve-button-selection-guide",
+        "similarity": 0.214
+      }
+    },
+    {
+      "slug": "mens-jacket-vent-selection-guide",
+      "title": "3040 남성을 위한 재킷 뒤트임 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-lapel-selection-guide",
+        "similarity": 0.222
+      }
+    },
+    {
+      "slug": "mens-jacket-wrinkle-care-guide",
+      "title": "3040 남성을 위한 재킷 구김 관리: 출근 전·이동 중·보관의 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-summer-commute-sweat-care-guide",
+        "similarity": 0.1
+      }
+    },
+    {
+      "slug": "mens-jewelry-outfit-guide",
+      "title": "3040 남성을 위한 반지·팔찌를 옷차림에 절제되게 연결하는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-office-sneaker-styling-guide",
+        "similarity": 0.143
+      }
+    },
+    {
+      "slug": "mens-knit-gauge-selection-guide",
+      "title": "3040 남성을 위한 니트 게이지와 두께 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-button-selection-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-knit-layering-guide",
+      "title": "3040 남성을 위한 니트·가디건 레이어링 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knitwear-shape-care-guide",
+        "similarity": 0.267
+      }
+    },
+    {
+      "slug": "mens-knit-neckline-guide",
+      "title": "3040 남성을 위한 니트 넥라인 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-gauge-selection-guide",
+        "similarity": 0.154
+      }
+    },
+    {
+      "slug": "mens-knit-pilling-care-guide",
+      "title": "3040 남성을 위한 니트 보풀 관리와 오래 입는 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-wool-coat-pilling-care-guide",
+        "similarity": 0.211
+      }
+    },
+    {
+      "slug": "mens-knit-rib-hem-selection-guide",
+      "title": "3040 남성을 위한 니트 리브·밑단 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-shoulder-construction-guide",
+        "similarity": 0.286
+      }
+    },
+    {
+      "slug": "mens-knit-shoulder-construction-guide",
+      "title": "3040 남성을 위한 니트 어깨·소매 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-shoulder-construction-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-knitwear-shape-care-guide",
+      "title": "3040 남성을 위한 니트·가디건 보풀과 형태 관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-layering-guide",
+        "similarity": 0.267
+      }
+    },
+    {
+      "slug": "mens-leather-bag-care-guide",
+      "title": "3040 남성을 위한 가죽 가방 관리와 수선 판단 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-leather-shoe-care-guide",
+        "similarity": 0.154
+      }
+    },
+    {
+      "slug": "mens-leather-jacket-seasonal-care-guide",
+      "title": "3040 남성을 위한 가죽 재킷 첫 착용 전 점검: 보관·표면·이너를 살피는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-button-repair-guide",
+        "similarity": 0.091
+      }
+    },
+    {
+      "slug": "mens-leather-shoe-care-guide",
+      "title": "3040 남성을 위한 가죽 구두 관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-leather-bag-care-guide",
+        "similarity": 0.154
+      }
+    },
+    {
+      "slug": "mens-lightweight-jacket-fit-guide",
+      "title": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-lapel-selection-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-linen-blazer-selection-guide",
+      "title": "3040 남성을 위한 여름 리넨 블레이저 선택: 출근과 저녁 약속을 잇는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 20
+        },
+        {
+          "code": "unreadable_example",
+          "line": 48
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 2,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-innerwear-selection-guide",
+        "similarity": 0.308
+      }
+    },
+    {
+      "slug": "mens-linen-shirt-care-guide",
+      "title": "3040 남성을 위한 린넨 셔츠 세탁 뒤 형태 점검과 관리 5단계",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 25
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-fit-guide",
+        "similarity": 0.111
+      }
+    },
+    {
+      "slug": "mens-linen-trouser-care-guide",
+      "title": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 14
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-denim-trouser-first-wash-guide",
+        "similarity": 0.185
+      }
+    },
+    {
+      "slug": "mens-loafer-selection-guide",
+      "title": "3040 남성을 위한 로퍼 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-belt-selection-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-long-drive-outfit-guide",
+      "title": "3040 남성을 위한 장시간 운전 옷차림 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "통합 검토",
+      "reason": "제목 2-gram Jaccard 유사도 ≥ 0.5. 중복 확정 아님; 본문·검색 의도·유입 확인 뒤 결정",
+      "nearestTitle": {
+        "slug": "mens-long-flight-outfit-guide",
+        "similarity": 0.5
+      }
+    },
+    {
+      "slug": "mens-long-flight-outfit-guide",
+      "title": "3040 남성을 위한 장시간 비행 옷차림 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "통합 검토",
+      "reason": "제목 2-gram Jaccard 유사도 ≥ 0.5. 중복 확정 아님; 본문·검색 의도·유입 확인 뒤 결정",
+      "nearestTitle": {
+        "slug": "mens-long-drive-outfit-guide",
+        "similarity": 0.5
+      }
+    },
+    {
+      "slug": "mens-long-train-journey-outfit-guide",
+      "title": "3040 남성을 위한 장거리 기차 이동 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-after-workout-outfit-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-morning-run-to-office-outfit-guide",
+      "title": "3040 남성 아침 러닝 후 출근 옷차림: 땀 관리와 사무실 전환을 위한 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-early-autumn-office-transition-guide",
+        "similarity": 0.211
+      }
+    },
+    {
+      "slug": "mens-moving-day-outfit-guide",
+      "title": "3040 남성 이사 당일 옷차림: 짐·이동·새 집 점검을 나누는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 18
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-health-checkup-outfit-guide",
+        "similarity": 0.16
+      }
+    },
+    {
+      "slug": "mens-museum-date-outfit-guide",
+      "title": "3040 남성을 위한 미술관 데이트 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-outdoor-concert-outfit-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-muted-color-pairing-guide",
+      "title": "3040 남성을 위한 차분한 색 조합 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-gray-hair-color-pairing-guide",
+        "similarity": 0.182
+      }
+    },
+    {
+      "slug": "mens-necktie-selection-guide",
+      "title": "3040 남성을 위한 넥타이를 과하지 않게 고르는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "통합 검토",
+      "reason": "제목 2-gram Jaccard 유사도 ≥ 0.5. 중복 확정 아님; 본문·검색 의도·유입 확인 뒤 결정",
+      "nearestTitle": {
+        "slug": "mens-pocket-square-styling-guide",
+        "similarity": 0.5
+      }
+    },
+    {
+      "slug": "mens-new-job-first-day-outfit-guide",
+      "title": "3040 남성을 위한 새 직장 첫 출근 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-work-dinner-outfit-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-new-shirt-first-wash-guide",
+      "title": "3040 남성을 위한 새 셔츠 첫 세탁 전 확인할 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "통합 검토",
+      "reason": "제목 2-gram Jaccard 유사도 ≥ 0.5. 중복 확정 아님; 본문·검색 의도·유입 확인 뒤 결정",
+      "nearestTitle": {
+        "slug": "mens-denim-trouser-first-wash-guide",
+        "similarity": 0.5
+      }
+    },
+    {
+      "slug": "mens-newborn-family-photo-outfit-guide",
+      "title": "3040 남성을 위한 신생아 가족 사진 촬영 옷차림 가이드",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-profile-photo-outfit-guide",
+        "similarity": 0.429
+      }
+    },
+    {
+      "slug": "mens-office-cardigan-selection-guide",
+      "title": "3040 남성을 위한 출근용 가디건 선택: 셔츠 위에 입는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 20
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-commute-umbrella-selection-guide",
+        "similarity": 0.136
+      }
+    },
+    {
+      "slug": "mens-office-sneaker-styling-guide",
+      "title": "3040 남성을 위한 스니커즈를 출근복에 단정하게 연결하는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-chino-styling-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-online-clothing-measurement-guide",
+      "title": "3040 남성을 위한 온라인 의류 실측 비교 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-online-clothing-review-guide",
+        "similarity": 0.308
+      }
+    },
+    {
+      "slug": "mens-online-clothing-return-guide",
+      "title": "3040 남성을 위한 온라인 구매 의류 반품·교환 판단 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-online-clothing-measurement-guide",
+        "similarity": 0.176
+      }
+    },
+    {
+      "slug": "mens-online-clothing-review-guide",
+      "title": "3040 남성을 위한 온라인 의류 리뷰를 읽는 기준 5가지",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 78
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-online-clothing-measurement-guide",
+        "similarity": 0.308
+      }
+    },
+    {
+      "slug": "mens-open-collar-shirt-guide",
+      "title": "3040 남성을 위한 오픈칼라 셔츠 선택: 출근과 주말을 잇는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 19
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-work-weekend-wardrobe-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-outdoor-cinema-outfit-guide",
+      "title": "3040 남성을 위한 늦여름 야외 영화 관람 옷차림: 바람·좌석·귀가를 고려한 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 22
+        },
+        {
+          "code": "unreadable_example",
+          "line": 32
+        },
+        {
+          "code": "unreadable_example",
+          "line": 48
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-valley-daytrip-outfit-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-outdoor-concert-outfit-guide",
+      "title": "3040 남성을 위한 야외 스탠딩 콘서트 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-museum-date-outfit-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-overshirt-styling-guide",
+      "title": "3040 남성을 위한 오버셔츠를 재킷처럼 활용하는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-blazer-separates-styling-guide",
+        "similarity": 0.136
+      }
+    },
+    {
+      "slug": "mens-parents-birthday-dinner-outfit-guide",
+      "title": "3040 남성을 위한 부모님 생신 식사 옷차림: 식당 격식·가족 사진·이동을 고려한 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-sea-fishing-outfit-guide",
+        "similarity": 0.206
+      }
+    },
+    {
+      "slug": "mens-park-outing-dad-outfit-guide",
+      "title": "3040 아빠를 위한 아이와 공원 나들이 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-birthday-party-dad-outfit-guide",
+        "similarity": 0.316
+      }
+    },
+    {
+      "slug": "mens-pet-hair-workwear-care-guide",
+      "title": "3040 남성을 위한 반려동물 털이 묻은 출근복 관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-transitional-weather-office-layering-guide",
+        "similarity": 0.091
+      }
+    },
+    {
+      "slug": "mens-pocket-carry-silhouette-guide",
+      "title": "3040 남성을 위한 주머니 수납과 옷 실루엣 정리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-coat-length-fit-guide",
+        "similarity": 0.118
+      }
+    },
+    {
+      "slug": "mens-pocket-square-styling-guide",
+      "title": "3040 남성을 위한 포켓스퀘어를 과하지 않게 고르는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "통합 검토",
+      "reason": "제목 2-gram Jaccard 유사도 ≥ 0.5. 중복 확정 아님; 본문·검색 의도·유입 확인 뒤 결정",
+      "nearestTitle": {
+        "slug": "mens-necktie-selection-guide",
+        "similarity": 0.5
+      }
+    },
+    {
+      "slug": "mens-polo-shirt-selection-guide",
+      "title": "3040 남성을 위한 폴로셔츠를 단정하게 고르는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "통합 검토",
+      "reason": "제목 2-gram Jaccard 유사도 ≥ 0.5. 중복 확정 아님; 본문·검색 의도·유입 확인 뒤 결정",
+      "nearestTitle": {
+        "slug": "mens-hat-selection-guide",
+        "similarity": 0.538
+      }
+    },
+    {
+      "slug": "mens-pottery-class-outfit-guide",
+      "title": "3040 남성을 위한 주말 도예 클래스 옷차림 가이드",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-family-gathering-outfit-guide",
+        "similarity": 0.214
+      }
+    },
+    {
+      "slug": "mens-presentation-outfit-guide",
+      "title": "3040 남성을 위한 사내 발표·강연 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-company-workshop-outfit-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-profile-photo-outfit-guide",
+      "title": "3040 남성을 위한 프로필 사진 촬영 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-newborn-family-photo-outfit-guide",
+        "similarity": 0.429
+      }
+    },
+    {
+      "slug": "mens-quilted-jacket-selection-guide",
+      "title": "3040 남성 퀼티드 재킷 선택: 무게·실루엣·레이어·장면·관리 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "production_metadata",
+          "line": 2
+        },
+        {
+          "code": "production_metadata",
+          "line": 3
+        },
+        {
+          "code": "unreadable_example",
+          "line": 103
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-harrington-jacket-selection-guide",
+        "similarity": 0.481
+      }
+    },
+    {
+      "slug": "mens-rainy-commute-trouser-hem-care-guide",
+      "title": "3040 남성을 위한 비 온 뒤 출근 바지 밑단 관리: 젖음·오염·건조를 보는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 28
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-summer-commute-sweat-care-guide",
+        "similarity": 0.086
+      }
+    },
+    {
+      "slug": "mens-reunion-outfit-guide",
+      "title": "3040 남성을 위한 동창회 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-sandal-selection-guide",
+      "title": "3040 남성을 위한 여름 샌들을 단정하게 고르는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-hat-selection-guide",
+        "similarity": 0.429
+      }
+    },
+    {
+      "slug": "mens-scarf-styling-guide",
+      "title": "3040 남성을 위한 머플러를 단정하게 고르고 두르는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-hat-selection-guide",
+        "similarity": 0.467
+      }
+    },
+    {
+      "slug": "mens-school-event-outfit-guide",
+      "title": "3040 남성을 위한 학부모 상담·학교 행사 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-first-hiking-outfit-guide",
+        "similarity": 0.143
+      }
+    },
+    {
+      "slug": "mens-seasonal-wardrobe-storage-guide",
+      "title": "3040 남성을 위한 계절 옷장 교체·보관 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-wardrobe-budget-guide",
+        "similarity": 0.091
+      }
+    },
+    {
+      "slug": "mens-shirt-back-dart-selection-guide",
+      "title": "3040 남성을 위한 셔츠 등판 다트 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-belt-selection-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-shirt-button-selection-guide",
+      "title": "3040 남성을 위한 셔츠 단추 소재·두께 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-gauge-selection-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-shirt-collar-guide",
+      "title": "3040 남성을 위한 셔츠 칼라 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-tshirt-fit-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "mens-shirt-collar-stain-care-guide",
+      "title": "남성 셔츠 칼라 얼룩 관리: 케어라벨부터 확인하는 순서",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 14
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-collar-guide",
+        "similarity": 0.13
+      }
+    },
+    {
+      "slug": "mens-shirt-collar-stay-guide",
+      "title": "3040 남성을 위한 셔츠 칼라 스테이 점검: 탈착·세탁·보관 전 확인할 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-new-shirt-first-wash-guide",
+        "similarity": 0.227
+      }
+    },
+    {
+      "slug": "mens-shirt-fabric-selection-guide",
+      "title": "3040 남성을 위한 셔츠 원단을 고르는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-polo-shirt-selection-guide",
+        "similarity": 0.2
+      }
+    },
+    {
+      "slug": "mens-shirt-fit-guide",
+      "title": "3040 남성을 위한 셔츠 핏 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-tshirt-fit-guide",
+        "similarity": 0.286
+      }
+    },
+    {
+      "slug": "mens-shirt-ironing-wrinkle-guide",
+      "title": "3040 남성을 위한 셔츠 다림질과 주름 관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-open-collar-shirt-guide",
+        "similarity": 0.091
+      }
+    },
+    {
+      "slug": "mens-shirt-jacket-sleeve-proportion-guide",
+      "title": "3040 남성을 위한 셔츠와 재킷 소매 길이 비율 가이드",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-sleeve-button-selection-guide",
+        "similarity": 0.214
+      }
+    },
+    {
+      "slug": "mens-shirt-placket-selection-guide",
+      "title": "3040 남성을 위한 셔츠 플래킷 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-collar-guide",
+        "similarity": 0.222
+      }
+    },
+    {
+      "slug": "mens-shirt-pocket-selection-guide",
+      "title": "3040 남성을 위한 셔츠 포켓 유무·형태 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-pocket-selection-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-shirt-sleeve-cuff-guide",
+      "title": "3040 남성을 위한 셔츠 소매·커프 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-sleeve-rolling-guide",
+        "similarity": 0.214
+      }
+    },
+    {
+      "slug": "mens-shirt-sleeve-rolling-guide",
+      "title": "3040 남성을 위한 셔츠 소매를 단정하게 걷는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-polo-shirt-selection-guide",
+        "similarity": 0.313
+      }
+    },
+    {
+      "slug": "mens-shirt-tuck-guide",
+      "title": "3040 남성을 위한 셔츠 넣어 입기·빼 입기 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-fit-guide",
+        "similarity": 0.1
+      }
+    },
+    {
+      "slug": "mens-shirt-undershirt-guide",
+      "title": "3040 남성을 위한 셔츠 안 이너웨어 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-collar-guide",
+        "similarity": 0.182
+      }
+    },
+    {
+      "slug": "mens-shirt-yoke-selection-guide",
+      "title": "3040 남성을 위한 셔츠 요크 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-jacket-shoulder-construction-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-shorts-styling-guide",
+      "title": "3040 남성을 위한 반바지를 단정하게 입는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-sweatshirt-styling-guide",
+        "similarity": 0.429
+      }
+    },
+    {
+      "slug": "mens-smart-denim-styling-guide",
+      "title": "3040 남성을 위한 데님을 단정하게 입는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shorts-styling-guide",
+        "similarity": 0.417
+      }
+    },
+    {
+      "slug": "mens-sock-pairing-guide",
+      "title": "3040 남성을 위한 양말과 바지·신발 연결법 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shorts-styling-guide",
+        "similarity": 0.059
+      }
+    },
+    {
+      "slug": "mens-spring-outerwear-pollen-care-guide",
+      "title": "3040 남성을 위한 봄 아우터 꽃가루·미세먼지 관리법",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-winter-wedding-guest-outerwear-guide",
+        "similarity": 0.091
+      }
+    },
+    {
+      "slug": "mens-subtle-pattern-styling-guide",
+      "title": "3040 남성을 위한 체크·스트라이프 패턴을 단정하게 입는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-smart-denim-styling-guide",
+        "similarity": 0.353
+      }
+    },
+    {
+      "slug": "mens-summer-baseball-game-outfit-guide",
+      "title": "3040 남성을 위한 여름 야구장 관람 옷차림: 더위와 실내 냉방을 함께 고려하는 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-outdoor-cinema-outfit-guide",
+        "similarity": 0.189
+      }
+    },
+    {
+      "slug": "mens-summer-commute-sweat-care-guide",
+      "title": "3040 남성을 위한 여름 출근 땀 자국 관리: 셔츠와 재킷을 나누어 보는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 34
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-jacket-sleeve-proportion-guide",
+        "similarity": 0.16
+      }
+    },
+    {
+      "slug": "mens-summer-wedding-guest-guide",
+      "title": "3040 남성을 위한 여름 결혼식 하객룩 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-autumn-wedding-guest-guide",
+        "similarity": 0.364
+      }
+    },
+    {
+      "slug": "mens-sweatshirt-styling-guide",
+      "title": "3040 남성을 위한 스웨트셔츠를 단정하게 입는 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shorts-styling-guide",
+        "similarity": 0.429
+      }
+    },
+    {
+      "slug": "mens-swimwear-aftercare-guide",
+      "title": "3040 남성을 위한 수영복 세탁과 보관: 휴가 뒤 확인할 5가지",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 12
+        },
+        {
+          "code": "unreadable_example",
+          "line": 44
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 2,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-new-shirt-first-wash-guide",
+        "similarity": 0.158
+      }
+    },
+    {
+      "slug": "mens-temple-visit-outfit-guide",
+      "title": "3040 남성을 위한 사찰 방문 옷차림 가이드",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 14
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-funeral-attire-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-theater-outfit-guide",
+      "title": "3040 남성을 위한 공연장·극장 관람 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-summer-baseball-game-outfit-guide",
+        "similarity": 0.185
+      }
+    },
+    {
+      "slug": "mens-tie-knot-collar-proportion-guide",
+      "title": "3040 남성을 위한 넥타이 매듭과 셔츠 칼라 비율: 중요한 미팅 전 5가지 점검",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-collar-guide",
+        "similarity": 0.143
+      }
+    },
+    {
+      "slug": "mens-transitional-weather-office-layering-guide",
+      "title": "3040 남성을 위한 환절기 출근복 온도차 레이어링 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-layering-guide",
+        "similarity": 0.176
+      }
+    },
+    {
+      "slug": "mens-trench-coat-commute-guide",
+      "title": "3040 남성을 위한 가을 트렌치코트 출근 코디: 5가지 판단 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 16
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-denim-shirt-commute-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-trouser-center-crease-guide",
+      "title": "3040 남성을 위한 팬츠 센터 크리스 선택·관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-garment-lining-selection-guide",
+        "similarity": 0.133
+      }
+    },
+    {
+      "slug": "mens-trouser-fabric-weight-selection-guide",
+      "title": "3040 남성을 위한 팬츠 원단 두께·무게 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-flannel-shirt-selection-guide",
+        "similarity": 0.15
+      }
+    },
+    {
+      "slug": "mens-trouser-fit-guide",
+      "title": "3040 남성을 위한 슬랙스 핏 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-inner-thigh-wear-guide",
+        "similarity": 0.167
+      }
+    },
+    {
+      "slug": "mens-trouser-fly-closure-selection-guide",
+      "title": "3040 남성을 위한 팬츠 앞여밈과 지퍼 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-pocket-selection-guide",
+        "similarity": 0.286
+      }
+    },
+    {
+      "slug": "mens-trouser-hem-finish-selection-guide",
+      "title": "3040 남성을 위한 팬츠 밑단 마감 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-garment-lining-selection-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-trouser-inner-thigh-wear-guide",
+      "title": "3040 남성을 위한 슬랙스 안쪽 허벅지 마모 점검 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-fit-guide",
+        "similarity": 0.167
+      }
+    },
+    {
+      "slug": "mens-trouser-knee-bagging-care-guide",
+      "title": "3040 남성을 위한 팬츠 무릎 늘어남 예방·회복 관리 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-center-crease-guide",
+        "similarity": 0.1
+      }
+    },
+    {
+      "slug": "mens-trouser-pleat-selection-guide",
+      "title": "3040 남성을 위한 팬츠 플리츠 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-pocket-selection-guide",
+        "similarity": 0.364
+      }
+    },
+    {
+      "slug": "mens-trouser-pocket-selection-guide",
+      "title": "3040 남성을 위한 팬츠 포켓 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-pleat-selection-guide",
+        "similarity": 0.364
+      }
+    },
+    {
+      "slug": "mens-trouser-rise-selection-guide",
+      "title": "3040 남성을 위한 팬츠 밑위 길이 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-hem-finish-selection-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-trouser-waistband-selection-guide",
+      "title": "3040 남성을 위한 팬츠 허리밴드 구조 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-trouser-pocket-selection-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-tshirt-fit-guide",
+      "title": "3040 남성을 위한 티셔츠 핏 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-shirt-fit-guide",
+        "similarity": 0.286
+      }
+    },
+    {
+      "slug": "mens-tshirt-neckline-care-guide",
+      "title": "티셔츠 목선이 달라 보일 때: 실제 케어라벨 읽기와 상태 점검",
+      "published": true,
+      "changed": true,
+      "rewritten": true,
+      "beforeIssues": [
+        {
+          "code": "production_metadata",
+          "line": 4
+        },
+        {
+          "code": "production_metadata",
+          "line": 5
+        },
+        {
+          "code": "production_metadata",
+          "line": 6
+        },
+        {
+          "code": "unreadable_example",
+          "line": 16
+        },
+        {
+          "code": "unreadable_example",
+          "line": 20
+        },
+        {
+          "code": "unreadable_example",
+          "line": 56
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 5,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "유지(범위 조정 재작성)",
+      "reason": "자료 기반 관찰표와 가상 예시로 재작성; 실제 제품 경험은 미확보",
+      "nearestTitle": {
+        "slug": "mens-shirt-collar-stain-care-guide",
+        "similarity": 0.1
+      }
+    },
+    {
+      "slug": "mens-tweed-jacket-selection-guide",
+      "title": "3040 남성을 위한 가을 트위드 재킷 선택: 조직·무게·실루엣·장면·관리를 나누는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 20
+        },
+        {
+          "code": "unreadable_example",
+          "line": 76
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-quilted-jacket-selection-guide",
+        "similarity": 0.344
+      }
+    },
+    {
+      "slug": "mens-umbrella-drying-care-guide",
+      "title": "3040 남성을 위한 우산 건조와 보관: 출근 가방·현관·옷장 손상 줄이는 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 24
+        },
+        {
+          "code": "unreadable_example",
+          "line": 28
+        },
+        {
+          "code": "unreadable_example",
+          "line": 64
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 2,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-work-bag-selection-guide",
+        "similarity": 0.143
+      }
+    },
+    {
+      "slug": "mens-valley-daytrip-outfit-guide",
+      "title": "3040 남성을 위한 늦여름 계곡 나들이 옷차림: 이동·물놀이·귀가를 고려한 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-outdoor-cinema-outfit-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-video-meeting-outfit-guide",
+      "title": "3040 남성을 위한 화상회의 옷차림 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-funeral-attire-guide",
+        "similarity": 0.4
+      }
+    },
+    {
+      "slug": "mens-wardrobe-budget-guide",
+      "title": "3040 남성을 위한 옷장 예산 배분 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-seasonal-wardrobe-storage-guide",
+        "similarity": 0.091
+      }
+    },
+    {
+      "slug": "mens-wardrobe-photo-inventory-guide",
+      "title": "3040 남성을 위한 옷장 사진 기록으로 중복 구매를 줄이는 5단계",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 58
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-garment-odor-care-guide",
+        "similarity": 0.107
+      }
+    },
+    {
+      "slug": "mens-watch-outfit-pairing-guide",
+      "title": "3040 남성을 위한 옷차림에 맞는 손목시계 크기·스트랩 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-funeral-attire-guide",
+        "similarity": 0.158
+      }
+    },
+    {
+      "slug": "mens-weekend-bookstore-outfit-guide",
+      "title": "3040 남성을 위한 주말 서점 나들이 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-park-outing-dad-outfit-guide",
+        "similarity": 0.263
+      }
+    },
+    {
+      "slug": "mens-weekend-brunch-outfit-guide",
+      "title": "3040 남성을 위한 주말 브런치 약속 옷차림 가이드",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-family-gathering-outfit-guide",
+        "similarity": 0.214
+      }
+    },
+    {
+      "slug": "mens-weekend-farmers-market-outfit-guide",
+      "title": "3040 남성을 위한 주말 파머스 마켓 옷차림: 이동과 장보기를 고려한 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-valley-daytrip-outfit-guide",
+        "similarity": 0.212
+      }
+    },
+    {
+      "slug": "mens-weekend-overnight-trip-outfit-guide",
+      "title": "3040 남성을 위한 도심 근교 주말 1박 여행 옷차림 5가지 기준",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-family-gathering-outfit-guide",
+        "similarity": 0.176
+      }
+    },
+    {
+      "slug": "mens-weight-change-wardrobe-guide",
+      "title": "3040 남성을 위한 체중 변화 뒤 옷장 재정비 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-wardrobe-budget-guide",
+        "similarity": 0.077
+      }
+    },
+    {
+      "slug": "mens-wet-suede-shoe-care-guide",
+      "title": "3040 남성을 위한 비에 젖은 스웨이드 신발 관리: 말리기 전 확인할 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 15
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-new-shirt-first-wash-guide",
+        "similarity": 0.125
+      }
+    },
+    {
+      "slug": "mens-wine-tasting-outfit-guide",
+      "title": "3040 남성을 위한 와인 테이스팅 옷차림 가이드",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-client-meeting-outfit-guide",
+        "similarity": 0.231
+      }
+    },
+    {
+      "slug": "mens-winter-glove-selection-guide",
+      "title": "3040 남성을 위한 겨울 장갑 선택·코디 기준 5가지",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [
+        {
+          "code": "unreadable_example",
+          "line": 43
+        }
+      ],
+      "afterIssues": [],
+      "removedBodyImages": 1,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-boot-selection-styling-guide",
+        "similarity": 0.333
+      }
+    },
+    {
+      "slug": "mens-winter-wedding-guest-outerwear-guide",
+      "title": "3040 남성을 위한 겨울 결혼식 하객 아우터 선택 가이드",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-summer-wedding-guest-guide",
+        "similarity": 0.286
+      }
+    },
+    {
+      "slug": "mens-wool-coat-pilling-care-guide",
+      "title": "3040 남성을 위한 울 코트 보풀 관리: 착용·제거·보관 전 5가지 기준",
+      "published": true,
+      "changed": true,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-knit-pilling-care-guide",
+        "similarity": 0.211
+      }
+    },
+    {
+      "slug": "mens-work-bag-selection-guide",
+      "title": "3040 남성을 위한 출근 가방 선택 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-early-autumn-sock-weight-guide",
+        "similarity": 0.154
+      }
+    },
+    {
+      "slug": "mens-work-dinner-outfit-guide",
+      "title": "3040 남성을 위한 직장 회식 옷차림 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-new-job-first-day-outfit-guide",
+        "similarity": 0.273
+      }
+    },
+    {
+      "slug": "mens-work-weekend-wardrobe-guide",
+      "title": "3040 남성을 위한 일과 주말을 잇는 옷장 구성 기준 5가지",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": true,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-open-collar-shirt-guide",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "rainy-season-office-look",
+      "title": "장마철 남성 오피스룩",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "summer-office-look",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "summer-office-look",
+      "title": "여름 오피스룩 제안",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "rainy-season-office-look",
+        "similarity": 0.25
+      }
+    },
+    {
+      "slug": "summer-resort-top5",
+      "title": "2026 여름 휴양지에서 빛나는 남성 패션 탑5 코디",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "mens-boot-selection-styling-guide",
+        "similarity": 0.04
+      }
+    },
+    {
+      "slug": "working-with-agent-team",
+      "title": "이번 시즌 무드 — 절제된 따뜻함",
+      "published": true,
+      "changed": false,
+      "rewritten": false,
+      "beforeIssues": [],
+      "afterIssues": [],
+      "removedBodyImages": 0,
+      "lostSourceUrls": [],
+      "preservedMetadata": true,
+      "titleTemplate": false,
+      "action": "보강 검토",
+      "reason": "기계 점검만 완료; 독창성·실제 사례·제목의 질문 충족 여부는 편집 검토 필요",
+      "nearestTitle": {
+        "slug": "draft-post-example",
+        "similarity": 0.048
+      }
+    }
+  ]
+}
