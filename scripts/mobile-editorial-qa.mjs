@@ -42,6 +42,8 @@ if (allPosts) {
 const records = [];
 try {
   await cdp("Page.enable");
+  await cdp("Page.bringToFront");
+  await cdp("Emulation.setFocusEmulationEnabled", {enabled:true});
   for (const width of (allPosts ? [320] : [320, 390, 768])) {
     await cdp("Emulation.setDeviceMetricsOverride", { width, height: 844, deviceScaleFactor: 1, mobile: true });
     for (const url of urls) {
@@ -55,7 +57,8 @@ try {
           else setTimeout(check, 100);
         }; check();
       })`);
-      await evaluate("document.fonts.ready.then(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))))");
+      // Background Chrome can suspend animation frames; do not wait on rAF.
+      await evaluate("document.fonts.ready.then(() => true)");
       await evaluate(`Promise.all([...document.images].map(async img => { img.loading = 'eager'; await Promise.race([img.decode().catch(()=>null), new Promise(r=>setTimeout(r,10000))]); }))`);
       const metrics = await evaluate(`({url:location.href, width:innerWidth, documentWidth:document.documentElement.scrollWidth,
         h1:document.querySelector('h1')?.textContent,
