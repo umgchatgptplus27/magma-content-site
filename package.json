@@ -10,7 +10,7 @@
     "lint": "eslint",
     "preflight": "node scripts/preflight.mjs",
     "check:publication": "node scripts/check-publication-quality.mjs",
-    "test:editorial": "node --test scripts/content-quality.test.mjs scripts/blog-pagination.test.mjs"
+    "test:editorial": "node --test scripts/content-quality.test.mjs scripts/blog-pagination.test.mjs scripts/responsive-tables.test.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

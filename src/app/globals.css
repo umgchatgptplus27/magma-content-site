@@ -45,7 +45,9 @@ p { text-wrap: pretty; }
 .post-body pre { @apply bg-card border border-line rounded-ui p-4 overflow-x-auto my-6; }
 .post-body pre code { @apply border-0 bg-transparent p-0; }
 .post-body img { @apply max-w-full rounded-ui my-6; }
-.post-body table { @apply w-full my-6 text-sm; }
+.post-body .table-scroll { @apply max-w-full overflow-x-auto my-6; }
+.post-body .table-scroll:focus-visible { @apply outline-2 outline-offset-2 outline-primary; }
+.post-body table { @apply w-full min-w-[36rem] text-sm; }
 .post-body th, .post-body td { @apply border border-line px-3 py-2 text-left; }
 
 /* 에디토리얼 레이아웃 헬퍼 (rev2) */

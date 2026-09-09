@@ -61,7 +61,10 @@ export async function renderMarkdown(md: string): Promise<string> {
     .use(remarkGfm)
     .use(remarkHtml, { sanitize: true })
     .process(stripLeadingH1(md));
-  return String(out);
+  // Wrap only sanitized, renderer-generated tables; preserve table semantics.
+  return String(out)
+    .replaceAll("<table>", '<div class="table-scroll" role="region" aria-label="비교표 — 가로로 스크롤할 수 있습니다" tabindex="0"><table>')
+    .replaceAll("</table>", "</table></div>");
 }
 
 function readDoc(collection: Collection, filename: string): ContentDoc | null {
