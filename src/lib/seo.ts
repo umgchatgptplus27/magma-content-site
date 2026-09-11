@@ -25,6 +25,8 @@ export function pageMetadata({
   return {
     title,
     description,
+    authors: [{ name: `${SITE_NAME} 편집부` }],
+    publisher: SITE_NAME,
     alternates: { canonical: path },
     openGraph: {
       type,
