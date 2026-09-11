@@ -7,7 +7,6 @@ thumbnail: "/images/mens-autumn-barbershop-outfit-guide-thumbnail.webp"
 draft: false
 ---
 
-# 가을 바버숍 방문을 위한 3040 남성 옷차림: 앉고 벗고 다시 입기 편한 5가지 기준
 
 바버숍에 갈 때 무엇을 입을지 고민하면 재킷이나 신발부터 떠올리기 쉽습니다. 하지만 실제 방문에는 대기와 이동이 있고, 외투를 벗고 앉거나 목 주변을 맡기는 시간이 있습니다. 나온 뒤에는 옷과 가방의 상태를 살펴야 합니다.
 

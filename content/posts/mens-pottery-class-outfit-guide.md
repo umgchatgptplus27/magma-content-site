@@ -7,7 +7,6 @@ thumbnail: "/images/mens-pottery-class-outfit-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 주말 도예 클래스 옷차림 가이드
 
 주말 도예 클래스에 가는 날, 옷장에서 오래 머물게 됩니다. 너무 가볍게 입으면 수업 뒤의 약속이 걸리고, 너무 차려입으면 공방의 분위기와 동선이 신경 쓰입니다. 답은 특정 셔츠나 신발 한 켤레에 있지 않습니다.
 

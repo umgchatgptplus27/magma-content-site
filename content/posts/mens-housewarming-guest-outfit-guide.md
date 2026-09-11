@@ -7,7 +7,6 @@ thumbnail: "/images/mens-housewarming-guest-outfit-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 집들이 초대 옷차림 5가지 기준
 
 집들이는 현관 앞에서 끝나는 약속이 아닙니다. 신발을 벗고, 앉아 대화하고, 식사를 하거나 선물을 건네는 시간까지 이어집니다. 그렇다고 새 옷이나 정답 복장을 찾을 필요는 없습니다. 초대의 맥락을 먼저 읽고, 지금 가진 옷에서 한 단계만 정돈하면 됩니다.
 

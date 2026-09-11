@@ -7,7 +7,6 @@ thumbnail: "/images/mens-tie-knot-collar-proportion-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 넥타이 매듭과 셔츠 칼라 비율: 중요한 미팅 전 5가지 점검
 
 중요한 미팅이 있는 아침에는 매듭 하나가 평소보다 크게 느껴집니다. 칼라가 벌어진 것 같은데 다시 묶어야 할지, 재킷까지 입으면 타이가 너무 짧아 보일지 망설이기도 합니다.
 

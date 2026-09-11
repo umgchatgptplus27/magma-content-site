@@ -7,7 +7,6 @@ thumbnail: "/images/mens-corduroy-trouser-styling-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 코듀로이 팬츠 코디: 질감·색·실루엣을 조절하는 5가지 기준
 
 코듀로이 팬츠를 꺼내 놓고도, 막상 무엇과 입을지 망설일 때가 있습니다. 팬츠 자체의 표면감이 분명한 만큼 상의·신발·아우터까지 한꺼번에 결정하면 한 벌의 밀도가 쉽게 흐트러집니다.
 

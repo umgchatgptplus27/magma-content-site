@@ -7,7 +7,6 @@ thumbnail: "/images/mens-denim-trouser-first-wash-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성 데님 팬츠 첫 세탁 전 확인할 5가지 기준
 
 새 데님 팬츠를 꺼낸 날에는 세탁할지, 먼저 입을지부터 망설이기 쉽습니다. 진한 색이나 ‘생지’, ‘워싱’ 같은 표기만으로 답을 정하기도 어렵습니다. 팬츠마다 섬유 구성과 가공, 부자재, 제조사 안내가 다를 수 있기 때문입니다.
 

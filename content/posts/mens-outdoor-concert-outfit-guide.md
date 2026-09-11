@@ -7,7 +7,6 @@ thumbnail: "/images/mens-outdoor-concert-outfit-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 야외 스탠딩 콘서트 옷차림 기준 5가지
 
 야외 스탠딩 콘서트를 앞두면, 무엇을 살지보다 어디에 언제 가는지부터 확인할 일입니다. 입장 전 대기와 이동, 공연 뒤 귀가까지 하루의 길이가 생각보다 길 수 있습니다. 그렇다고 공연을 위해 평소의 자신과 다른 옷을 갖출 필요는 없습니다.
 

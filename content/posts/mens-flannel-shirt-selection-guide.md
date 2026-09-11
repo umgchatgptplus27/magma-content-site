@@ -7,7 +7,6 @@ thumbnail: "/images/mens-flannel-shirt-selection-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 플란넬 셔츠 선택: 두께·무늬·출근 경계 5가지 기준
 
 환절기에 플란넬 셔츠를 집어 들면 두께와 체크가 먼저 보입니다. 출근해도 되는지, 세탁하면 형태가 바뀌는지, 이미 가진 팬츠와 맞는지. 질문은 많은데 손끝의 감촉만으로는 답이 잘 나지 않습니다.
 

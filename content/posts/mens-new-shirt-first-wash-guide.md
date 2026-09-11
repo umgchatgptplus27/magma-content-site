@@ -7,7 +7,6 @@ thumbnail: "/images/mens-new-shirt-first-wash-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 새 셔츠 첫 세탁 전 확인할 5가지 기준
 
 새 셔츠를 꺼내면 곧바로 세탁할지, 먼저 입을지 망설일 수 있습니다. 하지만 ‘새것’이라는 상태만으로 관리법이 정해지지는 않습니다. 색과 촉감, 익숙한 생활 팁도 답이 되기엔 부족합니다.
 

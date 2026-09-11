@@ -7,7 +7,6 @@ thumbnail: "/images/mens-first-pilates-class-outfit-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성 첫 필라테스 수업 옷차림: 움직임과 출근 후 전환을 고려한 5가지 기준
 
 퇴근 뒤 수업이 처음이라면 운동복을 새로 고르는 일부터 앞세울 필요는 없습니다. 먼저 예약 안내를 보고, 수업에서 움직일 때의 상태와 수업 뒤 갈아입을 순서를 나눠 두는 편이 실용적입니다.
 

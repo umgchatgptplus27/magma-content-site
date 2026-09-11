@@ -7,7 +7,6 @@ thumbnail: "/images/mens-leather-jacket-seasonal-care-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 가죽 재킷 첫 착용 전 점검: 보관·표면·이너를 살피는 5가지 기준
 
 계절이 바뀌면 재킷부터 꺼내게 됩니다. 이때 서두를 일은 관리 제품을 고르는 일이 아니라, 내 재킷이 어떤 안내를 따르는지와 보관 뒤 무엇이 달라졌는지를 차례로 보는 일입니다.
 

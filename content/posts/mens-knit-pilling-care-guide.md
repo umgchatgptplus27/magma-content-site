@@ -7,7 +7,6 @@ thumbnail: "/images/mens-knit-pilling-care-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 니트 보풀 관리와 오래 입는 기준
 
 출근 전 니트를 꺼냈는데 팔꿈치나 옆선의 표면이 전과 달라 보일 때가 있습니다. 제거기를 꺼내기에도, 그대로 입기에도 마음이 걸립니다. 보풀은 착용 중 마찰과 접촉이 반복되는 부위에서 눈에 띄기 쉽지만, 보풀이 보인다는 사실만으로 옷의 상태나 수명을 단정할 수는 없습니다. [Woolmark의 안내](https://www.woolmark.com/care/pilling)는 팔꿈치·겨드랑이·소매·배·옆선처럼 반복 접촉이 생기는 위치를 예로 듭니다.
 

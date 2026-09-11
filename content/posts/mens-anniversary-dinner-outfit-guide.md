@@ -7,7 +7,6 @@ thumbnail: "/images/mens-anniversary-dinner-outfit-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 기념일 레스토랑 저녁 옷차림 기준 5가지
 
 기념일 저녁을 예약한 날에는 평소보다 한 번 더 옷장을 보게 됩니다. 장소에는 예의를 갖추고 싶지만, 낯선 정장을 빌려 입은 듯한 모습도 피하고 싶습니다. 이때 필요한 것은 새 옷 목록보다 약속을 읽는 순서입니다.
 

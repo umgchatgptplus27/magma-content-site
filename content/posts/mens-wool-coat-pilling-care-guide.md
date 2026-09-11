@@ -7,7 +7,6 @@ thumbnail: "/images/mens-wool-coat-pilling-care-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 울 코트 보풀 관리: 착용·제거·보관 전 5가지 기준
 
 울 코트에서 보풀을 보면 손이 먼저 갑니다. 하지만 관리의 첫 순서는 제거가 아닙니다. 이 코트가 허용하는 관리 범위가 무엇인지, 보풀이 어느 자리에 언제 보였는지, 이미 무엇을 했는지를 나눠 보는 편이 낫습니다.
 

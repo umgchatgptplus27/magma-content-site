@@ -7,7 +7,6 @@ thumbnail: "/images/mens-linen-blazer-selection-guide-thumbnail.webp"
 draft: false
 ---
 
-# 3040 남성을 위한 여름 리넨 블레이저 선택: 출근과 저녁 약속을 잇는 5가지 기준
 
 여름 출근일에 블레이저를 꺼낼 때의 망설임은 소재명 하나로 끝나지 않습니다. 오전의 업무, 이동, 퇴근 뒤의 식사나 전시, 가벼운 모임까지 떠올리면 이너와 팬츠, 신발, 벗어 둘 때의 관리가 함께 따라옵니다.
 
