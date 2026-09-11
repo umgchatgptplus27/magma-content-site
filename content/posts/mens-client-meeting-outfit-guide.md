@@ -14,13 +14,23 @@ thumbnail: "/images/mens-client-meeting-outfit-guide-thumbnail.webp"
 
 고객·건물·시설의 복장, 보호구, 출입, 촬영, 보안과 접근성 지침은 이 글보다 앞섭니다. 종교적 복장, 성별 표현, 장애·보조기기, 통증·호흡·피부·감각 요구도 시각적으로 덜어 낼 요소가 아닙니다. 옷차림은 신뢰나 협상력, 계약 성과를 보장하지 않습니다. 아래 조합은 독자가 가진 옷을 비교하기 위한 편집 예시이며 MAGMA 제품의 출시나 판매를 뜻하지 않습니다.
 
+| 단계 | 확인 | 선택 |
+| --- | --- | --- |
+| 목적·공식 조건 | 초대, 출입·보호구·촬영 | 문의 / 보류 |
+| 한 벌 구조 | 재킷 입고 벗기 | 한 품목만 변경 |
+| 동작·도구 | 인사·착석·자료 | 가방 위치 / 수선 상담 |
+| 정보량 | 패턴·광택·로고 | 한 요소만 덜기 |
+| 이동·도착 | 날씨, 보관, 시설 전환 | 신발·레이어 조정 |
+
+보호구와 출입 안내는 스타일 제안보다 앞섭니다.
+
 ## 1. 옷보다 먼저 미팅의 목적과 공식 조건을 적습니다
 
 첫 단계에서는 옷장을 열지 않습니다. 초대 메일과 캘린더, 방문 신청 페이지를 한곳에 놓습니다. `첫 소개 / 제안·데모 / 킥오프 / 진행 리뷰 / 문제 해결 / 협상 / 고객사 방문 / 시설 이동` 가운데 실제 목적을 표시하고 참석자와 자신의 역할을 적습니다. 상대의 직급은 복장 지시로 바꾸지 않습니다. 발표와 자료 시연, 화상 연결, 촬영, 식사처럼 미팅 전후에 붙은 일정도 따로 표시합니다.
 
-장소는 더 구체적으로 봅니다. 자사 초청인지 고객사 방문인지, 중립 회의실이나 호텔인지, 시설 투어가 포함되는지 확인합니다. 건물의 출입 절차와 가방·노트북 반입, 방문증, 촬영·녹음, 외투 보관, 보호구와 신발 전환 안내를 찾습니다. 실제 방문 시설에는 서로 다른 조건이 있습니다. 한국 [정부청사 출입보안지침](https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000265082)은 방문 신청·신분 확인·방문증과 반입물 통제 절차를 두고 [대법원 보안검색 안내](https://www.scourt.go.kr/supreme/building/security/index.html)는 사람과 가방의 검색을 설명합니다. 이런 규정은 모든 고객사의 공통 절차가 아니라 장소별 안내를 직접 확인해야 한다는 사례입니다.
+장소는 더 구체적으로 봅니다. 자사 초청인지 고객사 방문인지, 중립 회의실이나 호텔인지, 시설 투어가 포함되는지 확인합니다. 건물의 출입 절차와 가방·노트북 반입, 방문증, 촬영·녹음, 외투 보관, 보호구와 신발 전환 안내를 찾습니다. 실제 방문 시설에는 서로 다른 조건이 있습니다. 한국 [정부청사 출입보안지침](https://www.law.go.kr/법령/정부청사출입보안지침)은 방문 신청·방문증·반입물 통제를 다루는 행정규칙 사례입니다. 확인일 기준 본문에 쓰던 특정 훈령 페이지는 현행이 아니었고, [행정안전부 훈령 제454호(2026-07-29 시행) 개정 알림](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000016&nttId=128632)이 있습니다. [대법원 보안검색 안내](https://www.scourt.go.kr/supreme/building/security/index.html)는 사람과 가방의 검색을 설명합니다. 이런 규정은 모든 고객사의 공통 절차가 아니라 장소별 안내와 현행 원문을 직접 확인해야 한다는 사례입니다.
 
-일반 회의실과 생산 시설도 나눕니다. [SL의 방문 신청·방문자 안전 안내](https://visit.slworld.com/SLVisits/Create)는 해당 생산공정에서 특정 복장을 제한하고 위험에 맞는 보호구, 직원 동행과 보안 절차를 요구합니다. 이 규정을 다른 회사의 일반 사무 미팅에 적용하지 않습니다. 반대로 시설 규정이 있는 장소에서는 네이비 재킷이나 더비가 단정해 보여도 보호구와 공식 신발을 대신할 수 없습니다.
+일반 회의실과 생산 시설도 나눕니다. [SL 방문 신청 페이지](https://visit.slworld.com/SLVisits/Create)는 공장·방문 목적, 노트북 반입, 보안·안전 서약을 받는 창구입니다. 확인일 기준 이 화면만으로 생산공정별 복장·보호구 목록을 확정할 수는 없습니다. 해당 공장의 안내와 서약문이 이 글보다 앞섭니다. 이 절차를 다른 회사의 일반 사무 미팅에 적용하지 않습니다. 반대로 시설 규정이 있는 장소에서는 네이비 재킷이나 더비가 단정해 보여도 보호구와 공식 신발을 대신할 수 없습니다.
 
 안내가 `단정한 복장`이나 `비즈니스 캐주얼`에서 끝나면 수트와 넥타이를 추정해서 더하지 않습니다. 필요한 항목만 짧게 묻습니다.
 
@@ -114,10 +124,11 @@ thumbnail: "/images/mens-client-meeting-outfit-guide-thumbnail.webp"
 
 ## 출처 링크
 
-- [행정안전부·국가법령정보센터 — 정부청사 출입보안지침](https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000265082)
+- [법제처 국가법령정보센터 — 정부청사 출입보안지침](https://www.law.go.kr/법령/정부청사출입보안지침)
+- [행정안전부 — 정부청사 출입보안지침 일부개정 알림(훈령 제454호, 2026.7.29. 시행)](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000016&nttId=128632)
 - [대한민국 대법원 — 보안검색 안내](https://www.scourt.go.kr/supreme/building/security/index.html)
 - [국립중앙박물관 — 관람시 유의사항](https://www.museum.go.kr/MUSEUM/contents/M0101000000.do)
-- [SL Corporation — 방문신청·방문자 안전·보안 안내](https://visit.slworld.com/SLVisits/Create)
+- [SL Corporation — 방문신청](https://visit.slworld.com/SLVisits/Create)
 - [U.S. Capitol Visitor Center — Prohibited Items](https://www.visitthecapitol.gov/visit/know-before-you-go/prohibited-items)
 - [Yale School of Management — What Does Business Casual Really Mean in 2023?](https://cdo.som.yale.edu/blog/2023/09/18/what-does-business-casual-really-mean-in-2023/)
 - [Yale Office of Career Strategy — Interview Attire](https://ocs.yale.edu/channels/interview-attire/)
