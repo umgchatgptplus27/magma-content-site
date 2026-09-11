@@ -72,7 +72,7 @@ thumbnail: "/images/mens-trouser-pocket-selection-guide-thumbnail.webp"
 
 기준 착장은 `웜 오프화이트 셔츠 + 미드 네이비 홉색 재킷 + 미드 그레이 트라우저 + 다크 브라운 더비 + 작은 무광 스틸 시계`로 둡니다. 첫 회차에는 재킷을 여미고 포켓을 비웁니다. 다음 회차에는 재킷과 벨트·신발을 그대로 두고 앞포켓에 물건 하나만 넣습니다. 화면이 꺼진 무지 휴대전화 모형을 쓰면 개인정보 노출을 줄일 수 있습니다. 재킷·벨트·소지품·신발을 함께 바꾸면 어느 조건이 입구와 옆선을 움직였는지 가르기 어렵습니다.
 
-앉기와 보행은 포켓 주변 상태를 바꿀 수 있습니다. [Proper Cloth의 피팅 안내](https://propercloth.com/reference/how-to-evaluate-your-casual-pant-fit/)도 앉거나 쪼그릴 때 허벅지와 포켓 주변의 여유가 달라질 수 있으므로 움직임을 확인하라고 안내합니다. 다만 특정 포켓 구조의 접근 속도나 보편 적정 용량을 비교한 공개 통제 시험은 Oliver 조사에서 확인되지 않았습니다. 숫자보다 같은 조건의 반복 관찰을 씁니다.
+앉기와 보행은 포켓 주변 상태를 바꿀 수 있습니다. [Proper Cloth의 피팅 안내](https://propercloth.com/reference/how-to-evaluate-your-casual-pant-fit/)도 앉거나 쪼그릴 때 허벅지와 포켓 주변의 여유가 달라질 수 있으므로 움직임을 확인하라고 안내합니다. 다만 특정 포켓 구조의 접근 속도나 보편 적정 용량을 비교한 공개 통제 시험은 공개 자료에서 확인되지 않았습니다. 숫자보다 같은 조건의 반복 관찰을 씁니다.
 
 뒷포켓에 지갑을 넣고 오래 앉는 상황은 범위를 좁혀 말해야 합니다. [소규모 증례 연구](https://pubmed.ncbi.nlm.nih.gov/28294069/)와 [특정 환자를 위한 병원 안내](https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/patients-guide-deep-gluteal-syndrome)는 장시간 뒷포켓 물건의 압박을 피하도록 설명합니다. 모든 사람의 질환 위험이나 안전한 시간·두께를 정하는 근거는 아닙니다. 통증·저림·감각 변화·보행 제한이 생기면 물건을 빼고 시험을 중단합니다. 증상이 지속되거나 심하면 의복 팁보다 적절한 의료 확인을 우선합니다.
 

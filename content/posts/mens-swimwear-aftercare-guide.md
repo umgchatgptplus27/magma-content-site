@@ -57,8 +57,7 @@ draft: false
 
 오늘 할 일은 세 가지면 충분합니다. 라벨을 사진이나 메모로 남깁니다. 현재 상태와 이미 한 처리를 적습니다. 라벨과 제품 안내가 맞지 않거나 상태가 불분명하면 추가 처리를 멈추고 제조사·판매처·전문 세탁에 물을 질문 하나를 정합니다. 익숙한 팁보다 그 수영복에 적힌 정보를 놓치지 않는 편이 다음 판단을 가볍게 합니다.
 
-## 출처
-
+## 출처 링크
 [1] https://www.ginetex.net/gb/labelling/care-symbols.asp — GINETEX care symbols
 [2] https://speedo.com/pages/size-guides — Speedo care guidance
 [3] https://www.lycra.com/en/business/news/discover-secret-durable-swimwear — The LYCRA Company swimwear guidance

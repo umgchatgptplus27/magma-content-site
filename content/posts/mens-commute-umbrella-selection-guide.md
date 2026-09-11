@@ -124,8 +124,7 @@ BLUNT는 `Diameter`, Fulton은 `Span when open`을 씁니다.[11][14][15] 판매
 
 좋은 출근용 우산은 가장 비싸 보이는 물건이 아닙니다. 오늘의 이동과 옷을 방해하지 않으며 다음 사용까지 관리 가능한 조건이 남는 물건입니다.
 
-## Sources
-
+## 출처 링크
 [1] https://www.weather.go.kr/w/hazard/safety-guide/heavy-rain.do
 [2] https://www.weather.go.kr/w/hazard/safety-guide/lightning.do
 [3] https://www.weather.go.kr/w/hazard/safety-guide/strong-wind.do

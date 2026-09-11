@@ -94,4 +94,4 @@ draft: false
 - [AP 배포 기사(LA Times 계열), Seat belts and wrinkles](https://greensboro.com/article_c4d06cb5-3dd8-53cf-96ad-d51bf79dc3e8.html) — 안전벨트 구김 사례와 NHTSA의 벨트 조작 금지 발언
 - [캐나다 보존연구소(CCI), Hanging Storage for Costumes](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/hanging-storage-costumes.html) — 철사 옷걸이 지양·완충된 옷걸이·10cm 간격 (박물관 보존 기준)
 
-> 출처 적용 범위: GINETEX·ISO·CCI·Woolmark는 표준기구·공공기관·섬유 전문기관 자료이고, UNIQLO·Suitsupply·Ralph Lauren은 각 브랜드의 자사 제품 관점 안내입니다. 이 글은 특정 브랜드·제품·관리 도구를 추천하지 않으며, 울·리넨 한정 안내를 모든 소재의 재킷으로 확장하지 않습니다. 한국 관리표시 표준(KS K 0021)의 공식 문구와 대중교통 좌석·가방 끈 눌림에 대한 공신력 있는 원문은 이번 조사에서 확보되지 않았으므로, 해당 부분은 사실 주장 대신 독자의 관찰 과제로 두었습니다.
+> 출처 적용 범위: GINETEX·ISO·CCI·Woolmark는 표준기구·공공기관·섬유 전문기관 자료이고, UNIQLO·Suitsupply·Ralph Lauren은 각 브랜드의 자사 제품 관점 안내입니다. 이 글은 특정 브랜드·제품·관리 도구를 추천하지 않으며, 울·리넨 한정 안내를 모든 소재의 재킷으로 확장하지 않습니다. 한국 관리표시 표준(KS K 0021)의 공식 문구와 대중교통 좌석·가방 끈 눌림에 대한 공신력 있는 원문은 확인한 공개 자료에서 확보되지 않았으므로, 해당 부분은 사실 주장 대신 독자의 관찰 과제로 두었습니다.

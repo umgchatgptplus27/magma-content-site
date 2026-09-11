@@ -22,7 +22,7 @@ thumbnail: "/images/mens-jacket-sleeve-pitch-fit-guide-thumbnail.webp"
 
 세트인 소매는 소매산을 암홀에 맞춰 이징하는 구조입니다. 평범한 세트인 소매에서는 어깨 끝에 눈에 띄는 개더 없이 매끄럽게 붙이는 것이 제작 기준으로 제시됩니다. 다만 셔츠형·래글런·기모노 소매에는 같은 표면 기준을 그대로 적용하지 않습니다.[2] 소매산의 작은 딤플 하나나 봉제선의 울음만 보고 피치 오류로 단정하지 않는 이유입니다.
 
-보편적인 각도나 주름 개수의 합격선도 두지 않습니다. Oliver의 조사에서는 모든 재킷에 적용할 소비자용 컷오프를 확인하지 못했습니다. 한 번 보인 선보다 같은 조건에서 반복되는 위치·방향·좌우 차이를 기록합니다. 검정이나 광택 원단이라면 부드러운 확산광과 일정한 노출로 다시 찍습니다.
+보편적인 각도나 주름 개수의 합격선도 두지 않습니다. 확인한 공개 자료에서는 모든 재킷에 적용할 소비자용 컷오프를 확인하지 못했습니다. 한 번 보인 선보다 같은 조건에서 반복되는 위치·방향·좌우 차이를 기록합니다. 검정이나 광택 원단이라면 부드러운 확산광과 일정한 노출로 다시 찍습니다.
 
 **구체 조합**  웜 오프화이트 포플린 셔츠에 무지 미드 네이비 울 재킷, 미드 그레이 울 트라우저, 다크 브라운 플레인토 더비와 작은 무광 스틸 시계를 맞춥니다. 재킷 포켓은 비우고 설계된 앞단추 하나를 잠근 컷과 연 컷을 따로 남깁니다.
 
@@ -124,8 +124,7 @@ thumbnail: "/images/mens-jacket-sleeve-pitch-fit-guide-thumbnail.webp"
 
 소매의 방향은 몸의 결함을 말하지 않습니다. 같은 사람이 같은 장면에서 입었을 때, 한 벌의 재킷이 얼마나 편안하고 단정하게 따라오는지를 보여 줍니다.
 
-## Sources
-
+## 출처 링크
 [1] https://www.threadsmagazine.com/project-guides/fit-and-sew-tops/the-sleeve-cap-seam-and-the-armscye
 [2] https://pubs.nmsu.edu/_c/C211/index.html
 [3] https://thelondonpatterncutter.co.uk/drafting-tailored-sleeve

@@ -72,7 +72,7 @@ thumbnail: "/images/mens-work-bag-selection-guide-thumbnail.webp"
 
 ## 5. 직급의 정답색보다 옷장과 일정에 반복해 봅니다
 
-가방은 단독 사진보다 옷 옆에서 더 많은 정보를 드러냅니다. 크기와 형태, 처짐, 스트랩 노출, 색의 명도, 광택과 질감이 아우터·팬츠·신발 사이에서 어떻게 이어지는지 볼 수 있습니다. 직급과 나이에 따라 가죽 브리프케이스나 검정을 처방할 객관적 표준은 이번 조사에서 확인되지 않았습니다. [MR PORTER](https://www.mrporter.com/en-gb/journal/fashion/the-most-stylish-office-bags-for-men-515022)와 [Permanent Style](https://www.permanentstyle.com/2021/09/if-you-only-had-five-bags-a-capsule-collection.html)도 업무 가방을 백팩·토트·브리프 등 여러 선택으로 다룹니다. 한 편집 사례일 뿐 한국의 모든 조직에 적용되는 격식 규칙은 아닙니다.
+가방은 단독 사진보다 옷 옆에서 더 많은 정보를 드러냅니다. 크기와 형태, 처짐, 스트랩 노출, 색의 명도, 광택과 질감이 아우터·팬츠·신발 사이에서 어떻게 이어지는지 볼 수 있습니다. 직급과 나이에 따라 가죽 브리프케이스나 검정을 처방할 객관적 표준은 확인한 공개 자료에서 확인되지 않았습니다. [MR PORTER](https://www.mrporter.com/en-gb/journal/fashion/the-most-stylish-office-bags-for-men-515022)와 [Permanent Style](https://www.permanentstyle.com/2021/09/if-you-only-had-five-bags-a-capsule-collection.html)도 업무 가방을 백팩·토트·브리프 등 여러 선택으로 다룹니다. 한 편집 사례일 뿐 한국의 모든 조직에 적용되는 격식 규칙은 아닙니다.
 
 자주 입는 아우터 3벌, 실제 장면 3개, 후보 가방 2개를 꺼냅니다. 아우터는 네이비 울 재킷, 토프 코튼 재킷, 차콜 가디건으로 잡아 봅니다. 장면은 일반 출근, 외부 미팅, 저녁 일정입니다. 가방 후보는 무광 다크 네이비의 각진 손잡이형과 짙은 올리브 직물의 부드러운 스트랩형입니다. 자연광에서 빈 가방과 실제 짐을 넣은 상태를 정면·측면·후면·착석으로 봅니다.
 

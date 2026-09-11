@@ -28,7 +28,7 @@ thumbnail: "/images/mens-sock-pairing-guide-thumbnail.webp"
 
 ## 2. 신발색은 목표가 아니라 마지막 경계로 봅니다
 
-검정 신발이라고 검정 양말이 자동으로 정해지는 것은 아닙니다. 이번 조사에서는 양말을 늘 신발색에 맞춰야 한다는 관습보다 바지 쪽에 연결하라는 근거가 더 강했습니다. [Gentleman’s Gazette](https://www.gentlemansgazette.com/beginners-combining-shoes-socks-pants/)는 양말과 신발을 비슷하게 만들면 천과 가죽의 경계가 흐려질 수 있다고 설명합니다. [FALKE의 남성 니하이 가이드](https://www.falke.com/sk_en/journal/knee-high-guide-men/)도 비즈니스 착장에서는 신발보다 바지와 조화시키거나 의도적으로 대비하는 방식을 제안합니다. 이는 한국의 모든 사무실에 적용되는 규정이 아니라 클래식 남성복과 브랜드 편집 자료에서 확인한 방향입니다.
+검정 신발이라고 검정 양말이 자동으로 정해지는 것은 아닙니다. 확인한 공개 자료에서는 양말을 늘 신발색에 맞춰야 한다는 관습보다 바지 쪽에 연결하라는 근거가 더 강했습니다. [Gentleman’s Gazette](https://www.gentlemansgazette.com/beginners-combining-shoes-socks-pants/)는 양말과 신발을 비슷하게 만들면 천과 가죽의 경계가 흐려질 수 있다고 설명합니다. [FALKE의 남성 니하이 가이드](https://www.falke.com/sk_en/journal/knee-high-guide-men/)도 비즈니스 착장에서는 신발보다 바지와 조화시키거나 의도적으로 대비하는 방식을 제안합니다. 이는 한국의 모든 사무실에 적용되는 규정이 아니라 클래식 남성복과 브랜드 편집 자료에서 확인한 방향입니다.
 
 차콜 슬랙스와 검정 더비를 예로 들어 봅니다. 검정 양말을 먼저 고정하지 말고 차콜 단색과 바지보다 조금 어두운 회색을 신습니다. 그다음 신발 입구에서 양말과 가죽이 하나의 검은 덩어리로 뭉치는지, 반대로 밝은 띠처럼 끊기는지 확인합니다. 경계가 너무 날카로우면 양말의 밝기를 한 단계 낮춥니다. 신발과 뭉치면서 바지와 끊긴다면 다시 바지 쪽 회색으로 돌아갑니다.
 

@@ -8,7 +8,7 @@ thumbnail: "/images/mens-trouser-center-crease-guide-thumbnail.webp"
 
 팬츠를 정면에서 보면 다리 앞쪽을 따라 내려오는 선이 먼저 눈에 들어옵니다. 어떤 선은 프레스로 잡혀 있습니다. 다른 선은 봉제로 고정돼 있습니다. 플리츠의 접힌 가장자리나 포장 중 생긴 선, 오래 입으며 생긴 주름도 비슷해 보일 수 있습니다. 사진 한 장만으로는 그 정체를 다 알기 어렵습니다.
 
-센터 크리스가 선명하면 격식을 갖춘 옷이라는 판단만으로는 부족합니다. 흐리거나 없는 선을 캐주얼로 묶는 기준도 충분하지 않습니다. Oliver의 조사 범위에서는 모든 팬츠와 장면에 적용되는 센터 크리스 의무 규칙을 확인하지 못했습니다. 공식 제품 사례만 보아도 [프레스선을 넣은 면 팬츠](https://www.neimanmarcus.com/p/incotex-mens-pressed-crease-cotton-trousers-prod288720032)와 [봉제 크리스를 쓴 스마트 캐주얼 팬츠](https://tailoredathlete.com/products/stitched-front-crease-trousers-in-black)가 함께 존재합니다. 그래서 제품의 역할과 공법, 착용 조건을 나눠 봅니다.
+센터 크리스가 선명하면 격식을 갖춘 옷이라는 판단만으로는 부족합니다. 흐리거나 없는 선을 캐주얼로 묶는 기준도 충분하지 않습니다. 확인한 공개 자료의 범위에서는 모든 팬츠와 장면에 적용되는 센터 크리스 의무 규칙을 확인하지 못했습니다. 공식 제품 사례만 보아도 [프레스선을 넣은 면 팬츠](https://www.neimanmarcus.com/p/incotex-mens-pressed-crease-cotton-trousers-prod288720032)와 [봉제 크리스를 쓴 스마트 캐주얼 팬츠](https://tailoredathlete.com/products/stitched-front-crease-trousers-in-black)가 함께 존재합니다. 그래서 제품의 역할과 공법, 착용 조건을 나눠 봅니다.
 
 선은 혼자 놓이지 않습니다. 팬츠의 허리와 밑위, 허벅지와 무릎, 밑단과 신발이 함께 움직입니다. 같은 팬츠도 착용 위치, 주머니 속 물건, 앉아 있는 시간에 따라 선의 경로가 달라 보일 수 있습니다. 반대로 정면에서 반듯해 보여도 걸은 뒤 한쪽으로 돌거나, 기존 선 옆에 두 번째 선이 남을 수 있습니다. 이때 원인을 몸이나 다림질 하나로 단정하지 않습니다.
 

@@ -120,8 +120,7 @@ thumbnail: "/images/mens-park-outing-dad-outfit-guide-thumbnail.webp"
 
 기억할 말은 다섯 가지면 충분합니다. `일정, 동작, 접촉, 날씨, 물건.` 단정함은 공원에서 흐트러지지 않는 연출이 아닙니다. 아이와 함께 움직이는 하루의 조건을 미리 읽습니다. 옷과 물건이 그 흐름을 방해하지 않는지도 차분히 확인합니다.
 
-## Sources
-
+## 출처 링크
 [1] https://www.guro.go.kr/contents/2026waterparks/1.html
 [2] https://www.guro.go.kr/contents/2026waterparks/4.html
 [3] https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do

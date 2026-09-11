@@ -116,8 +116,7 @@ thumbnail: "/images/mens-trouser-rise-selection-guide-thumbnail.webp"
 
 기억할 순서는 다섯 가지입니다. `위치, 측정, 세 방향, 움직임, 다음 행동.` 몸을 고칠 대상으로 두지 않습니다. 팬츠가 오늘의 생활에서 어디에 놓이고 어떻게 움직이는지 차분히 확인합니다.
 
-## Sources
-
+## 출처 링크
 [1] https://www.iso.org/standard/61686.html
 [2] https://cdn.standards.iteh.ai/samples/61686/d6f1d29d3ae94fd79871997a574038b9/ISO-8559-1-2017.pdf
 [3] https://pubs.nmsu.edu/_c/C227/index.html

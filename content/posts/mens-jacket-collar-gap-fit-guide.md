@@ -24,7 +24,7 @@ thumbnail: "/images/mens-jacket-collar-gap-fit-guide-thumbnail.webp"
 
 중앙에는 롤이 있고 양옆에는 틈이 생기는 등 두 현상이 함께 보일 수도 있습니다.[12]
 
-보편적인 센티미터 합격선은 두지 않습니다. Oliver의 조사에서도 모든 재킷에 적용할 숫자 기준은 확인되지 않았습니다. 얇은 틈이 특정 각도에서만 보이는지, 팔을 내린 정지 상태에서 계속 보이는지, 좌우 중 한쪽에서 반복되는지를 기록합니다. 검정 재킷과 흰 셔츠처럼 대비가 큰 조합이라면 같은 위치를 부드러운 자연광과 일정한 노출에서 다시 봅니다.
+보편적인 센티미터 합격선은 두지 않습니다. 확인한 공개 자료에서도 모든 재킷에 적용할 숫자 기준은 확인되지 않았습니다. 얇은 틈이 특정 각도에서만 보이는지, 팔을 내린 정지 상태에서 계속 보이는지, 좌우 중 한쪽에서 반복되는지를 기록합니다. 검정 재킷과 흰 셔츠처럼 대비가 큰 조합이라면 같은 위치를 부드러운 자연광과 일정한 노출에서 다시 봅니다.
 
 **구체 조합**  웜 오프화이트 옥스퍼드 셔츠에 미드 네이비 무지 울 재킷, 미드 그레이 울 트라우저, 다크 브라운 플레인토 더비와 작은 무광 스틸 시계를 맞춥니다. 셔츠 윗단추는 잠그고 넥타이는 매지 않습니다. 재킷 포켓은 비웁니다.
 
@@ -144,8 +144,7 @@ thumbnail: "/images/mens-jacket-collar-gap-fit-guide-thumbnail.webp"
 
 칼라는 몸의 결함을 말하는 자리가 아닙니다. 한 벌의 재킷이 지금의 자세와 움직임을 얼마나 자연스럽게 따라오는지 보여 주는 자리입니다.
 
-## Sources
-
+## 출처 링크
 [1] https://propercloth.com/reference/how-jacket-posture-should-fit
 [2] https://suitsupply.com/en-us/journal/how-it-should-fit-jacket.html
 [3] https://propercloth.com/reference/how-jacket-shoulder-slope-should-fit

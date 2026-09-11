@@ -76,3 +76,11 @@ GINETEX는 관리라벨이 품질 보증이 아니며 모든 관리 결과를 �
 헐거운 단추를 발견했을 때는 라벨과 오늘의 착용 장면을 먼저 봅니다. 단추와 주변 구조를 관찰한 뒤, 여밈과 가벼운 동작에서 한 조건만 비교합니다. 문의가 필요하다면 재킷과 정보를 함께 준비하고, 마지막에는 계속 착용·다른 재킷·문의·보류 가운데 다음 행동 하나를 정합니다.
 
 오늘은 세 가지만 해도 됩니다. 라벨과 기존 이력을 확인합니다. 단추 주변을 다른 단추와 비교해 짧게 메모합니다. 판단이 남으면 질문 하나를 적거나 다른 재킷을 고릅니다. 재킷의 단정함은 급하게 새것처럼 보이게 만드는 데 있지 않습니다. 지금 가진 옷을 읽고, 필요한 도움을 제때 연결하는 데서 시작합니다.
+
+## 출처 링크
+
+- [GINETEX Care Labelling](https://www.ginetex.net/GB/labelling/labelling.asp)
+- [Alteration Specialists — Repair vs Replace](https://www.alterationspecialists.com/repair-vs-replace-how-to-know-what-your-garment-needs/)
+- [Proper Cloth — Tailored vs Full Shoulder](https://propercloth.com/reference/tailored-vs-full-shoulder-armpit-fit/)
+- [The Black Tux — Three Piece Suit Guide](https://theblacktux.com/blogs/style/three-piece-suit-guide-how-to-wear-it-with-style)
+- [Lodenwalker Repair & Alteration Service](https://lodenwalker.com/en/Repair-Alteration-Service)
