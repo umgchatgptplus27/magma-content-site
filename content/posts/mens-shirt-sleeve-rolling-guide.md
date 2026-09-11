@@ -14,6 +14,17 @@ thumbnail: "/images/mens-shirt-sleeve-rolling-guide-thumbnail.webp"
 
 이 글은 일상에서 입는 긴소매 드레스 셔츠와 캐주얼 셔츠를 손으로 접는 교육형 가이드입니다. 산업안전·위생·의료·실험실·제복·행사 규정을 대신하지 않습니다. MAGMA 셔츠의 출시나 소매 구조, 원단, 기능을 뜻하지도 않습니다.
 
+
+| 단계 | 확인 | 선택 |
+| --- | --- | --- |
+| 1 | 장면·규정 | 한 조건만 / 문의 / 보류 |
+| 2 | 커프·플래킷 구조 | 한 조건만 / 문의 / 보류 |
+| 3 | 목표 높이 | 한 조건만 / 문의 / 보류 |
+| 4 | 접힘 폭·좌우 | 한 조건만 / 문의 / 보류 |
+| 5 | 움직임·시간 후 | 한 조건만 / 문의 / 보류 |
+
+아래 조합은 비교용 가상 사례입니다. 안내·라벨·안전이 있으면 표보다 앞섭니다.
+
 ## 1. 접기 전에 장면과 규정부터 확인합니다
 
 같은 셔츠라도 소매를 다루는 규칙은 장소와 활동에 따라 달라집니다. 영국 보건사회복지부의 [성인 돌봄 감염예방 지침](https://www.gov.uk/government/publications/infection-prevention-and-control-in-adult-social-care-settings/infection-prevention-and-control-resource-for-adult-social-care)은 개인 돌봄에서 팔꿈치 아래를 드러내도록 안내합니다. 반대로 미국 CDC의 [치과 개인보호구 지침](https://www.cdc.gov/dental-infection-control/hcp/dental-ipc-faqs/personal-protective-equipment.html)은 혈액이나 타액이 전완에 튈 수 있을 때 긴소매 가운이나 실험복으로 피부와 개인 의복을 덮도록 합니다. 소매 걷기의 높이를 사무실·의료·작업 장면에 한꺼번에 적용할 수 없는 이유입니다.

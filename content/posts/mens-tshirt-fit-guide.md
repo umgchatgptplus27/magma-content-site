@@ -15,6 +15,17 @@ thumbnail: "/images/mens-tshirt-fit-guide-thumbnail.webp"
 이 글은 일상 캐주얼과 세미포멀 옷장에서 단독 또는 이너로 입는 반소매 티셔츠를 중심으로 다룹니다. 직장과 행사에 별도 복장 규정이 있다면 그 기준이 먼저입니다. 통증, 호흡 불편, 지속적인 마찰이나 감각 불편이 생기면 외관 확인을 멈추고 옷을 벗으십시오. 사진만으로 주름이나 들뜸의 원인을 단정하지 않으며, MAGMA가 실제 티셔츠를 출시했거나 판매한다는 뜻도 아닙니다.
 
 
+
+| 단계 | 확인 | 선택 |
+| --- | --- | --- |
+| 1 | 단독·이너 역할 | 한 조건만 / 문의 / 보류 |
+| 2 | 목선 | 한 조건만 / 문의 / 보류 |
+| 3 | 어깨·소매 | 한 조건만 / 문의 / 보류 |
+| 4 | 가슴·몸판 | 한 조건만 / 문의 / 보류 |
+| 5 | 길이·밑단 | 한 조건만 / 문의 / 보류 |
+
+아래 조합은 비교용 가상 사례입니다. 안내·라벨·안전이 있으면 표보다 앞섭니다.
+
 ## 1. 핏 이름보다 먼저 단독·이너·레이어 역할을 정합니다
 
 `슬림`, `레귤러`, `릴랙스드`, `오버사이즈`는 모든 브랜드가 같은 치수와 구조로 쓰는 공통 규격이 아닙니다. 공식 제품 설명만 비교해도 차이가 보입니다. [Sunspel Classic T-shirt](https://eu.sunspel.com/products/mens-short-sleeve-crew-neck-t-shirt-white)는 자사 슬림핏을 단독과 베이스 레이어 용도로 설명합니다. 같은 브랜드의 [Relaxed Fit Heavyweight T-shirt](https://eu.sunspel.com/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa)는 여유 있는 핏과 넓은 크루넥 트림을 레이어링에 연결합니다. [유니클로 AIRism Cotton Oversized T-shirt](https://www.uniqlo.com/us/en/products/E465185-000/00)는 오버사이즈 컷에 드롭 숄더, 하프 슬리브, 좁은 크루넥을 함께 둡니다. 이름 하나가 몸판만 설명하는 것은 아닙니다.
