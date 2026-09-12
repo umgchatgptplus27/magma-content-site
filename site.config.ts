@@ -22,10 +22,9 @@ export const siteConfig: SiteConfig = {
     github: "https://github.com/dandacompany",
   },
   cta: {
-    // 6.3 「Bluekiwi 하네스 도구 소개 (SNS발행)」에서 구현·활성화하는 확장 슬롯
-    enabled: false,
-    label: "",
-    href: "",
+    enabled: true,
+    label: "가이드 전체 보기",
+    href: "/blog",
   },
   hero: {
     // 현재 홈 히어로는 정적 poster만 사용한다. 동영상 재도입은 실제 데스크톱 재생 검증 후 별도 결정한다.

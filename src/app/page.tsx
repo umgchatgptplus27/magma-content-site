@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 import SectionHeading from "@/components/SectionHeading";
 import PostCard from "@/components/PostCard";
 import ImageSlot from "@/components/ImageSlot";
+import Link from "next/link";
 import { siteConfig } from "@config";
 import { getAll } from "@/lib/content";
 import { pageMetadata } from "@/lib/seo";
@@ -15,7 +16,8 @@ export const metadata = pageMetadata({
 });
 
 export default function Home() {
-  const posts = getAll("posts").slice(0, 3);
+  const allPosts = getAll("posts");
+  const posts = allPosts.slice(0, 6);
   return (
     <>
       <Hero />
@@ -38,7 +40,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 최신 블로그 */}
+      {/* 최신 블로그 — 6개 */}
       <section className="container-page py-16">
         <SectionHeading eyebrow="저널" title="최신 글" href="/blog" cta="블로그 전체" />
         {posts.length === 0 ? (
@@ -52,7 +54,25 @@ export default function Home() {
         )}
       </section>
 
-
+      {/* 전체 가이드 수 + 탐색 유도 */}
+      <section className="border-t border-line">
+        <div className="container-page py-20 text-center">
+          <p className="eyebrow mb-4">콘텐츠 라이브러리</p>
+          <p className="font-display text-5xl font-bold text-primary sm:text-6xl">
+            {allPosts.length}
+            <span className="ml-2 text-2xl font-normal text-ink-sub sm:text-3xl">편의 가이드</span>
+          </p>
+          <p className="mt-5 text-ink-sub">
+            핏·소재·상황별 코디·의류 관리까지 — 3040 남성에게 필요한 패션 정보를 한곳에 정리했습니다.
+          </p>
+          <Link
+            href="/blog"
+            className="mt-8 inline-block rounded-ui border border-primary px-7 py-3 text-sm font-bold text-primary transition-colors hover:bg-primary hover:text-canvas"
+          >
+            전체 가이드 탐색하기
+          </Link>
+        </div>
+      </section>
     </>
   );
 }
