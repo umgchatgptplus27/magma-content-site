@@ -4,6 +4,10 @@ export function blogPageHref(page) {
   return page === 1 ? "/blog" : `/blog/page/${page}`;
 }
 
+export function topicPageHref(topicSlug, page) {
+  return page === 1 ? `/blog/topic/${topicSlug}` : `/blog/topic/${topicSlug}/page/${page}`;
+}
+
 export function blogPageCount(total) {
   return Math.max(1, Math.ceil(total / BLOG_PAGE_SIZE));
 }
@@ -13,3 +17,4 @@ export function parseBlogPage(value, total) {
   const page = Number(value);
   return Number.isSafeInteger(page) && page <= blogPageCount(total) ? page : null;
 }
+

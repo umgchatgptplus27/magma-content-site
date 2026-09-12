@@ -1,6 +1,6 @@
-import Link from "next/link";
 import BlogTopicNav from "@/components/BlogTopicNav";
 import PostCard from "@/components/PostCard";
+import PaginationNav from "@/components/PaginationNav";
 import type { ContentMeta } from "@/lib/content";
 import { BLOG_PAGE_SIZE, blogPageCount, blogPageHref } from "@/lib/blog-pagination.mjs";
 
@@ -25,21 +25,13 @@ export default function BlogListing({ posts, page = 1 }: { posts: ContentMeta[];
           {visiblePosts.map((post) => <PostCard key={post.slug} post={post} />)}
         </div>
       )}
-      {pageCount > 1 && (
-        <nav aria-label="블로그 페이지" className="mt-12 flex flex-wrap items-center gap-3">
-          {page > 1 && <Link href={blogPageHref(page - 1)} rel="prev" className="px-3 py-2 text-primary underline underline-offset-4">이전</Link>}
-          {Array.from({ length: pageCount }, (_, index) => index + 1).map((number) => (
-            <Link
-              key={number}
-              href={blogPageHref(number)}
-              aria-label={`${number}페이지`}
-              aria-current={number === page ? "page" : undefined}
-              className={`rounded-card border px-4 py-2 ${number === page ? "border-primary text-primary" : "border-line text-ink-sub hover:text-primary"}`}
-            >{number}</Link>
-          ))}
-          {page < pageCount && <Link href={blogPageHref(page + 1)} rel="next" className="px-3 py-2 text-primary underline underline-offset-4">다음</Link>}
-        </nav>
-      )}
+      <PaginationNav
+        page={page}
+        pageCount={pageCount}
+        getPageHref={blogPageHref}
+        ariaLabel="블로그 페이지"
+      />
     </div>
   );
 }
+
