@@ -5,7 +5,7 @@ import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "개인정보처리방침",
-  description: "MAGMA 웹사이트의 개인정보 수집·이용, 처리 위탁과 국외 이전, 광고 쿠키와 Google AdSense, 이용자 권리와 행사 방법을 안내합니다.",
+  description: "MAGMA의 개인정보 수집·이용, 처리 위탁과 국외 이전, 광고 쿠키, 이용자 권리와 행사 방법을 안내합니다.",
   path: "/privacy-policy",
 });
 

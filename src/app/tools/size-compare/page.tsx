@@ -7,7 +7,7 @@ import { absoluteUrl, pageMetadata } from "@/lib/seo";
 export const metadata: Metadata = pageMetadata({
   title: "옷 사이즈 비교 계산기와 신발·셔츠·바지 사이즈 환산표",
   description:
-    "잘 맞는 내 옷의 실측과 사려는 옷의 사이즈표를 입력하면 항목별 차이와 판단을 보여 주는 옷 사이즈 비교 계산기입니다. 신발 US·UK·EU·mm, 셔츠 목둘레, 바지 허리 인치 환산표도 함께 정리했습니다.",
+    "잘 맞는 내 옷 실측과 사이즈표를 비교해 차이를 알려 주는 옷 사이즈 계산기와 신발·셔츠·바지 사이즈 환산표입니다.",
   path: "/tools/size-compare",
 });
 

@@ -15,7 +15,7 @@ export const revalidate = 86400;
 
 export const metadata = pageMetadata({
   title: "3040 남성 패션·의류 관리 가이드",
-  description: "셔츠·바지·재킷 핏 기준부터 하객룩·조문 옷차림, 세탁과 수선까지. 3040 남성이 옷을 고르고 오래 입는 데 필요한 기준을 주제별로 정리합니다.",
+  description: "셔츠·바지·재킷 핏부터 하객룩·조문 옷차림, 세탁과 수선까지. 3040 남성의 옷 고르는 기준을 정리합니다.",
   path: "/",
   image: "/images/magma-hero-poster.png",
 });
