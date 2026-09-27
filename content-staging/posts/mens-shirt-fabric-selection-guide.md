@@ -4,7 +4,7 @@ description: "셔츠 원단 종류를 포플린, 옥스퍼드, 트윌, 리넨, �
 date: 2026-08-27
 updated: 2026-09-27
 tags: ["셔츠", "소재", "출근룩", "비즈니스 캐주얼", "세탁"]
-thumbnail: "/images/mens-shirt-fabric-selection-guide-thumbnail.webp"
+thumbnail: "/images/mens-shirt-fabric-selection-guide-look-1.webp"
 draft: false
 ---
 
@@ -82,7 +82,7 @@ draft: false
 
 ![네이비와 베이지 선이 교차하는 체크 플란넬 셔츠의 칼라와 앞판을 가까이 찍어 기모 표면의 보풀이 보이는 사진](/images/mens-flannel-shirt-selection-guide-look-2.webp)
 
-![좁은 복도에서 차콜 체크 플란넬 셔츠 위에 네이비 재킷을 입고 브라운 벨트와 그레이 울 바지를 맞춘 남성이 커프를 정리하는 사진](/images/mens-flannel-shirt-selection-guide-look-4.webp)
+![회색 반소매 티셔츠 위에 브라운 플란넬 셔츠를 걸치며 소매를 정리하는 남성 뒤로 체크 플란넬 셔츠 세 벌과 네이비 재킷이 걸려 있는 옷장 사진](/images/mens-flannel-shirt-selection-guide-look-1.webp)
 
 ## 데님·샴브레이 셔츠: 출근에 입는 조건
 

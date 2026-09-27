@@ -4,7 +4,7 @@ description: "면접 복장 남자 기준을 안내 문구별로 정리했습니
 date: 2026-08-26
 updated: 2026-09-27
 tags: ["면접", "재킷", "셔츠", "넥타이", "출근룩"]
-thumbnail: "/images/mens-career-interview-outfit-guide-thumbnail.webp"
+thumbnail: "/images/mens-career-interview-outfit-guide-look-4.webp"
 draft: false
 ---
 

@@ -7,6 +7,12 @@ import AdSenseLoader from "@/components/AdSenseLoader";
 import JsonLd from "@/components/JsonLd";
 import { SITE_NAME, SITE_URL } from "@/lib/seo";
 
+const { verification } = siteConfig;
+const otherVerification: Record<string, string> = {
+  ...(verification.naver ? { "naver-site-verification": verification.naver } : {}),
+  ...(verification.bing ? { "msvalidate.01": verification.bing } : {}),
+};
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
@@ -15,6 +21,10 @@ export const metadata: Metadata = {
   },
   description: siteConfig.company.description,
   alternates: { canonical: "/", types: { "application/rss+xml": "/feed.xml" } },
+  verification: {
+    ...(verification.google ? { google: verification.google } : {}),
+    ...(Object.keys(otherVerification).length ? { other: otherVerification } : {}),
+  },
   openGraph: {
     type: "website",
     url: "/",

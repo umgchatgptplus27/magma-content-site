@@ -58,7 +58,7 @@ Permanent Style은 구조적인 재킷도 데님과 입을 수 있지만 부드�
 
 무게도 한 가지가 아닙니다. Harris Tweed Hebrides는 원단을 superfine, featherweight, mediumweight처럼 무게별로 나눠 판매합니다. 실내 난방이 강한 사무실에 입는다면 가벼운 쪽이, 코트 없이 늦가을 외출에 입는다면 두꺼운 쪽이 맞습니다.
 
-![브라운 헤링본 트위드 재킷에 회색 크루넥 니트와 크림색 셔츠를 겹쳐 입은 남성이 거울 앞에서 재킷 앞섶을 잡고 매무새를 살피는 장면](/images/mens-tweed-jacket-selection-guide-look-2.webp)
+![크림색 버튼다운 셔츠 차림의 남성이 옷장 선반 앞 옷걸이에 건 브라운 트위드 재킷을 솔로 쓸어내리며 원단 결을 살피는 장면](/images/mens-tweed-jacket-selection-guide-look-5.webp)
 
 트위드는 관리가 쉬운 편입니다. Woolmark는 울 직물 의류를 입은 뒤 부드러운 옷솔로 결 방향을 따라 털고, 형태 있는 옷걸이에 걸어 다시 입기 전 24시간 쉬게 하라고 안내합니다. 장기 보관 전에는 음식 얼룩과 피지가 좀을 부를 수 있으니 깨끗하게 한 뒤 넣습니다.
 

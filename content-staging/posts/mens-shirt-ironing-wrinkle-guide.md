@@ -4,7 +4,7 @@ description: "셔츠 다림질 하는 법을 칼라에서 뒤판까지 순서대
 date: 2026-08-22
 updated: 2026-09-27
 tags: ["다림질", "셔츠", "재킷", "세탁"]
-thumbnail: "/images/mens-shirt-ironing-wrinkle-guide-thumbnail.webp"
+thumbnail: "/images/mens-new-shirt-first-wash-guide-look-4.webp"
 draft: false
 ---
 

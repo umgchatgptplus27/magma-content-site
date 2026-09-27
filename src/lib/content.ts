@@ -64,6 +64,8 @@ export async function renderMarkdown(md: string): Promise<string> {
     .process(stripLeadingH1(md));
   // Wrap only sanitized, renderer-generated tables; preserve table semantics.
   return String(out)
+    // 본문 이미지는 대표 이미지(LCP) 뒤에 화면에 가까워질 때 불러온다.
+    .replaceAll("<img ", '<img loading="lazy" decoding="async" ')
     .replaceAll("<table>", '<div class="table-scroll" role="region" aria-label="비교표 — 가로로 스크롤할 수 있습니다" tabindex="0"><table>')
     .replaceAll("</table>", "</table></div>");
 }

@@ -52,7 +52,7 @@ draft: false
 
 블랙타이는 규칙이 가장 분명한 드레스코드입니다. 영국 예절 기관 Debrett's가 설명하는 전통적인 구성은 다음과 같습니다.
 
-![검정 턱시도를 입은 남성이 거울 앞에 서서 재킷과 바지의 선을 확인하는 뒷모습과 거울 속 정면](/images/mens-black-tie-invitation-guide-look-2.webp)
+![흰 드레스 셔츠 차림의 남성이 새틴 라펠이 달린 검정 턱시도 재킷과 같은 원단의 바지를 탁자 위에 펼쳐 놓고 재킷 앞판을 정리하는 장면](/images/mens-black-tie-invitation-guide-look-1.webp)
 
 ### 재킷과 바지
 

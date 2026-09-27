@@ -4,7 +4,7 @@ description: "니트 게이지 뜻(3G·7G·12G)과 두께 차이, 셔츠·재킷
 date: 2026-08-02
 updated: 2026-09-27
 tags: ["니트", "소재", "핏", "사이즈", "온라인 쇼핑"]
-thumbnail: "/images/mens-knit-gauge-selection-guide-thumbnail.webp"
+thumbnail: "/images/mens-knit-gauge-selection-guide-look-5.webp"
 draft: false
 ---
 

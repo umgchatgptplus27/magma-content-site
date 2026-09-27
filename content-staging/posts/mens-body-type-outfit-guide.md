@@ -4,7 +4,7 @@ description: "체형별 남자 옷 고르는 법을 배가 나온 체형, 키가
 date: 2026-10-09
 updated: 2026-10-09
 tags: ["핏", "사이즈", "셔츠", "바지", "수선"]
-thumbnail: "/images/mens-shirt-back-dart-selection-guide-thumbnail.webp"
+thumbnail: "/images/mens-weekend-farmers-market-outfit-guide-thumbnail.webp"
 draft: false
 ---
 
@@ -40,7 +40,7 @@ draft: false
 - **니트**: 몸에 붙는 하이게이지 롤넥이나 딱 맞는 폴로는 배의 윤곽을 그대로 드러냅니다. 몸판이 곧게 떨어지는 미들게이지 크루넥이나 V넥, 앞을 여는 카디건이 편합니다. 립 밑단이 좁게 조이는 니트는 배 아래에서 밑단이 말려 올라갑니다.
 - **코트**: 허리 벨트를 조이는 코트보다 벨트 없이 곧게 떨어지는 싱글 코트나 발마칸이 몸판선을 길게 만듭니다. 단추를 모두 채웠을 때 앞판이 벌어지지 않는지를 두꺼운 니트 위에서 확인합니다.
 
-![라이트 블루, 오프화이트, 올리브 셔츠 세 벌의 밑단을 위에는 펼쳐 두고 아래에는 빼 입은 옆모습으로 이어 붙여 곡선 밑단과 일자 밑단의 길이 차이를 비교한 구성](/images/mens-shirt-tuck-guide-look-2.webp)
+![하늘색 셔츠 위에 네이비 카디건을 열어 입은 남성이 탁자 위에 개어 둔 셔츠와 회색 울 바지, 카디건, 페니 로퍼와 벨트를 내려다보는 장면](/images/mens-health-checkup-outfit-guide-look-1.webp)
 
 ### 색과 무늬, 비례
 

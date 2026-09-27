@@ -4,7 +4,7 @@ description: "출근 가방 고르는 법을 유형·수납·운반·소재·관
 date: 2026-08-10
 updated: 2026-09-27
 tags: ["가방", "출근룩", "비즈니스 캐주얼", "보관", "수선"]
-thumbnail: "/images/mens-work-bag-selection-guide-thumbnail.webp"
+thumbnail: "/images/mens-leather-bag-care-guide-look-2.webp"
 draft: false
 ---
 
@@ -83,7 +83,7 @@ Bellroy의 토트팩이나 TUMI의 3-way 브리프처럼 이름과 구조가 겹
 
 나일론과 폴리에스터 가방은 가볍고 비에 강해 출근용으로 실용적입니다. 다만 '방수'라는 말은 조심해서 읽습니다. 원단 표면에 물방울이 맺혀 굴러떨어지는 발수와, 수압을 견뎌 물이 스며들지 않는 방수는 서로 다른 시험으로 평가합니다. 원단이 방수여도 봉제선, 지퍼, 입구로 물이 들어올 수 있습니다. 지퍼 제조사 YKK도 AquaGuard를 발수 지퍼로 설명하고 완전 방수 지퍼는 아니라고 밝힙니다. 장마철에 노트북을 들고 다닌다면 가방 전체 방수를 기대하기보다 노트북을 방수 파우치에 한 번 더 넣는 편이 확실합니다.
 
-![올리브 직물 가방과 갈색 가방 옆에서 원단 견본을 손에 들고 비교하며, 안감·심지·겉감 층이 보이는 가방 단면과 흰 꼬리표 카드를 펼쳐 둔 장면](/images/mens-work-bag-selection-guide-look-4.webp)
+![차콜 셔츠 재킷 차림의 남성이 짙은 갈색 가죽 가방의 손잡이를 들어 올리고 손잡이 연결부와 겉면 가죽 결을 손끝으로 확인하는 장면](/images/mens-leather-bag-care-guide-look-1.webp)
 
 ## 가죽 가방 관리와 수선 판단
 

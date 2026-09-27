@@ -4,7 +4,7 @@ description: "남자 티셔츠 핏을 어깨 봉제선, 소매, 가슴, 기장, 
 date: 2026-07-29
 updated: 2026-09-27
 tags: ["티셔츠", "핏", "사이즈", "세탁", "보관"]
-thumbnail: "/images/mens-tshirt-fit-guide-thumbnail.webp"
+thumbnail: "/images/mens-tshirt-neckline-care-guide-thumbnail.webp"
 draft: false
 ---
 

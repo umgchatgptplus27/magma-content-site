@@ -4,7 +4,7 @@ description: "옷 수선 가능 범위를 부위별 판단표로 정리했습니
 date: 2026-08-25
 updated: 2026-09-27
 tags: ["수선", "핏", "재킷", "바지", "사이즈"]
-thumbnail: "/images/mens-first-tailoring-consultation-guide-thumbnail.webp"
+thumbnail: "/images/mens-clothing-alteration-guide-look-4.webp"
 draft: false
 ---
 
@@ -110,7 +110,7 @@ draft: false
 
 지퍼 테이프 가장자리의 실밥을 가위로 자르지 않습니다. YKK는 테이프의 씨실이 잘리면 날실이 빠져나와 작은 힘에도 넓게 찢어질 수 있다고 경고합니다. 예방은 간단합니다. 세탁 전에는 지퍼를 끝까지 닫고, 다림질할 때는 지퍼를 닫고 천을 덮은 뒤 다립니다.
 
-![네이비 원단에 달린 금속 지퍼를 네 칸으로 나눠 슬라이더가 열린 상태, 맞물리는 구간, 끝까지 닫힌 상태를 비교한 근접 컷](/images/mens-garment-zipper-troubleshooting-guide-look-3.webp)
+![네이비 지퍼 재킷을 펼쳐 놓고 밑단의 지퍼 끝, 슬라이더와 이빨이 맞물리는 부분, 돋보기를 댄 지퍼 구간을 네 칸으로 나눠 가까이 찍은 모습](/images/mens-garment-zipper-troubleshooting-guide-look-2.webp)
 
 ## 첫 테일러링 상담에 가져갈 것과 물어볼 것
 

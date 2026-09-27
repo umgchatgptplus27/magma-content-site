@@ -85,7 +85,7 @@ draft: false
 
 스테이를 넣을 때는 뾰족한 쪽이 칼라 끝을 향하게 끝까지 밀어 넣습니다. 스테이가 주머니 밖으로 튀어나오면 길이가 맞지 않는 것입니다. 스테이 길이는 칼라 모양마다 다릅니다. [Proper Cloth의 교체용 세트](https://propercloth.com/products/collar-stay-replacement-set-212.html)는 51mm, 55mm, 66mm, 70mm 네 가지 길이를 칼라 모양에 맞춰 나눠 둡니다. 셔츠마다 원래 들어 있던 스테이를 따로 보관하는 편이 호환 문제를 줄입니다.
 
-![흰 드레스 셔츠 칼라 뒷면의 주머니에서 가느다란 흰 칼라 스테이를 손가락으로 빼내는 손을 가까이 그린 장면](/images/mens-shirt-collar-stay-guide-look-2.webp)
+![연한 블루 셔츠의 첫 단추를 푼 모습과 채운 모습, 옆목과 뒷목에서 본 칼라, 버건디 타이를 맨 칼라를 나란히 놓아 칼라 끝이 서 있는 상태를 비교한 사진](/images/mens-shirt-collar-guide-look-2.webp)
 
 관리에서 지킬 것은 두 가지입니다.
 
@@ -94,7 +94,7 @@ draft: false
 
 칼라 안쪽의 누런 목때는 땀과 피지가 쌓인 것이라 세탁 전에 따로 처리해야 잘 빠집니다. 처리 순서는 [옷 얼룩 응급 처치](/blog/mens-garment-stain-first-aid-guide)에, 칼라가 우는 문제를 줄이는 다림질 순서는 [셔츠 다림질과 주름 관리](/blog/mens-shirt-ironing-wrinkle-guide)에 정리했습니다.
 
-![흰 셔츠를 접어 둔 책상 위에 빼낸 칼라 스테이 두 개를 나란히 놓고, 옆에서 네이비 세탁망을 벌리는 손을 그린 장면](/images/mens-shirt-collar-stay-guide-look-3.webp)
+![네이비 재킷을 걸친 모습, 의자에 앉은 모습, 연한 블루 셔츠만 입고 선 모습 옆에 블루 셔츠 칼라에 흰 카드를 대 보는 손과 흰 셔츠 칼라를 가까이 담은 사진](/images/mens-shirt-collar-guide-look-5.webp)
 
 칼라 종류를 정했다면 다음은 그 칼라를 받쳐 줄 타이입니다. 이어서 [넥타이 고르는 법](/blog/mens-necktie-selection-guide)을 읽으면 칼라 벌어짐에 맞는 타이 폭과 매듭까지 한 번에 정리됩니다.
 

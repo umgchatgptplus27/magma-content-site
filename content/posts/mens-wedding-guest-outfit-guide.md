@@ -4,7 +4,7 @@ description: "남자 결혼식 하객룩으로 입을 재킷·셔츠·타이·�
 date: 2026-07-28
 updated: 2026-09-27
 tags: ["하객룩", "재킷", "넥타이", "코트", "색 조합"]
-thumbnail: "/images/mens-autumn-wedding-guest-guide-thumbnail.webp"
+thumbnail: "/images/mens-autumn-wedding-guest-guide-look-5.webp"
 draft: false
 ---
 
@@ -92,7 +92,7 @@ draft: false
 
 색은 네이비, 차콜, 카멜이 수트와 가장 잘 이어집니다. 패딩을 입어야 한다면 무광에 로고가 작고 길이가 짧은 것을 고르고, 식장 안에서는 벗어 둡니다. 롱패딩은 수트 위에 입으면 부피가 커서 벗은 뒤 들고 있기도 불편합니다. 재킷 안에는 얇은 하이게이지 니트를 셔츠 위에 한 겹 넣으면 보온이 되고, 실내에서도 부담이 적습니다.
 
-![다크 네이비 오버코트를 수트 위에 걸친 남성이 거울 앞에서 코트 앞섶을 여미는 모습](/images/mens-winter-wedding-guest-outerwear-guide-look-2.webp)
+![흰 셔츠 위에 다크 네이비 오버코트를 입은 남성이 탁자에 봉투를 내려놓고, 옆에 갈색 가죽 파우치와 검정 우산, 접어 둔 네이비 머플러가 놓인 모습](/images/mens-winter-wedding-guest-outerwear-guide-look-1.webp)
 
 외투를 맡길 곳이 없다는 전제로 준비하는 것이 안전합니다. 호텔은 클로크룸을 두는 곳이 있지만, 일반 웨딩홀은 로비가 붐비고 보관 공간이 따로 없는 경우도 있습니다. 식사 자리까지 외투를 들고 갈 수 있을 정도의 부피인지, 의자 등받이에 걸어도 흘러내리지 않는지까지 생각해 두면 당일이 편합니다.
 
@@ -123,7 +123,7 @@ draft: false
 
 가족사진에 들어가는 친족은 사진이 오래 남는다는 점을 기억해야 합니다. 재킷 어깨가 들뜨거나 소매가 길면 정면 사진에서 그대로 드러납니다. 몸에 맞지 않는 수트라면 예식 2–3주 전에 수선을 맡기는 편이 좋고, 재킷 핏 판단은 [재킷 핏 기준 글](/blog/mens-jacket-fit-guide)을 보면 됩니다.
 
-![거울 앞 네이비 재킷 차림의 남성이 테이블에 놓인 타이, 포켓 스퀘어, 시계를 고르며 휴대폰을 보는 모습](/images/mens-summer-wedding-guest-guide-look-5.webp)
+![네이비 재킷과 크림색 셔츠, 차콜 바지 차림의 남성이 갈색 가죽 가방을 든 채 전신 거울 앞에서 재킷 어깨와 기장을 확인하는 모습](/images/mens-autumn-wedding-guest-guide-look-4.webp)
 
 ## 자주 나오는 실수
 

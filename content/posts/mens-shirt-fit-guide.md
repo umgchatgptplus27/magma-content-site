@@ -4,7 +4,7 @@ description: "셔츠 사이즈 고르는 법을 목 여유, 어깨 봉제선, �
 date: 2026-08-09
 updated: 2026-09-27
 tags: ["셔츠", "핏", "사이즈", "출근룩", "수선"]
-thumbnail: "/images/mens-shirt-fit-guide-thumbnail.webp"
+thumbnail: "/images/mens-shirt-sleeve-rolling-guide-look-1.webp"
 draft: false
 ---
 

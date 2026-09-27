@@ -4,7 +4,7 @@ description: "옷 사이즈 실측 비교법을 정리했습니다. 신체 치�
 date: 2026-07-28
 updated: 2026-09-27
 tags: ["온라인 쇼핑", "사이즈", "핏", "셔츠", "수선"]
-thumbnail: "/images/mens-online-clothing-measurement-guide-thumbnail.webp"
+thumbnail: "/images/mens-online-clothing-review-guide-thumbnail.webp"
 draft: false
 ---
 
@@ -71,7 +71,7 @@ Proper Cloth의 바지 측정 안내처럼 앞밑위, 뒷밑위, 인심, 아웃�
 
 소재도 숫자 해석을 바꿉니다. 신축성 있는 원단이나 니트는 실측이 조금 작아도 편하게 입히고, 면 100% 셔츠나 치노는 세탁 뒤 조금 줄어들 수 있습니다. 라벨의 혼용률과 세탁 기호를 확인하고, 줄어들 가능성이 있는 소재라면 길이에 약간 여유가 있는 쪽을 고릅니다. 세탁 기호 읽는 법은 [의류 라벨 읽는 법](/blog/mens-garment-care-label-guide)에 정리했습니다. 니트는 게이지와 조직에 따라 늘어나는 정도가 다르니 [니트 게이지 가이드](/blog/mens-knit-gauge-selection-guide)를 참고하면 됩니다.
 
-![네이비 가디건과 흰 셔츠, 토프 바지의 소매·뒷길이·밑위·인심 측정선을 세로선으로 표시하고 옆에 입은 모습과 판단 순서도를 붙인 장면](/images/mens-online-clothing-measurement-guide-look-5.webp)
+![회색 니트와 짙은 카키 바지를 탁자에 평평하게 펴 두고, 한 손으로 줄자를 비스듬히 대 보는 장면과 두 손으로 니트 밑단 폭을 따라 줄자를 곧게 당겨 재는 장면](/images/mens-online-clothing-measurement-guide-look-3.webp)
 
 이 계산을 매번 손으로 하기 번거롭다면 [옷 사이즈 비교 계산기](/tools/size-compare)를 쓰세요. 기준 옷 치수를 한 번 넣어 두면 브라우저에 저장돼, 다음 구매 때는 사려는 옷의 사이즈표 값만 넣으면 됩니다.
 

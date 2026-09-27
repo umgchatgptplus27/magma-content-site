@@ -117,6 +117,7 @@ export default async function PostPage(
               src={post.thumbnail}
               alt={`${post.title} 대표 이미지`}
               fill
+              preload
               sizes="(min-width: 720px) 720px, 100vw"
               className="object-cover"
             />

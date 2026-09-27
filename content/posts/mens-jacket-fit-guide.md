@@ -4,7 +4,7 @@ description: "남자 재킷 사이즈는 어깨로 정하고 칼라·가슴 단�
 date: 2026-08-04
 updated: 2026-09-27
 tags: ["재킷", "핏", "사이즈", "수선"]
-thumbnail: "/images/mens-jacket-shoulder-construction-guide-thumbnail.webp"
+thumbnail: "/images/mens-jacket-vent-selection-guide-look-3.webp"
 draft: false
 ---
 
@@ -127,7 +127,7 @@ Proper Cloth의 가슴 폭 가이드도 단추에서 퍼지는 X자 장력선과
 
 라펠 폭은 재킷 전체 비율과 함께 봅니다. Permanent Style이 소개한 비스포크 재킷 사례들은 8.5–10cm대였고, 기성복은 이보다 좁은 경우가 흔합니다. 넥타이를 자주 맨다면 타이 폭을 라펠 폭과 비슷하게 맞추면 V존이 안정됩니다. 타이 폭 고르는 법은 [넥타이 선택 가이드](/blog/mens-necktie-selection-guide)에 정리했습니다.
 
-![네이비·차콜·브라운 재킷을 마네킹에 입혀 V자로 파인 노치드 라펠, 끝이 위로 솟은 피크드 라펠, 곡선으로 이어진 숄 칼라를 정면과 사선, 안쪽까지 비교하고 오른쪽에 흰 셔츠 차림의 남성이 바라보는 장면](/images/mens-jacket-lapel-selection-guide-look-2.webp)
+![네이비·차콜·브라운 재킷을 마네킹에 입혀 정면과 사선에서 본 모습, 라펠 폭과 안감을 가까이 찍은 칸을 나란히 놓고 오른쪽에 흰 셔츠 차림의 남성이 서서 바라보는 장면](/images/mens-jacket-lapel-selection-guide-look-2.webp)
 
 뒤트임은 사이즈 신호로도 씁니다. 가만히 서 있는데 트임이 벌어져 안감이 보이면 엉덩이와 허리 쪽이 작은 것입니다. 새 재킷의 뒤트임과 포켓 입구가 X자 실로 가볍게 꿰매져 있다면 배송 중 형태를 잡는 임시 고정일 가능성이 큽니다. 잘라도 되는 실인지 확실하지 않으면 판매처에 먼저 묻습니다.
 

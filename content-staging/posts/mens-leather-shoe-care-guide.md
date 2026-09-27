@@ -4,7 +4,7 @@ description: "구두 관리법을 매일 하는 브러싱·슈트리, 크림과 
 date: 2026-08-17
 updated: 2026-09-27
 tags: ["구두", "옷장 관리", "수선", "보관", "얼룩"]
-thumbnail: "/images/mens-leather-shoe-care-guide-thumbnail.webp"
+thumbnail: "/images/mens-wet-suede-shoe-care-guide-thumbnail.webp"
 draft: false
 ---
 

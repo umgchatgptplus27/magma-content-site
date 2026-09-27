@@ -11,6 +11,8 @@ export interface SiteConfig {
   hero: { video: string | null; poster: string };
   /** 글 작성자(운영자). 실제 운영자가 제공한 정보만 넣는다. null 이면 "MAGMA 편집부"로 표시. */
   author: { name: string; role: string; bio: string } | null;
+  /** 검색엔진 소유 확인 코드(meta content 값만). 빈 문자열이면 태그를 넣지 않는다. */
+  verification: { google: string; naver: string; bing: string };
 }
 
 export const siteConfig: SiteConfig = {
@@ -38,5 +40,10 @@ export const siteConfig: SiteConfig = {
     name: "한결",
     role: "MAGMA 운영자·에디터",
     bio: "MAGMA를 운영하며 셔츠·바지·재킷의 핏 기준, 경조사 옷차림, 의류 관리법을 한 주제 한 편으로 정리합니다. 제조사 치수 안내와 세탁 표준, 공공기관 자료를 확인해 기준을 세우고, 계절이 바뀌거나 자료가 갱신되면 기존 글을 보강합니다. 독자가 지금 가진 옷으로 판단할 수 있는 기준을 쓰는 것을 원칙으로 합니다.",
+  },
+  verification: {
+    google: "", // Search Console → 설정 → 소유권 확인 → HTML 태그의 content 값
+    naver: "", // 네이버 서치어드바이저 → 사이트 등록 → HTML 태그의 content 값
+    bing: "", // Bing 웹마스터 도구 → 사이트 추가 → HTML 메타 태그(msvalidate.01)의 content 값
   },
 };

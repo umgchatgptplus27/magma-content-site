@@ -4,7 +4,7 @@ description: "남자 가벼운 아우터는 용도로 고릅니다. 오버셔츠
 date: 2026-09-01
 updated: 2026-09-27
 tags: ["아우터", "재킷", "핏", "비즈니스 캐주얼", "보관"]
-thumbnail: "/images/mens-overshirt-styling-guide-thumbnail.webp"
+thumbnail: "/images/mens-quilted-jacket-selection-guide-look-2-replacement-20260904-v1.webp"
 draft: false
 ---
 
@@ -71,7 +71,7 @@ draft: false
 
 가죽 재킷은 관리만 제대로 하면 여러 해를 입습니다. 계절이 바뀌어 꺼낼 때는 순서대로 봅니다. 먼저 안쪽 라벨과 제조사 안내에서 가죽 종류와 마감을 확인합니다. 왁스드 가죽이나 스웨이드는 일반 가죽과 관리가 다릅니다. 다음으로 밝은 곳에서 앞판·등판·칼라·양 소매를 좌우로 비교해 새로 생긴 얼룩이나 광택 변화를 찾고, 안감의 목둘레와 소매 안쪽, 포켓 속을 따로 봅니다. 몸에 닿는 안감에는 땀과 피지가 쌓이기 쉽습니다. 마지막으로 지퍼와 스냅을 천천히 여닫아 걸림이 없는지 확인합니다.
 
-![창가에서 옷걸이에 건 셔츠형 칼라가 달린 검정 가죽 지퍼 재킷의 소매를 양손으로 잡고 표면과 칼라를 살피는 남색 니트 차림의 남성](/images/mens-leather-jacket-seasonal-care-guide-look-3.webp)
+![창가에서 옷걸이에 건 짙은 갈색 가죽 지퍼 재킷의 어깨와 소매 끝을 손으로 잡고 표면을 살피는 검정 니트 차림의 남성](/images/mens-leather-jacket-seasonal-care-guide-thumbnail.webp)
 
 보관과 관리는 Belstaff의 안내가 기준이 됩니다.
 

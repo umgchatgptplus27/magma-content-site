@@ -4,7 +4,7 @@ description: "청바지 출근룩이 가능한 조건과 워싱 색 고르기, �
 date: 2026-08-23
 updated: 2026-09-27
 tags: ["데님", "비즈니스 캐주얼", "출근룩", "색 조합", "세탁"]
-thumbnail: "/images/mens-smart-denim-styling-guide-thumbnail.webp"
+thumbnail: "/images/mens-denim-trouser-first-wash-guide-look-2.webp"
 draft: false
 ---
 

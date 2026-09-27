@@ -4,7 +4,7 @@ description: "출장 짐 싸기와 여행 옷차림을 1박부터 일주일까�
 date: 2026-08-31
 updated: 2026-09-27
 tags: ["여행", "비즈니스 캐주얼", "가방", "구두", "재킷"]
-thumbnail: "/images/mens-business-trip-packing-guide-thumbnail.webp"
+thumbnail: "/images/mens-business-trip-packing-guide-look-3.webp"
 draft: false
 ---
 
@@ -83,7 +83,7 @@ draft: false
 
 노트북은 공항에 따라 다릅니다. 인천공항 출국장의 스마트 보안검색장은 노트북을 가방에서 꺼내지 않고 검색하지만, 해외 공항의 일반 검색대는 꺼내라는 곳이 많습니다. 노트북을 가방 한쪽 칸에 따로 넣어 두면 어느 쪽이든 대응됩니다.
 
-![테이블 위에 투명 지퍼백에 담은 작은 액체 용기들과 열쇠, 지갑, 보조배터리를 늘어놓고 검은 파우치에 소지품을 나눠 담는 남성의 손](/images/mens-airport-security-outfit-guide-look-3.webp)
+![올리브 셔츠 재킷과 회색 바지 차림의 남성이 벨트·열쇠·휴대폰을 검은 트레이에 내려놓고, 숄더백을 멘 채 서고, 가방을 내려 두고 의자에 앉고, 파우치를 꺼내 가방 옆에 두는 네 장면](/images/mens-long-flight-outfit-guide-look-4.webp)
 
 ### 기차: 선반과 통로, 역 안에서 걷는 거리
 

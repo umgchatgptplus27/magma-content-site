@@ -4,7 +4,7 @@ description: "남자 폴로셔츠를 피케, 저지, 니트 폴로로 나눠 칼
 date: 2026-09-02
 updated: 2026-09-27
 tags: ["티셔츠", "니트", "비즈니스 캐주얼", "출근룩", "핏"]
-thumbnail: "/images/mens-polo-shirt-selection-guide-thumbnail.webp"
+thumbnail: "/images/mens-polo-shirt-selection-guide-look-1.webp"
 draft: false
 ---
 

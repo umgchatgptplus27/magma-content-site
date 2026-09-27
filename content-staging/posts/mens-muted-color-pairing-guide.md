@@ -4,7 +4,7 @@ description: "남자 옷 색 조합을 네이비·그레이·브라운·올리�
 date: 2026-07-30
 updated: 2026-09-27
 tags: ["색 조합", "출근룩", "셔츠", "바지", "소재"]
-thumbnail: "/images/mens-muted-color-pairing-guide-thumbnail.webp"
+thumbnail: "/images/mens-muted-color-pairing-guide-look-4.webp"
 draft: false
 ---
 

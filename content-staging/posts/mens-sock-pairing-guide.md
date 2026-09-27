@@ -4,7 +4,7 @@ description: "정장 양말 색 맞추는 법을 바지 기준, 구두와의 경
 date: 2026-07-30
 updated: 2026-09-27
 tags: ["양말", "구두", "색 조합", "비즈니스 캐주얼", "출근룩"]
-thumbnail: "/images/mens-sock-pairing-guide-thumbnail.webp"
+thumbnail: "/images/mens-early-autumn-sock-weight-guide-look-1.webp"
 draft: false
 ---
 

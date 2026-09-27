@@ -4,7 +4,7 @@ description: "치노 팬츠 코디를 색별 조합표로 정리했습니다. �
 date: 2026-08-18
 updated: 2026-09-27
 tags: ["치노", "바지", "비즈니스 캐주얼", "색 조합", "출근룩"]
-thumbnail: "/images/mens-chino-styling-guide-thumbnail.webp"
+thumbnail: "/images/mens-chino-styling-guide-look-2.webp"
 draft: false
 ---
 
@@ -25,7 +25,7 @@ draft: false
 - **구김이 정리돼 있습니다.** 면은 앉았다 일어나면 무릎과 샅에 주름이 남습니다. 출근 전날 다려 두거나 스티머로 펴 둡니다.
 - **광택이 없습니다.** 치노의 멋은 매트한 면 표면입니다. 번들거리는 합성 혼방은 오히려 저렴해 보입니다.
 
-![올리브 치노를 입고 정면·옆·뒤에서 선 모습과 허리 벨트, 앞주머니, 밑단 원단을 가까이 찍은 사진을 함께 배치한 모습](/images/mens-chino-styling-guide-look-2.webp)
+![네이비 카디건과 하늘색 옥스퍼드 셔츠, 베이지 치노에 다크 브라운 더비를 신은 남성이 재킷이 걸린 옷장 앞 선반에서 카드를 정리하는 모습](/images/mens-chino-styling-guide-look-1.webp)
 
 ## 색별 조합: 베이지·스톤·올리브·네이비
 
@@ -104,7 +104,7 @@ draft: false
 
 길이는 무릎 위에서 끝나되 허벅지 중간보다 길게, 밑단 폭은 허벅지에 붙지 않고 조금 떨어지는 정도가 단정합니다. 허리 아래에 턱이 없는 플랫 프런트 반바지가 옆주머니가 달린 카고형보다 깔끔합니다. 양말은 신발 밖으로 거의 보이지 않는 짧은 양말이나, 보인다면 회색 같은 차분한 단색으로 맞춥니다.
 
-![흰 반소매 셔츠와 스톤 베이지 반바지, 회색 양말과 다크 브라운 가죽 신발 차림으로 옷장 앞에 선 모습](/images/mens-shorts-styling-guide-look-1.webp)
+![같은 스톤 베이지 반바지와 회색 양말, 다크 브라운 가죽 신발에 하늘색 반소매 셔츠, 청록색 폴로, 흰 티셔츠 위 네이비 셔츠를 차례로 맞추고 크로스백을 멘 세 차림](/images/mens-shorts-styling-guide-look-3.webp)
 
 치노를 익혔다면 같은 원리를 청바지에도 옮길 수 있습니다. 데님을 출근에 입는 기준은 [청바지 출근룩 가이드](/blog/mens-smart-denim-styling-guide)에서, 치노 아래에 신을 양말 색은 [양말 색 맞추는 법](/blog/mens-sock-pairing-guide)에서 이어서 볼 수 있습니다.
 

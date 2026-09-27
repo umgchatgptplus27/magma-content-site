@@ -4,7 +4,7 @@ description: "넥타이 고르는 법을 폭·길이·매듭·색으로 나눠 �
 date: 2026-08-19
 updated: 2026-09-27
 tags: ["넥타이", "셔츠", "재킷", "출근룩", "하객룩"]
-thumbnail: "/images/mens-necktie-selection-guide-thumbnail.webp"
+thumbnail: "/images/mens-necktie-selection-guide-look-4.webp"
 draft: false
 ---
 
@@ -71,7 +71,7 @@ draft: false
 
 매장 조명과 사무실 조명, 휴대전화 화면에서 같은 타이의 색과 광택이 다르게 보일 수 있습니다. 온라인으로 산다면 상품 사진 한 장보다 자연광 사진이나 원단 확대 사진이 있는 상품을 고르는 편이 실물과 덜 어긋납니다.
 
-![네이비 헤링본 재킷과 옅은 블루 셔츠를 고정하고 버건디 무지, 네이비 도트, 브라운 무늬 타이로 바꿔 매고 포켓스퀘어 유무와 창가 조명까지 달리 본 여섯 컷](/images/mens-necktie-selection-guide-look-4.webp)
+![네이비 재킷과 블루 셔츠에 네이비 타이, 회색 재킷과 흰 셔츠, 브라운 재킷과 블루 셔츠를 각각 걸어 구두와 함께 세워 두고, 아래에 흰색·네이비 무늬·올리브 포켓스퀘어를 놓아 색 조합을 비교하는 컷](/images/mens-pocket-square-styling-guide-look-5.webp)
 
 ## 상황별 넥타이 조합
 

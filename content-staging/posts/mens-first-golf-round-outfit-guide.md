@@ -27,7 +27,7 @@ draft: false
 
 ## 첫 라운드 한 벌 고르기
 
-![흰 셔츠와 차콜 슬랙스 차림의 남성이 옷걸이에 걸린 셔츠·바지·올리브 겉옷과 거울을 번갈아 보며 올리브 재킷을 대 보는 모습](/images/mens-first-golf-round-outfit-guide-look-2.webp)
+![어두운 방에서 짙은 터틀넥 차림의 남성이 휴대전화를 보고, 탁자 위에는 흰 폴로와 차콜 바지, 올리브 집업 재킷을 나란히 개어 둔 모습](/images/mens-first-golf-round-outfit-guide-look-1.webp)
 
 ### 상의: 칼라, 어깨선, 기장
 
@@ -63,7 +63,7 @@ draft: false
 
 주머니도 봅니다. 휴대전화와 지갑을 뒷주머니에 넣고 스윙하면 동작이 어색해집니다. 라운드 중에는 티, 공, 볼마커 정도만 앞주머니에 넣고 나머지는 카트 가방에 둡니다.
 
-![흰 긴소매 폴로와 차콜 주름 바지 차림의 남성이 현관 앞에서 한 팔을 들어 어깨와 옆구리의 당김을 확인하는 모습](/images/mens-first-golf-round-outfit-guide-look-3.webp)
+![베이지 긴소매 니트 폴로와 차콜 바지 차림의 남성이 한 팔을 앞으로 뻗고 다른 손으로 소매를 잡아 어깨와 소매의 당김을 확인하는 모습](/images/mens-first-tennis-lesson-outfit-guide-look-3.webp)
 
 ## 계절별 겹쳐 입기
 
@@ -78,7 +78,7 @@ draft: false
 
 겨울에는 두꺼운 패딩 한 벌보다 얇은 층을 여러 겹 입는 편이 스윙이 편합니다. 소매가 두꺼운 겉옷은 스윙할 때 팔을 막으므로, 몸통을 덮는 조끼형이 골프에 잘 맞습니다.
 
-![긴소매 폴로와 차콜 바지 차림의 남성이 현관에서 휴대전화로 날씨를 확인하고, 옆 벤치에는 올리브 재킷과 모자, 우산, 세워 둔 골프백이 놓인 모습](/images/mens-first-golf-round-outfit-guide-look-4.webp)
+![베이지 니트 폴로와 회색 바지 차림의 남성이 현관 복도에서 네이비 겉옷을 손에 들고, 옆 수납장 위에 검은 가방과 운동화를 올려 둔 모습](/images/mens-first-tennis-lesson-outfit-guide-look-5.webp)
 
 ## 라운드 당일 가방과 도착 시간
 

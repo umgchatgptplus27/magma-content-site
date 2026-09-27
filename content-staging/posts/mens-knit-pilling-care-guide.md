@@ -4,7 +4,7 @@ description: "니트 보풀 제거 방법을 손·빗·전동 제거기별로 �
 date: 2026-08-12
 updated: 2026-09-27
 tags: ["니트", "세탁", "보관", "옷장 관리"]
-thumbnail: "/images/mens-knit-pilling-care-guide-thumbnail.webp"
+thumbnail: "/images/mens-knitwear-shape-care-guide-look-1.webp"
 draft: false
 ---
 

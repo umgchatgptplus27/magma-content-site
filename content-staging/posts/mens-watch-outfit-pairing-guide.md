@@ -4,7 +4,7 @@ description: "남자 시계 고르는 법을 옷차림 기준으로 정리했습
 date: 2026-07-27
 updated: 2026-09-27
 tags: ["시계", "출근룩", "비즈니스 캐주얼", "색 조합", "셔츠"]
-thumbnail: "/images/mens-watch-outfit-pairing-guide-thumbnail.webp"
+thumbnail: "/images/mens-watch-outfit-pairing-guide-look-5.webp"
 draft: false
 ---
 
@@ -71,7 +71,7 @@ Proper Cloth는 맞춤 셔츠에서 시계를 차는 쪽 커프만 넓히는 옵
 
 색은 스트랩과 벨트·구두를 같은 계열로 두면 가장 정돈돼 보입니다. 갈색 더비와 갈색 벨트를 하는 날에는 갈색 가죽 스트랩을, 검정 옥스퍼드와 검정 벨트에는 검정 스트랩이나 금속을 고릅니다. 정확히 같은 갈색일 필요는 없고 밝기만 비슷하면 됩니다. 벨트 고르는 법은 [벨트 가이드](/blog/mens-belt-selection-guide)에서 이어 볼 수 있습니다.
 
-![네이비 재킷과 흰 셔츠, 토프 오버셔츠와 베이지 바지, 네이비 재킷과 차콜 니트 등 여섯 가지 차림에 같은 시계를 차고 옷장 앞에 선 전신 사진](/images/mens-watch-outfit-pairing-guide-look-5.webp)
+![흰 셔츠에 갈색 가죽 스트랩 시계를 찬 남성이 옷장에서 네이비 재킷을 꺼내 보고, 옆 벽면에는 흰 셔츠·차콜 바지·네이비 재킷·니트와 갈색 더비, 같은 갈색 스트랩 시계를 한 벌로 늘어놓은 모습](/images/mens-watch-outfit-pairing-guide-look-1.webp)
 
 ## 반지·팔찌를 더할 때: 금속색과 개수
 

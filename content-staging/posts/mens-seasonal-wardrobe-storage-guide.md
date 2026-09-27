@@ -4,7 +4,7 @@ description: "계절 옷 정리와 보관을 할 때 세탁·건조부터 니트
 date: 2026-08-06
 updated: 2026-09-27
 tags: ["보관", "옷장 관리", "니트", "세탁"]
-thumbnail: "/images/mens-seasonal-wardrobe-storage-guide-thumbnail.webp"
+thumbnail: "/images/mens-garment-hanger-selection-guide-look-1.webp"
 draft: false
 ---
 
@@ -35,7 +35,7 @@ draft: false
 - **완전히 말랐는지 확인합니다.** 겉은 말라도 허리 밴드, 주머니 안쪽, 두꺼운 솔기는 습기가 남기 쉽습니다. 습기가 남은 채 밀폐하면 곰팡이가 생깁니다. 미국 EPA도 [곰팡이 예방](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home)의 핵심을 습기 원인을 없애고 젖은 물건을 빨리 말리는 데 둡니다.
 - **향 제품으로 냄새를 덮지 않습니다.** 냄새가 나는 옷은 세탁이나 환기로 해결한 뒤 넣습니다.
 
-![테이블 위에 흰 셔츠를 펼쳐 놓고 칼라 안쪽, 주머니, 단추 여밈, 소매 끝을 손으로 하나씩 들춰 확인하는 장면과 부위별 확대 사진](/images/mens-seasonal-wardrobe-storage-guide-look-3.webp)
+![검은 니트 차림의 남성이 옷장 옆 벤치에 접어 놓은 블루 셔츠, 차콜 바지, 검정 니트를 내려다보며 넣기 전에 상태를 살피는 모습](/images/mens-wardrobe-photo-inventory-guide-look-1.webp)
 
 ## 걸 옷과 접을 옷 구분표
 

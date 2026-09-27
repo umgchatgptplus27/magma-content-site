@@ -4,7 +4,7 @@ description: "세탁 기호 읽는 법을 해석표 하나로 정리했습니다
 date: 2026-08-16
 updated: 2026-09-27
 tags: ["세탁", "옷장 관리", "소재", "보관"]
-thumbnail: "/images/mens-garment-care-label-guide-thumbnail.webp"
+thumbnail: "/images/mens-swimwear-aftercare-guide-thumbnail.webp"
 draft: false
 ---
 

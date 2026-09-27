@@ -4,7 +4,7 @@ description: "로퍼 고르는 법을 페니·태슬·홀스빗·드라이빙 �
 date: 2026-07-25
 updated: 2026-09-27
 tags: ["구두", "사이즈", "비즈니스 캐주얼", "양말", "치노"]
-thumbnail: "/images/mens-loafer-selection-guide-thumbnail.webp"
+thumbnail: "/images/mens-loafer-selection-guide-look-5.webp"
 draft: false
 ---
 
@@ -72,7 +72,7 @@ Crockett & Jones는 로퍼를 자사 구두 가운데 가장 캐주얼한 스타
 | 짙은 인디고 데님 | 갈색 매끈한 가죽·스웨이드 | 브라운·네이비, 여름엔 덧신 | 주말, 캐주얼 금요일 |
 | 여름 린넨·면 바지(발목 기장) | 스웨이드 페니, 드라이빙 | 발목이 보이는 페이크삭스 | 휴가, 사적 모임 |
 
-![네이비 슬랙스·베이지 치노·짙은 데님 아래 차콜과 브라운 양말, 검정·갈색 스웨이드 로퍼를 조합별로 늘어놓고, 오른쪽에 같은 남성이 세 바지를 입고 서거나 앉은 모습을 붙인 도판](/images/mens-loafer-selection-guide-look-5.webp)
+![원목 원탁 위에 베이지 치노와 차콜 양말, 네이비 바지와 회색 양말, 데님과 갈색 양말을 짝지어 놓고 검정 가죽 페니 로퍼와 짙은 갈색 스웨이드 로퍼를 옆에 맞춰 보는 손](/images/mens-loafer-selection-guide-look-1.webp)
 
 사무실에서는 맨발처럼 보이는 차림보다 바지 색에 맞춘 양말을 신는 편이 무난합니다. 여름 주말에 발목을 드러내고 싶다면 신발 입구 아래로 숨는 페이크삭스를 신습니다. 맨발로 가죽 로퍼를 신으면 땀이 안감에 바로 스며들어 냄새와 얼룩이 빨리 생깁니다. 양말 색과 두께는 [양말 고르는 법](/blog/mens-sock-pairing-guide)에서, 치노와의 조합은 [치노 바지 코디](/blog/mens-chino-styling-guide)에서 더 자세히 다룹니다.
 

@@ -4,7 +4,7 @@ description: "비즈니스 캐주얼 남자 코디를 포멀부터 캐주얼 데
 date: 2026-09-03
 updated: 2026-09-27
 tags: ["비즈니스 캐주얼", "출근룩", "셔츠", "니트", "색 조합"]
-thumbnail: "/images/mens-business-casual-guide-thumbnail.webp"
+thumbnail: "/images/mens-business-casual-guide-look-2.webp"
 draft: false
 ---
 

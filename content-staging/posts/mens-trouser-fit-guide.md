@@ -4,7 +4,7 @@ description: "슬랙스 핏 보는 법을 허리 여유, 앞·뒤밑위, 허벅�
 date: 2026-07-24
 updated: 2026-09-27
 tags: ["바지", "핏", "사이즈", "수선", "출근룩"]
-thumbnail: "/images/mens-trouser-fit-guide-thumbnail.webp"
+thumbnail: "/images/mens-trouser-pocket-selection-guide-look-3.webp"
 draft: false
 ---
 

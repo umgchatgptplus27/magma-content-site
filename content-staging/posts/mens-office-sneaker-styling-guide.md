@@ -4,7 +4,7 @@ description: "출근용 스니커즈 고르는 법을 회사 복장 기준 확�
 date: 2026-07-26
 updated: 2026-09-27
 tags: ["스니커즈", "출근룩", "비즈니스 캐주얼", "바지", "양말"]
-thumbnail: "/images/mens-office-sneaker-styling-guide-thumbnail.webp"
+thumbnail: "/images/mens-outdoor-concert-outfit-guide-look-5.webp"
 draft: false
 ---
 

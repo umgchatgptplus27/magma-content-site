@@ -4,7 +4,7 @@ description: "남자 모자 고르는 법을 볼캡·버킷햇·헌팅캡·비�
 date: 2026-08-14
 updated: 2026-09-27
 tags: ["모자", "사이즈", "세탁", "보관", "여행"]
-thumbnail: "/images/mens-hat-selection-guide-thumbnail.webp"
+thumbnail: "/images/mens-hat-care-guide-look-2.webp"
 draft: false
 ---
 
