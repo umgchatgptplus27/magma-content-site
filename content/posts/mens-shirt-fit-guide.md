@@ -27,7 +27,7 @@ draft: false
 
 소매 길이는 기준점이 여럿입니다. [Proper Cloth의 소매 가이드](https://propercloth.com/reference/how-the-sleeve-length-should-fit/)는 커프를 풀었을 때 소매가 손등 중앙이나 엄지 첫 마디쯤까지 내려오고, 채웠을 때 커프가 손 위로 미끄러지지 않는 길이를 권합니다. [Black Lapel](https://blacklapel.com/blogs/the-compass/how-dress-shirts-should-fit-the-complete-guide)은 팔을 내린 상태에서 엄지와 손이 만나는 주름보다 약 2.5cm(1인치) 위에서 소매가 끝나는 위치를 기준으로 듭니다. 두 기준은 표현이 달라도 같은 자리를 가리킵니다. 커프가 손목뼈는 덮되 엄지 쪽 살을 덮지 않는 위치입니다.
 
-사이즈표를 볼 때는 신체 치수와 완성된 셔츠의 실측을 섞지 않습니다. 목둘레 40cm인 사람에게 칼라 40cm 셔츠가 맞는지는 브랜드가 여유를 얼마나 넣었는지에 달려 있습니다. 잘 맞는 셔츠 한 벌을 평평하게 놓고 가슴 폭·총장·소매를 재 두면 브랜드가 달라져도 비교가 됩니다. 온라인 사이즈표를 읽는 법은 [온라인 옷 사이즈 재는 법](/blog/mens-online-clothing-measurement-guide)에 따로 정리했습니다.
+사이즈표를 볼 때는 신체 치수와 완성된 셔츠의 실측을 섞지 않습니다. 목둘레 40cm인 사람에게 칼라 40cm 셔츠가 맞는지는 브랜드가 여유를 얼마나 넣었는지에 달려 있습니다. 잘 맞는 셔츠 한 벌을 평평하게 놓고 가슴 폭·총장·소매를 재 두면 브랜드가 달라져도 비교가 됩니다. 온라인 사이즈표를 읽는 법은 [온라인 옷 사이즈 재는 법](/blog/mens-online-clothing-measurement-guide)에 따로 정리했습니다. 재 둔 치수는 [옷 사이즈 비교 계산기](/tools/size-compare)에 넣으면 사려는 셔츠와의 차이를 항목별로 바로 볼 수 있습니다.
 
 ## 목과 어깨: 사이즈를 정하는 두 기준
 

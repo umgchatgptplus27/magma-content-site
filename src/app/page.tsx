@@ -96,6 +96,25 @@ export default function Home() {
         </div>
       </section>
 
+      {/* 사이즈 도구 */}
+      <section className="container-page pb-4">
+        <div className="rounded-card border border-line bg-card p-8 sm:flex sm:items-center sm:justify-between sm:gap-8">
+          <div>
+            <p className="eyebrow mb-2">도구</p>
+            <h2 className="font-display text-2xl font-bold text-primary">온라인으로 옷 살 때, 내 옷 실측과 비교해 보세요</h2>
+            <p className="mt-3 text-sm leading-relaxed text-ink-sub">
+              잘 맞는 셔츠·바지·재킷의 단면 치수와 사려는 옷의 사이즈표를 넣으면 항목별 차이와 수선 가능성을 알려 드립니다. 신발·셔츠 목둘레·바지 허리 환산표도 함께 있습니다.
+            </p>
+          </div>
+          <Link
+            href="/tools/size-compare"
+            className="mt-6 inline-block shrink-0 rounded-ui border border-primary px-6 py-3 text-sm font-bold text-primary transition-colors hover:bg-primary hover:text-canvas sm:mt-0"
+          >
+            사이즈 비교 계산기
+          </Link>
+        </div>
+      </section>
+
       {/* 최근 업데이트 */}
       <section className="container-page py-16">
         <SectionHeading eyebrow="업데이트" title="최근 새로 쓰거나 보강한 글" href="/blog" cta="전체 가이드" />

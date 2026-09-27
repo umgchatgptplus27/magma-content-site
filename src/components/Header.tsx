@@ -10,6 +10,7 @@ export default function Header() {
         </Link>
         <nav className="flex gap-6 text-sm text-ink-sub">
           <Link href="/blog" className="hover:text-primary">가이드</Link>
+          <Link href="/tools/size-compare" className="hover:text-primary">사이즈 도구</Link>
           <Link href="/about" className="hover:text-primary">소개</Link>
         </nav>
       </div>
