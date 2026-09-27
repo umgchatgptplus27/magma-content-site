@@ -16,7 +16,7 @@ const staticPages: MetadataRoute.Sitemap = [
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts: MetadataRoute.Sitemap = getAll("posts").map((item) => ({
     url: `${SITE_URL}${contentHref("posts", item.slug)}`,
-    lastModified: new Date(`${item.date}T00:00:00.000Z`),
+    lastModified: new Date(`${item.updated ?? item.date}T00:00:00.000Z`),
     changeFrequency: "monthly",
     priority: 0.8,
   }));

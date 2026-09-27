@@ -16,6 +16,7 @@ export interface ContentMeta {
   title: string;
   description: string;
   date: string; // YYYY-MM-DD
+  updated?: string; // YYYY-MM-DD — 선택, 최종 수정일
   tags: string[];
   thumbnail?: string;
   period?: string; // reports 전용 — 보고 기간 라벨
@@ -67,6 +68,38 @@ export async function renderMarkdown(md: string): Promise<string> {
     .replaceAll("</table>", "</table></div>");
 }
 
+export interface TocItem {
+  id: string;
+  text: string;
+}
+
+/** 렌더된 HTML의 h2에 앵커 id를 붙이고 목차를 만든다. 입력은 sanitize 를 거친 HTML 이다. */
+export function withHeadingAnchors(html: string): { html: string; toc: TocItem[] } {
+  const toc: TocItem[] = [];
+  const out = html.replace(/<h2>([\s\S]*?)<\/h2>/g, (_, inner: string) => {
+    const id = `section-${toc.length + 1}`;
+    toc.push({ id, text: decodeEntities(inner.replace(/<[^>]+>/g, "").trim()) });
+    return `<h2 id="${id}">${inner}</h2>`;
+  });
+  return { html: out, toc };
+}
+
+function decodeEntities(text: string): string {
+  return text
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex: string) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec: string) => String.fromCodePoint(Number(dec)))
+    .replace(/&quot;/g, '"')
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&");
+}
+
+/** 한국어 본문 기준 대략적인 읽기 시간(분). 공백 제외 약 500자/분. */
+export function readingMinutes(md: string): number {
+  const text = md.replace(/!\[[^\]]*\]\([^)]*\)/g, "").replace(/\]\([^)]*\)/g, "]").replace(/\s+/g, "");
+  return Math.max(1, Math.round(text.length / 500));
+}
+
 function readDoc(collection: Collection, filename: string): ContentDoc | null {
   const filePath = path.join(CONTENT_ROOT, collection, filename);
   if (!fs.existsSync(filePath)) return null;
@@ -82,6 +115,7 @@ function readDoc(collection: Collection, filename: string): ContentDoc | null {
       title: String(data.title),
       description: String(data.description),
       date: toDateString(data.date),
+      updated: data.updated ? toDateString(data.updated) : undefined,
       tags: Array.isArray(data.tags) ? data.tags.map(String) : [],
       thumbnail: typeof data.thumbnail === "string" ? data.thumbnail : undefined,
       period: typeof data.period === "string" ? data.period : undefined,
@@ -107,6 +141,7 @@ function toMeta(doc: ContentDoc): ContentMeta {
     title: doc.title,
     description: doc.description,
     date: doc.date,
+    updated: doc.updated,
     tags: doc.tags,
     thumbnail: doc.thumbnail,
     period: doc.period,

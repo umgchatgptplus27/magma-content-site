@@ -22,3 +22,20 @@ test("normalizes markdown formatting and returns locations, not full prose", () 
   assert.equal(issues[0].code, "production_metadata");
   assert.equal("text" in issues[0], false);
 });
+
+test("editorial gate rejects mass-production templates", async () => {
+  const { editorialIssues } = await import("../src/lib/content-quality.mjs");
+  assert.ok(editorialIssues("3040 남성을 위한 셔츠 핏 점검 기준 5가지", "").length > 0);
+  assert.ok(editorialIssues("셔츠 고르는 5가지 기준", "").length > 0);
+  assert.ok(editorialIssues("셔츠 핏", "가상 사례로 비교합니다.").length > 0);
+  assert.ok(editorialIssues("셔츠 핏", "**편집 제안:** 이렇게").length > 0);
+  assert.ok(editorialIssues("셔츠 핏", "## 1. a\n## 2. b\n## 3. c\n## 4. d\n## 5. e").length > 0);
+});
+
+test("editorial gate accepts a natural pillar article", async () => {
+  const { editorialIssues } = await import("../src/lib/content-quality.mjs");
+  assert.deepEqual(
+    editorialIssues("셔츠 핏 보는 법: 목·어깨·소매 기준", "## 목둘레\n단추를 채우고 손가락 1–2개가 들어가면 적당합니다.\n## 자주 묻는 질문\n### 소매는 얼마나 보여야 하나요?"),
+    [],
+  );
+});

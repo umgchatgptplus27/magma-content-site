@@ -1,15 +1,20 @@
 import PostCard from "@/components/PostCard";
 import type { ContentMeta } from "@/lib/content";
 import { getAll } from "@/lib/content";
+import { topicOfPost } from "@/lib/blog-topics";
 
 function sharedTagCount(a: ContentMeta, b: ContentMeta): number {
   return a.tags.filter((tag) => b.tags.includes(tag)).length;
 }
 
 export default function RelatedPosts({ current }: { current: ContentMeta }) {
+  const currentTopic = topicOfPost(current)?.slug;
+  const sameTopic = (post: ContentMeta) => (topicOfPost(post)?.slug === currentTopic ? 1 : 0);
   const posts = getAll("posts")
     .filter((post) => post.slug !== current.slug)
     .sort((a, b) => {
+      const topicOrder = sameTopic(b) - sameTopic(a);
+      if (topicOrder !== 0) return topicOrder;
       const sharedTags = sharedTagCount(b, current) - sharedTagCount(a, current);
       if (sharedTags !== 0) return sharedTags;
       if (a.date !== b.date) return a.date < b.date ? 1 : -1;

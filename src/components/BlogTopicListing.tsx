@@ -26,9 +26,16 @@ export default function BlogTopicListing({
         {topic.label}{page > 1 ? ` · ${page}페이지` : ""}
       </h1>
       <p className="mt-4 max-w-2xl leading-relaxed text-ink-sub">{topic.description}</p>
+      {page === 1 && (
+        <div className="mt-6 max-w-2xl space-y-3 leading-relaxed text-ink-sub">
+          {topic.intro.map((paragraph) => (
+            <p key={paragraph}>{paragraph}</p>
+          ))}
+        </div>
+      )}
       <BlogTopicNav activeTopic={topic.slug} />
       <p className="mb-6 text-sm text-ink-muted">
-        {posts.length}개의 관련 글{pageCount > 1 ? ` · ${page} / ${pageCount}페이지` : ""}
+        읽는 순서대로 정리한 {posts.length}개의 가이드{pageCount > 1 ? ` · ${page} / ${pageCount}페이지` : ""}
       </p>
       {visiblePosts.length === 0 ? (
         <p className="text-sm text-ink-muted">아직 발행된 글이 없습니다.</p>

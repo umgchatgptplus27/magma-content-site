@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
+import { siteConfig } from "@config";
 
 export const SITE_URL = "https://www.eurachoachoa.com";
 export const SITE_NAME = "MAGMA";
+export const AUTHOR_NAME = siteConfig.author?.name ?? `${SITE_NAME} 편집부`;
 
 export function absoluteUrl(path = "/"): string {
   return new URL(path, SITE_URL).toString();
@@ -25,9 +27,9 @@ export function pageMetadata({
   return {
     title,
     description,
-    authors: [{ name: `${SITE_NAME} 편집부` }],
+    authors: [{ name: AUTHOR_NAME }],
     publisher: SITE_NAME,
-    alternates: { canonical: path },
+    alternates: { canonical: path, types: { "application/rss+xml": "/feed.xml" } },
     openGraph: {
       type,
       url: path,

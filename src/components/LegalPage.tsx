@@ -1,6 +1,8 @@
 import type { ReactNode } from "react";
 
 type LegalSection = {
+  /** 선택 — 다른 페이지에서 링크할 앵커 id (예: "author"). */
+  id?: string;
   title: string;
   content: ReactNode;
 };
@@ -25,7 +27,7 @@ export default function LegalPage({ eyebrow, title, summary, updatedAt, sections
 
       <div className="mt-12 space-y-12">
         {sections.map((section, index) => (
-          <section key={section.title} aria-labelledby={`legal-section-${index + 1}`}>
+          <section key={section.title} id={section.id} className="scroll-mt-20" aria-labelledby={`legal-section-${index + 1}`}>
             <h2 id={`legal-section-${index + 1}`} className="font-display text-xl font-bold text-primary">
               {index + 1}. {section.title}
             </h2>

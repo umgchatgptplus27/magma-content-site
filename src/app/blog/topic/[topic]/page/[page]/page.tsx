@@ -29,7 +29,7 @@ export async function generateMetadata(
   if (page === null) return { robots: { index: false, follow: true } };
 
   return pageMetadata({
-    title: `${topic.label} · ${page}페이지 | 3040 남성 패션 가이드`,
+    title: `${topic.label} · ${page}페이지 | 남자 옷차림 가이드`,
     description: `${topic.label} 가이드 ${page}페이지. ${topic.description}`,
     path: topicPageHref(topic.slug, page),
   });

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     template: `%s | ${siteConfig.company.name}`,
   },
   description: siteConfig.company.description,
-  alternates: { canonical: "/" },
+  alternates: { canonical: "/", types: { "application/rss+xml": "/feed.xml" } },
   openGraph: {
     type: "website",
     url: "/",

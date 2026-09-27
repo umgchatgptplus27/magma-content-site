@@ -13,7 +13,7 @@ export default function PostCard({ post }: { post: ContentMeta }) {
         {post.thumbnail ? (
           <Image
             src={post.thumbnail}
-            alt=""
+            alt={`${post.title} 대표 이미지`}
             fill
             sizes="(min-width: 768px) 33vw, 100vw"
             className="object-cover transition-transform duration-700 group-hover:scale-[1.04]"
@@ -25,7 +25,7 @@ export default function PostCard({ post }: { post: ContentMeta }) {
       </div>
       <div className="p-5">
         <div className="flex items-center gap-3 text-xs text-ink-muted">
-          <time>{post.date}</time>
+          <time dateTime={post.updated ?? post.date}>{post.updated && post.updated !== post.date ? `${post.updated} 업데이트` : post.date}</time>
           {post.tags[0] && <span className="text-accent-light">{post.tags[0]}</span>}
         </div>
         <h3 className="mt-2 font-display text-xl font-bold text-ink group-hover:text-primary">{post.title}</h3>

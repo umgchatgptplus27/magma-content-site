@@ -34,7 +34,7 @@ p { text-wrap: pretty; }
 
 /* 글 본문(remark-html 출력) 최소 스타일 — 의존성 최소 원칙으로 타이포그래피 플러그인 대신 직접 정의 */
 .post-body { @apply leading-relaxed text-[15px]; }
-.post-body h2 { @apply font-display text-xl font-bold mt-10 mb-3 text-primary; }
+.post-body h2 { @apply font-display text-xl font-bold mt-10 mb-3 text-primary; scroll-margin-top: 5rem; }
 .post-body h3 { @apply text-lg font-bold mt-8 mb-2; }
 .post-body p { @apply my-4; }
 .post-body ul { @apply my-4 pl-6 list-disc; }

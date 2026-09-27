@@ -18,7 +18,7 @@ export async function generateMetadata(
   const topic = getBlogTopic(topicSlug);
   if (!topic) return {};
   return pageMetadata({
-    title: `${topic.label} | 3040 남성 패션 가이드`,
+    title: `${topic.label} | 남자 옷차림 가이드`,
     description: topic.description,
     path: `/blog/topic/${topic.slug}`,
   });

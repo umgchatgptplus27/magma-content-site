@@ -4,70 +4,114 @@ import PostCard from "@/components/PostCard";
 import ImageSlot from "@/components/ImageSlot";
 import Link from "next/link";
 import { siteConfig } from "@config";
-import { getAll } from "@/lib/content";
+import { contentHref, getAll } from "@/lib/content";
 import { pageMetadata } from "@/lib/seo";
 import BlogTopicNav from "@/components/BlogTopicNav";
+import { BLOG_TOPICS, getPostsForTopic } from "@/lib/blog-topics";
+import { currentSeason } from "@/lib/seasonal";
+
+// 계절 추천이 바뀌도록 하루 한 번 다시 만든다.
+export const revalidate = 86400;
 
 export const metadata = pageMetadata({
   title: "3040 남성 패션·의류 관리 가이드",
-  description: "3040 남성을 위한 옷 선택, 핏 점검, 소재 이해와 의류 관리 가이드를 MAGMA의 기준으로 정리합니다.",
+  description: "셔츠·바지·재킷 핏 기준부터 하객룩·조문 옷차림, 세탁과 수선까지. 3040 남성이 옷을 고르고 오래 입는 데 필요한 기준을 주제별로 정리합니다.",
   path: "/",
   image: "/images/magma-hero-poster.png",
 });
 
 export default function Home() {
   const allPosts = getAll("posts");
-  const posts = allPosts.slice(0, 6);
+  const bySlug = new Map(allPosts.map((post) => [post.slug, post]));
+  const season = currentSeason();
+  const seasonalPosts = season.posts.map((slug) => bySlug.get(slug)).filter((post) => post !== undefined).slice(0, 3);
+  const recentlyUpdated = [...allPosts]
+    .sort((a, b) => ((b.updated ?? b.date) < (a.updated ?? a.date) ? -1 : (b.updated ?? b.date) > (a.updated ?? a.date) ? 1 : 0))
+    .slice(0, 6);
+
   return (
     <>
       <Hero />
 
-      {/* 브랜드 소개 스트립 (About 흡수) */}
+      {/* 사이트 소개 */}
       <section className="container-page py-24">
         <div className="grid items-center gap-12 md:grid-cols-2">
           <div>
             <p className="eyebrow mb-3">패션 정보 가이드</p>
             <h2 className="font-display text-3xl font-bold leading-snug text-primary">
-              {siteConfig.company.name}와 옷의 선택·관리를 차근차근
+              잘 맞는 옷을 고르고, 오래 입는 기준
             </h2>
             <p className="mt-5 leading-relaxed text-ink-sub">
-              옷을 판매하는 상품 소개가 아니라, 보유한 옷과 구매 후보를 비교하는 정보 공간입니다.
-              핏과 실측, 출근 옷차림, 세탁과 보관 중 지금 필요한 주제부터 읽어 보세요.
+              {siteConfig.company.name}는 옷을 파는 곳이 아니라 옷을 고르는 기준을 정리하는 곳입니다.
+              셔츠 소매가 재킷 밖으로 얼마나 보여야 하는지, 결혼식과 조문에는 무엇을 입어야 하는지,
+              니트 보풀과 셔츠 얼룩은 어떻게 다뤄야 하는지처럼 자주 묻는 질문에 구체적인 기준으로 답합니다.
+            </p>
+            <p className="mt-4 leading-relaxed text-ink-sub">
+              아래 주제에서 지금 필요한 것부터 골라 읽어 보세요. 각 주제는 처음 읽을 글부터 순서대로 정리되어 있습니다.
             </p>
             <BlogTopicNav />
           </div>
-          <ImageSlot ratio="4/5" label="브랜드 비주얼" />
+          <ImageSlot ratio="4/5" label="차분한 톤의 셔츠와 재킷을 입은 남성 룩북 이미지" showLabel={false} />
         </div>
       </section>
 
-      {/* 최신 블로그 — 6개 */}
+      {/* 계절 추천 */}
+      {seasonalPosts.length > 0 && (
+        <section className="container-page py-16">
+          <SectionHeading eyebrow={`${season.label} 추천`} title={`${season.label}에 먼저 읽을 가이드`} href="/blog" cta="전체 가이드" />
+          <p className="-mt-4 mb-8 text-sm text-ink-sub">{season.note}</p>
+          <div className="grid gap-8 sm:grid-cols-3">
+            {seasonalPosts.map((p) => (
+              <PostCard key={p.slug} post={p} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* 주제별 시작점 */}
+      <section className="border-t border-line">
+        <div className="container-page py-20">
+          <p className="eyebrow mb-3">주제별로 시작하기</p>
+          <h2 className="font-display text-3xl font-bold text-primary">처음이라면 이 순서로 읽어 보세요</h2>
+          <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+            {BLOG_TOPICS.map((topic) => {
+              const starters = getPostsForTopic(allPosts, topic).slice(0, 3);
+              return (
+                <div key={topic.slug} className="rounded-card border border-line bg-card p-6">
+                  <h3 className="font-display text-xl font-bold text-primary">
+                    <Link href={`/blog/topic/${topic.slug}`} className="hover:underline">{topic.label}</Link>
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-ink-sub">{topic.description}</p>
+                  <ol className="mt-4 list-decimal space-y-1.5 pl-5 text-sm text-ink">
+                    {starters.map((post) => (
+                      <li key={post.slug}>
+                        <Link href={contentHref("posts", post.slug)} className="hover:text-primary">{post.title}</Link>
+                      </li>
+                    ))}
+                  </ol>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      {/* 최근 업데이트 */}
       <section className="container-page py-16">
-        <SectionHeading eyebrow="저널" title="최신 글" href="/blog" cta="블로그 전체" />
-        {posts.length === 0 ? (
+        <SectionHeading eyebrow="업데이트" title="최근 새로 쓰거나 보강한 글" href="/blog" cta="전체 가이드" />
+        {recentlyUpdated.length === 0 ? (
           <p className="text-sm text-ink-muted">아직 발행된 글이 없습니다.</p>
         ) : (
           <div className="grid gap-8 sm:grid-cols-3">
-            {posts.map((p) => (
+            {recentlyUpdated.map((p) => (
               <PostCard key={p.slug} post={p} />
             ))}
           </div>
         )}
-      </section>
-
-      {/* 전체 가이드 수 + 탐색 유도 */}
-      <section className="border-t border-line">
-        <div className="container-page py-20 text-center">
-          <p className="eyebrow mb-4">콘텐츠 라이브러리</p>
-          <p className="font-display text-5xl font-bold text-primary sm:text-6xl">
-            {allPosts.length}
-            <span className="ml-2 text-2xl font-normal text-ink-sub sm:text-3xl">편의 가이드</span>
-          </p>
-          <p className="mt-5 text-ink-sub">
-            핏·소재·상황별 코디·의류 관리까지 — 3040 남성에게 필요한 패션 정보를 한곳에 정리했습니다.
-          </p>
+        <div className="mt-12 text-center">
           <Link
             href="/blog"
-            className="mt-8 inline-block rounded-ui border border-primary px-7 py-3 text-sm font-bold text-primary transition-colors hover:bg-primary hover:text-canvas"
+            className="inline-block rounded-ui border border-primary px-7 py-3 text-sm font-bold text-primary transition-colors hover:bg-primary hover:text-canvas"
           >
             전체 가이드 탐색하기
           </Link>
