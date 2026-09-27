@@ -1,15 +1,117 @@
 {
-  "note": "2026-09 통합 개편 단계 배포 순서. 각 차수는 약 2일 간격. 배포: node scripts/release-wave.mjs <차수> --date YYYY-MM-DD",
+  "note": "2026-09 통합 개편 단계 배포 순서. date(KST)에 scripts/scheduled-release.sh(crontab)가 자동 배포. 수동: node scripts/release-wave.mjs <차수> --date YYYY-MM-DD",
   "waves": [
-    { "wave": 1, "pillars": ["mens-jacket-fit-guide", "mens-trouser-care-guide", "mens-wedding-guest-outfit-guide", "mens-travel-outfit-packing-guide", "mens-shirt-fit-guide", "mens-trench-coat-commute-guide"], "direct": true },
-    { "wave": 2, "pillars": ["mens-trouser-fit-guide", "mens-business-casual-guide", "mens-knit-layering-guide", "mens-coat-fabric-selection-guide", "mens-garment-care-label-guide"] },
-    { "wave": 3, "pillars": ["mens-career-interview-outfit-guide", "mens-funeral-attire-guide", "mens-formal-family-meeting-outfit-guide", "mens-overshirt-styling-guide", "mens-derby-oxford-shoe-guide"] },
-    { "wave": 4, "pillars": ["mens-coat-length-fit-guide", "mens-knit-gauge-selection-guide", "mens-shirt-collar-guide", "mens-online-clothing-measurement-guide", "mens-garment-stain-first-aid-guide"] },
-    { "wave": 5, "pillars": ["mens-blazer-separates-styling-guide", "mens-first-birthday-party-dad-outfit-guide", "mens-invitation-dress-code-guide", "mens-dress-shoe-fit-check-guide", "mens-leather-shoe-care-guide"] },
-    { "wave": 6, "pillars": ["mens-chino-styling-guide", "mens-smart-denim-styling-guide", "mens-muted-color-pairing-guide", "mens-knit-pilling-care-guide", "mens-shirt-ironing-wrinkle-guide"] },
-    { "wave": 7, "pillars": ["mens-anniversary-dinner-outfit-guide", "mens-first-hiking-outfit-guide", "mens-first-golf-round-outfit-guide", "mens-boot-selection-styling-guide", "mens-scarf-styling-guide"] },
-    { "wave": 8, "pillars": ["mens-shirt-fabric-selection-guide", "mens-tshirt-fit-guide", "mens-polo-shirt-selection-guide", "mens-loafer-selection-guide", "mens-sock-pairing-guide"] },
-    { "wave": 9, "pillars": ["mens-belt-selection-guide", "mens-necktie-selection-guide", "mens-watch-outfit-pairing-guide", "mens-eyewear-outfit-guide", "mens-hat-selection-guide"] },
-    { "wave": 10, "pillars": ["mens-work-bag-selection-guide", "mens-office-sneaker-styling-guide", "mens-seasonal-wardrobe-storage-guide", "mens-clothing-alteration-guide", "mens-wardrobe-budget-guide"] }
+    {
+      "wave": 1,
+      "pillars": [
+        "mens-jacket-fit-guide",
+        "mens-trouser-care-guide",
+        "mens-wedding-guest-outfit-guide",
+        "mens-travel-outfit-packing-guide",
+        "mens-shirt-fit-guide",
+        "mens-trench-coat-commute-guide"
+      ],
+      "direct": true,
+      "date": "2026-09-27"
+    },
+    {
+      "wave": 2,
+      "pillars": [
+        "mens-trouser-fit-guide",
+        "mens-business-casual-guide",
+        "mens-knit-layering-guide",
+        "mens-coat-fabric-selection-guide",
+        "mens-garment-care-label-guide"
+      ],
+      "date": "2026-09-29"
+    },
+    {
+      "wave": 3,
+      "pillars": [
+        "mens-career-interview-outfit-guide",
+        "mens-funeral-attire-guide",
+        "mens-formal-family-meeting-outfit-guide",
+        "mens-overshirt-styling-guide",
+        "mens-derby-oxford-shoe-guide"
+      ],
+      "date": "2026-10-01"
+    },
+    {
+      "wave": 4,
+      "pillars": [
+        "mens-coat-length-fit-guide",
+        "mens-knit-gauge-selection-guide",
+        "mens-shirt-collar-guide",
+        "mens-online-clothing-measurement-guide",
+        "mens-garment-stain-first-aid-guide"
+      ],
+      "date": "2026-10-03"
+    },
+    {
+      "wave": 5,
+      "pillars": [
+        "mens-blazer-separates-styling-guide",
+        "mens-first-birthday-party-dad-outfit-guide",
+        "mens-invitation-dress-code-guide",
+        "mens-dress-shoe-fit-check-guide",
+        "mens-leather-shoe-care-guide"
+      ],
+      "date": "2026-10-05"
+    },
+    {
+      "wave": 6,
+      "pillars": [
+        "mens-chino-styling-guide",
+        "mens-smart-denim-styling-guide",
+        "mens-muted-color-pairing-guide",
+        "mens-knit-pilling-care-guide",
+        "mens-shirt-ironing-wrinkle-guide"
+      ],
+      "date": "2026-10-07"
+    },
+    {
+      "wave": 7,
+      "pillars": [
+        "mens-anniversary-dinner-outfit-guide",
+        "mens-first-hiking-outfit-guide",
+        "mens-first-golf-round-outfit-guide",
+        "mens-boot-selection-styling-guide",
+        "mens-scarf-styling-guide"
+      ],
+      "date": "2026-10-09"
+    },
+    {
+      "wave": 8,
+      "pillars": [
+        "mens-shirt-fabric-selection-guide",
+        "mens-tshirt-fit-guide",
+        "mens-polo-shirt-selection-guide",
+        "mens-loafer-selection-guide",
+        "mens-sock-pairing-guide"
+      ],
+      "date": "2026-10-11"
+    },
+    {
+      "wave": 9,
+      "pillars": [
+        "mens-belt-selection-guide",
+        "mens-necktie-selection-guide",
+        "mens-watch-outfit-pairing-guide",
+        "mens-eyewear-outfit-guide",
+        "mens-hat-selection-guide"
+      ],
+      "date": "2026-10-13"
+    },
+    {
+      "wave": 10,
+      "pillars": [
+        "mens-work-bag-selection-guide",
+        "mens-office-sneaker-styling-guide",
+        "mens-seasonal-wardrobe-storage-guide",
+        "mens-clothing-alteration-guide",
+        "mens-wardrobe-budget-guide"
+      ],
+      "date": "2026-10-15"
+    }
   ]
 }
