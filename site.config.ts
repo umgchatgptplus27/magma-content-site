@@ -43,7 +43,7 @@ export const siteConfig: SiteConfig = {
   },
   verification: {
     google: "", // Search Console → 설정 → 소유권 확인 → HTML 태그의 content 값
-    naver: "", // 네이버 서치어드바이저 → 사이트 등록 → HTML 태그의 content 값
+    naver: "d565574bafa6b90aec6a5fd0999916c60dbee6d8", // 네이버 서치어드바이저 → 사이트 등록 → HTML 태그의 content 값
     bing: "", // Bing 웹마스터 도구 → 사이트 추가 → HTML 메타 태그(msvalidate.01)의 content 값
   },
 };
