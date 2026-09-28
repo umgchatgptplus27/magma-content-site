@@ -270,5 +270,129 @@
   {
     "source": "/blog/working-with-agent-team",
     "destination": "/blog"
+  },
+  {
+    "source": "/blog/mens-trouser-rise-selection-guide",
+    "destination": "/blog/mens-trouser-fit-guide"
+  },
+  {
+    "source": "/blog/mens-trouser-waistband-selection-guide",
+    "destination": "/blog/mens-trouser-fit-guide"
+  },
+  {
+    "source": "/blog/mens-trouser-fly-closure-selection-guide",
+    "destination": "/blog/mens-trouser-fit-guide"
+  },
+  {
+    "source": "/blog/mens-trouser-pocket-selection-guide",
+    "destination": "/blog/mens-trouser-fit-guide"
+  },
+  {
+    "source": "/blog/mens-trouser-pleat-selection-guide",
+    "destination": "/blog/mens-trouser-fit-guide"
+  },
+  {
+    "source": "/blog/mens-trouser-hem-finish-selection-guide",
+    "destination": "/blog/mens-trouser-fit-guide"
+  },
+  {
+    "source": "/blog/mens-trouser-fabric-weight-selection-guide",
+    "destination": "/blog/mens-trouser-fit-guide"
+  },
+  {
+    "source": "/blog/mens-first-manager-wardrobe-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-work-weekend-wardrobe-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-transitional-weather-office-layering-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-early-autumn-office-transition-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-autumn-minimal-office-set-up-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-video-meeting-outfit-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-summer-commute-sweat-care-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-client-meeting-outfit-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-company-workshop-outfit-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-work-dinner-outfit-guide",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/summer-office-look",
+    "destination": "/blog/mens-business-casual-guide"
+  },
+  {
+    "source": "/blog/mens-autumn-cardigan-layering-guide",
+    "destination": "/blog/mens-knit-layering-guide"
+  },
+  {
+    "source": "/blog/mens-office-cardigan-selection-guide",
+    "destination": "/blog/mens-knit-layering-guide"
+  },
+  {
+    "source": "/blog/mens-autumn-office-knit-vest-guide",
+    "destination": "/blog/mens-knit-layering-guide"
+  },
+  {
+    "source": "/blog/mens-sweatshirt-styling-guide",
+    "destination": "/blog/mens-knit-layering-guide"
+  },
+  {
+    "source": "/blog/mens-wool-coat-pilling-care-guide",
+    "destination": "/blog/mens-coat-fabric-selection-guide"
+  },
+  {
+    "source": "/blog/mens-garment-lining-selection-guide",
+    "destination": "/blog/mens-coat-fabric-selection-guide"
+  },
+  {
+    "source": "/blog/mens-dry-cleaning-checklist-guide",
+    "destination": "/blog/mens-garment-care-label-guide"
+  },
+  {
+    "source": "/blog/mens-clothing-color-fade-care-guide",
+    "destination": "/blog/mens-garment-care-label-guide"
+  },
+  {
+    "source": "/blog/mens-garment-static-cling-care-guide",
+    "destination": "/blog/mens-garment-care-label-guide"
+  },
+  {
+    "source": "/blog/mens-garment-odor-care-guide",
+    "destination": "/blog/mens-garment-care-label-guide"
+  },
+  {
+    "source": "/blog/mens-clothes-brush-selection-care-guide",
+    "destination": "/blog/mens-garment-care-label-guide"
+  },
+  {
+    "source": "/blog/mens-swimwear-aftercare-guide",
+    "destination": "/blog/mens-garment-care-label-guide"
+  },
+  {
+    "source": "/blog/mens-pet-hair-workwear-care-guide",
+    "destination": "/blog/mens-garment-care-label-guide"
   }
 ]
