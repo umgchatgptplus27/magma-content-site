@@ -10,6 +10,7 @@ REPO="/Users/jarvis/.hermes/workspace/magma-content-site"
 MIRROR="/Users/jarvis/.hermes/workspace/magma-content-site-production-mirror"
 LOG="/Users/jarvis/.hermes/logs/magma-release.log"
 TODAY="$(TZ=Asia/Seoul date +%F)"
+LAST_FILE="/Users/jarvis/.hermes/state/magma-release-last-date"
 
 log() { echo "[$(TZ=Asia/Seoul date '+%F %T')] $*" >> "$LOG"; }
 fail() { log "FAIL: $*"; exit 1; }
@@ -26,7 +27,15 @@ const due = waves
   .sort((a, b) => a.wave - b.wave)[0];
 if (due) console.log(due.wave);
 ' "$TODAY")"
-[ -z "$WAVE" ] && exit 0
+if [ -z "$WAVE" ]; then
+  log "run: 예정 차수 없음"
+  exit 0
+fi
+# 날짜가 한날에 몰리지 않도록 하루에 한 차수만 배포한다(밀린 차수는 다음 날로 넘긴다).
+if [ "$(cat "$LAST_FILE" 2>/dev/null)" = "$TODAY" ]; then
+  log "run: 오늘 이미 배포함 — wave $WAVE 는 다음 실행으로 넘김"
+  exit 0
+fi
 
 log "start wave $WAVE ($TODAY)"
 [ "$(git rev-parse --abbrev-ref HEAD)" = "main" ] || fail "main 브랜치가 아님"
@@ -44,6 +53,7 @@ git commit -q -m "content: release consolidation wave $WAVE ($TODAY)
 scripts/scheduled-release.sh 자동 배포. docs/release-waves.json 참조." || fail "commit 실패"
 git push -q origin main >> "$LOG" 2>&1 || fail "push 실패"
 log "pushed $(git rev-parse --short HEAD)"
+echo "$TODAY" > "$LAST_FILE"
 
 # 로컬 미러(localhost:3000)도 운영과 같게 맞춘다. 미러에 변경이 있으면 건드리지 않는다.
 if [ -d "$MIRROR" ] && [ -z "$(git -C "$MIRROR" status --porcelain)" ]; then
