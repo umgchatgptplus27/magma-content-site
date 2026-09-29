@@ -1,8 +1,8 @@
 ---
 title: "남자 정장 고르는 법: 수트 색·원단·핏 순서와 기성복·맞춤 차이"
 description: "남자 정장 고르는 법을 네이비·차콜·그레이·블랙의 용도, 울 번수와 원단 무게, 싱글·더블과 단추·라펠·벤트, 어깨부터 바지까지 핏 순서, 기성복·MTM·비스포크 차이와 시착 체크리스트로 정리했습니다."
-date: 2026-10-03
-updated: 2026-10-03
+date: 2026-10-02
+updated: 2026-10-02
 tags: ["재킷", "바지", "핏", "소재", "출근룩"]
 thumbnail: "/images/mens-career-interview-outfit-guide-look-1.webp"
 draft: false

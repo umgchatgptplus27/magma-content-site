@@ -1,8 +1,8 @@
 ---
 title: "체형별 남자 옷 고르는 법: 배·키·어깨·허벅지 고민별 핏 정리"
 description: "체형별 남자 옷 고르는 법을 배가 나온 체형, 키가 작은 체형, 키 크고 마른 체형, 어깨가 넓거나 좁은 체형, 허벅지가 굵은 체형으로 나눠 셔츠·바지·재킷·니트·코트 선택과 색·비례, 수선 포인트까지 정리했습니다."
-date: 2026-10-09
-updated: 2026-10-09
+date: 2026-10-05
+updated: 2026-10-05
 tags: ["핏", "사이즈", "셔츠", "바지", "수선"]
 thumbnail: "/images/mens-weekend-farmers-market-outfit-guide-thumbnail.webp"
 draft: false
