@@ -394,5 +394,57 @@
   {
     "source": "/blog/mens-pet-hair-workwear-care-guide",
     "destination": "/blog/mens-garment-care-label-guide"
+  },
+  {
+    "source": "/blog/mens-new-job-first-day-outfit-guide",
+    "destination": "/blog/mens-career-interview-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-presentation-outfit-guide",
+    "destination": "/blog/mens-career-interview-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-business-conference-outfit-guide",
+    "destination": "/blog/mens-career-interview-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-profile-photo-outfit-guide",
+    "destination": "/blog/mens-career-interview-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-hospital-visitor-outfit-guide",
+    "destination": "/blog/mens-funeral-attire-guide"
+  },
+  {
+    "source": "/blog/mens-family-gathering-outfit-guide",
+    "destination": "/blog/mens-formal-family-meeting-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-parents-birthday-dinner-outfit-guide",
+    "destination": "/blog/mens-formal-family-meeting-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-chuseok-hometown-visit-outfit-guide",
+    "destination": "/blog/mens-formal-family-meeting-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-quilted-jacket-selection-guide",
+    "destination": "/blog/mens-overshirt-styling-guide"
+  },
+  {
+    "source": "/blog/mens-harrington-jacket-selection-guide",
+    "destination": "/blog/mens-overshirt-styling-guide"
+  },
+  {
+    "source": "/blog/mens-leather-jacket-seasonal-care-guide",
+    "destination": "/blog/mens-overshirt-styling-guide"
+  },
+  {
+    "source": "/blog/mens-lightweight-jacket-fit-guide",
+    "destination": "/blog/mens-overshirt-styling-guide"
+  },
+  {
+    "source": "/blog/mens-dress-shoe-sole-selection-guide",
+    "destination": "/blog/mens-derby-oxford-shoe-guide"
   }
 ]
