@@ -446,5 +446,45 @@
   {
     "source": "/blog/mens-dress-shoe-sole-selection-guide",
     "destination": "/blog/mens-derby-oxford-shoe-guide"
+  },
+  {
+    "source": "/blog/mens-knit-rib-hem-selection-guide",
+    "destination": "/blog/mens-knit-gauge-selection-guide"
+  },
+  {
+    "source": "/blog/mens-knit-shoulder-construction-guide",
+    "destination": "/blog/mens-knit-gauge-selection-guide"
+  },
+  {
+    "source": "/blog/mens-knit-neckline-guide",
+    "destination": "/blog/mens-knit-gauge-selection-guide"
+  },
+  {
+    "source": "/blog/mens-shirt-collar-stay-guide",
+    "destination": "/blog/mens-shirt-collar-guide"
+  },
+  {
+    "source": "/blog/mens-open-collar-shirt-guide",
+    "destination": "/blog/mens-shirt-collar-guide"
+  },
+  {
+    "source": "/blog/mens-online-clothing-return-guide",
+    "destination": "/blog/mens-online-clothing-measurement-guide"
+  },
+  {
+    "source": "/blog/mens-online-clothing-review-guide",
+    "destination": "/blog/mens-online-clothing-measurement-guide"
+  },
+  {
+    "source": "/blog/mens-fitting-room-checklist-guide",
+    "destination": "/blog/mens-online-clothing-measurement-guide"
+  },
+  {
+    "source": "/blog/mens-garment-finish-quality-guide",
+    "destination": "/blog/mens-online-clothing-measurement-guide"
+  },
+  {
+    "source": "/blog/mens-shirt-collar-stain-care-guide",
+    "destination": "/blog/mens-garment-stain-first-aid-guide"
   }
 ]
