@@ -55,10 +55,11 @@ git push -q origin main >> "$LOG" 2>&1 || fail "push 실패"
 log "pushed $(git rev-parse --short HEAD)"
 echo "$TODAY" > "$LAST_FILE"
 
-# 로컬 미러(localhost:3000)도 운영과 같게 맞춘다. 미러에 변경이 있으면 건드리지 않는다.
-if [ -d "$MIRROR" ] && [ -z "$(git -C "$MIRROR" status --porcelain)" ]; then
+# 로컬 미러(localhost:3000)도 운영과 같게 맞춘다. 추적 중인 파일이 수정돼 있으면 건드리지 않는다.
+# (로컬 발행 API가 만든 새 파일 같은 미추적 파일은 fast-forward 와 충돌하지 않으므로 막지 않는다.)
+if [ -d "$MIRROR" ] && [ -z "$(git -C "$MIRROR" status --porcelain --untracked-files=no)" ]; then
   git -C "$MIRROR" merge --ff-only -q main >> "$LOG" 2>&1 && log "mirror synced" || log "WARN: mirror 동기화 실패"
 else
-  log "WARN: mirror 에 로컬 변경이 있어 동기화하지 않음"
+  log "WARN: mirror 에 추적 파일 변경이 있어 동기화하지 않음"
 fi
 log "done wave $WAVE"
