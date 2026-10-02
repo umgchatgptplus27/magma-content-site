@@ -486,5 +486,49 @@
   {
     "source": "/blog/mens-shirt-collar-stain-care-guide",
     "destination": "/blog/mens-garment-stain-first-aid-guide"
+  },
+  {
+    "source": "/blog/mens-linen-blazer-selection-guide",
+    "destination": "/blog/mens-blazer-separates-styling-guide"
+  },
+  {
+    "source": "/blog/mens-tweed-jacket-selection-guide",
+    "destination": "/blog/mens-blazer-separates-styling-guide"
+  },
+  {
+    "source": "/blog/mens-jacket-innerwear-selection-guide",
+    "destination": "/blog/mens-blazer-separates-styling-guide"
+  },
+  {
+    "source": "/blog/mens-school-event-outfit-guide",
+    "destination": "/blog/mens-first-birthday-party-dad-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-newborn-family-photo-outfit-guide",
+    "destination": "/blog/mens-first-birthday-party-dad-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-park-outing-dad-outfit-guide",
+    "destination": "/blog/mens-first-birthday-party-dad-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-black-tie-invitation-guide",
+    "destination": "/blog/mens-invitation-dress-code-guide"
+  },
+  {
+    "source": "/blog/mens-exhibition-opening-outfit-guide",
+    "destination": "/blog/mens-invitation-dress-code-guide"
+  },
+  {
+    "source": "/blog/mens-theater-outfit-guide",
+    "destination": "/blog/mens-invitation-dress-code-guide"
+  },
+  {
+    "source": "/blog/mens-all-day-standing-shoe-guide",
+    "destination": "/blog/mens-dress-shoe-fit-check-guide"
+  },
+  {
+    "source": "/blog/mens-wet-suede-shoe-care-guide",
+    "destination": "/blog/mens-leather-shoe-care-guide"
   }
 ]
