@@ -530,5 +530,45 @@
   {
     "source": "/blog/mens-wet-suede-shoe-care-guide",
     "destination": "/blog/mens-leather-shoe-care-guide"
+  },
+  {
+    "source": "/blog/mens-corduroy-trouser-styling-guide",
+    "destination": "/blog/mens-chino-styling-guide"
+  },
+  {
+    "source": "/blog/mens-shorts-styling-guide",
+    "destination": "/blog/mens-chino-styling-guide"
+  },
+  {
+    "source": "/blog/mens-denim-trouser-first-wash-guide",
+    "destination": "/blog/mens-smart-denim-styling-guide"
+  },
+  {
+    "source": "/blog/mens-gray-hair-color-pairing-guide",
+    "destination": "/blog/mens-muted-color-pairing-guide"
+  },
+  {
+    "source": "/blog/mens-subtle-pattern-styling-guide",
+    "destination": "/blog/mens-muted-color-pairing-guide"
+  },
+  {
+    "source": "/blog/mens-fabric-texture-pairing-guide",
+    "destination": "/blog/mens-muted-color-pairing-guide"
+  },
+  {
+    "source": "/blog/mens-knitwear-shape-care-guide",
+    "destination": "/blog/mens-knit-pilling-care-guide"
+  },
+  {
+    "source": "/blog/mens-jacket-wrinkle-care-guide",
+    "destination": "/blog/mens-shirt-ironing-wrinkle-guide"
+  },
+  {
+    "source": "/blog/mens-new-shirt-first-wash-guide",
+    "destination": "/blog/mens-shirt-ironing-wrinkle-guide"
+  },
+  {
+    "source": "/blog/mens-linen-shirt-care-guide",
+    "destination": "/blog/mens-shirt-ironing-wrinkle-guide"
   }
 ]
