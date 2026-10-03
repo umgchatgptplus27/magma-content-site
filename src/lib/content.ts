@@ -80,7 +80,9 @@ export function withHeadingAnchors(html: string): { html: string; toc: TocItem[]
   const toc: TocItem[] = [];
   const out = html.replace(/<h2>([\s\S]*?)<\/h2>/g, (_, inner: string) => {
     const id = `section-${toc.length + 1}`;
-    toc.push({ id, text: decodeEntities(inner.replace(/<[^>]+>/g, "").trim()) });
+    // 목차는 <ol>로 번호를 매기므로 소제목 앞의 "1." 같은 번호는 뗀다.
+    const text = decodeEntities(inner.replace(/<[^>]+>/g, "").trim()).replace(/^\d+[.)]\s*/, "");
+    toc.push({ id, text });
     return `<h2 id="${id}">${inner}</h2>`;
   });
   return { html: out, toc };
