@@ -570,5 +570,41 @@
   {
     "source": "/blog/mens-linen-shirt-care-guide",
     "destination": "/blog/mens-shirt-ironing-wrinkle-guide"
+  },
+  {
+    "source": "/blog/mens-museum-date-outfit-guide",
+    "destination": "/blog/mens-anniversary-dinner-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-wine-tasting-outfit-guide",
+    "destination": "/blog/mens-anniversary-dinner-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-reunion-outfit-guide",
+    "destination": "/blog/mens-anniversary-dinner-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-autumn-terrace-evening-outfit-guide",
+    "destination": "/blog/mens-anniversary-dinner-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-family-camping-outfit-guide",
+    "destination": "/blog/mens-first-hiking-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-valley-daytrip-outfit-guide",
+    "destination": "/blog/mens-first-hiking-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-autumn-sea-fishing-outfit-guide",
+    "destination": "/blog/mens-first-hiking-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-first-tennis-lesson-outfit-guide",
+    "destination": "/blog/mens-first-golf-round-outfit-guide"
+  },
+  {
+    "source": "/blog/mens-winter-glove-selection-guide",
+    "destination": "/blog/mens-scarf-styling-guide"
   }
 ]
