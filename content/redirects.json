@@ -606,5 +606,29 @@
   {
     "source": "/blog/mens-winter-glove-selection-guide",
     "destination": "/blog/mens-scarf-styling-guide"
+  },
+  {
+    "source": "/blog/mens-flannel-shirt-selection-guide",
+    "destination": "/blog/mens-shirt-fabric-selection-guide"
+  },
+  {
+    "source": "/blog/mens-denim-shirt-commute-guide",
+    "destination": "/blog/mens-shirt-fabric-selection-guide"
+  },
+  {
+    "source": "/blog/mens-tshirt-neckline-care-guide",
+    "destination": "/blog/mens-tshirt-fit-guide"
+  },
+  {
+    "source": "/blog/mens-autumn-knit-polo-selection-guide",
+    "destination": "/blog/mens-polo-shirt-selection-guide"
+  },
+  {
+    "source": "/blog/mens-sandal-selection-guide",
+    "destination": "/blog/mens-loafer-selection-guide"
+  },
+  {
+    "source": "/blog/mens-early-autumn-sock-weight-guide",
+    "destination": "/blog/mens-sock-pairing-guide"
   }
 ]
