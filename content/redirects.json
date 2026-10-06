@@ -630,5 +630,21 @@
   {
     "source": "/blog/mens-early-autumn-sock-weight-guide",
     "destination": "/blog/mens-sock-pairing-guide"
+  },
+  {
+    "source": "/blog/mens-pocket-square-styling-guide",
+    "destination": "/blog/mens-necktie-selection-guide"
+  },
+  {
+    "source": "/blog/mens-tie-knot-collar-proportion-guide",
+    "destination": "/blog/mens-necktie-selection-guide"
+  },
+  {
+    "source": "/blog/mens-jewelry-outfit-guide",
+    "destination": "/blog/mens-watch-outfit-pairing-guide"
+  },
+  {
+    "source": "/blog/mens-hat-care-guide",
+    "destination": "/blog/mens-hat-selection-guide"
   }
 ]
