@@ -646,5 +646,41 @@
   {
     "source": "/blog/mens-hat-care-guide",
     "destination": "/blog/mens-hat-selection-guide"
+  },
+  {
+    "source": "/blog/mens-leather-bag-care-guide",
+    "destination": "/blog/mens-work-bag-selection-guide"
+  },
+  {
+    "source": "/blog/mens-pocket-carry-silhouette-guide",
+    "destination": "/blog/mens-work-bag-selection-guide"
+  },
+  {
+    "source": "/blog/mens-wardrobe-photo-inventory-guide",
+    "destination": "/blog/mens-seasonal-wardrobe-storage-guide"
+  },
+  {
+    "source": "/blog/mens-garment-hanger-selection-guide",
+    "destination": "/blog/mens-seasonal-wardrobe-storage-guide"
+  },
+  {
+    "source": "/blog/mens-first-tailoring-consultation-guide",
+    "destination": "/blog/mens-clothing-alteration-guide"
+  },
+  {
+    "source": "/blog/mens-garment-repair-replace-guide",
+    "destination": "/blog/mens-clothing-alteration-guide"
+  },
+  {
+    "source": "/blog/mens-jacket-button-repair-guide",
+    "destination": "/blog/mens-clothing-alteration-guide"
+  },
+  {
+    "source": "/blog/mens-garment-zipper-troubleshooting-guide",
+    "destination": "/blog/mens-clothing-alteration-guide"
+  },
+  {
+    "source": "/blog/mens-weight-change-wardrobe-guide",
+    "destination": "/blog/mens-wardrobe-budget-guide"
   }
 ]
