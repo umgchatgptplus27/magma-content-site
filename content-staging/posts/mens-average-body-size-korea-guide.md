@@ -1,8 +1,8 @@
 ---
 title: "30·40대 남자 평균 키와 허리둘레, 옷 사이즈엔 어떻게 반영할까"
 description: "사이즈코리아 제8차 인체치수조사로 30·40대 한국 남성의 평균 키·몸무게·가슴·허리·엉덩이둘레를 정리하고, 2015년보다 달라진 체형이 셔츠·재킷·바지 사이즈 선택에 주는 의미를 짚었습니다."
-date: 2026-10-09
-updated: 2026-10-09
+date: 2026-10-13
+updated: 2026-10-13
 tags: ["사이즈", "핏", "셔츠", "바지", "재킷"]
 thumbnail: "/images/mens-trouser-fit-guide-thumbnail.webp"
 draft: false

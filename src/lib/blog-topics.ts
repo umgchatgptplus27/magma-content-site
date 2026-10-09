@@ -32,6 +32,7 @@ export const BLOG_TOPICS: BlogTopic[] = [
       "mens-suit-selection-guide",
       "mens-online-clothing-measurement-guide",
       "mens-body-type-outfit-guide",
+      "mens-average-body-size-korea-guide",
       "mens-shirt-collar-guide",
       "mens-shirt-fabric-selection-guide",
       "mens-tshirt-fit-guide",
