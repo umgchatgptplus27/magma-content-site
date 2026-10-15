@@ -40,6 +40,7 @@ export const BLOG_TOPICS: BlogTopic[] = [
       "mens-knit-gauge-selection-guide",
       "mens-coat-length-fit-guide",
       "mens-coat-fabric-selection-guide",
+      "mens-down-jacket-label-guide",
     ],
     pattern: /핏|사이즈|치수|실측|셔츠|재킷|코트|니트/i,
   },
