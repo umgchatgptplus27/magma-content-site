@@ -103,7 +103,7 @@ export default function Home() {
             <p className="eyebrow mb-2">도구</p>
             <h2 className="font-display text-2xl font-bold text-primary">온라인으로 옷 살 때, 내 옷 실측과 비교해 보세요</h2>
             <p className="mt-3 text-sm leading-relaxed text-ink-sub">
-              잘 맞는 셔츠·바지·재킷의 단면 치수와 사려는 옷의 사이즈표를 넣으면 항목별 차이와 수선 가능성을 알려 드립니다. 신발·셔츠 목둘레·바지 허리 환산표도 함께 있습니다.
+              잘 맞는 셔츠·바지·재킷의 단면 치수와 사려는 옷의 사이즈표를 넣으면 항목별 치수 차이와 비교할 때 확인할 조건을 알려 드립니다. 신발·셔츠 목둘레·바지 허리 환산표도 함께 있습니다.
             </p>
           </div>
           <Link

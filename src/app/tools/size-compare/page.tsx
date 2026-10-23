@@ -46,8 +46,8 @@ export default function SizeComparePage() {
       <p className="eyebrow mb-2">도구</p>
       <h1 className="font-display text-3xl font-bold leading-snug text-primary sm:text-4xl">옷 사이즈 비교 계산기</h1>
       <p className="mt-4 text-lg leading-relaxed text-ink-sub">
-        사이즈 표기(M, 100, 32)는 브랜드마다 뜻이 다릅니다. 가장 정확한 방법은 <strong className="text-primary">지금 잘 맞는 내 옷을 재서 사려는 옷의 실측과 비교</strong>하는 것입니다.
-        아래에 두 값을 넣으면 항목별 차이와 수선 가능성을 바로 보여 드립니다.
+        사이즈 표기(M, 100, 32)는 브랜드마다 뜻이 다릅니다. 구매 전에 할 수 있는 비교는 <strong className="text-primary">지금 잘 맞는 내 옷을 재서 사려는 옷의 실측과 비교</strong>하는 것입니다.
+        아래에 두 값을 넣으면 항목별 치수 차이를 보여 드립니다. 착용감이나 수선 가능 여부를 자동 판정하지 않습니다.
       </p>
 
       <div className="mt-10">
@@ -74,17 +74,33 @@ export default function SizeComparePage() {
 
         <h2>계산기가 차이를 읽는 기준</h2>
         <p>
-          계산기의 판단은 MAGMA 가이드에서 쓰는 일반적인 여유 기준입니다. 단면 1cm 안쪽 차이는 측정 오차와 원단 차이로 보고 &lsquo;거의 같음&rsquo;으로 판단합니다.
-          둘레 차이가 5cm를 넘으면(단면 2.5cm 초과) 대개 한 사이즈 차이에 가깝습니다. 어깨는 수선이 가장 어려운 부위라 1.5cm만 넘어도 다른 사이즈를 권하고,
-          소매·총장처럼 길이 항목은 3cm 안쪽이면 수선 가능 여부를 먼저 확인하도록 안내합니다. 브랜드 패턴과 소재에 따라 체감은 달라질 수 있으니, 차이가 큰 항목이 있으면 입어 보고 결정하세요.
+          차이는 ‘사려는 옷 − 내 옷’으로 계산합니다. 가슴·허리 같은 폭은 단면 차이와 그 두 배인 둘레 차이를 함께 표시하고, 소매·총장은 길이 차이만 표시합니다.
+          한 사이즈에 해당하는 cm나 수선 가능한 길이는 브랜드·패턴·시접에 따라 달라 일률적인 합격선을 두지 않습니다. 입력값이 같아도 소재와 측정 위치가 다르면 착용감은 달라집니다.
+
         </p>
 
+        <h2>숫자가 같아도 비교하면 안 되는 경우</h2>
+        <ul>
+          <li>신체 가슴둘레와 제품 가슴단면: 신체 치수를 반으로 나눠 넣어도 옷에 필요한 여유를 알 수 없습니다. 두 칸 모두 제품 실측을 넣습니다.</li>
+          <li>어깨 끝에서 잰 소매와 뒷목 중심에서 잰 소매: 출발점이 다릅니다. 판매처의 측정 그림에 맞춰 기준 옷을 다시 잽니다.</li>
+          <li>어깨 최고점 총장과 칼라 아래 총장: 같은 이름이어도 시작점이 다릅니다. 임의의 보정값을 더하거나 빼지 않습니다.</li>
+          <li>드롭 숄더와 일반 셔츠, 니트와 직물 셔츠: 숫자를 계산할 수 있어도 같은 핏이라고 판단할 수 없습니다.</li>
+        </ul>
+        <h2>계산 예: 가슴단면과 소매를 따로 읽기</h2>
+        <p>아래는 계산 방법을 설명하기 위해 정한 숫자이며 실제 제품의 측정 결과가 아닙니다.</p>
+        <ul>
+          <li>내 셔츠 가슴단면 54cm, 구매 후보 56cm → 단면 +2cm, 두 배로 환산한 둘레 약 +4cm.</li>
+          <li>같은 셔츠 소매 61cm, 구매 후보 60cm → 소매 −1cm. 소매 길이에 2를 곱하지 않습니다.</li>
+          <li>이 후보는 몸통이 더 넓고 소매는 더 짧습니다. 전체를 ‘한 사이즈 큼’으로 요약하면 이 차이를 놓칩니다.</li>
+        </ul>
+        <p><Link href="/blog/mens-online-clothing-measurement-guide">실측 비교 가이드</Link>에서 측정 조건 확인과 시착 순서를 이어서 볼 수 있습니다.</p>
+
         <h2>신발 사이즈 환산표 (한국 mm · US · UK · EU)</h2>
-        <p>Nike 남성 신발 사이즈표 기준입니다. 브랜드와 라스트(구두 틀)에 따라 반 치수 정도 달라질 수 있어, 처음 사는 브랜드는 발 길이(mm)로 비교하는 편이 정확합니다.</p>
+        <p>Nike 남성 표의 US 6–11 구간을 옮겼습니다(2026년 10월 23일 확인). 첫 열은 상자·라벨의 CM/JP 호칭을 mm로 표현한 것이며 실제 발 길이가 아닙니다. 발을 재서 고를 때는 Nike 원문의 Foot Length 항목을 이용하고, 다른 브랜드에는 그 브랜드 표를 적용하세요.</p>
         <div className="table-scroll" role="region" aria-label="신발 사이즈 환산표" tabIndex={0}>
           <table>
             <thead>
-              <tr><th>한국(mm)</th><th>US</th><th>UK</th><th>EU</th></tr>
+              <tr><th>라벨 CM/JP × 10 (mm)</th><th>US</th><th>UK</th><th>EU</th></tr>
             </thead>
             <tbody>
               {SHOES.map(([mm, us, uk, eu]) => (
@@ -128,11 +144,12 @@ export default function SizeComparePage() {
         <h3>입력한 치수는 어디에 저장되나요?</h3>
         <p>지금 쓰는 브라우저에만 저장되고 서버로 보내지지 않습니다. 다음에 방문하면 내 옷 치수가 그대로 남아 있어 사려는 옷 값만 바꿔 넣으면 됩니다. 브라우저 데이터를 지우면 함께 사라집니다.</p>
         <h3>차이가 모두 1cm 안쪽인데도 입어 보면 다를 수 있나요?</h3>
-        <p>그럴 수 있습니다. 같은 치수라도 원단의 신축성, 어깨 경사, 암홀 깊이처럼 사이즈표에 없는 요소가 착용감을 바꿉니다. 실측이 비슷하면 실패 확률이 크게 줄어드는 정도로 이해하시면 됩니다.</p>
+        <p>그럴 수 있습니다. 같은 치수라도 원단의 신축성, 어깨 경사, 암홀 깊이처럼 사이즈표에 없는 요소가 착용감을 바꿉니다. 이 도구는 치수 차이를 계산하며, 구매 성공률이나 착용감을 예측하지 않습니다.</p>
 
         <h2>참고 자료</h2>
         <ul>
           <li><a href="https://www.nike.com/size-fit/mens-footwear">Nike — Men&apos;s Footwear Size Chart</a></li>
+          <li><a href="https://propercloth.com/reference/how-the-sleeve-length-should-fit/">Proper Cloth — 소매 측정 시작점과 커프 조건</a></li>
           <li><a href="https://propercloth.com/reference/how-the-dress-shirt-collar-should-fit/">Proper Cloth — How the Dress Shirt Collar Should Fit</a></li>
         </ul>
       </div>

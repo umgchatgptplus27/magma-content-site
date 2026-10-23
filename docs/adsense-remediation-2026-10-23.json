@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-23",
+  "site": "https://www.eurachoachoa.com",
+  "reported_rejection": "가치가 별로 없는 콘텐츠",
+  "review_available_from": "2026-10-30",
+  "changes": [
+    "사이즈 도구의 일률적 적합성·수선 판정 제거",
+    "잘못된 입력과 0을 계산에서 제외",
+    "Nike 라벨 호칭과 발 길이 구분",
+    "실측 가이드에 측정 조건 비교표와 명시적인 계산 예 추가",
+    "셔츠 소매 커프 조건 해석 정정 및 예약 원고에도 반영",
+    "평균 체형의 집단 통계를 개인의 변화·핏 합격선으로 해석한 문장 정정",
+    "AI 활용·예시 이미지 한계와 날짜별 정정 기록 안내"
+  ],
+  "checks": {
+    "editorial_tests": 9,
+    "publication_files": 57,
+    "missing_local_assets": 0,
+    "asset_references_checked": 305,
+    "post_links_checked": 316,
+    "public_posts_http_200": 55,
+    "calculator_browser": [
+      "단면 54→56: +2cm, 둘레 약 +4cm",
+      "소매 61→60: -1cm",
+      "잘못된 소수 및 0 차단",
+      "동일 치수 처리",
+      "새로고침 후 복원",
+      "구매 후보 치수만 지우기",
+      "품목 전환"
+    ],
+    "mobile_width_390": "documentWidth=390"
+  },
+  "sources_checked": [
+    "https://propercloth.com/reference/how-the-sleeve-length-should-fit/",
+    "https://www.nike.com/size-fit/mens-footwear",
+    "https://support.google.com/adsense/answer/10015918"
+  ],
+  "limits": [
+    "55개 원고 전체의 사실 정확성·독창성을 정독 검수한 결과가 아님",
+    "사이즈코리아 기존 수치 원자료 전체를 이번 작업에서 재검증하지 않음",
+    "전체 방문·재방문·색인 보고서 미확인; 검색 실적은 사용자 스크린샷으로 확인",
+    "실물 착용·측정 자료는 새로 확보하지 않음",
+    "Google 심사 결과는 아직 거절 상태이며 승인·재심사 완료를 의미하지 않음"
+  ],
+  "search_console_user_screenshot": {
+    "range": "28 days",
+    "clicks": 0,
+    "impressions": 8,
+    "ctr": "0%",
+    "average_position": 10.9,
+    "last_updated": "102 hours ago",
+    "scope": "선택된 URL-prefix 속성의 웹 검색 실적; 전체 방문자 수가 아님"
+  }
+}

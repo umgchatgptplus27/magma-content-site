@@ -19,7 +19,7 @@ export default function AboutPage() {
       eyebrow="ABOUT & CONTACT"
       title="소개 및 문의"
       summary="MAGMA는 3040 남성이 자신에게 맞는 옷을 고르고 오래 입을 수 있도록 핏·조합·경조사 옷차림·의류 관리의 기준을 정리하는 정보 사이트입니다."
-      updatedAt="2026년 9월 27일"
+      updatedAt="2026년 10월 23일"
       sections={[
         {
           title: "MAGMA가 다루는 것",
@@ -70,9 +70,11 @@ export default function AboutPage() {
                 3040 남성의 출근·경조사·주말 생활에 맞게 정리합니다. 공개 전에는 운영자가 내용과 출처를 검토합니다.
               </p>
               <p>
-                수치는 널리 쓰이는 일반 기준으로 제시합니다. 체형과 브랜드마다 치수 체계가 다르므로 최종 판단은 해당 제품의 실측표와 케어라벨을 우선해 주세요.
+                수치는 출처가 설명하는 대상과 측정 조건을 함께 읽어야 합니다. 집단 평균이나 특정 브랜드의 기준을 모든 사람에게 적용하지 않습니다. 체형과 브랜드마다 치수 체계가 다르므로 최종 판단은 해당 제품의 실측표와 케어라벨을 우선해 주세요.
                 글 속 스타일 이미지는 설명을 돕기 위한 예시이며 특정 상품의 사진이 아닙니다.
               </p>
+              <p>자료 정리와 초안 작성에 AI를 활용합니다. 생성한 스타일 이미지는 코디 설명용이며 제품의 실제 핏·봉제·라벨을 검증하는 자료로 사용하지 않습니다. 실제 측정이 없는 계산 예는 설명용 숫자임을 본문에 표시합니다.</p>
+              <p>공개 통계를 재계산한 부분은 원자료의 조사 시점·대상과 계산 방법을 구분합니다. 계산기는 입력값의 차이를 알려 주며, 사이즈 적합성이나 수선 성공을 보장하지 않습니다.</p>
               <p>MAGMA는 옷을 제조하거나 판매하지 않습니다.</p>
             </>
           ),
@@ -88,6 +90,16 @@ export default function AboutPage() {
                 잘못된 정보나 오래된 링크를 발견하시면 아래 이메일로 알려 주세요. 확인 후 본문을 고치고 업데이트 날짜를 갱신합니다.
               </p>
             </>
+          ),
+        },
+        {
+          title: "최근 정정 기록",
+          content: (
+            <ul className="list-disc space-y-2 pl-5">
+              <li>2026년 10월 23일 · <Link href="/tools/size-compare" className="text-primary underline underline-offset-2">사이즈 계산기</Link>: 일률적인 사이즈·수선 판정을 없애고 실제 치수 차이를 표시하도록 수정했습니다. 신발 라벨 호칭과 발 길이도 구분했습니다.</li>
+              <li>2026년 10월 23일 · <Link href="/blog/mens-shirt-fit-guide" className="text-primary underline underline-offset-2">셔츠 가이드</Link>: 커프를 풀었을 때와 채웠을 때의 소매 위치를 동일한 기준으로 설명한 부분을 바로잡았습니다.</li>
+              <li>2026년 10월 23일 · <Link href="/blog/mens-average-body-size-korea-guide" className="text-primary underline underline-offset-2">평균 체형 가이드</Link>: 연령대 평균을 개인의 체형 변화나 핏 기준으로 단정한 해석을 수정했습니다.</li>
+            </ul>
           ),
         },
         {

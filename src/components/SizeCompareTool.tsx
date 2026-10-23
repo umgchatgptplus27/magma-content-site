@@ -41,26 +41,13 @@ const STORAGE_KEY = "magma-size-compare-v1";
 
 type Values = Record<string, Record<string, { mine: string; target: string }>>;
 
-function verdict(field: Field, diff: number): { text: string; tone: "ok" | "mid" | "far" } {
-  const abs = Math.abs(diff);
-  const dir = diff > 0 ? "큽니다" : "작습니다";
-  if (abs <= 1) return { text: "거의 같습니다", tone: "ok" };
-  if (field.key === "shoulder") {
-    return abs <= 1.5
-      ? { text: `조금 ${dir}. 어깨는 수선이 어려우니 입어 보고 판단하세요`, tone: "mid" }
-      : { text: `${abs.toFixed(1)}cm ${dir}. 어깨는 고치기 어려워 다른 사이즈를 권합니다`, tone: "far" };
-  }
-  if (field.kind === "width") {
-    return abs <= 2.5
-      ? { text: `둘레로 약 ${(abs * 2).toFixed(1)}cm ${dir}`, tone: "mid" }
-      : { text: `둘레로 약 ${(abs * 2).toFixed(1)}cm ${dir}. 한 사이즈 차이에 가깝습니다`, tone: "far" };
-  }
-  return abs <= 3
-    ? { text: `${abs.toFixed(1)}cm ${dir}. ${diff > 0 ? "줄이는 수선이 가능한지 확인하세요" : "늘릴 시접이 있는지 확인하세요"}`, tone: "mid" }
-    : { text: `${abs.toFixed(1)}cm ${dir}. 수선보다 다른 사이즈를 먼저 보세요`, tone: "far" };
+function comparisonText(field: Field, diff: number): string {
+  if (diff === 0) return "입력한 치수가 같습니다. 착용감이 같다는 뜻은 아닙니다.";
+  const direction = diff > 0 ? "더 큽니다" : "더 작습니다";
+  return field.kind === "width"
+    ? `단면이 ${Math.abs(diff).toFixed(1)}cm ${direction}. 단면을 두 배 한 둘레 차이는 약 ${(Math.abs(diff) * 2).toFixed(1)}cm입니다.`
+    : `측정 길이가 ${Math.abs(diff).toFixed(1)}cm ${diff > 0 ? "더 깁니다" : "더 짧습니다"}.`;
 }
-
-const toneClass = { ok: "text-primary", mid: "text-accent", far: "text-ink" };
 
 export default function SizeCompareTool() {
   const [item, setItem] = useState<keyof typeof ITEMS>("shirt");
@@ -96,15 +83,14 @@ export default function SizeCompareTool() {
     () =>
       fields.map((field) => {
         const v = values[item]?.[field.key];
-        const mine = Number.parseFloat(v?.mine ?? "");
-        const target = Number.parseFloat(v?.target ?? "");
-        const ready = Number.isFinite(mine) && Number.isFinite(target);
+        const mine = Number(v?.mine);
+        const target = Number(v?.target);
+        const ready = Number.isFinite(mine) && mine > 0 && Number.isFinite(target) && target > 0;
         return { field, v, ready, diff: ready ? target - mine : 0 };
       }),
     [fields, values, item],
   );
   const filled = rows.filter((r) => r.ready);
-  const far = filled.filter((r) => verdict(r.field, r.diff).tone === "far");
 
   function update(key: string, side: "mine" | "target", value: string) {
     setValues((prev) => ({
@@ -141,12 +127,12 @@ export default function SizeCompareTool() {
 
       <p className="mt-5 text-sm leading-relaxed text-ink-sub">
         옷을 평평하게 놓고 잰 <strong className="text-primary">단면 실측(cm)</strong>을 입력하세요. 왼쪽은 가장 잘 맞는 내 옷, 오른쪽은 사려는 옷의 사이즈표 값입니다.
-        내 옷 치수는 이 브라우저에만 저장됩니다.
+        입력한 두 옷의 치수는 이 브라우저에만 저장됩니다. 측정 위치와 단위를 먼저 맞춰 주세요.
       </p>
 
       <div className="mt-6 space-y-4">
         {rows.map(({ field, v, ready, diff }) => {
-          const result = ready ? verdict(field, diff) : null;
+          const result = ready ? comparisonText(field, diff) : null;
           return (
             <div key={field.key} className="grid gap-3 border-t border-line pt-4 sm:grid-cols-[9rem_1fr_1fr] sm:items-end">
               <div>
@@ -159,15 +145,20 @@ export default function SizeCompareTool() {
                   <input
                     inputMode="decimal"
                     value={v?.[side] ?? ""}
-                    onChange={(e) => update(field.key, side, e.target.value.replace(/[^0-9.]/g, ""))}
+                    onChange={(e) => update(field.key, side, e.target.value)}
+                    aria-label={`${field.label} ${side === "mine" ? "내 옷" : "사려는 옷"} (cm)`}
+                    aria-invalid={Boolean(v?.[side]) && !(Number.isFinite(Number(v?.[side])) && Number(v?.[side]) > 0)}
                     placeholder="cm"
                     className="mt-1 w-full rounded-ui border border-line bg-canvas px-3 py-2 text-base text-ink outline-none focus:border-primary"
                   />
                 </label>
               ))}
+              {(["mine", "target"] as const).some((side) => Boolean(v?.[side]) && !(Number.isFinite(Number(v?.[side])) && Number(v?.[side]) > 0)) && (
+                <p className="text-sm text-accent sm:col-span-3" role="alert">0보다 큰 숫자를 입력하세요. 단위는 cm입니다.</p>
+              )}
               {result && (
-                <p className={`text-sm sm:col-span-3 ${toneClass[result.tone]}`} aria-live="polite">
-                  {diff === 0 ? "같습니다" : `${diff > 0 ? "+" : ""}${diff.toFixed(1)}cm — ${result.text}`}
+                <p className="text-sm text-primary sm:col-span-3" aria-live="polite">
+                  {result}
                 </p>
               )}
             </div>
@@ -178,9 +169,7 @@ export default function SizeCompareTool() {
       <div className="mt-6 rounded-ui border border-line bg-canvas p-4 text-sm leading-relaxed text-ink-sub" aria-live="polite">
         {filled.length === 0
           ? "두 칸을 모두 채운 항목부터 차이를 보여 드립니다. 어깨(셔츠·재킷)나 허리·엉덩이(바지)를 먼저 비교하세요."
-          : far.length === 0
-            ? `입력한 ${filled.length}개 항목이 모두 1사이즈 안쪽 차이입니다. 길이 차이는 수선으로 맞출 수 있는지 확인하세요.`
-            : `차이가 큰 항목: ${far.map((r) => r.field.label).join(", ")}. ${far.some((r) => r.field.key === "shoulder" || r.field.key === "hip") ? "어깨·엉덩이는 수선이 어려우니 이 항목에 맞는 사이즈를 먼저 고르세요." : "다른 사이즈의 같은 항목과 비교해 보세요."}`}
+          : `${filled.length}개 항목을 비교했습니다. 치수 차이만으로 맞는 사이즈나 수선 가능 여부를 정할 수 없습니다. 같은 측정 위치인지 확인하고 소재·핏·시접을 함께 살펴보세요.`}
       </div>
 
       <button type="button" onClick={clearTarget} className="mt-4 text-sm text-ink-muted underline underline-offset-2 hover:text-primary">
