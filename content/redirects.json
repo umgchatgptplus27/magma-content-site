@@ -682,5 +682,13 @@
   {
     "source": "/blog/mens-weight-change-wardrobe-guide",
     "destination": "/blog/mens-wardrobe-budget-guide"
+  },
+  {
+    "source": "/p/1-about.html",
+    "destination": "/about"
+  },
+  {
+    "source": "/p/3-privacy-policy.html",
+    "destination": "/privacy-policy"
   }
 ]
