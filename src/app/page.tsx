@@ -1,3 +1,4 @@
+import GuideEntryPoints from "@/components/GuideEntryPoints";
 import Hero from "@/components/Hero";
 import SectionHeading from "@/components/SectionHeading";
 import PostCard from "@/components/PostCard";
@@ -32,6 +33,10 @@ export default function Home() {
   return (
     <>
       <Hero />
+      <section className="container-page py-12">
+        <h2 className="mb-6 font-display text-2xl font-bold text-primary">지금 어떤 옷 고민이 있나요?</h2>
+        <GuideEntryPoints />
+      </section>
 
       {/* 사이트 소개 */}
       <section className="container-page py-24">

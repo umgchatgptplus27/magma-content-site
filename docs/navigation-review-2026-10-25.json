@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "changes": [
+    "홈 히어로 최소 높이 88vh → 60vh",
+    "홈 소개 앞과 전체 가이드 첫 페이지에 고민별 바로가기 6개 배치",
+    "기존 URL·주제 분류·페이지네이션 유지",
+    "니트 게이지 글의 숫자와 완제품 두께·보온성 관계 설명 수정"
+  ],
+  "validation": {
+    "build": "passed, 78 routes",
+    "lint": "passed",
+    "existing_tests": "9 passed",
+    "navigation_destinations": "6 HTTP 200",
+    "click": "home shortcut to size tool passed",
+    "mobile": "home 390px and blog 320px, no horizontal overflow",
+    "pagination": "shortcuts appear on page 1, omitted on page 2"
+  },
+  "content_sources": [
+    "https://www.shimaseiki.com/ire/company/vocabulary.html",
+    "https://cottonworks.com/learning-hub/knitting/single-and-double-knits/"
+  ],
+  "remaining": [
+    "Search Console 최신 검색어·노출 페이지를 확인하고 실제 수요에 따라 대표 글 보강",
+    "재심사 가능일 2026-10-30 이후 AdSense 상태 확인 및 검토 요청"
+  ],
+  "limitations": [
+    "탐색 개선 효과와 검색 유입 증가는 아직 측정하지 않음",
+    "니트 글 전체와 사이트 전체 사실 검증 완료를 의미하지 않음",
+    "Google 색인 및 AdSense 승인은 별도 심사"
+  ]
+}
