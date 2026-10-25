@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-25",
+  "scope": [
+    "mens-clothing-alteration-guide",
+    "mens-knit-pilling-care-guide"
+  ],
+  "changes": [
+    "수선 가능 범위를 호칭 사이즈·어깨 위치만으로 단정한 설명 수정",
+    "수선 상담과 수령 시 비교할 독자 작성 기록표 추가",
+    "GC026 사용 설명서와 일반 관리 제안을 구분하고 솔기 시험 안내 수정",
+    "보풀 제거 전후 관찰표와 중단 판단 절차 추가",
+    "소개 페이지 정정 기록 갱신"
+  ],
+  "verified_sources": [
+    {
+      "url": "https://pubs.nmsu.edu/_c/C314/index.html",
+      "supports": "같은 신발·벨트를 착용해 밑단 표시, 시침 후 재확인"
+    },
+    {
+      "url": "https://arthurandlucca.com/pages/alterations-pricing",
+      "supports": "어깨 폭 줄이기와 어깨 쪽 소매 단축은 고난도 작업으로 분류"
+    },
+    {
+      "url": "https://dam.versuni.com/m/141207361c3f4c9e/original/Garment-Care_2024_GC026_Manual-Philips.pdf",
+      "supports": "평평하게 펼치기, 강한 압력 및 느슨한 실·부자재 피하기, 긴 보풀용 보호 커버"
+    },
+    {
+      "url": "https://www.woolmark.com/care/pilling/",
+      "supports": "보풀 원인과 손·빗·전동 제거기 사용 안내"
+    }
+  ],
+  "validation": {
+    "publication_gate": "57 files passed",
+    "lint": "passed",
+    "existing_tests": "9 passed",
+    "local_article_links_and_images": "21 references checked, none missing",
+    "production_build": "passed, 78 routes"
+  },
+  "limitations": [
+    "두 글의 특정 설명과 추가 양식을 검토했으며 전체 사이트 팩트체크 완료를 의미하지 않음",
+    "기록표는 독자가 작성할 양식이며 실제 착용·수선·제품 시험 결과가 아님",
+    "AdSense 승인 또는 Google 색인 반영은 확인되지 않음"
+  ]
+}

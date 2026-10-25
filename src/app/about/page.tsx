@@ -19,7 +19,7 @@ export default function AboutPage() {
       eyebrow="ABOUT & CONTACT"
       title="소개 및 문의"
       summary="MAGMA는 3040 남성이 자신에게 맞는 옷을 고르고 오래 입을 수 있도록 핏·조합·경조사 옷차림·의류 관리의 기준을 정리하는 정보 사이트입니다."
-      updatedAt="2026년 10월 23일"
+      updatedAt="2026년 10월 25일"
       sections={[
         {
           title: "MAGMA가 다루는 것",
@@ -96,6 +96,7 @@ export default function AboutPage() {
           title: "최근 정정 기록",
           content: (
             <ul className="list-disc space-y-2 pl-5">
+              <li>2026년 10월 25일 · <Link href="/blog/mens-clothing-alteration-guide" className="text-primary underline underline-offset-2">수선 가이드</Link>의 일률적인 수선 가능 설명을 수정하고 상담·수령 기록표를 추가했습니다. <Link href="/blog/mens-knit-pilling-care-guide" className="text-primary underline underline-offset-2">보풀 관리 가이드</Link>는 제거기 모델별 사용 조건을 구분하고 작업 전후 관찰표를 보강했습니다.</li>
               <li>2026년 10월 23일 · <Link href="/tools/size-compare" className="text-primary underline underline-offset-2">사이즈 계산기</Link>: 일률적인 사이즈·수선 판정을 없애고 실제 치수 차이를 표시하도록 수정했습니다. 신발 라벨 호칭과 발 길이도 구분했습니다.</li>
               <li>2026년 10월 23일 · <Link href="/blog/mens-shirt-fit-guide" className="text-primary underline underline-offset-2">셔츠 가이드</Link>: 커프를 풀었을 때와 채웠을 때의 소매 위치를 동일한 기준으로 설명한 부분을 바로잡았습니다.</li>
               <li>2026년 10월 23일 · <Link href="/blog/mens-average-body-size-korea-guide" className="text-primary underline underline-offset-2">평균 체형 가이드</Link>: 연령대 평균을 개인의 체형 변화나 핏 기준으로 단정한 해석을 수정했습니다.</li>
