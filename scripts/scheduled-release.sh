@@ -17,16 +17,15 @@ fail() { log "FAIL: $*"; exit 1; }
 
 cd "$REPO" || fail "repo 없음"
 
-WAVE="$(node -e '
-const fs = require("fs");
+WAVE="$(node --input-type=module -e '
+import fs from "node:fs";
+import { selectReleaseWave } from "./scripts/select-release-wave.mjs";
 const { waves } = JSON.parse(fs.readFileSync("docs/release-waves.json", "utf8"));
-const today = process.argv[1];
-const due = waves
-  .filter((w) => w.date <= today)
-  .filter((w) => w.pillars.some((p) => fs.existsSync(`content-staging/posts/${p}.md`)))
-  .sort((a, b) => a.wave - b.wave)[0];
-if (due) console.log(due.wave);
-' "$TODAY")"
+const staged = new Set(waves.flatMap((w) => w.pillars).filter((slug) => fs.existsSync(`content-staging/posts/${slug}.md`)));
+const wave = selectReleaseWave(waves, process.argv[1], staged);
+if (wave !== undefined) console.log(wave);
+' "$TODAY")" || fail "예정 차수 선택 실패"
+
 if [ -z "$WAVE" ]; then
   log "run: 예정 차수 없음"
   exit 0
