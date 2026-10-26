@@ -1,2756 +1,963 @@
 {
   "method": "Korean/Latin word-internal 3-gram TF-IDF cosine; common grams >50% excluded; images and source list excluded. Triage only, not an originality or Google score.",
-  "publicCount": 218,
-  "pairCount": 23653,
+  "publicCount": 55,
+  "pairCount": 1485,
   "topPairs": [
     {
-      "a": "mens-denim-shirt-commute-guide",
-      "b": "mens-trench-coat-commute-guide",
-      "titleA": "3040 남성을 위한 초가을 데님 셔츠 출근 코디: 5가지 판단 기준",
-      "titleB": "3040 남성을 위한 가을 트렌치코트 출근 코디: 5가지 판단 기준",
-      "similarity": 0.3385
+      "a": "mens-shirt-ironing-wrinkle-guide",
+      "b": "mens-trouser-care-guide",
+      "titleA": "셔츠 다림질 하는 법, 순서와 온도부터 린넨 관리까지",
+      "titleB": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+      "similarity": 0.2005
     },
     {
-      "a": "mens-jacket-collar-gap-fit-guide",
-      "b": "mens-jacket-sleeve-pitch-fit-guide",
-      "titleA": "3040 남성을 위한 재킷 칼라 들뜸 점검 기준 5가지",
-      "titleB": "3040 남성을 위한 재킷 소매 비틀림·주름 점검 기준 5가지",
-      "similarity": 0.327
+      "a": "mens-knit-pilling-care-guide",
+      "b": "mens-trouser-care-guide",
+      "titleA": "니트 보풀 제거 방법과 늘어나지 않게 관리하는 법",
+      "titleB": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+      "similarity": 0.1885
+    },
+    {
+      "a": "mens-jacket-fit-guide",
+      "b": "mens-suit-selection-guide",
+      "titleA": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+      "titleB": "남자 정장 고르는 법: 색·원단·핏 순서와 기성복·맞춤 차이",
+      "similarity": 0.1816
+    },
+    {
+      "a": "mens-body-type-outfit-guide",
+      "b": "mens-trouser-fit-guide",
+      "titleA": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+      "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "similarity": 0.1663
+    },
+    {
+      "a": "mens-garment-care-label-guide",
+      "b": "mens-trouser-care-guide",
+      "titleA": "세탁 기호 읽는 법, 물세탁부터 드라이 표시까지 한 표로",
+      "titleB": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+      "similarity": 0.1653
     },
     {
       "a": "mens-polo-shirt-selection-guide",
-      "b": "mens-shirt-fabric-selection-guide",
-      "titleA": "3040 남성을 위한 폴로셔츠를 단정하게 고르는 기준 5가지",
-      "titleB": "3040 남성을 위한 셔츠 원단을 고르는 기준 5가지",
-      "similarity": 0.3213
-    },
-    {
-      "a": "mens-linen-trouser-care-guide",
-      "b": "mens-shirt-collar-stain-care-guide",
-      "titleA": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-      "titleB": "남성 셔츠 칼라 얼룩 관리: 케어라벨부터 확인하는 순서",
-      "similarity": 0.3201
-    },
-    {
-      "a": "mens-jacket-lapel-selection-guide",
-      "b": "mens-jacket-pocket-selection-guide",
-      "titleA": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-      "similarity": 0.2904
-    },
-    {
-      "a": "mens-first-birthday-party-dad-outfit-guide",
-      "b": "mens-formal-family-meeting-outfit-guide",
-      "titleA": "3040 아빠를 위한 돌잔치 옷차림 기준 5가지",
-      "titleB": "3040 남성을 위한 상견례 옷차림 기준 5가지",
-      "similarity": 0.2849
-    },
-    {
-      "a": "mens-linen-trouser-care-guide",
-      "b": "mens-new-shirt-first-wash-guide",
-      "titleA": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-      "titleB": "3040 남성을 위한 새 셔츠 첫 세탁 전 확인할 5가지 기준",
-      "similarity": 0.2818
-    },
-    {
-      "a": "mens-weekend-bookstore-outfit-guide",
-      "b": "mens-weekend-brunch-outfit-guide",
-      "titleA": "3040 남성을 위한 주말 서점 나들이 옷차림 기준 5가지",
-      "titleB": "3040 남성을 위한 주말 브런치 약속 옷차림 가이드",
-      "similarity": 0.2797
-    },
-    {
-      "a": "mens-jacket-pocket-selection-guide",
-      "b": "mens-jacket-shoulder-construction-guide",
-      "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-      "titleB": "3040 남성을 위한 재킷 어깨 구조 선택 기준 5가지",
-      "similarity": 0.2791
-    },
-    {
-      "a": "mens-jacket-lapel-selection-guide",
-      "b": "mens-jacket-shoulder-construction-guide",
-      "titleA": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 재킷 어깨 구조 선택 기준 5가지",
-      "similarity": 0.2615
-    },
-    {
-      "a": "mens-derby-oxford-shoe-guide",
-      "b": "mens-loafer-selection-guide",
-      "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 로퍼 선택 기준 5가지",
-      "similarity": 0.2583
-    },
-    {
-      "a": "mens-jacket-pocket-selection-guide",
-      "b": "mens-trouser-pocket-selection-guide",
-      "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-      "titleB": "3040 남성을 위한 팬츠 포켓 구조 선택 기준 5가지",
-      "similarity": 0.2563
-    },
-    {
-      "a": "mens-first-manager-wardrobe-guide",
-      "b": "mens-new-job-first-day-outfit-guide",
-      "titleA": "3040 남성을 위한 첫 관리자 승진 후 옷차림 기준 5가지",
-      "titleB": "3040 남성을 위한 새 직장 첫 출근 옷차림 기준 5가지",
-      "similarity": 0.2502
-    },
-    {
-      "a": "mens-blazer-separates-styling-guide",
-      "b": "mens-smart-denim-styling-guide",
-      "titleA": "3040 남성을 위한 블레이저를 셋업 밖에서 활용하는 기준 5가지",
-      "titleB": "3040 남성을 위한 데님을 단정하게 입는 기준 5가지",
-      "similarity": 0.2485
-    },
-    {
-      "a": "mens-boot-selection-styling-guide",
-      "b": "mens-loafer-selection-guide",
-      "titleA": "3040 남성을 위한 부츠 선택·코디 기준 5가지",
-      "titleB": "3040 남성을 위한 로퍼 선택 기준 5가지",
-      "similarity": 0.2455
-    },
-    {
-      "a": "mens-shirt-fit-guide",
       "b": "mens-tshirt-fit-guide",
-      "titleA": "3040 남성을 위한 셔츠 핏 점검 기준 5가지",
-      "titleB": "3040 남성을 위한 티셔츠 핏 선택 기준 5가지",
-      "similarity": 0.2408
+      "titleA": "남자 폴로셔츠 고르는 법과 피케·니트 폴로 출근 코디",
+      "titleB": "남자 티셔츠 핏은 어깨선부터 봅니다",
+      "similarity": 0.1633
     },
     {
-      "a": "mens-office-cardigan-selection-guide",
-      "b": "mens-open-collar-shirt-guide",
-      "titleA": "3040 남성을 위한 출근용 가디건 선택: 셔츠 위에 입는 5가지 기준",
-      "titleB": "3040 남성을 위한 오픈칼라 셔츠 선택: 출근과 주말을 잇는 5가지 기준",
-      "similarity": 0.2365
+      "a": "mens-necktie-selection-guide",
+      "b": "mens-shirt-collar-guide",
+      "titleA": "넥타이 고르는 법과 셔츠 칼라에 맞는 매듭",
+      "titleB": "셔츠 칼라 종류와 고르는 법: 타이·노타이·오픈칼라",
+      "similarity": 0.1557
     },
     {
-      "a": "mens-hat-care-guide",
-      "b": "mens-linen-trouser-care-guide",
-      "titleA": "3040 남성을 위한 여름 모자 관리: 땀 자국과 형태를 지키는 5가지 기준",
-      "titleB": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-      "similarity": 0.2322
+      "a": "mens-suit-selection-guide",
+      "b": "mens-trouser-fit-guide",
+      "titleA": "남자 정장 고르는 법: 색·원단·핏 순서와 기성복·맞춤 차이",
+      "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "similarity": 0.1557
     },
     {
       "a": "mens-boot-selection-styling-guide",
       "b": "mens-derby-oxford-shoe-guide",
-      "titleA": "3040 남성을 위한 부츠 선택·코디 기준 5가지",
-      "titleB": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-      "similarity": 0.2306
+      "titleA": "남자 부츠 종류와 첫 켤레 고르는 법",
+      "titleB": "더비와 옥스퍼드 차이로 고르는 첫 구두",
+      "similarity": 0.1532
     },
     {
-      "a": "mens-knit-rib-hem-selection-guide",
-      "b": "mens-knit-shoulder-construction-guide",
-      "titleA": "3040 남성을 위한 니트 리브·밑단 구조 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 니트 어깨·소매 구조 선택 기준 5가지",
-      "similarity": 0.2269
+      "a": "mens-dress-shoe-fit-check-guide",
+      "b": "mens-loafer-selection-guide",
+      "titleA": "구두 사이즈 고르는 법: 발끝·발볼·발등·뒤꿈치 보기",
+      "titleB": "로퍼 고르는 법은 종류보다 사이즈와 밑창이 먼저",
+      "similarity": 0.1529
     },
     {
-      "a": "mens-jacket-pocket-selection-guide",
-      "b": "mens-shirt-pocket-selection-guide",
-      "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-      "titleB": "3040 남성을 위한 셔츠 포켓 유무·형태 선택 기준 5가지",
-      "similarity": 0.2254
+      "a": "mens-jacket-fit-guide",
+      "b": "mens-shirt-fit-guide",
+      "titleA": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+      "titleB": "셔츠 사이즈, 목·어깨·소매 중 어디부터 볼까",
+      "similarity": 0.1525
     },
     {
-      "a": "mens-trouser-pleat-selection-guide",
-      "b": "mens-trouser-waistband-selection-guide",
-      "titleA": "3040 남성을 위한 팬츠 플리츠 구조 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 팬츠 허리밴드 구조 선택 기준 5가지",
-      "similarity": 0.2234
+      "a": "mens-body-type-outfit-guide",
+      "b": "mens-jacket-fit-guide",
+      "titleA": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+      "titleB": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+      "similarity": 0.1476
     },
     {
-      "a": "mens-autumn-cafe-work-outfit-guide",
-      "b": "mens-autumn-terrace-evening-outfit-guide",
-      "titleA": "3040 남성 가을 카페 작업 옷차림: 오래 앉아도 흐트러지지 않는 5가지 기준",
-      "titleB": "3040 남성 가을 테라스 저녁 모임 옷차림: 기온 차와 분위기를 함께 고려하는 5가지 기준",
-      "similarity": 0.2184
+      "a": "mens-jacket-fit-guide",
+      "b": "mens-trouser-fit-guide",
+      "titleA": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+      "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "similarity": 0.145
     },
     {
-      "a": "mens-client-meeting-outfit-guide",
-      "b": "mens-presentation-outfit-guide",
-      "titleA": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-      "titleB": "3040 남성을 위한 사내 발표·강연 옷차림 기준 5가지",
-      "similarity": 0.2123
+      "a": "mens-business-casual-guide",
+      "b": "mens-career-interview-outfit-guide",
+      "titleA": "비즈니스 캐주얼 남자 코디: 회사 단계별 구성표와 계절 조합",
+      "titleB": "면접 복장 남자, 안내 문구에 맞춰 입는 법",
+      "similarity": 0.1448
+    },
+    {
+      "a": "mens-coat-fabric-selection-guide",
+      "b": "mens-knit-pilling-care-guide",
+      "titleA": "남자 코트 원단 고르는 법과 울·캐시미어·혼방 차이",
+      "titleB": "니트 보풀 제거 방법과 늘어나지 않게 관리하는 법",
+      "similarity": 0.1423
+    },
+    {
+      "a": "mens-body-type-outfit-guide",
+      "b": "mens-coat-length-fit-guide",
+      "titleA": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+      "titleB": "남자 코트 기장, 재킷 위에서 고르는 법",
+      "similarity": 0.1406
+    },
+    {
+      "a": "mens-coat-length-fit-guide",
+      "b": "mens-jacket-fit-guide",
+      "titleA": "남자 코트 기장, 재킷 위에서 고르는 법",
+      "titleB": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+      "similarity": 0.1388
+    },
+    {
+      "a": "mens-muted-color-pairing-guide",
+      "b": "mens-sock-pairing-guide",
+      "titleA": "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기",
+      "titleB": "정장 양말 색은 바지에 맞춥니다",
+      "similarity": 0.1371
+    },
+    {
+      "a": "mens-garment-care-label-guide",
+      "b": "mens-knit-pilling-care-guide",
+      "titleA": "세탁 기호 읽는 법, 물세탁부터 드라이 표시까지 한 표로",
+      "titleB": "니트 보풀 제거 방법과 늘어나지 않게 관리하는 법",
+      "similarity": 0.133
+    },
+    {
+      "a": "mens-derby-oxford-shoe-guide",
+      "b": "mens-loafer-selection-guide",
+      "titleA": "더비와 옥스퍼드 차이로 고르는 첫 구두",
+      "titleB": "로퍼 고르는 법은 종류보다 사이즈와 밑창이 먼저",
+      "similarity": 0.1323
+    },
+    {
+      "a": "mens-formal-family-meeting-outfit-guide",
+      "b": "mens-wedding-guest-outfit-guide",
+      "titleA": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
+      "titleB": "결혼식 하객룩 남자, 예식장과 계절마다 뭘 입을까",
+      "similarity": 0.1315
+    },
+    {
+      "a": "mens-chino-styling-guide",
+      "b": "mens-smart-denim-styling-guide",
+      "titleA": "치노 팬츠 코디로 출근과 주말을 함께 입는 법",
+      "titleB": "청바지 출근룩: 단정하게 입는 색·핏·밑단·상의 조합",
+      "similarity": 0.1302
+    },
+    {
+      "a": "mens-body-type-outfit-guide",
+      "b": "mens-suit-selection-guide",
+      "titleA": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+      "titleB": "남자 정장 고르는 법: 색·원단·핏 순서와 기성복·맞춤 차이",
+      "similarity": 0.1289
     },
     {
       "a": "mens-knit-gauge-selection-guide",
-      "b": "mens-knit-shoulder-construction-guide",
-      "titleA": "3040 남성을 위한 니트 게이지와 두께 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 니트 어깨·소매 구조 선택 기준 5가지",
-      "similarity": 0.2104
+      "b": "mens-tshirt-fit-guide",
+      "titleA": "니트 게이지 뜻, 12G와 7G는 무엇이 다를까",
+      "titleB": "남자 티셔츠 핏은 어깨선부터 봅니다",
+      "similarity": 0.1286
     },
     {
-      "a": "mens-valley-daytrip-outfit-guide",
-      "b": "mens-weekend-farmers-market-outfit-guide",
-      "titleA": "3040 남성을 위한 늦여름 계곡 나들이 옷차림: 이동·물놀이·귀가를 고려한 5가지 기준",
-      "titleB": "3040 남성을 위한 주말 파머스 마켓 옷차림: 이동과 장보기를 고려한 5가지 기준",
-      "similarity": 0.2093
+      "a": "mens-coat-length-fit-guide",
+      "b": "mens-trouser-fit-guide",
+      "titleA": "남자 코트 기장, 재킷 위에서 고르는 법",
+      "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "similarity": 0.1283
     },
     {
-      "a": "mens-harrington-jacket-selection-guide",
-      "b": "mens-quilted-jacket-selection-guide",
-      "titleA": "3040 남성 해링턴 재킷 선택: 원단·실루엣·레이어·장면·관리 5가지 기준",
-      "titleB": "3040 남성 퀼티드 재킷 선택: 무게·실루엣·레이어·장면·관리 5가지 기준",
-      "similarity": 0.2068
+      "a": "mens-trouser-care-guide",
+      "b": "mens-trouser-fit-guide",
+      "titleA": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+      "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "similarity": 0.1272
     },
     {
-      "a": "mens-shirt-pocket-selection-guide",
-      "b": "mens-trouser-pocket-selection-guide",
-      "titleA": "3040 남성을 위한 셔츠 포켓 유무·형태 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 팬츠 포켓 구조 선택 기준 5가지",
-      "similarity": 0.2062
+      "a": "mens-garment-care-label-guide",
+      "b": "mens-shirt-ironing-wrinkle-guide",
+      "titleA": "세탁 기호 읽는 법, 물세탁부터 드라이 표시까지 한 표로",
+      "titleB": "셔츠 다림질 하는 법, 순서와 온도부터 린넨 관리까지",
+      "similarity": 0.1263
     },
     {
-      "a": "mens-clothing-color-fade-care-guide",
-      "b": "mens-garment-odor-care-guide",
-      "titleA": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-      "titleB": "3040 남성을 위한 옷에 밴 냄새를 줄이는 착용 후 관리 기준 5가지",
-      "similarity": 0.206
+      "a": "mens-online-clothing-measurement-guide",
+      "b": "mens-trouser-fit-guide",
+      "titleA": "옷 사이즈 실측 비교법: 기준 옷 재기부터 시착·반품까지",
+      "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "similarity": 0.1239
     },
     {
-      "a": "mens-shirt-back-dart-selection-guide",
-      "b": "mens-shirt-placket-selection-guide",
-      "titleA": "3040 남성을 위한 셔츠 등판 다트 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 셔츠 플래킷 선택 기준 5가지",
-      "similarity": 0.203
+      "a": "mens-online-clothing-measurement-guide",
+      "b": "mens-shirt-fit-guide",
+      "titleA": "옷 사이즈 실측 비교법: 기준 옷 재기부터 시착·반품까지",
+      "titleB": "셔츠 사이즈, 목·어깨·소매 중 어디부터 볼까",
+      "similarity": 0.1216
     },
     {
-      "a": "mens-autumn-library-reading-outfit-guide",
-      "b": "mens-first-residents-meeting-outfit-guide",
-      "titleA": "가을 도서관 독서 모임을 위한 3040 남성 옷차림: 조용한 공간과 오래 앉는 시간을 고려하는 5가지 기준",
-      "titleB": "3040 남성 첫 입주자 모임 옷차림: 단정함과 편안함을 함께 고르는 5가지 기준",
-      "similarity": 0.2027
+      "a": "mens-derby-oxford-shoe-guide",
+      "b": "mens-leather-shoe-care-guide",
+      "titleA": "더비와 옥스퍼드 차이로 고르는 첫 구두",
+      "titleB": "구두 관리법: 매일 손질부터 젖은 스웨이드 말리기까지",
+      "similarity": 0.1207
     },
     {
-      "a": "mens-hat-care-guide",
-      "b": "mens-shirt-collar-stain-care-guide",
-      "titleA": "3040 남성을 위한 여름 모자 관리: 땀 자국과 형태를 지키는 5가지 기준",
-      "titleB": "남성 셔츠 칼라 얼룩 관리: 케어라벨부터 확인하는 순서",
-      "similarity": 0.2015
+      "a": "mens-first-birthday-party-dad-outfit-guide",
+      "b": "mens-formal-family-meeting-outfit-guide",
+      "titleA": "돌잔치 아빠 옷차림 장소별 조합과 전날 준비",
+      "titleB": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
+      "similarity": 0.1203
+    },
+    {
+      "a": "mens-knit-gauge-selection-guide",
+      "b": "mens-knit-layering-guide",
+      "titleA": "니트 게이지 뜻, 12G와 7G는 무엇이 다를까",
+      "titleB": "니트 레이어링 남자 코디 세 겹 입는 순서",
+      "similarity": 0.12
+    },
+    {
+      "a": "mens-anniversary-dinner-outfit-guide",
+      "b": "mens-wedding-guest-outfit-guide",
+      "titleA": "기념일 데이트 남자 옷차림을 장소별로 정리했습니다",
+      "titleB": "결혼식 하객룩 남자, 예식장과 계절마다 뭘 입을까",
+      "similarity": 0.1189
+    },
+    {
+      "a": "mens-chino-styling-guide",
+      "b": "mens-sock-pairing-guide",
+      "titleA": "치노 팬츠 코디로 출근과 주말을 함께 입는 법",
+      "titleB": "정장 양말 색은 바지에 맞춥니다",
+      "similarity": 0.1185
+    },
+    {
+      "a": "mens-shirt-fit-guide",
+      "b": "mens-tshirt-fit-guide",
+      "titleA": "셔츠 사이즈, 목·어깨·소매 중 어디부터 볼까",
+      "titleB": "남자 티셔츠 핏은 어깨선부터 봅니다",
+      "similarity": 0.1179
+    },
+    {
+      "a": "mens-boot-selection-styling-guide",
+      "b": "mens-office-sneaker-styling-guide",
+      "titleA": "남자 부츠 종류와 첫 켤레 고르는 법",
+      "titleB": "출근용 스니커즈 고르는 법과 슬랙스·치노 코디",
+      "similarity": 0.1174
+    },
+    {
+      "a": "mens-body-type-outfit-guide",
+      "b": "mens-shirt-fit-guide",
+      "titleA": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+      "titleB": "셔츠 사이즈, 목·어깨·소매 중 어디부터 볼까",
+      "similarity": 0.1169
+    },
+    {
+      "a": "mens-coat-length-fit-guide",
+      "b": "mens-trench-coat-commute-guide",
+      "titleA": "남자 코트 기장, 재킷 위에서 고르는 법",
+      "titleB": "트렌치코트 남자 출근룩 길이와 비 오는 날 준비",
+      "similarity": 0.1169
+    },
+    {
+      "a": "mens-blazer-separates-styling-guide",
+      "b": "mens-muted-color-pairing-guide",
+      "titleA": "남자 블레이저 코디, 바지와 이너는 어떻게 맞출까",
+      "titleB": "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기",
+      "similarity": 0.1163
+    },
+    {
+      "a": "mens-coat-length-fit-guide",
+      "b": "mens-scarf-styling-guide",
+      "titleA": "남자 코트 기장, 재킷 위에서 고르는 법",
+      "titleB": "남자 머플러 두르는 법과 코트에 맞는 폭 고르는 법",
+      "similarity": 0.1162
+    },
+    {
+      "a": "mens-smart-denim-styling-guide",
+      "b": "mens-trouser-fit-guide",
+      "titleA": "청바지 출근룩: 단정하게 입는 색·핏·밑단·상의 조합",
+      "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "similarity": 0.1161
+    },
+    {
+      "a": "mens-boot-selection-styling-guide",
+      "b": "mens-leather-shoe-care-guide",
+      "titleA": "남자 부츠 종류와 첫 켤레 고르는 법",
+      "titleB": "구두 관리법: 매일 손질부터 젖은 스웨이드 말리기까지",
+      "similarity": 0.1158
+    },
+    {
+      "a": "mens-clothing-alteration-guide",
+      "b": "mens-jacket-fit-guide",
+      "titleA": "옷 수선 가능 범위와 고칠지 바꿀지 판단하는 법",
+      "titleB": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+      "similarity": 0.1149
+    },
+    {
+      "a": "mens-boot-selection-styling-guide",
+      "b": "mens-loafer-selection-guide",
+      "titleA": "남자 부츠 종류와 첫 켤레 고르는 법",
+      "titleB": "로퍼 고르는 법은 종류보다 사이즈와 밑창이 먼저",
+      "similarity": 0.1135
+    },
+    {
+      "a": "mens-shirt-fit-guide",
+      "b": "mens-trouser-fit-guide",
+      "titleA": "셔츠 사이즈, 목·어깨·소매 중 어디부터 볼까",
+      "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "similarity": 0.1132
+    },
+    {
+      "a": "mens-anniversary-dinner-outfit-guide",
+      "b": "mens-formal-family-meeting-outfit-guide",
+      "titleA": "기념일 데이트 남자 옷차림을 장소별로 정리했습니다",
+      "titleB": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
+      "similarity": 0.1126
+    },
+    {
+      "a": "mens-loafer-selection-guide",
+      "b": "mens-office-sneaker-styling-guide",
+      "titleA": "로퍼 고르는 법은 종류보다 사이즈와 밑창이 먼저",
+      "titleB": "출근용 스니커즈 고르는 법과 슬랙스·치노 코디",
+      "similarity": 0.1123
+    },
+    {
+      "a": "mens-average-body-size-korea-guide",
+      "b": "mens-body-type-outfit-guide",
+      "titleA": "30·40대 남자 평균 키와 허리둘레, 옷 사이즈엔 어떻게 반영할까",
+      "titleB": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+      "similarity": 0.112
     },
     {
       "a": "mens-derby-oxford-shoe-guide",
       "b": "mens-dress-shoe-fit-check-guide",
-      "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 구두 발등·뒤꿈치 핏 점검 기준 5가지",
-      "similarity": 0.2014
+      "titleA": "더비와 옥스퍼드 차이로 고르는 첫 구두",
+      "titleB": "구두 사이즈 고르는 법: 발끝·발볼·발등·뒤꿈치 보기",
+      "similarity": 0.112
     },
     {
-      "a": "mens-client-meeting-outfit-guide",
-      "b": "mens-new-job-first-day-outfit-guide",
-      "titleA": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-      "titleB": "3040 남성을 위한 새 직장 첫 출근 옷차림 기준 5가지",
-      "similarity": 0.1999
-    },
-    {
-      "a": "mens-derby-oxford-shoe-guide",
-      "b": "mens-sandal-selection-guide",
-      "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 여름 샌들을 단정하게 고르는 기준 5가지",
-      "similarity": 0.1997
-    },
-    {
-      "a": "mens-presentation-outfit-guide",
-      "b": "mens-school-event-outfit-guide",
-      "titleA": "3040 남성을 위한 사내 발표·강연 옷차림 기준 5가지",
-      "titleB": "3040 남성을 위한 학부모 상담·학교 행사 옷차림 기준 5가지",
-      "similarity": 0.1991
-    },
-    {
-      "a": "mens-coat-length-fit-guide",
-      "b": "mens-lightweight-jacket-fit-guide",
-      "titleA": "3040 남성을 위한 코트 기장·실루엣 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
-      "similarity": 0.196
-    },
-    {
-      "a": "mens-lightweight-jacket-fit-guide",
-      "b": "mens-overshirt-styling-guide",
-      "titleA": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 오버셔츠를 재킷처럼 활용하는 기준 5가지",
-      "similarity": 0.1938
-    },
-    {
-      "a": "mens-coat-fabric-selection-guide",
-      "b": "mens-wool-coat-pilling-care-guide",
-      "titleA": "3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준",
-      "titleB": "3040 남성을 위한 울 코트 보풀 관리: 착용·제거·보관 전 5가지 기준",
-      "similarity": 0.1936
-    },
-    {
-      "a": "mens-jacket-canvas-construction-guide",
-      "b": "mens-jacket-lapel-selection-guide",
-      "titleA": "3040 남성을 위한 재킷 심지·앞판 구조 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-      "similarity": 0.193
-    },
-    {
-      "a": "mens-career-interview-outfit-guide",
-      "b": "mens-client-meeting-outfit-guide",
-      "titleA": "3040 남성을 위한 이직 면접 옷차림 기준 5가지",
-      "titleB": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-      "similarity": 0.1929
-    },
-    {
-      "a": "mens-jacket-pocket-selection-guide",
-      "b": "mens-pocket-carry-silhouette-guide",
-      "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-      "titleB": "3040 남성을 위한 주머니 수납과 옷 실루엣 정리 기준 5가지",
-      "similarity": 0.1922
-    },
-    {
-      "a": "mens-jacket-shoulder-construction-guide",
-      "b": "mens-knit-shoulder-construction-guide",
-      "titleA": "3040 남성을 위한 재킷 어깨 구조 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 니트 어깨·소매 구조 선택 기준 5가지",
-      "similarity": 0.1914
-    },
-    {
-      "a": "mens-jacket-canvas-construction-guide",
-      "b": "mens-shirt-pocket-selection-guide",
-      "titleA": "3040 남성을 위한 재킷 심지·앞판 구조 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 셔츠 포켓 유무·형태 선택 기준 5가지",
-      "similarity": 0.1898
-    },
-    {
-      "a": "mens-derby-oxford-shoe-guide",
-      "b": "mens-dress-shoe-sole-selection-guide",
-      "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 구두 밑창 소재·구조 선택 기준 5가지",
-      "similarity": 0.1894
-    },
-    {
-      "a": "mens-new-shirt-first-wash-guide",
-      "b": "mens-shirt-collar-stain-care-guide",
-      "titleA": "3040 남성을 위한 새 셔츠 첫 세탁 전 확인할 5가지 기준",
-      "titleB": "남성 셔츠 칼라 얼룩 관리: 케어라벨부터 확인하는 순서",
-      "similarity": 0.1893
-    },
-    {
-      "a": "mens-jacket-canvas-construction-guide",
-      "b": "mens-jacket-shoulder-construction-guide",
-      "titleA": "3040 남성을 위한 재킷 심지·앞판 구조 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 재킷 어깨 구조 선택 기준 5가지",
-      "similarity": 0.1891
-    },
-    {
-      "a": "mens-dry-cleaning-checklist-guide",
+      "a": "mens-garment-care-label-guide",
       "b": "mens-garment-stain-first-aid-guide",
-      "titleA": "3040 남성을 위한 세탁소 의뢰 전후 의류 점검 기준 5가지",
-      "titleB": "3040 남성을 위한 옷에 얼룩이 생겼을 때 응급 대응 기준 5가지",
-      "similarity": 0.1887
-    },
-    {
-      "a": "mens-lightweight-jacket-fit-guide",
-      "b": "mens-shirt-fit-guide",
-      "titleA": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 셔츠 핏 점검 기준 5가지",
-      "similarity": 0.1862
-    },
-    {
-      "a": "mens-lightweight-jacket-fit-guide",
-      "b": "mens-tshirt-fit-guide",
-      "titleA": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
-      "titleB": "3040 남성을 위한 티셔츠 핏 선택 기준 5가지",
-      "similarity": 0.1845
+      "titleA": "세탁 기호 읽는 법, 물세탁부터 드라이 표시까지 한 표로",
+      "titleB": "옷 얼룩 지우는 법, 묻은 직후 5분에 뭘 해야 할까",
+      "similarity": 0.1111
     }
   ],
   "nearest": [
     {
-      "slug": "hello-magma-contents",
-      "title": "MAGMA를 시작하며 — 오래 입을 기본에 대하여",
-      "nearest": {
-        "a": "hello-magma-contents",
-        "b": "working-with-agent-team",
-        "titleA": "MAGMA를 시작하며 — 오래 입을 기본에 대하여",
-        "titleB": "이번 시즌 무드 — 절제된 따뜻함",
-        "similarity": 0.0797
-      }
-    },
-    {
-      "slug": "mens-after-work-appointment-outfit-guide",
-      "title": "3040 남성을 위한 가을 출근 후 약속 옷차림: 재킷을 벗고도 균형 잡는 5가지 기준",
-      "nearest": {
-        "a": "mens-after-work-appointment-outfit-guide",
-        "b": "mens-autumn-terrace-evening-outfit-guide",
-        "titleA": "3040 남성을 위한 가을 출근 후 약속 옷차림: 재킷을 벗고도 균형 잡는 5가지 기준",
-        "titleB": "3040 남성 가을 테라스 저녁 모임 옷차림: 기온 차와 분위기를 함께 고려하는 5가지 기준",
-        "similarity": 0.1245
-      }
-    },
-    {
-      "slug": "mens-after-workout-outfit-guide",
-      "title": "3040 남성을 위한 출근 후 운동 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-after-workout-outfit-guide",
-        "b": "mens-first-golf-round-outfit-guide",
-        "titleA": "3040 남성을 위한 출근 후 운동 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 첫 골프 라운드 옷차림 기준 5가지",
-        "similarity": 0.1505
-      }
-    },
-    {
-      "slug": "mens-airport-security-outfit-guide",
-      "title": "3040 남성을 위한 공항 보안검색 옷차림: 신발·주머니·레이어를 점검하는 5가지 기준",
-      "nearest": {
-        "a": "mens-airport-security-outfit-guide",
-        "b": "mens-long-flight-outfit-guide",
-        "titleA": "3040 남성을 위한 공항 보안검색 옷차림: 신발·주머니·레이어를 점검하는 5가지 기준",
-        "titleB": "3040 남성을 위한 장시간 비행 옷차림 점검 기준 5가지",
-        "similarity": 0.077
-      }
-    },
-    {
-      "slug": "mens-all-day-standing-shoe-guide",
-      "title": "하루 종일 서 있는 날, 3040 남성이 신발을 고르는 5가지 기준",
-      "nearest": {
-        "a": "mens-all-day-standing-shoe-guide",
-        "b": "mens-temple-visit-outfit-guide",
-        "titleA": "하루 종일 서 있는 날, 3040 남성이 신발을 고르는 5가지 기준",
-        "titleB": "3040 남성을 위한 사찰 방문 옷차림 가이드",
-        "similarity": 0.1688
-      }
-    },
-    {
       "slug": "mens-anniversary-dinner-outfit-guide",
-      "title": "3040 남성을 위한 기념일 레스토랑 저녁 옷차림 기준 5가지",
+      "title": "기념일 데이트 남자 옷차림을 장소별로 정리했습니다",
       "nearest": {
         "a": "mens-anniversary-dinner-outfit-guide",
-        "b": "mens-parents-birthday-dinner-outfit-guide",
-        "titleA": "3040 남성을 위한 기념일 레스토랑 저녁 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 부모님 생신 식사 옷차림: 식당 격식·가족 사진·이동을 고려한 5가지 기준",
-        "similarity": 0.1511
+        "b": "mens-wedding-guest-outfit-guide",
+        "titleA": "기념일 데이트 남자 옷차림을 장소별로 정리했습니다",
+        "titleB": "결혼식 하객룩 남자, 예식장과 계절마다 뭘 입을까",
+        "similarity": 0.1189
       }
     },
     {
-      "slug": "mens-autumn-barbershop-outfit-guide",
-      "title": "가을 바버숍 방문을 위한 3040 남성 옷차림: 앉고 벗고 다시 입기 편한 5가지 기준",
+      "slug": "mens-average-body-size-korea-guide",
+      "title": "30·40대 남자 평균 키와 허리둘레, 옷 사이즈엔 어떻게 반영할까",
       "nearest": {
-        "a": "mens-autumn-barbershop-outfit-guide",
-        "b": "mens-autumn-library-reading-outfit-guide",
-        "titleA": "가을 바버숍 방문을 위한 3040 남성 옷차림: 앉고 벗고 다시 입기 편한 5가지 기준",
-        "titleB": "가을 도서관 독서 모임을 위한 3040 남성 옷차림: 조용한 공간과 오래 앉는 시간을 고려하는 5가지 기준",
-        "similarity": 0.1643
-      }
-    },
-    {
-      "slug": "mens-autumn-cafe-work-outfit-guide",
-      "title": "3040 남성 가을 카페 작업 옷차림: 오래 앉아도 흐트러지지 않는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-cafe-work-outfit-guide",
-        "b": "mens-autumn-terrace-evening-outfit-guide",
-        "titleA": "3040 남성 가을 카페 작업 옷차림: 오래 앉아도 흐트러지지 않는 5가지 기준",
-        "titleB": "3040 남성 가을 테라스 저녁 모임 옷차림: 기온 차와 분위기를 함께 고려하는 5가지 기준",
-        "similarity": 0.2184
-      }
-    },
-    {
-      "slug": "mens-autumn-camera-walk-outfit-guide",
-      "title": "가을 클래식 카메라 산책을 위한 3040 남성 옷차림: 오래 걷고 가볍게 촬영하는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-camera-walk-outfit-guide",
-        "b": "mens-autumn-library-reading-outfit-guide",
-        "titleA": "가을 클래식 카메라 산책을 위한 3040 남성 옷차림: 오래 걷고 가볍게 촬영하는 5가지 기준",
-        "titleB": "가을 도서관 독서 모임을 위한 3040 남성 옷차림: 조용한 공간과 오래 앉는 시간을 고려하는 5가지 기준",
-        "similarity": 0.1562
-      }
-    },
-    {
-      "slug": "mens-autumn-cardigan-layering-guide",
-      "title": "3040 남성을 위한 가을 카디건 레이어링: 셔츠·티셔츠·재킷 사이 균형을 잡는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-cardigan-layering-guide",
-        "b": "mens-autumn-knit-polo-selection-guide",
-        "titleA": "3040 남성을 위한 가을 카디건 레이어링: 셔츠·티셔츠·재킷 사이 균형을 잡는 5가지 기준",
-        "titleB": "3040 남성을 위한 가을 니트 폴로 셔츠 선택: 칼라·두께·레이어링을 가르는 5가지 기준",
-        "similarity": 0.129
-      }
-    },
-    {
-      "slug": "mens-autumn-knit-polo-selection-guide",
-      "title": "3040 남성을 위한 가을 니트 폴로 셔츠 선택: 칼라·두께·레이어링을 가르는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-knit-polo-selection-guide",
-        "b": "mens-autumn-office-knit-vest-guide",
-        "titleA": "3040 남성을 위한 가을 니트 폴로 셔츠 선택: 칼라·두께·레이어링을 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 가을 오피스 니트 베스트 선택: 셔츠·재킷 사이 균형을 잡는 5가지 기준",
-        "similarity": 0.1835
-      }
-    },
-    {
-      "slug": "mens-autumn-library-reading-outfit-guide",
-      "title": "가을 도서관 독서 모임을 위한 3040 남성 옷차림: 조용한 공간과 오래 앉는 시간을 고려하는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-library-reading-outfit-guide",
-        "b": "mens-first-residents-meeting-outfit-guide",
-        "titleA": "가을 도서관 독서 모임을 위한 3040 남성 옷차림: 조용한 공간과 오래 앉는 시간을 고려하는 5가지 기준",
-        "titleB": "3040 남성 첫 입주자 모임 옷차림: 단정함과 편안함을 함께 고르는 5가지 기준",
-        "similarity": 0.2027
-      }
-    },
-    {
-      "slug": "mens-autumn-minimal-office-set-up-guide",
-      "title": "가을 남성 출근 셋업: 세 가지 조합 비교와 재킷·팬츠 핏 점검",
-      "nearest": {
-        "a": "mens-autumn-minimal-office-set-up-guide",
-        "b": "mens-tshirt-neckline-care-guide",
-        "titleA": "가을 남성 출근 셋업: 세 가지 조합 비교와 재킷·팬츠 핏 점검",
-        "titleB": "티셔츠 목선이 달라 보일 때: 실제 케어라벨 읽기와 상태 점검",
-        "similarity": 0.1014
-      }
-    },
-    {
-      "slug": "mens-autumn-office-knit-vest-guide",
-      "title": "3040 남성을 위한 가을 오피스 니트 베스트 선택: 셔츠·재킷 사이 균형을 잡는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-knit-polo-selection-guide",
-        "b": "mens-autumn-office-knit-vest-guide",
-        "titleA": "3040 남성을 위한 가을 니트 폴로 셔츠 선택: 칼라·두께·레이어링을 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 가을 오피스 니트 베스트 선택: 셔츠·재킷 사이 균형을 잡는 5가지 기준",
-        "similarity": 0.1835
-      }
-    },
-    {
-      "slug": "mens-autumn-road-trip-outfit-guide",
-      "title": "3040 남성을 위한 가을 주말 드라이브 옷차림: 운전·휴식·도착을 나누는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-road-trip-outfit-guide",
-        "b": "mens-long-drive-outfit-guide",
-        "titleA": "3040 남성을 위한 가을 주말 드라이브 옷차림: 운전·휴식·도착을 나누는 5가지 기준",
-        "titleB": "3040 남성을 위한 장시간 운전 옷차림 점검 기준 5가지",
-        "similarity": 0.1458
-      }
-    },
-    {
-      "slug": "mens-autumn-sea-fishing-outfit-guide",
-      "title": "3040 남성을 위한 가을 바다낚시 옷차림: 바람·물기·이동을 고려한 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-sea-fishing-outfit-guide",
-        "b": "mens-first-hiking-outfit-guide",
-        "titleA": "3040 남성을 위한 가을 바다낚시 옷차림: 바람·물기·이동을 고려한 5가지 기준",
-        "titleB": "3040 남성을 위한 첫 등산 옷차림 가이드",
-        "similarity": 0.1365
-      }
-    },
-    {
-      "slug": "mens-autumn-small-concert-outfit-guide",
-      "title": "3040 남성을 위한 가을 저녁 소규모 공연 옷차림: 관람·이동·귀가를 나누는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-small-concert-outfit-guide",
-        "b": "mens-outdoor-concert-outfit-guide",
-        "titleA": "3040 남성을 위한 가을 저녁 소규모 공연 옷차림: 관람·이동·귀가를 나누는 5가지 기준",
-        "titleB": "3040 남성을 위한 야외 스탠딩 콘서트 옷차림 기준 5가지",
-        "similarity": 0.1324
-      }
-    },
-    {
-      "slug": "mens-autumn-terrace-evening-outfit-guide",
-      "title": "3040 남성 가을 테라스 저녁 모임 옷차림: 기온 차와 분위기를 함께 고려하는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-cafe-work-outfit-guide",
-        "b": "mens-autumn-terrace-evening-outfit-guide",
-        "titleA": "3040 남성 가을 카페 작업 옷차림: 오래 앉아도 흐트러지지 않는 5가지 기준",
-        "titleB": "3040 남성 가을 테라스 저녁 모임 옷차림: 기온 차와 분위기를 함께 고려하는 5가지 기준",
-        "similarity": 0.2184
-      }
-    },
-    {
-      "slug": "mens-autumn-wedding-guest-guide",
-      "title": "3040 남성을 위한 가을 결혼식 하객 복장 가이드",
-      "nearest": {
-        "a": "mens-autumn-wedding-guest-guide",
-        "b": "mens-winter-wedding-guest-outerwear-guide",
-        "titleA": "3040 남성을 위한 가을 결혼식 하객 복장 가이드",
-        "titleB": "3040 남성을 위한 겨울 결혼식 하객 아우터 선택 가이드",
-        "similarity": 0.1685
+        "a": "mens-average-body-size-korea-guide",
+        "b": "mens-body-type-outfit-guide",
+        "titleA": "30·40대 남자 평균 키와 허리둘레, 옷 사이즈엔 어떻게 반영할까",
+        "titleB": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+        "similarity": 0.112
       }
     },
     {
       "slug": "mens-belt-selection-guide",
-      "title": "3040 남성을 위한 벨트 선택 기준 5가지",
+      "title": "남자 벨트 고르는 법: 폭·길이·버클·가죽 표시",
       "nearest": {
         "a": "mens-belt-selection-guide",
-        "b": "mens-loafer-selection-guide",
-        "titleA": "3040 남성을 위한 벨트 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 로퍼 선택 기준 5가지",
-        "similarity": 0.0851
-      }
-    },
-    {
-      "slug": "mens-bike-commute-outfit-guide",
-      "title": "3040 남성을 위한 자전거 출퇴근 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-bike-commute-outfit-guide",
-        "b": "mens-long-drive-outfit-guide",
-        "titleA": "3040 남성을 위한 자전거 출퇴근 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 장시간 운전 옷차림 점검 기준 5가지",
-        "similarity": 0.0986
-      }
-    },
-    {
-      "slug": "mens-black-tie-invitation-guide",
-      "title": "3040 남성을 위한 블랙타이 초대 복장: 턱시도 한 벌을 점검하는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-wedding-guest-guide",
-        "b": "mens-black-tie-invitation-guide",
-        "titleA": "3040 남성을 위한 가을 결혼식 하객 복장 가이드",
-        "titleB": "3040 남성을 위한 블랙타이 초대 복장: 턱시도 한 벌을 점검하는 5가지 기준",
-        "similarity": 0.1575
+        "b": "mens-work-bag-selection-guide",
+        "titleA": "남자 벨트 고르는 법: 폭·길이·버클·가죽 표시",
+        "titleB": "출근 가방 고르는 법과 노트북 치수 재기",
+        "similarity": 0.1102
       }
     },
     {
       "slug": "mens-blazer-separates-styling-guide",
-      "title": "3040 남성을 위한 블레이저를 셋업 밖에서 활용하는 기준 5가지",
+      "title": "남자 블레이저 코디, 바지와 이너는 어떻게 맞출까",
       "nearest": {
         "a": "mens-blazer-separates-styling-guide",
-        "b": "mens-smart-denim-styling-guide",
-        "titleA": "3040 남성을 위한 블레이저를 셋업 밖에서 활용하는 기준 5가지",
-        "titleB": "3040 남성을 위한 데님을 단정하게 입는 기준 5가지",
-        "similarity": 0.2485
+        "b": "mens-muted-color-pairing-guide",
+        "titleA": "남자 블레이저 코디, 바지와 이너는 어떻게 맞출까",
+        "titleB": "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기",
+        "similarity": 0.1163
+      }
+    },
+    {
+      "slug": "mens-body-type-outfit-guide",
+      "title": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+      "nearest": {
+        "a": "mens-body-type-outfit-guide",
+        "b": "mens-trouser-fit-guide",
+        "titleA": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+        "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+        "similarity": 0.1663
       }
     },
     {
       "slug": "mens-boot-selection-styling-guide",
-      "title": "3040 남성을 위한 부츠 선택·코디 기준 5가지",
+      "title": "남자 부츠 종류와 첫 켤레 고르는 법",
       "nearest": {
         "a": "mens-boot-selection-styling-guide",
-        "b": "mens-loafer-selection-guide",
-        "titleA": "3040 남성을 위한 부츠 선택·코디 기준 5가지",
-        "titleB": "3040 남성을 위한 로퍼 선택 기준 5가지",
-        "similarity": 0.2455
+        "b": "mens-derby-oxford-shoe-guide",
+        "titleA": "남자 부츠 종류와 첫 켤레 고르는 법",
+        "titleB": "더비와 옥스퍼드 차이로 고르는 첫 구두",
+        "similarity": 0.1532
       }
     },
     {
       "slug": "mens-business-casual-guide",
-      "title": "3040 남성 비즈니스 캐주얼 가이드",
+      "title": "비즈니스 캐주얼 남자 코디: 회사 단계별 구성표와 계절 조합",
       "nearest": {
-        "a": "mens-autumn-office-knit-vest-guide",
-        "b": "mens-business-casual-guide",
-        "titleA": "3040 남성을 위한 가을 오피스 니트 베스트 선택: 셔츠·재킷 사이 균형을 잡는 5가지 기준",
-        "titleB": "3040 남성 비즈니스 캐주얼 가이드",
-        "similarity": 0.1424
-      }
-    },
-    {
-      "slug": "mens-business-conference-outfit-guide",
-      "title": "3040 남성 컨퍼런스 참석 복장: 이동·세션·네트워킹을 나누는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-library-reading-outfit-guide",
-        "b": "mens-business-conference-outfit-guide",
-        "titleA": "가을 도서관 독서 모임을 위한 3040 남성 옷차림: 조용한 공간과 오래 앉는 시간을 고려하는 5가지 기준",
-        "titleB": "3040 남성 컨퍼런스 참석 복장: 이동·세션·네트워킹을 나누는 5가지 기준",
-        "similarity": 0.087
-      }
-    },
-    {
-      "slug": "mens-business-trip-packing-guide",
-      "title": "3040 남성을 위한 출장 옷차림 짐 싸기 기준 5가지",
-      "nearest": {
-        "a": "mens-business-trip-packing-guide",
-        "b": "mens-long-flight-outfit-guide",
-        "titleA": "3040 남성을 위한 출장 옷차림 짐 싸기 기준 5가지",
-        "titleB": "3040 남성을 위한 장시간 비행 옷차림 점검 기준 5가지",
-        "similarity": 0.1121
+        "a": "mens-business-casual-guide",
+        "b": "mens-career-interview-outfit-guide",
+        "titleA": "비즈니스 캐주얼 남자 코디: 회사 단계별 구성표와 계절 조합",
+        "titleB": "면접 복장 남자, 안내 문구에 맞춰 입는 법",
+        "similarity": 0.1448
       }
     },
     {
       "slug": "mens-career-interview-outfit-guide",
-      "title": "3040 남성을 위한 이직 면접 옷차림 기준 5가지",
+      "title": "면접 복장 남자, 안내 문구에 맞춰 입는 법",
       "nearest": {
-        "a": "mens-career-interview-outfit-guide",
-        "b": "mens-client-meeting-outfit-guide",
-        "titleA": "3040 남성을 위한 이직 면접 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-        "similarity": 0.1929
+        "a": "mens-business-casual-guide",
+        "b": "mens-career-interview-outfit-guide",
+        "titleA": "비즈니스 캐주얼 남자 코디: 회사 단계별 구성표와 계절 조합",
+        "titleB": "면접 복장 남자, 안내 문구에 맞춰 입는 법",
+        "similarity": 0.1448
       }
     },
     {
       "slug": "mens-chino-styling-guide",
-      "title": "3040 남성을 위한 치노 팬츠를 출근과 주말에 단정하게 입는 기준 5가지",
+      "title": "치노 팬츠 코디로 출근과 주말을 함께 입는 법",
       "nearest": {
         "a": "mens-chino-styling-guide",
         "b": "mens-smart-denim-styling-guide",
-        "titleA": "3040 남성을 위한 치노 팬츠를 출근과 주말에 단정하게 입는 기준 5가지",
-        "titleB": "3040 남성을 위한 데님을 단정하게 입는 기준 5가지",
-        "similarity": 0.1509
-      }
-    },
-    {
-      "slug": "mens-chuseok-hometown-visit-outfit-guide",
-      "title": "3040 남성을 위한 추석 고향 방문 옷차림: 이동·차례·가족 모임을 고려한 5가지 기준",
-      "nearest": {
-        "a": "mens-chuseok-hometown-visit-outfit-guide",
-        "b": "mens-denim-shirt-commute-guide",
-        "titleA": "3040 남성을 위한 추석 고향 방문 옷차림: 이동·차례·가족 모임을 고려한 5가지 기준",
-        "titleB": "3040 남성을 위한 초가을 데님 셔츠 출근 코디: 5가지 판단 기준",
-        "similarity": 0.1167
-      }
-    },
-    {
-      "slug": "mens-client-meeting-outfit-guide",
-      "title": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-client-meeting-outfit-guide",
-        "b": "mens-presentation-outfit-guide",
-        "titleA": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 사내 발표·강연 옷차림 기준 5가지",
-        "similarity": 0.2123
-      }
-    },
-    {
-      "slug": "mens-clothes-brush-selection-care-guide",
-      "title": "3040 남성을 위한 옷솔 선택과 의류 브러싱 기준 5가지",
-      "nearest": {
-        "a": "mens-clothes-brush-selection-care-guide",
-        "b": "mens-garment-hanger-selection-guide",
-        "titleA": "3040 남성을 위한 옷솔 선택과 의류 브러싱 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷·셔츠·팬츠 옷걸이 선택 기준 5가지",
-        "similarity": 0.1032
+        "titleA": "치노 팬츠 코디로 출근과 주말을 함께 입는 법",
+        "titleB": "청바지 출근룩: 단정하게 입는 색·핏·밑단·상의 조합",
+        "similarity": 0.1302
       }
     },
     {
       "slug": "mens-clothing-alteration-guide",
-      "title": "3040 남성을 위한 옷 수선 우선순위 판단 기준 5가지",
+      "title": "옷 수선 가능 범위와 고칠지 바꿀지 판단하는 법",
       "nearest": {
         "a": "mens-clothing-alteration-guide",
-        "b": "mens-weight-change-wardrobe-guide",
-        "titleA": "3040 남성을 위한 옷 수선 우선순위 판단 기준 5가지",
-        "titleB": "3040 남성을 위한 체중 변화 뒤 옷장 재정비 기준 5가지",
-        "similarity": 0.1181
-      }
-    },
-    {
-      "slug": "mens-clothing-color-fade-care-guide",
-      "title": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-      "nearest": {
-        "a": "mens-clothing-color-fade-care-guide",
-        "b": "mens-garment-odor-care-guide",
-        "titleA": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-        "titleB": "3040 남성을 위한 옷에 밴 냄새를 줄이는 착용 후 관리 기준 5가지",
-        "similarity": 0.206
+        "b": "mens-jacket-fit-guide",
+        "titleA": "옷 수선 가능 범위와 고칠지 바꿀지 판단하는 법",
+        "titleB": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+        "similarity": 0.1149
       }
     },
     {
       "slug": "mens-coat-fabric-selection-guide",
-      "title": "3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준",
+      "title": "남자 코트 원단 고르는 법과 울·캐시미어·혼방 차이",
       "nearest": {
         "a": "mens-coat-fabric-selection-guide",
-        "b": "mens-wool-coat-pilling-care-guide",
-        "titleA": "3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 울 코트 보풀 관리: 착용·제거·보관 전 5가지 기준",
-        "similarity": 0.1936
+        "b": "mens-knit-pilling-care-guide",
+        "titleA": "남자 코트 원단 고르는 법과 울·캐시미어·혼방 차이",
+        "titleB": "니트 보풀 제거 방법과 늘어나지 않게 관리하는 법",
+        "similarity": 0.1423
       }
     },
     {
       "slug": "mens-coat-length-fit-guide",
-      "title": "3040 남성을 위한 코트 기장·실루엣 선택 기준 5가지",
+      "title": "남자 코트 기장, 재킷 위에서 고르는 법",
       "nearest": {
-        "a": "mens-coat-length-fit-guide",
-        "b": "mens-lightweight-jacket-fit-guide",
-        "titleA": "3040 남성을 위한 코트 기장·실루엣 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
-        "similarity": 0.196
-      }
-    },
-    {
-      "slug": "mens-commute-umbrella-selection-guide",
-      "title": "3040 남성을 위한 출근용 우산 선택과 옷차림 연결 기준 5가지",
-      "nearest": {
-        "a": "mens-commute-umbrella-selection-guide",
-        "b": "mens-umbrella-drying-care-guide",
-        "titleA": "3040 남성을 위한 출근용 우산 선택과 옷차림 연결 기준 5가지",
-        "titleB": "3040 남성을 위한 우산 건조와 보관: 출근 가방·현관·옷장 손상 줄이는 5가지 기준",
-        "similarity": 0.1757
-      }
-    },
-    {
-      "slug": "mens-company-workshop-outfit-guide",
-      "title": "3040 남성을 위한 사내 워크숍 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-client-meeting-outfit-guide",
-        "b": "mens-company-workshop-outfit-guide",
-        "titleA": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 사내 워크숍 옷차림 기준 5가지",
-        "similarity": 0.1356
-      }
-    },
-    {
-      "slug": "mens-corduroy-trouser-styling-guide",
-      "title": "3040 남성을 위한 코듀로이 팬츠 코디: 질감·색·실루엣을 조절하는 5가지 기준",
-      "nearest": {
-        "a": "mens-corduroy-trouser-styling-guide",
-        "b": "mens-jacket-innerwear-selection-guide",
-        "titleA": "3040 남성을 위한 코듀로이 팬츠 코디: 질감·색·실루엣을 조절하는 5가지 기준",
-        "titleB": "3040 남성을 위한 재킷 안 이너 선택: 출근과 저녁 약속 사이 5가지 기준",
-        "similarity": 0.0996
-      }
-    },
-    {
-      "slug": "mens-denim-shirt-commute-guide",
-      "title": "3040 남성을 위한 초가을 데님 셔츠 출근 코디: 5가지 판단 기준",
-      "nearest": {
-        "a": "mens-denim-shirt-commute-guide",
-        "b": "mens-trench-coat-commute-guide",
-        "titleA": "3040 남성을 위한 초가을 데님 셔츠 출근 코디: 5가지 판단 기준",
-        "titleB": "3040 남성을 위한 가을 트렌치코트 출근 코디: 5가지 판단 기준",
-        "similarity": 0.3385
-      }
-    },
-    {
-      "slug": "mens-denim-trouser-first-wash-guide",
-      "title": "3040 남성 데님 팬츠 첫 세탁 전 확인할 5가지 기준",
-      "nearest": {
-        "a": "mens-denim-trouser-first-wash-guide",
-        "b": "mens-new-shirt-first-wash-guide",
-        "titleA": "3040 남성 데님 팬츠 첫 세탁 전 확인할 5가지 기준",
-        "titleB": "3040 남성을 위한 새 셔츠 첫 세탁 전 확인할 5가지 기준",
-        "similarity": 0.1534
+        "a": "mens-body-type-outfit-guide",
+        "b": "mens-coat-length-fit-guide",
+        "titleA": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+        "titleB": "남자 코트 기장, 재킷 위에서 고르는 법",
+        "similarity": 0.1406
       }
     },
     {
       "slug": "mens-derby-oxford-shoe-guide",
-      "title": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
+      "title": "더비와 옥스퍼드 차이로 고르는 첫 구두",
       "nearest": {
-        "a": "mens-derby-oxford-shoe-guide",
-        "b": "mens-loafer-selection-guide",
-        "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 로퍼 선택 기준 5가지",
-        "similarity": 0.2583
+        "a": "mens-boot-selection-styling-guide",
+        "b": "mens-derby-oxford-shoe-guide",
+        "titleA": "남자 부츠 종류와 첫 켤레 고르는 법",
+        "titleB": "더비와 옥스퍼드 차이로 고르는 첫 구두",
+        "similarity": 0.1532
       }
     },
     {
-      "slug": "mens-dog-walk-outfit-guide",
-      "title": "3040 남성을 위한 늦여름 반려견 산책 옷차림: 시간대별 5가지 기준",
+      "slug": "mens-down-jacket-label-guide",
+      "title": "구스다운 패딩 라벨 읽는 법, 거위털 비율과 솜털·깃털 비율부터",
       "nearest": {
-        "a": "mens-dog-walk-outfit-guide",
-        "b": "mens-weekend-farmers-market-outfit-guide",
-        "titleA": "3040 남성을 위한 늦여름 반려견 산책 옷차림: 시간대별 5가지 기준",
-        "titleB": "3040 남성을 위한 주말 파머스 마켓 옷차림: 이동과 장보기를 고려한 5가지 기준",
-        "similarity": 0.124
+        "a": "mens-down-jacket-label-guide",
+        "b": "mens-overshirt-styling-guide",
+        "titleA": "구스다운 패딩 라벨 읽는 법, 거위털 비율과 솜털·깃털 비율부터",
+        "titleB": "남자 가벼운 아우터, 어떤 종류부터 사야 할까",
+        "similarity": 0.0716
       }
     },
     {
       "slug": "mens-dress-shoe-fit-check-guide",
-      "title": "3040 남성을 위한 구두 발등·뒤꿈치 핏 점검 기준 5가지",
+      "title": "구두 사이즈 고르는 법: 발끝·발볼·발등·뒤꿈치 보기",
       "nearest": {
-        "a": "mens-derby-oxford-shoe-guide",
-        "b": "mens-dress-shoe-fit-check-guide",
-        "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 구두 발등·뒤꿈치 핏 점검 기준 5가지",
-        "similarity": 0.2014
-      }
-    },
-    {
-      "slug": "mens-dress-shoe-sole-selection-guide",
-      "title": "3040 남성을 위한 구두 밑창 소재·구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-derby-oxford-shoe-guide",
-        "b": "mens-dress-shoe-sole-selection-guide",
-        "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 구두 밑창 소재·구조 선택 기준 5가지",
-        "similarity": 0.1894
-      }
-    },
-    {
-      "slug": "mens-dry-cleaning-checklist-guide",
-      "title": "3040 남성을 위한 세탁소 의뢰 전후 의류 점검 기준 5가지",
-      "nearest": {
-        "a": "mens-dry-cleaning-checklist-guide",
-        "b": "mens-garment-stain-first-aid-guide",
-        "titleA": "3040 남성을 위한 세탁소 의뢰 전후 의류 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 옷에 얼룩이 생겼을 때 응급 대응 기준 5가지",
-        "similarity": 0.1887
-      }
-    },
-    {
-      "slug": "mens-early-autumn-office-transition-guide",
-      "title": "3040 남성을 위한 이른 가을 출근 옷차림 전환: 아침·사무실·이동·귀가까지 5가지 판단 기준",
-      "nearest": {
-        "a": "mens-coat-fabric-selection-guide",
-        "b": "mens-early-autumn-office-transition-guide",
-        "titleA": "3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 이른 가을 출근 옷차림 전환: 아침·사무실·이동·귀가까지 5가지 판단 기준",
-        "similarity": 0.075
-      }
-    },
-    {
-      "slug": "mens-early-autumn-sock-weight-guide",
-      "title": "3040 남성을 위한 초가을 출근 양말 두께 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-all-day-standing-shoe-guide",
-        "b": "mens-early-autumn-sock-weight-guide",
-        "titleA": "하루 종일 서 있는 날, 3040 남성이 신발을 고르는 5가지 기준",
-        "titleB": "3040 남성을 위한 초가을 출근 양말 두께 선택 기준 5가지",
-        "similarity": 0.1
-      }
-    },
-    {
-      "slug": "mens-evening-walk-layering-guide",
-      "title": "3040 남성을 위한 선선한 저녁 산책 옷차림: 셔츠와 가디건을 고르는 5가지 기준",
-      "nearest": {
-        "a": "mens-all-day-standing-shoe-guide",
-        "b": "mens-evening-walk-layering-guide",
-        "titleA": "하루 종일 서 있는 날, 3040 남성이 신발을 고르는 5가지 기준",
-        "titleB": "3040 남성을 위한 선선한 저녁 산책 옷차림: 셔츠와 가디건을 고르는 5가지 기준",
-        "similarity": 0.1447
-      }
-    },
-    {
-      "slug": "mens-exhibition-opening-outfit-guide",
-      "title": "3040 남성을 위한 전시 오프닝 초대 복장 가이드",
-      "nearest": {
-        "a": "mens-exhibition-opening-outfit-guide",
-        "b": "mens-winter-wedding-guest-outerwear-guide",
-        "titleA": "3040 남성을 위한 전시 오프닝 초대 복장 가이드",
-        "titleB": "3040 남성을 위한 겨울 결혼식 하객 아우터 선택 가이드",
-        "similarity": 0.1765
+        "a": "mens-dress-shoe-fit-check-guide",
+        "b": "mens-loafer-selection-guide",
+        "titleA": "구두 사이즈 고르는 법: 발끝·발볼·발등·뒤꿈치 보기",
+        "titleB": "로퍼 고르는 법은 종류보다 사이즈와 밑창이 먼저",
+        "similarity": 0.1529
       }
     },
     {
       "slug": "mens-eyewear-outfit-guide",
-      "title": "3040 남성을 위한 안경 프레임과 옷차림 조화 기준 5가지",
+      "title": "안경테 고르는 법, 얼굴과 옷 중 무엇부터 볼까",
       "nearest": {
         "a": "mens-eyewear-outfit-guide",
-        "b": "mens-hat-selection-guide",
-        "titleA": "3040 남성을 위한 안경 프레임과 옷차림 조화 기준 5가지",
-        "titleB": "3040 남성을 위한 모자를 단정하게 고르는 기준 5가지",
-        "similarity": 0.11
-      }
-    },
-    {
-      "slug": "mens-fabric-texture-pairing-guide",
-      "title": "3040 남성을 위한 상·하의 소재 질감 조합 기준 5가지",
-      "nearest": {
-        "a": "mens-blazer-separates-styling-guide",
-        "b": "mens-fabric-texture-pairing-guide",
-        "titleA": "3040 남성을 위한 블레이저를 셋업 밖에서 활용하는 기준 5가지",
-        "titleB": "3040 남성을 위한 상·하의 소재 질감 조합 기준 5가지",
-        "similarity": 0.18
-      }
-    },
-    {
-      "slug": "mens-family-camping-outfit-guide",
-      "title": "3040 남성을 위한 가족 캠핑 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-family-camping-outfit-guide",
-        "b": "mens-weekend-bookstore-outfit-guide",
-        "titleA": "3040 남성을 위한 가족 캠핑 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 주말 서점 나들이 옷차림 기준 5가지",
-        "similarity": 0.1297
-      }
-    },
-    {
-      "slug": "mens-family-gathering-outfit-guide",
-      "title": "3040 남성을 위한 주말 가족 모임 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-family-gathering-outfit-guide",
-        "b": "mens-summer-wedding-guest-guide",
-        "titleA": "3040 남성을 위한 주말 가족 모임 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 여름 결혼식 하객룩 기준 5가지",
-        "similarity": 0.1675
+        "b": "mens-muted-color-pairing-guide",
+        "titleA": "안경테 고르는 법, 얼굴과 옷 중 무엇부터 볼까",
+        "titleB": "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기",
+        "similarity": 0.0712
       }
     },
     {
       "slug": "mens-first-birthday-party-dad-outfit-guide",
-      "title": "3040 아빠를 위한 돌잔치 옷차림 기준 5가지",
+      "title": "돌잔치 아빠 옷차림 장소별 조합과 전날 준비",
       "nearest": {
         "a": "mens-first-birthday-party-dad-outfit-guide",
         "b": "mens-formal-family-meeting-outfit-guide",
-        "titleA": "3040 아빠를 위한 돌잔치 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 상견례 옷차림 기준 5가지",
-        "similarity": 0.2849
+        "titleA": "돌잔치 아빠 옷차림 장소별 조합과 전날 준비",
+        "titleB": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
+        "similarity": 0.1203
       }
     },
     {
       "slug": "mens-first-golf-round-outfit-guide",
-      "title": "3040 남성을 위한 첫 골프 라운드 옷차림 기준 5가지",
+      "title": "골프 복장 초보 남자가 첫 라운드에 입을 옷과 골프장 규정",
       "nearest": {
-        "a": "mens-after-workout-outfit-guide",
-        "b": "mens-first-golf-round-outfit-guide",
-        "titleA": "3040 남성을 위한 출근 후 운동 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 첫 골프 라운드 옷차림 기준 5가지",
-        "similarity": 0.1505
+        "a": "mens-first-golf-round-outfit-guide",
+        "b": "mens-first-hiking-outfit-guide",
+        "titleA": "골프 복장 초보 남자가 첫 라운드에 입을 옷과 골프장 규정",
+        "titleB": "등산 복장 초보 남자가 첫 산행에 입을 옷",
+        "similarity": 0.071
       }
     },
     {
       "slug": "mens-first-hiking-outfit-guide",
-      "title": "3040 남성을 위한 첫 등산 옷차림 가이드",
+      "title": "등산 복장 초보 남자가 첫 산행에 입을 옷",
       "nearest": {
-        "a": "mens-autumn-sea-fishing-outfit-guide",
-        "b": "mens-first-hiking-outfit-guide",
-        "titleA": "3040 남성을 위한 가을 바다낚시 옷차림: 바람·물기·이동을 고려한 5가지 기준",
-        "titleB": "3040 남성을 위한 첫 등산 옷차림 가이드",
-        "similarity": 0.1365
-      }
-    },
-    {
-      "slug": "mens-first-manager-wardrobe-guide",
-      "title": "3040 남성을 위한 첫 관리자 승진 후 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-first-manager-wardrobe-guide",
-        "b": "mens-new-job-first-day-outfit-guide",
-        "titleA": "3040 남성을 위한 첫 관리자 승진 후 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 새 직장 첫 출근 옷차림 기준 5가지",
-        "similarity": 0.2502
-      }
-    },
-    {
-      "slug": "mens-first-pilates-class-outfit-guide",
-      "title": "3040 남성 첫 필라테스 수업 옷차림: 움직임과 출근 후 전환을 고려한 5가지 기준",
-      "nearest": {
-        "a": "mens-after-workout-outfit-guide",
-        "b": "mens-first-pilates-class-outfit-guide",
-        "titleA": "3040 남성을 위한 출근 후 운동 옷차림 기준 5가지",
-        "titleB": "3040 남성 첫 필라테스 수업 옷차림: 움직임과 출근 후 전환을 고려한 5가지 기준",
-        "similarity": 0.1018
-      }
-    },
-    {
-      "slug": "mens-first-residents-meeting-outfit-guide",
-      "title": "3040 남성 첫 입주자 모임 옷차림: 단정함과 편안함을 함께 고르는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-library-reading-outfit-guide",
-        "b": "mens-first-residents-meeting-outfit-guide",
-        "titleA": "가을 도서관 독서 모임을 위한 3040 남성 옷차림: 조용한 공간과 오래 앉는 시간을 고려하는 5가지 기준",
-        "titleB": "3040 남성 첫 입주자 모임 옷차림: 단정함과 편안함을 함께 고르는 5가지 기준",
-        "similarity": 0.2027
-      }
-    },
-    {
-      "slug": "mens-first-running-crew-outfit-guide",
-      "title": "3040 남성 첫 러닝크루 참여 전 옷차림: 집결·러닝·귀가를 나누는 5가지 기준",
-      "nearest": {
-        "a": "mens-first-running-crew-outfit-guide",
-        "b": "mens-weekend-farmers-market-outfit-guide",
-        "titleA": "3040 남성 첫 러닝크루 참여 전 옷차림: 집결·러닝·귀가를 나누는 5가지 기준",
-        "titleB": "3040 남성을 위한 주말 파머스 마켓 옷차림: 이동과 장보기를 고려한 5가지 기준",
-        "similarity": 0.0821
-      }
-    },
-    {
-      "slug": "mens-first-tailoring-consultation-guide",
-      "title": "3040 남성을 위한 첫 맞춤정장 상담 전 준비: 목적·예산·핏을 정리하는 5가지 기준",
-      "nearest": {
-        "a": "mens-business-conference-outfit-guide",
-        "b": "mens-first-tailoring-consultation-guide",
-        "titleA": "3040 남성 컨퍼런스 참석 복장: 이동·세션·네트워킹을 나누는 5가지 기준",
-        "titleB": "3040 남성을 위한 첫 맞춤정장 상담 전 준비: 목적·예산·핏을 정리하는 5가지 기준",
-        "similarity": 0.0565
-      }
-    },
-    {
-      "slug": "mens-first-tennis-lesson-outfit-guide",
-      "title": "3040 남성을 위한 첫 테니스 레슨 옷차림: 코트와 귀가까지 5가지 기준",
-      "nearest": {
-        "a": "mens-first-tennis-lesson-outfit-guide",
-        "b": "mens-valley-daytrip-outfit-guide",
-        "titleA": "3040 남성을 위한 첫 테니스 레슨 옷차림: 코트와 귀가까지 5가지 기준",
-        "titleB": "3040 남성을 위한 늦여름 계곡 나들이 옷차림: 이동·물놀이·귀가를 고려한 5가지 기준",
-        "similarity": 0.1176
-      }
-    },
-    {
-      "slug": "mens-fitting-room-checklist-guide",
-      "title": "3040 남성을 위한 매장 시착 점검 기준 5가지",
-      "nearest": {
-        "a": "mens-fitting-room-checklist-guide",
-        "b": "mens-jacket-vent-selection-guide",
-        "titleA": "3040 남성을 위한 매장 시착 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷 뒤트임 선택 기준 5가지",
-        "similarity": 0.1131
-      }
-    },
-    {
-      "slug": "mens-flannel-shirt-selection-guide",
-      "title": "3040 남성을 위한 플란넬 셔츠 선택: 두께·무늬·출근 경계 5가지 기준",
-      "nearest": {
-        "a": "mens-flannel-shirt-selection-guide",
-        "b": "mens-tweed-jacket-selection-guide",
-        "titleA": "3040 남성을 위한 플란넬 셔츠 선택: 두께·무늬·출근 경계 5가지 기준",
-        "titleB": "3040 남성을 위한 가을 트위드 재킷 선택: 조직·무게·실루엣·장면·관리를 나누는 5가지 기준",
-        "similarity": 0.0763
-      }
-    },
-    {
-      "slug": "mens-formal-family-meeting-outfit-guide",
-      "title": "3040 남성을 위한 상견례 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-first-birthday-party-dad-outfit-guide",
+        "a": "mens-first-hiking-outfit-guide",
         "b": "mens-formal-family-meeting-outfit-guide",
-        "titleA": "3040 아빠를 위한 돌잔치 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 상견례 옷차림 기준 5가지",
-        "similarity": 0.2849
-      }
-    },
-    {
-      "slug": "mens-funeral-attire-guide",
-      "title": "3040 남성을 위한 조문 옷차림 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-funeral-attire-guide",
-        "b": "mens-office-sneaker-styling-guide",
-        "titleA": "3040 남성을 위한 조문 옷차림 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 스니커즈를 출근복에 단정하게 연결하는 기준 5가지",
-        "similarity": 0.1202
-      }
-    },
-    {
-      "slug": "mens-garment-care-label-guide",
-      "title": "3040 남성을 위한 의류 세탁 라벨 읽는 기준 5가지",
-      "nearest": {
-        "a": "mens-clothing-color-fade-care-guide",
-        "b": "mens-garment-care-label-guide",
-        "titleA": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-        "titleB": "3040 남성을 위한 의류 세탁 라벨 읽는 기준 5가지",
-        "similarity": 0.1637
-      }
-    },
-    {
-      "slug": "mens-garment-finish-quality-guide",
-      "title": "3040 남성을 위한 옷 구매 전 봉제·마감 품질 확인 기준 5가지",
-      "nearest": {
-        "a": "mens-garment-finish-quality-guide",
-        "b": "mens-garment-lining-selection-guide",
-        "titleA": "3040 남성을 위한 옷 구매 전 봉제·마감 품질 확인 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷·팬츠 안감 선택 기준 5가지",
-        "similarity": 0.138
-      }
-    },
-    {
-      "slug": "mens-garment-hanger-selection-guide",
-      "title": "3040 남성을 위한 재킷·셔츠·팬츠 옷걸이 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-garment-hanger-selection-guide",
-        "b": "mens-knitwear-shape-care-guide",
-        "titleA": "3040 남성을 위한 재킷·셔츠·팬츠 옷걸이 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 니트·가디건 보풀과 형태 관리 기준 5가지",
-        "similarity": 0.1041
-      }
-    },
-    {
-      "slug": "mens-garment-lining-selection-guide",
-      "title": "3040 남성을 위한 재킷·팬츠 안감 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-garment-finish-quality-guide",
-        "b": "mens-garment-lining-selection-guide",
-        "titleA": "3040 남성을 위한 옷 구매 전 봉제·마감 품질 확인 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷·팬츠 안감 선택 기준 5가지",
-        "similarity": 0.138
-      }
-    },
-    {
-      "slug": "mens-garment-odor-care-guide",
-      "title": "3040 남성을 위한 옷에 밴 냄새를 줄이는 착용 후 관리 기준 5가지",
-      "nearest": {
-        "a": "mens-clothing-color-fade-care-guide",
-        "b": "mens-garment-odor-care-guide",
-        "titleA": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-        "titleB": "3040 남성을 위한 옷에 밴 냄새를 줄이는 착용 후 관리 기준 5가지",
-        "similarity": 0.206
-      }
-    },
-    {
-      "slug": "mens-garment-repair-replace-guide",
-      "title": "3040 남성을 위한 낡은 옷 수선·교체 판단 기준 5가지",
-      "nearest": {
-        "a": "mens-garment-finish-quality-guide",
-        "b": "mens-garment-repair-replace-guide",
-        "titleA": "3040 남성을 위한 옷 구매 전 봉제·마감 품질 확인 기준 5가지",
-        "titleB": "3040 남성을 위한 낡은 옷 수선·교체 판단 기준 5가지",
-        "similarity": 0.0887
-      }
-    },
-    {
-      "slug": "mens-garment-stain-first-aid-guide",
-      "title": "3040 남성을 위한 옷에 얼룩이 생겼을 때 응급 대응 기준 5가지",
-      "nearest": {
-        "a": "mens-dry-cleaning-checklist-guide",
-        "b": "mens-garment-stain-first-aid-guide",
-        "titleA": "3040 남성을 위한 세탁소 의뢰 전후 의류 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 옷에 얼룩이 생겼을 때 응급 대응 기준 5가지",
-        "similarity": 0.1887
-      }
-    },
-    {
-      "slug": "mens-garment-static-cling-care-guide",
-      "title": "3040 남성을 위한 옷 정전기와 들러붙음을 줄이는 관리 기준 5가지",
-      "nearest": {
-        "a": "mens-clothing-color-fade-care-guide",
-        "b": "mens-garment-static-cling-care-guide",
-        "titleA": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-        "titleB": "3040 남성을 위한 옷 정전기와 들러붙음을 줄이는 관리 기준 5가지",
-        "similarity": 0.0939
-      }
-    },
-    {
-      "slug": "mens-garment-zipper-troubleshooting-guide",
-      "title": "3040 남성을 위한 의류 지퍼 걸림·벌어짐 점검 기준 5가지",
-      "nearest": {
-        "a": "mens-garment-zipper-troubleshooting-guide",
-        "b": "mens-trouser-fly-closure-selection-guide",
-        "titleA": "3040 남성을 위한 의류 지퍼 걸림·벌어짐 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 앞여밈과 지퍼 구조 선택 기준 5가지",
-        "similarity": 0.17
-      }
-    },
-    {
-      "slug": "mens-gray-hair-color-pairing-guide",
-      "title": "3040 남성을 위한 새치·백발과 옷 색 조합 기준 5가지",
-      "nearest": {
-        "a": "mens-gray-hair-color-pairing-guide",
-        "b": "mens-muted-color-pairing-guide",
-        "titleA": "3040 남성을 위한 새치·백발과 옷 색 조합 기준 5가지",
-        "titleB": "3040 남성을 위한 차분한 색 조합 5가지",
-        "similarity": 0.1638
-      }
-    },
-    {
-      "slug": "mens-harrington-jacket-selection-guide",
-      "title": "3040 남성 해링턴 재킷 선택: 원단·실루엣·레이어·장면·관리 5가지 기준",
-      "nearest": {
-        "a": "mens-harrington-jacket-selection-guide",
-        "b": "mens-quilted-jacket-selection-guide",
-        "titleA": "3040 남성 해링턴 재킷 선택: 원단·실루엣·레이어·장면·관리 5가지 기준",
-        "titleB": "3040 남성 퀼티드 재킷 선택: 무게·실루엣·레이어·장면·관리 5가지 기준",
-        "similarity": 0.2068
-      }
-    },
-    {
-      "slug": "mens-hat-care-guide",
-      "title": "3040 남성을 위한 여름 모자 관리: 땀 자국과 형태를 지키는 5가지 기준",
-      "nearest": {
-        "a": "mens-hat-care-guide",
-        "b": "mens-linen-trouser-care-guide",
-        "titleA": "3040 남성을 위한 여름 모자 관리: 땀 자국과 형태를 지키는 5가지 기준",
-        "titleB": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-        "similarity": 0.2322
-      }
-    },
-    {
-      "slug": "mens-hat-selection-guide",
-      "title": "3040 남성을 위한 모자를 단정하게 고르는 기준 5가지",
-      "nearest": {
-        "a": "mens-hat-selection-guide",
-        "b": "mens-sandal-selection-guide",
-        "titleA": "3040 남성을 위한 모자를 단정하게 고르는 기준 5가지",
-        "titleB": "3040 남성을 위한 여름 샌들을 단정하게 고르는 기준 5가지",
-        "similarity": 0.1271
-      }
-    },
-    {
-      "slug": "mens-health-checkup-outfit-guide",
-      "title": "3040 남성을 위한 건강검진 당일 옷차림 준비 기준 5가지",
-      "nearest": {
-        "a": "mens-health-checkup-outfit-guide",
-        "b": "mens-hospital-visitor-outfit-guide",
-        "titleA": "3040 남성을 위한 건강검진 당일 옷차림 준비 기준 5가지",
-        "titleB": "3040 남성을 위한 병문안 옷차림 기준 5가지",
-        "similarity": 0.1244
-      }
-    },
-    {
-      "slug": "mens-home-dinner-host-outfit-guide",
-      "title": "3040 남성을 위한 집에서 여는 저녁 모임 옷차림: 손님맞이 5가지 기준",
-      "nearest": {
-        "a": "mens-home-dinner-host-outfit-guide",
-        "b": "mens-housewarming-guest-outfit-guide",
-        "titleA": "3040 남성을 위한 집에서 여는 저녁 모임 옷차림: 손님맞이 5가지 기준",
-        "titleB": "3040 남성을 위한 집들이 초대 옷차림 5가지 기준",
-        "similarity": 0.1306
-      }
-    },
-    {
-      "slug": "mens-hospital-visitor-outfit-guide",
-      "title": "3040 남성을 위한 병문안 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-health-checkup-outfit-guide",
-        "b": "mens-hospital-visitor-outfit-guide",
-        "titleA": "3040 남성을 위한 건강검진 당일 옷차림 준비 기준 5가지",
-        "titleB": "3040 남성을 위한 병문안 옷차림 기준 5가지",
-        "similarity": 0.1244
-      }
-    },
-    {
-      "slug": "mens-hotel-travel-outfit-guide",
-      "title": "3040 남성을 위한 호텔 조식과 로비를 오가는 여행 옷차림",
-      "nearest": {
-        "a": "mens-hotel-travel-outfit-guide",
-        "b": "mens-wine-tasting-outfit-guide",
-        "titleA": "3040 남성을 위한 호텔 조식과 로비를 오가는 여행 옷차림",
-        "titleB": "3040 남성을 위한 와인 테이스팅 옷차림 가이드",
-        "similarity": 0.0971
-      }
-    },
-    {
-      "slug": "mens-housewarming-guest-outfit-guide",
-      "title": "3040 남성을 위한 집들이 초대 옷차림 5가지 기준",
-      "nearest": {
-        "a": "mens-home-dinner-host-outfit-guide",
-        "b": "mens-housewarming-guest-outfit-guide",
-        "titleA": "3040 남성을 위한 집에서 여는 저녁 모임 옷차림: 손님맞이 5가지 기준",
-        "titleB": "3040 남성을 위한 집들이 초대 옷차림 5가지 기준",
-        "similarity": 0.1306
-      }
-    },
-    {
-      "slug": "mens-invitation-dress-code-guide",
-      "title": "3040 남성을 위한 행사 초대장 드레스코드 해석 기준 5가지",
-      "nearest": {
-        "a": "mens-invitation-dress-code-guide",
-        "b": "mens-summer-wedding-guest-guide",
-        "titleA": "3040 남성을 위한 행사 초대장 드레스코드 해석 기준 5가지",
-        "titleB": "3040 남성을 위한 여름 결혼식 하객룩 기준 5가지",
-        "similarity": 0.1399
-      }
-    },
-    {
-      "slug": "mens-jacket-button-repair-guide",
-      "title": "남성 재킷 단추가 헐거울 때: 수선 전 점검 순서",
-      "nearest": {
-        "a": "mens-jacket-button-repair-guide",
-        "b": "mens-shirt-jacket-sleeve-proportion-guide",
-        "titleA": "남성 재킷 단추가 헐거울 때: 수선 전 점검 순서",
-        "titleB": "3040 남성을 위한 셔츠와 재킷 소매 길이 비율 가이드",
-        "similarity": 0.1023
-      }
-    },
-    {
-      "slug": "mens-jacket-buttoning-guide",
-      "title": "3040 남성을 위한 재킷 단추를 상황에 맞게 잠그는 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-buttoning-guide",
-        "b": "mens-jacket-lapel-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 단추를 상황에 맞게 잠그는 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-        "similarity": 0.1392
-      }
-    },
-    {
-      "slug": "mens-jacket-canvas-construction-guide",
-      "title": "3040 남성을 위한 재킷 심지·앞판 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-canvas-construction-guide",
-        "b": "mens-jacket-lapel-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 심지·앞판 구조 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-        "similarity": 0.193
-      }
-    },
-    {
-      "slug": "mens-jacket-collar-gap-fit-guide",
-      "title": "3040 남성을 위한 재킷 칼라 들뜸 점검 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-collar-gap-fit-guide",
-        "b": "mens-jacket-sleeve-pitch-fit-guide",
-        "titleA": "3040 남성을 위한 재킷 칼라 들뜸 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷 소매 비틀림·주름 점검 기준 5가지",
-        "similarity": 0.327
-      }
-    },
-    {
-      "slug": "mens-jacket-innerwear-selection-guide",
-      "title": "3040 남성을 위한 재킷 안 이너 선택: 출근과 저녁 약속 사이 5가지 기준",
-      "nearest": {
-        "a": "mens-jacket-innerwear-selection-guide",
-        "b": "mens-linen-blazer-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 안 이너 선택: 출근과 저녁 약속 사이 5가지 기준",
-        "titleB": "3040 남성을 위한 여름 리넨 블레이저 선택: 출근과 저녁 약속을 잇는 5가지 기준",
-        "similarity": 0.1235
-      }
-    },
-    {
-      "slug": "mens-jacket-lapel-selection-guide",
-      "title": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-lapel-selection-guide",
-        "b": "mens-jacket-pocket-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-        "similarity": 0.2904
-      }
-    },
-    {
-      "slug": "mens-jacket-pocket-selection-guide",
-      "title": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-      "nearest": {
-        "a": "mens-jacket-lapel-selection-guide",
-        "b": "mens-jacket-pocket-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-        "similarity": 0.2904
-      }
-    },
-    {
-      "slug": "mens-jacket-shoulder-construction-guide",
-      "title": "3040 남성을 위한 재킷 어깨 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-pocket-selection-guide",
-        "b": "mens-jacket-shoulder-construction-guide",
-        "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 재킷 어깨 구조 선택 기준 5가지",
-        "similarity": 0.2791
-      }
-    },
-    {
-      "slug": "mens-jacket-sleeve-button-selection-guide",
-      "title": "3040 남성을 위한 재킷 소매 단추 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-sleeve-button-selection-guide",
-        "b": "mens-shirt-button-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 소매 단추 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 단추 소재·두께 선택 기준 5가지",
-        "similarity": 0.1585
-      }
-    },
-    {
-      "slug": "mens-jacket-sleeve-pitch-fit-guide",
-      "title": "3040 남성을 위한 재킷 소매 비틀림·주름 점검 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-collar-gap-fit-guide",
-        "b": "mens-jacket-sleeve-pitch-fit-guide",
-        "titleA": "3040 남성을 위한 재킷 칼라 들뜸 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷 소매 비틀림·주름 점검 기준 5가지",
-        "similarity": 0.327
-      }
-    },
-    {
-      "slug": "mens-jacket-vent-selection-guide",
-      "title": "3040 남성을 위한 재킷 뒤트임 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-lapel-selection-guide",
-        "b": "mens-jacket-vent-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 라펠 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 재킷 뒤트임 선택 기준 5가지",
-        "similarity": 0.1628
-      }
-    },
-    {
-      "slug": "mens-jacket-wrinkle-care-guide",
-      "title": "3040 남성을 위한 재킷 구김 관리: 출근 전·이동 중·보관의 5가지 기준",
-      "nearest": {
-        "a": "mens-jacket-wrinkle-care-guide",
-        "b": "mens-leather-jacket-seasonal-care-guide",
-        "titleA": "3040 남성을 위한 재킷 구김 관리: 출근 전·이동 중·보관의 5가지 기준",
-        "titleB": "3040 남성을 위한 가죽 재킷 첫 착용 전 점검: 보관·표면·이너를 살피는 5가지 기준",
-        "similarity": 0.1145
-      }
-    },
-    {
-      "slug": "mens-jewelry-outfit-guide",
-      "title": "3040 남성을 위한 반지·팔찌를 옷차림에 절제되게 연결하는 기준 5가지",
-      "nearest": {
-        "a": "mens-jewelry-outfit-guide",
-        "b": "mens-watch-outfit-pairing-guide",
-        "titleA": "3040 남성을 위한 반지·팔찌를 옷차림에 절제되게 연결하는 기준 5가지",
-        "titleB": "3040 남성을 위한 옷차림에 맞는 손목시계 크기·스트랩 선택 기준 5가지",
-        "similarity": 0.1428
-      }
-    },
-    {
-      "slug": "mens-knit-gauge-selection-guide",
-      "title": "3040 남성을 위한 니트 게이지와 두께 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-knit-gauge-selection-guide",
-        "b": "mens-knit-shoulder-construction-guide",
-        "titleA": "3040 남성을 위한 니트 게이지와 두께 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 니트 어깨·소매 구조 선택 기준 5가지",
-        "similarity": 0.2104
-      }
-    },
-    {
-      "slug": "mens-knit-layering-guide",
-      "title": "3040 남성을 위한 니트·가디건 레이어링 기준 5가지",
-      "nearest": {
-        "a": "mens-knit-gauge-selection-guide",
-        "b": "mens-knit-layering-guide",
-        "titleA": "3040 남성을 위한 니트 게이지와 두께 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 니트·가디건 레이어링 기준 5가지",
-        "similarity": 0.1456
-      }
-    },
-    {
-      "slug": "mens-knit-neckline-guide",
-      "title": "3040 남성을 위한 니트 넥라인 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-knit-neckline-guide",
-        "b": "mens-overshirt-styling-guide",
-        "titleA": "3040 남성을 위한 니트 넥라인 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 오버셔츠를 재킷처럼 활용하는 기준 5가지",
-        "similarity": 0.1658
-      }
-    },
-    {
-      "slug": "mens-knit-pilling-care-guide",
-      "title": "3040 남성을 위한 니트 보풀 관리와 오래 입는 기준",
-      "nearest": {
-        "a": "mens-knit-pilling-care-guide",
-        "b": "mens-knitwear-shape-care-guide",
-        "titleA": "3040 남성을 위한 니트 보풀 관리와 오래 입는 기준",
-        "titleB": "3040 남성을 위한 니트·가디건 보풀과 형태 관리 기준 5가지",
-        "similarity": 0.1586
-      }
-    },
-    {
-      "slug": "mens-knit-rib-hem-selection-guide",
-      "title": "3040 남성을 위한 니트 리브·밑단 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-knit-rib-hem-selection-guide",
-        "b": "mens-knit-shoulder-construction-guide",
-        "titleA": "3040 남성을 위한 니트 리브·밑단 구조 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 니트 어깨·소매 구조 선택 기준 5가지",
-        "similarity": 0.2269
-      }
-    },
-    {
-      "slug": "mens-knit-shoulder-construction-guide",
-      "title": "3040 남성을 위한 니트 어깨·소매 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-knit-rib-hem-selection-guide",
-        "b": "mens-knit-shoulder-construction-guide",
-        "titleA": "3040 남성을 위한 니트 리브·밑단 구조 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 니트 어깨·소매 구조 선택 기준 5가지",
-        "similarity": 0.2269
-      }
-    },
-    {
-      "slug": "mens-knitwear-shape-care-guide",
-      "title": "3040 남성을 위한 니트·가디건 보풀과 형태 관리 기준 5가지",
-      "nearest": {
-        "a": "mens-clothing-color-fade-care-guide",
-        "b": "mens-knitwear-shape-care-guide",
-        "titleA": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-        "titleB": "3040 남성을 위한 니트·가디건 보풀과 형태 관리 기준 5가지",
-        "similarity": 0.1643
-      }
-    },
-    {
-      "slug": "mens-leather-bag-care-guide",
-      "title": "3040 남성을 위한 가죽 가방 관리와 수선 판단 기준",
-      "nearest": {
-        "a": "mens-leather-bag-care-guide",
-        "b": "mens-leather-jacket-seasonal-care-guide",
-        "titleA": "3040 남성을 위한 가죽 가방 관리와 수선 판단 기준",
-        "titleB": "3040 남성을 위한 가죽 재킷 첫 착용 전 점검: 보관·표면·이너를 살피는 5가지 기준",
+        "titleA": "등산 복장 초보 남자가 첫 산행에 입을 옷",
+        "titleB": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
         "similarity": 0.0744
       }
     },
     {
-      "slug": "mens-leather-jacket-seasonal-care-guide",
-      "title": "3040 남성을 위한 가죽 재킷 첫 착용 전 점검: 보관·표면·이너를 살피는 5가지 기준",
+      "slug": "mens-formal-family-meeting-outfit-guide",
+      "title": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
       "nearest": {
-        "a": "mens-jacket-wrinkle-care-guide",
-        "b": "mens-leather-jacket-seasonal-care-guide",
-        "titleA": "3040 남성을 위한 재킷 구김 관리: 출근 전·이동 중·보관의 5가지 기준",
-        "titleB": "3040 남성을 위한 가죽 재킷 첫 착용 전 점검: 보관·표면·이너를 살피는 5가지 기준",
-        "similarity": 0.1145
+        "a": "mens-formal-family-meeting-outfit-guide",
+        "b": "mens-wedding-guest-outfit-guide",
+        "titleA": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
+        "titleB": "결혼식 하객룩 남자, 예식장과 계절마다 뭘 입을까",
+        "similarity": 0.1315
+      }
+    },
+    {
+      "slug": "mens-funeral-attire-guide",
+      "title": "조문 복장 남자 기본과 검정 정장이 없을 때",
+      "nearest": {
+        "a": "mens-career-interview-outfit-guide",
+        "b": "mens-funeral-attire-guide",
+        "titleA": "면접 복장 남자, 안내 문구에 맞춰 입는 법",
+        "titleB": "조문 복장 남자 기본과 검정 정장이 없을 때",
+        "similarity": 0.1076
+      }
+    },
+    {
+      "slug": "mens-garment-care-label-guide",
+      "title": "세탁 기호 읽는 법, 물세탁부터 드라이 표시까지 한 표로",
+      "nearest": {
+        "a": "mens-garment-care-label-guide",
+        "b": "mens-trouser-care-guide",
+        "titleA": "세탁 기호 읽는 법, 물세탁부터 드라이 표시까지 한 표로",
+        "titleB": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+        "similarity": 0.1653
+      }
+    },
+    {
+      "slug": "mens-garment-stain-first-aid-guide",
+      "title": "옷 얼룩 지우는 법, 묻은 직후 5분에 뭘 해야 할까",
+      "nearest": {
+        "a": "mens-garment-care-label-guide",
+        "b": "mens-garment-stain-first-aid-guide",
+        "titleA": "세탁 기호 읽는 법, 물세탁부터 드라이 표시까지 한 표로",
+        "titleB": "옷 얼룩 지우는 법, 묻은 직후 5분에 뭘 해야 할까",
+        "similarity": 0.1111
+      }
+    },
+    {
+      "slug": "mens-hat-selection-guide",
+      "title": "남자 모자 고르는 법과 머리둘레 재는 법",
+      "nearest": {
+        "a": "mens-hat-selection-guide",
+        "b": "mens-scarf-styling-guide",
+        "titleA": "남자 모자 고르는 법과 머리둘레 재는 법",
+        "titleB": "남자 머플러 두르는 법과 코트에 맞는 폭 고르는 법",
+        "similarity": 0.0805
+      }
+    },
+    {
+      "slug": "mens-invitation-dress-code-guide",
+      "title": "드레스코드 뜻과 남자 복장: 블랙타이부터 스마트 캐주얼까지",
+      "nearest": {
+        "a": "mens-anniversary-dinner-outfit-guide",
+        "b": "mens-invitation-dress-code-guide",
+        "titleA": "기념일 데이트 남자 옷차림을 장소별로 정리했습니다",
+        "titleB": "드레스코드 뜻과 남자 복장: 블랙타이부터 스마트 캐주얼까지",
+        "similarity": 0.1027
+      }
+    },
+    {
+      "slug": "mens-jacket-fit-guide",
+      "title": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+      "nearest": {
+        "a": "mens-jacket-fit-guide",
+        "b": "mens-suit-selection-guide",
+        "titleA": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+        "titleB": "남자 정장 고르는 법: 색·원단·핏 순서와 기성복·맞춤 차이",
+        "similarity": 0.1816
+      }
+    },
+    {
+      "slug": "mens-knit-gauge-selection-guide",
+      "title": "니트 게이지 뜻, 12G와 7G는 무엇이 다를까",
+      "nearest": {
+        "a": "mens-knit-gauge-selection-guide",
+        "b": "mens-tshirt-fit-guide",
+        "titleA": "니트 게이지 뜻, 12G와 7G는 무엇이 다를까",
+        "titleB": "남자 티셔츠 핏은 어깨선부터 봅니다",
+        "similarity": 0.1286
+      }
+    },
+    {
+      "slug": "mens-knit-layering-guide",
+      "title": "니트 레이어링 남자 코디 세 겹 입는 순서",
+      "nearest": {
+        "a": "mens-knit-gauge-selection-guide",
+        "b": "mens-knit-layering-guide",
+        "titleA": "니트 게이지 뜻, 12G와 7G는 무엇이 다를까",
+        "titleB": "니트 레이어링 남자 코디 세 겹 입는 순서",
+        "similarity": 0.12
+      }
+    },
+    {
+      "slug": "mens-knit-pilling-care-guide",
+      "title": "니트 보풀 제거 방법과 늘어나지 않게 관리하는 법",
+      "nearest": {
+        "a": "mens-knit-pilling-care-guide",
+        "b": "mens-trouser-care-guide",
+        "titleA": "니트 보풀 제거 방법과 늘어나지 않게 관리하는 법",
+        "titleB": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+        "similarity": 0.1885
       }
     },
     {
       "slug": "mens-leather-shoe-care-guide",
-      "title": "3040 남성을 위한 가죽 구두 관리 기준 5가지",
+      "title": "구두 관리법: 매일 손질부터 젖은 스웨이드 말리기까지",
       "nearest": {
         "a": "mens-derby-oxford-shoe-guide",
         "b": "mens-leather-shoe-care-guide",
-        "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 가죽 구두 관리 기준 5가지",
-        "similarity": 0.1181
-      }
-    },
-    {
-      "slug": "mens-lightweight-jacket-fit-guide",
-      "title": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-coat-length-fit-guide",
-        "b": "mens-lightweight-jacket-fit-guide",
-        "titleA": "3040 남성을 위한 코트 기장·실루엣 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
-        "similarity": 0.196
-      }
-    },
-    {
-      "slug": "mens-linen-blazer-selection-guide",
-      "title": "3040 남성을 위한 여름 리넨 블레이저 선택: 출근과 저녁 약속을 잇는 5가지 기준",
-      "nearest": {
-        "a": "mens-linen-blazer-selection-guide",
-        "b": "mens-summer-commute-sweat-care-guide",
-        "titleA": "3040 남성을 위한 여름 리넨 블레이저 선택: 출근과 저녁 약속을 잇는 5가지 기준",
-        "titleB": "3040 남성을 위한 여름 출근 땀 자국 관리: 셔츠와 재킷을 나누어 보는 5가지 기준",
-        "similarity": 0.1667
-      }
-    },
-    {
-      "slug": "mens-linen-shirt-care-guide",
-      "title": "3040 남성을 위한 린넨 셔츠 세탁 뒤 형태 점검과 관리 5단계",
-      "nearest": {
-        "a": "mens-linen-shirt-care-guide",
-        "b": "mens-wardrobe-photo-inventory-guide",
-        "titleA": "3040 남성을 위한 린넨 셔츠 세탁 뒤 형태 점검과 관리 5단계",
-        "titleB": "3040 남성을 위한 옷장 사진 기록으로 중복 구매를 줄이는 5단계",
-        "similarity": 0.0753
-      }
-    },
-    {
-      "slug": "mens-linen-trouser-care-guide",
-      "title": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-      "nearest": {
-        "a": "mens-linen-trouser-care-guide",
-        "b": "mens-shirt-collar-stain-care-guide",
-        "titleA": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-        "titleB": "남성 셔츠 칼라 얼룩 관리: 케어라벨부터 확인하는 순서",
-        "similarity": 0.3201
+        "titleA": "더비와 옥스퍼드 차이로 고르는 첫 구두",
+        "titleB": "구두 관리법: 매일 손질부터 젖은 스웨이드 말리기까지",
+        "similarity": 0.1207
       }
     },
     {
       "slug": "mens-loafer-selection-guide",
-      "title": "3040 남성을 위한 로퍼 선택 기준 5가지",
+      "title": "로퍼 고르는 법은 종류보다 사이즈와 밑창이 먼저",
       "nearest": {
-        "a": "mens-derby-oxford-shoe-guide",
+        "a": "mens-dress-shoe-fit-check-guide",
         "b": "mens-loafer-selection-guide",
-        "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 로퍼 선택 기준 5가지",
-        "similarity": 0.2583
-      }
-    },
-    {
-      "slug": "mens-long-drive-outfit-guide",
-      "title": "3040 남성을 위한 장시간 운전 옷차림 점검 기준 5가지",
-      "nearest": {
-        "a": "mens-long-drive-outfit-guide",
-        "b": "mens-long-flight-outfit-guide",
-        "titleA": "3040 남성을 위한 장시간 운전 옷차림 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 장시간 비행 옷차림 점검 기준 5가지",
-        "similarity": 0.1629
-      }
-    },
-    {
-      "slug": "mens-long-flight-outfit-guide",
-      "title": "3040 남성을 위한 장시간 비행 옷차림 점검 기준 5가지",
-      "nearest": {
-        "a": "mens-long-drive-outfit-guide",
-        "b": "mens-long-flight-outfit-guide",
-        "titleA": "3040 남성을 위한 장시간 운전 옷차림 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 장시간 비행 옷차림 점검 기준 5가지",
-        "similarity": 0.1629
-      }
-    },
-    {
-      "slug": "mens-long-train-journey-outfit-guide",
-      "title": "3040 남성을 위한 장거리 기차 이동 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-long-flight-outfit-guide",
-        "b": "mens-long-train-journey-outfit-guide",
-        "titleA": "3040 남성을 위한 장시간 비행 옷차림 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 장거리 기차 이동 옷차림 기준 5가지",
-        "similarity": 0.1416
-      }
-    },
-    {
-      "slug": "mens-morning-run-to-office-outfit-guide",
-      "title": "3040 남성 아침 러닝 후 출근 옷차림: 땀 관리와 사무실 전환을 위한 5가지 기준",
-      "nearest": {
-        "a": "mens-first-pilates-class-outfit-guide",
-        "b": "mens-morning-run-to-office-outfit-guide",
-        "titleA": "3040 남성 첫 필라테스 수업 옷차림: 움직임과 출근 후 전환을 고려한 5가지 기준",
-        "titleB": "3040 남성 아침 러닝 후 출근 옷차림: 땀 관리와 사무실 전환을 위한 5가지 기준",
-        "similarity": 0.0853
-      }
-    },
-    {
-      "slug": "mens-moving-day-outfit-guide",
-      "title": "3040 남성 이사 당일 옷차림: 짐·이동·새 집 점검을 나누는 5가지 기준",
-      "nearest": {
-        "a": "mens-autumn-knit-polo-selection-guide",
-        "b": "mens-moving-day-outfit-guide",
-        "titleA": "3040 남성을 위한 가을 니트 폴로 셔츠 선택: 칼라·두께·레이어링을 가르는 5가지 기준",
-        "titleB": "3040 남성 이사 당일 옷차림: 짐·이동·새 집 점검을 나누는 5가지 기준",
-        "similarity": 0.0788
-      }
-    },
-    {
-      "slug": "mens-museum-date-outfit-guide",
-      "title": "3040 남성을 위한 미술관 데이트 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-museum-date-outfit-guide",
-        "b": "mens-work-weekend-wardrobe-guide",
-        "titleA": "3040 남성을 위한 미술관 데이트 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 일과 주말을 잇는 옷장 구성 기준 5가지",
-        "similarity": 0.1686
+        "titleA": "구두 사이즈 고르는 법: 발끝·발볼·발등·뒤꿈치 보기",
+        "titleB": "로퍼 고르는 법은 종류보다 사이즈와 밑창이 먼저",
+        "similarity": 0.1529
       }
     },
     {
       "slug": "mens-muted-color-pairing-guide",
-      "title": "3040 남성을 위한 차분한 색 조합 5가지",
+      "title": "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기",
       "nearest": {
-        "a": "mens-gray-hair-color-pairing-guide",
-        "b": "mens-muted-color-pairing-guide",
-        "titleA": "3040 남성을 위한 새치·백발과 옷 색 조합 기준 5가지",
-        "titleB": "3040 남성을 위한 차분한 색 조합 5가지",
-        "similarity": 0.1638
+        "a": "mens-muted-color-pairing-guide",
+        "b": "mens-sock-pairing-guide",
+        "titleA": "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기",
+        "titleB": "정장 양말 색은 바지에 맞춥니다",
+        "similarity": 0.1371
       }
     },
     {
       "slug": "mens-necktie-selection-guide",
-      "title": "3040 남성을 위한 넥타이를 과하지 않게 고르는 기준 5가지",
+      "title": "넥타이 고르는 법과 셔츠 칼라에 맞는 매듭",
       "nearest": {
         "a": "mens-necktie-selection-guide",
-        "b": "mens-tie-knot-collar-proportion-guide",
-        "titleA": "3040 남성을 위한 넥타이를 과하지 않게 고르는 기준 5가지",
-        "titleB": "3040 남성을 위한 넥타이 매듭과 셔츠 칼라 비율: 중요한 미팅 전 5가지 점검",
-        "similarity": 0.1627
-      }
-    },
-    {
-      "slug": "mens-new-job-first-day-outfit-guide",
-      "title": "3040 남성을 위한 새 직장 첫 출근 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-first-manager-wardrobe-guide",
-        "b": "mens-new-job-first-day-outfit-guide",
-        "titleA": "3040 남성을 위한 첫 관리자 승진 후 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 새 직장 첫 출근 옷차림 기준 5가지",
-        "similarity": 0.2502
-      }
-    },
-    {
-      "slug": "mens-new-shirt-first-wash-guide",
-      "title": "3040 남성을 위한 새 셔츠 첫 세탁 전 확인할 5가지 기준",
-      "nearest": {
-        "a": "mens-linen-trouser-care-guide",
-        "b": "mens-new-shirt-first-wash-guide",
-        "titleA": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-        "titleB": "3040 남성을 위한 새 셔츠 첫 세탁 전 확인할 5가지 기준",
-        "similarity": 0.2818
-      }
-    },
-    {
-      "slug": "mens-newborn-family-photo-outfit-guide",
-      "title": "3040 남성을 위한 신생아 가족 사진 촬영 옷차림 가이드",
-      "nearest": {
-        "a": "mens-newborn-family-photo-outfit-guide",
-        "b": "mens-temple-visit-outfit-guide",
-        "titleA": "3040 남성을 위한 신생아 가족 사진 촬영 옷차림 가이드",
-        "titleB": "3040 남성을 위한 사찰 방문 옷차림 가이드",
-        "similarity": 0.1376
-      }
-    },
-    {
-      "slug": "mens-office-cardigan-selection-guide",
-      "title": "3040 남성을 위한 출근용 가디건 선택: 셔츠 위에 입는 5가지 기준",
-      "nearest": {
-        "a": "mens-office-cardigan-selection-guide",
-        "b": "mens-open-collar-shirt-guide",
-        "titleA": "3040 남성을 위한 출근용 가디건 선택: 셔츠 위에 입는 5가지 기준",
-        "titleB": "3040 남성을 위한 오픈칼라 셔츠 선택: 출근과 주말을 잇는 5가지 기준",
-        "similarity": 0.2365
+        "b": "mens-shirt-collar-guide",
+        "titleA": "넥타이 고르는 법과 셔츠 칼라에 맞는 매듭",
+        "titleB": "셔츠 칼라 종류와 고르는 법: 타이·노타이·오픈칼라",
+        "similarity": 0.1557
       }
     },
     {
       "slug": "mens-office-sneaker-styling-guide",
-      "title": "3040 남성을 위한 스니커즈를 출근복에 단정하게 연결하는 기준 5가지",
+      "title": "출근용 스니커즈 고르는 법과 슬랙스·치노 코디",
       "nearest": {
-        "a": "mens-loafer-selection-guide",
+        "a": "mens-boot-selection-styling-guide",
         "b": "mens-office-sneaker-styling-guide",
-        "titleA": "3040 남성을 위한 로퍼 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 스니커즈를 출근복에 단정하게 연결하는 기준 5가지",
-        "similarity": 0.1652
+        "titleA": "남자 부츠 종류와 첫 켤레 고르는 법",
+        "titleB": "출근용 스니커즈 고르는 법과 슬랙스·치노 코디",
+        "similarity": 0.1174
       }
     },
     {
       "slug": "mens-online-clothing-measurement-guide",
-      "title": "3040 남성을 위한 온라인 의류 실측 비교 기준 5가지",
+      "title": "옷 사이즈 실측 비교법: 기준 옷 재기부터 시착·반품까지",
       "nearest": {
         "a": "mens-online-clothing-measurement-guide",
-        "b": "mens-online-clothing-review-guide",
-        "titleA": "3040 남성을 위한 온라인 의류 실측 비교 기준 5가지",
-        "titleB": "3040 남성을 위한 온라인 의류 리뷰를 읽는 기준 5가지",
-        "similarity": 0.1689
-      }
-    },
-    {
-      "slug": "mens-online-clothing-return-guide",
-      "title": "3040 남성을 위한 온라인 구매 의류 반품·교환 판단 기준 5가지",
-      "nearest": {
-        "a": "mens-dry-cleaning-checklist-guide",
-        "b": "mens-online-clothing-return-guide",
-        "titleA": "3040 남성을 위한 세탁소 의뢰 전후 의류 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 온라인 구매 의류 반품·교환 판단 기준 5가지",
-        "similarity": 0.1318
-      }
-    },
-    {
-      "slug": "mens-online-clothing-review-guide",
-      "title": "3040 남성을 위한 온라인 의류 리뷰를 읽는 기준 5가지",
-      "nearest": {
-        "a": "mens-online-clothing-measurement-guide",
-        "b": "mens-online-clothing-review-guide",
-        "titleA": "3040 남성을 위한 온라인 의류 실측 비교 기준 5가지",
-        "titleB": "3040 남성을 위한 온라인 의류 리뷰를 읽는 기준 5가지",
-        "similarity": 0.1689
-      }
-    },
-    {
-      "slug": "mens-open-collar-shirt-guide",
-      "title": "3040 남성을 위한 오픈칼라 셔츠 선택: 출근과 주말을 잇는 5가지 기준",
-      "nearest": {
-        "a": "mens-office-cardigan-selection-guide",
-        "b": "mens-open-collar-shirt-guide",
-        "titleA": "3040 남성을 위한 출근용 가디건 선택: 셔츠 위에 입는 5가지 기준",
-        "titleB": "3040 남성을 위한 오픈칼라 셔츠 선택: 출근과 주말을 잇는 5가지 기준",
-        "similarity": 0.2365
-      }
-    },
-    {
-      "slug": "mens-outdoor-cinema-outfit-guide",
-      "title": "3040 남성을 위한 늦여름 야외 영화 관람 옷차림: 바람·좌석·귀가를 고려한 5가지 기준",
-      "nearest": {
-        "a": "mens-dog-walk-outfit-guide",
-        "b": "mens-outdoor-cinema-outfit-guide",
-        "titleA": "3040 남성을 위한 늦여름 반려견 산책 옷차림: 시간대별 5가지 기준",
-        "titleB": "3040 남성을 위한 늦여름 야외 영화 관람 옷차림: 바람·좌석·귀가를 고려한 5가지 기준",
-        "similarity": 0.1194
-      }
-    },
-    {
-      "slug": "mens-outdoor-concert-outfit-guide",
-      "title": "3040 남성을 위한 야외 스탠딩 콘서트 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-first-golf-round-outfit-guide",
-        "b": "mens-outdoor-concert-outfit-guide",
-        "titleA": "3040 남성을 위한 첫 골프 라운드 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 야외 스탠딩 콘서트 옷차림 기준 5가지",
-        "similarity": 0.133
+        "b": "mens-trouser-fit-guide",
+        "titleA": "옷 사이즈 실측 비교법: 기준 옷 재기부터 시착·반품까지",
+        "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+        "similarity": 0.1239
       }
     },
     {
       "slug": "mens-overshirt-styling-guide",
-      "title": "3040 남성을 위한 오버셔츠를 재킷처럼 활용하는 기준 5가지",
+      "title": "남자 가벼운 아우터, 어떤 종류부터 사야 할까",
       "nearest": {
-        "a": "mens-lightweight-jacket-fit-guide",
+        "a": "mens-blazer-separates-styling-guide",
         "b": "mens-overshirt-styling-guide",
-        "titleA": "3040 남성을 위한 가벼운 재킷 핏 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 오버셔츠를 재킷처럼 활용하는 기준 5가지",
-        "similarity": 0.1938
-      }
-    },
-    {
-      "slug": "mens-parents-birthday-dinner-outfit-guide",
-      "title": "3040 남성을 위한 부모님 생신 식사 옷차림: 식당 격식·가족 사진·이동을 고려한 5가지 기준",
-      "nearest": {
-        "a": "mens-anniversary-dinner-outfit-guide",
-        "b": "mens-parents-birthday-dinner-outfit-guide",
-        "titleA": "3040 남성을 위한 기념일 레스토랑 저녁 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 부모님 생신 식사 옷차림: 식당 격식·가족 사진·이동을 고려한 5가지 기준",
-        "similarity": 0.1511
-      }
-    },
-    {
-      "slug": "mens-park-outing-dad-outfit-guide",
-      "title": "3040 아빠를 위한 아이와 공원 나들이 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-park-outing-dad-outfit-guide",
-        "b": "mens-valley-daytrip-outfit-guide",
-        "titleA": "3040 아빠를 위한 아이와 공원 나들이 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 늦여름 계곡 나들이 옷차림: 이동·물놀이·귀가를 고려한 5가지 기준",
-        "similarity": 0.0957
-      }
-    },
-    {
-      "slug": "mens-pet-hair-workwear-care-guide",
-      "title": "3040 남성을 위한 반려동물 털이 묻은 출근복 관리 기준 5가지",
-      "nearest": {
-        "a": "mens-garment-stain-first-aid-guide",
-        "b": "mens-pet-hair-workwear-care-guide",
-        "titleA": "3040 남성을 위한 옷에 얼룩이 생겼을 때 응급 대응 기준 5가지",
-        "titleB": "3040 남성을 위한 반려동물 털이 묻은 출근복 관리 기준 5가지",
-        "similarity": 0.1701
-      }
-    },
-    {
-      "slug": "mens-pocket-carry-silhouette-guide",
-      "title": "3040 남성을 위한 주머니 수납과 옷 실루엣 정리 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-pocket-selection-guide",
-        "b": "mens-pocket-carry-silhouette-guide",
-        "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 주머니 수납과 옷 실루엣 정리 기준 5가지",
-        "similarity": 0.1922
-      }
-    },
-    {
-      "slug": "mens-pocket-square-styling-guide",
-      "title": "3040 남성을 위한 포켓스퀘어를 과하지 않게 고르는 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-pocket-selection-guide",
-        "b": "mens-pocket-square-styling-guide",
-        "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 포켓스퀘어를 과하지 않게 고르는 기준 5가지",
-        "similarity": 0.1244
+        "titleA": "남자 블레이저 코디, 바지와 이너는 어떻게 맞출까",
+        "titleB": "남자 가벼운 아우터, 어떤 종류부터 사야 할까",
+        "similarity": 0.1085
       }
     },
     {
       "slug": "mens-polo-shirt-selection-guide",
-      "title": "3040 남성을 위한 폴로셔츠를 단정하게 고르는 기준 5가지",
+      "title": "남자 폴로셔츠 고르는 법과 피케·니트 폴로 출근 코디",
       "nearest": {
         "a": "mens-polo-shirt-selection-guide",
-        "b": "mens-shirt-fabric-selection-guide",
-        "titleA": "3040 남성을 위한 폴로셔츠를 단정하게 고르는 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 원단을 고르는 기준 5가지",
-        "similarity": 0.3213
-      }
-    },
-    {
-      "slug": "mens-pottery-class-outfit-guide",
-      "title": "3040 남성을 위한 주말 도예 클래스 옷차림 가이드",
-      "nearest": {
-        "a": "mens-pottery-class-outfit-guide",
-        "b": "mens-wine-tasting-outfit-guide",
-        "titleA": "3040 남성을 위한 주말 도예 클래스 옷차림 가이드",
-        "titleB": "3040 남성을 위한 와인 테이스팅 옷차림 가이드",
-        "similarity": 0.1739
-      }
-    },
-    {
-      "slug": "mens-presentation-outfit-guide",
-      "title": "3040 남성을 위한 사내 발표·강연 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-client-meeting-outfit-guide",
-        "b": "mens-presentation-outfit-guide",
-        "titleA": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 사내 발표·강연 옷차림 기준 5가지",
-        "similarity": 0.2123
-      }
-    },
-    {
-      "slug": "mens-profile-photo-outfit-guide",
-      "title": "3040 남성을 위한 프로필 사진 촬영 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-client-meeting-outfit-guide",
-        "b": "mens-profile-photo-outfit-guide",
-        "titleA": "3040 남성을 위한 외부 고객 미팅 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 프로필 사진 촬영 옷차림 기준 5가지",
-        "similarity": 0.1664
-      }
-    },
-    {
-      "slug": "mens-quilted-jacket-selection-guide",
-      "title": "3040 남성 퀼티드 재킷 선택: 무게·실루엣·레이어·장면·관리 5가지 기준",
-      "nearest": {
-        "a": "mens-harrington-jacket-selection-guide",
-        "b": "mens-quilted-jacket-selection-guide",
-        "titleA": "3040 남성 해링턴 재킷 선택: 원단·실루엣·레이어·장면·관리 5가지 기준",
-        "titleB": "3040 남성 퀼티드 재킷 선택: 무게·실루엣·레이어·장면·관리 5가지 기준",
-        "similarity": 0.2068
-      }
-    },
-    {
-      "slug": "mens-rainy-commute-trouser-hem-care-guide",
-      "title": "3040 남성을 위한 비 온 뒤 출근 바지 밑단 관리: 젖음·오염·건조를 보는 5가지 기준",
-      "nearest": {
-        "a": "mens-rainy-commute-trouser-hem-care-guide",
-        "b": "mens-shirt-collar-stain-care-guide",
-        "titleA": "3040 남성을 위한 비 온 뒤 출근 바지 밑단 관리: 젖음·오염·건조를 보는 5가지 기준",
-        "titleB": "남성 셔츠 칼라 얼룩 관리: 케어라벨부터 확인하는 순서",
-        "similarity": 0.1619
-      }
-    },
-    {
-      "slug": "mens-reunion-outfit-guide",
-      "title": "3040 남성을 위한 동창회 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-reunion-outfit-guide",
-        "b": "mens-work-dinner-outfit-guide",
-        "titleA": "3040 남성을 위한 동창회 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 직장 회식 옷차림 기준 5가지",
-        "similarity": 0.1682
-      }
-    },
-    {
-      "slug": "mens-sandal-selection-guide",
-      "title": "3040 남성을 위한 여름 샌들을 단정하게 고르는 기준 5가지",
-      "nearest": {
-        "a": "mens-derby-oxford-shoe-guide",
-        "b": "mens-sandal-selection-guide",
-        "titleA": "3040 남성을 위한 더비·옥스퍼드 구두 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 여름 샌들을 단정하게 고르는 기준 5가지",
-        "similarity": 0.1997
+        "b": "mens-tshirt-fit-guide",
+        "titleA": "남자 폴로셔츠 고르는 법과 피케·니트 폴로 출근 코디",
+        "titleB": "남자 티셔츠 핏은 어깨선부터 봅니다",
+        "similarity": 0.1633
       }
     },
     {
       "slug": "mens-scarf-styling-guide",
-      "title": "3040 남성을 위한 머플러를 단정하게 고르고 두르는 기준 5가지",
+      "title": "남자 머플러 두르는 법과 코트에 맞는 폭 고르는 법",
       "nearest": {
         "a": "mens-coat-length-fit-guide",
         "b": "mens-scarf-styling-guide",
-        "titleA": "3040 남성을 위한 코트 기장·실루엣 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 머플러를 단정하게 고르고 두르는 기준 5가지",
-        "similarity": 0.1328
-      }
-    },
-    {
-      "slug": "mens-school-event-outfit-guide",
-      "title": "3040 남성을 위한 학부모 상담·학교 행사 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-presentation-outfit-guide",
-        "b": "mens-school-event-outfit-guide",
-        "titleA": "3040 남성을 위한 사내 발표·강연 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 학부모 상담·학교 행사 옷차림 기준 5가지",
-        "similarity": 0.1991
+        "titleA": "남자 코트 기장, 재킷 위에서 고르는 법",
+        "titleB": "남자 머플러 두르는 법과 코트에 맞는 폭 고르는 법",
+        "similarity": 0.1162
       }
     },
     {
       "slug": "mens-seasonal-wardrobe-storage-guide",
-      "title": "3040 남성을 위한 계절 옷장 교체·보관 기준 5가지",
+      "title": "계절 옷 정리·보관법: 접을 옷과 걸 옷, 옷걸이, 옷장 기록",
       "nearest": {
-        "a": "mens-clothing-color-fade-care-guide",
-        "b": "mens-seasonal-wardrobe-storage-guide",
-        "titleA": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-        "titleB": "3040 남성을 위한 계절 옷장 교체·보관 기준 5가지",
-        "similarity": 0.1642
-      }
-    },
-    {
-      "slug": "mens-shirt-back-dart-selection-guide",
-      "title": "3040 남성을 위한 셔츠 등판 다트 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-shirt-back-dart-selection-guide",
-        "b": "mens-shirt-placket-selection-guide",
-        "titleA": "3040 남성을 위한 셔츠 등판 다트 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 플래킷 선택 기준 5가지",
-        "similarity": 0.203
-      }
-    },
-    {
-      "slug": "mens-shirt-button-selection-guide",
-      "title": "3040 남성을 위한 셔츠 단추 소재·두께 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-sleeve-button-selection-guide",
-        "b": "mens-shirt-button-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 소매 단추 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 단추 소재·두께 선택 기준 5가지",
-        "similarity": 0.1585
+        "a": "mens-seasonal-wardrobe-storage-guide",
+        "b": "mens-trouser-care-guide",
+        "titleA": "계절 옷 정리·보관법: 접을 옷과 걸 옷, 옷걸이, 옷장 기록",
+        "titleB": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+        "similarity": 0.0741
       }
     },
     {
       "slug": "mens-shirt-collar-guide",
-      "title": "3040 남성을 위한 셔츠 칼라 선택 기준 5가지",
+      "title": "셔츠 칼라 종류와 고르는 법: 타이·노타이·오픈칼라",
       "nearest": {
-        "a": "mens-knit-neckline-guide",
+        "a": "mens-necktie-selection-guide",
         "b": "mens-shirt-collar-guide",
-        "titleA": "3040 남성을 위한 니트 넥라인 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 칼라 선택 기준 5가지",
-        "similarity": 0.165
-      }
-    },
-    {
-      "slug": "mens-shirt-collar-stain-care-guide",
-      "title": "남성 셔츠 칼라 얼룩 관리: 케어라벨부터 확인하는 순서",
-      "nearest": {
-        "a": "mens-linen-trouser-care-guide",
-        "b": "mens-shirt-collar-stain-care-guide",
-        "titleA": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-        "titleB": "남성 셔츠 칼라 얼룩 관리: 케어라벨부터 확인하는 순서",
-        "similarity": 0.3201
-      }
-    },
-    {
-      "slug": "mens-shirt-collar-stay-guide",
-      "title": "3040 남성을 위한 셔츠 칼라 스테이 점검: 탈착·세탁·보관 전 확인할 5가지 기준",
-      "nearest": {
-        "a": "mens-open-collar-shirt-guide",
-        "b": "mens-shirt-collar-stay-guide",
-        "titleA": "3040 남성을 위한 오픈칼라 셔츠 선택: 출근과 주말을 잇는 5가지 기준",
-        "titleB": "3040 남성을 위한 셔츠 칼라 스테이 점검: 탈착·세탁·보관 전 확인할 5가지 기준",
-        "similarity": 0.1097
+        "titleA": "넥타이 고르는 법과 셔츠 칼라에 맞는 매듭",
+        "titleB": "셔츠 칼라 종류와 고르는 법: 타이·노타이·오픈칼라",
+        "similarity": 0.1557
       }
     },
     {
       "slug": "mens-shirt-fabric-selection-guide",
-      "title": "3040 남성을 위한 셔츠 원단을 고르는 기준 5가지",
+      "title": "셔츠 원단 종류별 차이와 출근용 고르는 법",
       "nearest": {
-        "a": "mens-polo-shirt-selection-guide",
+        "a": "mens-chino-styling-guide",
         "b": "mens-shirt-fabric-selection-guide",
-        "titleA": "3040 남성을 위한 폴로셔츠를 단정하게 고르는 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 원단을 고르는 기준 5가지",
-        "similarity": 0.3213
+        "titleA": "치노 팬츠 코디로 출근과 주말을 함께 입는 법",
+        "titleB": "셔츠 원단 종류별 차이와 출근용 고르는 법",
+        "similarity": 0.1022
       }
     },
     {
       "slug": "mens-shirt-fit-guide",
-      "title": "3040 남성을 위한 셔츠 핏 점검 기준 5가지",
+      "title": "셔츠 사이즈, 목·어깨·소매 중 어디부터 볼까",
       "nearest": {
-        "a": "mens-shirt-fit-guide",
-        "b": "mens-tshirt-fit-guide",
-        "titleA": "3040 남성을 위한 셔츠 핏 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 티셔츠 핏 선택 기준 5가지",
-        "similarity": 0.2408
+        "a": "mens-jacket-fit-guide",
+        "b": "mens-shirt-fit-guide",
+        "titleA": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+        "titleB": "셔츠 사이즈, 목·어깨·소매 중 어디부터 볼까",
+        "similarity": 0.1525
       }
     },
     {
       "slug": "mens-shirt-ironing-wrinkle-guide",
-      "title": "3040 남성을 위한 셔츠 다림질과 주름 관리 기준 5가지",
+      "title": "셔츠 다림질 하는 법, 순서와 온도부터 린넨 관리까지",
       "nearest": {
-        "a": "mens-clothing-color-fade-care-guide",
-        "b": "mens-shirt-ironing-wrinkle-guide",
-        "titleA": "3040 남성을 위한 옷의 색 빠짐을 줄이는 관리 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 다림질과 주름 관리 기준 5가지",
-        "similarity": 0.118
-      }
-    },
-    {
-      "slug": "mens-shirt-jacket-sleeve-proportion-guide",
-      "title": "3040 남성을 위한 셔츠와 재킷 소매 길이 비율 가이드",
-      "nearest": {
-        "a": "mens-jacket-sleeve-pitch-fit-guide",
-        "b": "mens-shirt-jacket-sleeve-proportion-guide",
-        "titleA": "3040 남성을 위한 재킷 소매 비틀림·주름 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠와 재킷 소매 길이 비율 가이드",
-        "similarity": 0.1235
-      }
-    },
-    {
-      "slug": "mens-shirt-placket-selection-guide",
-      "title": "3040 남성을 위한 셔츠 플래킷 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-shirt-back-dart-selection-guide",
-        "b": "mens-shirt-placket-selection-guide",
-        "titleA": "3040 남성을 위한 셔츠 등판 다트 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 플래킷 선택 기준 5가지",
-        "similarity": 0.203
-      }
-    },
-    {
-      "slug": "mens-shirt-pocket-selection-guide",
-      "title": "3040 남성을 위한 셔츠 포켓 유무·형태 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-pocket-selection-guide",
-        "b": "mens-shirt-pocket-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 셔츠 포켓 유무·형태 선택 기준 5가지",
-        "similarity": 0.2254
-      }
-    },
-    {
-      "slug": "mens-shirt-sleeve-cuff-guide",
-      "title": "3040 남성을 위한 셔츠 소매·커프 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-shirt-sleeve-cuff-guide",
-        "b": "mens-shirt-sleeve-rolling-guide",
-        "titleA": "3040 남성을 위한 셔츠 소매·커프 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 소매를 단정하게 걷는 기준 5가지",
-        "similarity": 0.1653
-      }
-    },
-    {
-      "slug": "mens-shirt-sleeve-rolling-guide",
-      "title": "3040 남성을 위한 셔츠 소매를 단정하게 걷는 기준 5가지",
-      "nearest": {
-        "a": "mens-shirt-sleeve-cuff-guide",
-        "b": "mens-shirt-sleeve-rolling-guide",
-        "titleA": "3040 남성을 위한 셔츠 소매·커프 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 소매를 단정하게 걷는 기준 5가지",
-        "similarity": 0.1653
-      }
-    },
-    {
-      "slug": "mens-shirt-tuck-guide",
-      "title": "3040 남성을 위한 셔츠 넣어 입기·빼 입기 기준 5가지",
-      "nearest": {
-        "a": "mens-shirt-collar-guide",
-        "b": "mens-shirt-tuck-guide",
-        "titleA": "3040 남성을 위한 셔츠 칼라 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 넣어 입기·빼 입기 기준 5가지",
-        "similarity": 0.1575
-      }
-    },
-    {
-      "slug": "mens-shirt-undershirt-guide",
-      "title": "3040 남성을 위한 셔츠 안 이너웨어 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-shirt-fabric-selection-guide",
-        "b": "mens-shirt-undershirt-guide",
-        "titleA": "3040 남성을 위한 셔츠 원단을 고르는 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 안 이너웨어 선택 기준 5가지",
-        "similarity": 0.1635
-      }
-    },
-    {
-      "slug": "mens-shirt-yoke-selection-guide",
-      "title": "3040 남성을 위한 셔츠 요크 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-shirt-placket-selection-guide",
-        "b": "mens-shirt-yoke-selection-guide",
-        "titleA": "3040 남성을 위한 셔츠 플래킷 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 셔츠 요크 구조 선택 기준 5가지",
-        "similarity": 0.177
-      }
-    },
-    {
-      "slug": "mens-shorts-styling-guide",
-      "title": "3040 남성을 위한 반바지를 단정하게 입는 기준 5가지",
-      "nearest": {
-        "a": "mens-overshirt-styling-guide",
-        "b": "mens-shorts-styling-guide",
-        "titleA": "3040 남성을 위한 오버셔츠를 재킷처럼 활용하는 기준 5가지",
-        "titleB": "3040 남성을 위한 반바지를 단정하게 입는 기준 5가지",
-        "similarity": 0.1433
+        "a": "mens-shirt-ironing-wrinkle-guide",
+        "b": "mens-trouser-care-guide",
+        "titleA": "셔츠 다림질 하는 법, 순서와 온도부터 린넨 관리까지",
+        "titleB": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+        "similarity": 0.2005
       }
     },
     {
       "slug": "mens-smart-denim-styling-guide",
-      "title": "3040 남성을 위한 데님을 단정하게 입는 기준 5가지",
+      "title": "청바지 출근룩: 단정하게 입는 색·핏·밑단·상의 조합",
       "nearest": {
-        "a": "mens-blazer-separates-styling-guide",
+        "a": "mens-chino-styling-guide",
         "b": "mens-smart-denim-styling-guide",
-        "titleA": "3040 남성을 위한 블레이저를 셋업 밖에서 활용하는 기준 5가지",
-        "titleB": "3040 남성을 위한 데님을 단정하게 입는 기준 5가지",
-        "similarity": 0.2485
+        "titleA": "치노 팬츠 코디로 출근과 주말을 함께 입는 법",
+        "titleB": "청바지 출근룩: 단정하게 입는 색·핏·밑단·상의 조합",
+        "similarity": 0.1302
       }
     },
     {
       "slug": "mens-sock-pairing-guide",
-      "title": "3040 남성을 위한 양말과 바지·신발 연결법 5가지",
+      "title": "정장 양말 색은 바지에 맞춥니다",
       "nearest": {
         "a": "mens-muted-color-pairing-guide",
         "b": "mens-sock-pairing-guide",
-        "titleA": "3040 남성을 위한 차분한 색 조합 5가지",
-        "titleB": "3040 남성을 위한 양말과 바지·신발 연결법 5가지",
-        "similarity": 0.1562
+        "titleA": "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기",
+        "titleB": "정장 양말 색은 바지에 맞춥니다",
+        "similarity": 0.1371
       }
     },
     {
-      "slug": "mens-spring-outerwear-pollen-care-guide",
-      "title": "3040 남성을 위한 봄 아우터 꽃가루·미세먼지 관리법",
+      "slug": "mens-suit-selection-guide",
+      "title": "남자 정장 고르는 법: 색·원단·핏 순서와 기성복·맞춤 차이",
       "nearest": {
-        "a": "mens-spring-outerwear-pollen-care-guide",
-        "b": "mens-wool-coat-pilling-care-guide",
-        "titleA": "3040 남성을 위한 봄 아우터 꽃가루·미세먼지 관리법",
-        "titleB": "3040 남성을 위한 울 코트 보풀 관리: 착용·제거·보관 전 5가지 기준",
-        "similarity": 0.1168
+        "a": "mens-jacket-fit-guide",
+        "b": "mens-suit-selection-guide",
+        "titleA": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+        "titleB": "남자 정장 고르는 법: 색·원단·핏 순서와 기성복·맞춤 차이",
+        "similarity": 0.1816
       }
     },
     {
-      "slug": "mens-subtle-pattern-styling-guide",
-      "title": "3040 남성을 위한 체크·스트라이프 패턴을 단정하게 입는 기준 5가지",
+      "slug": "mens-travel-outfit-packing-guide",
+      "title": "출장 짐 싸기, 며칠이면 옷을 몇 벌 챙길까",
       "nearest": {
-        "a": "mens-smart-denim-styling-guide",
-        "b": "mens-subtle-pattern-styling-guide",
-        "titleA": "3040 남성을 위한 데님을 단정하게 입는 기준 5가지",
-        "titleB": "3040 남성을 위한 체크·스트라이프 패턴을 단정하게 입는 기준 5가지",
-        "similarity": 0.1573
-      }
-    },
-    {
-      "slug": "mens-summer-baseball-game-outfit-guide",
-      "title": "3040 남성을 위한 여름 야구장 관람 옷차림: 더위와 실내 냉방을 함께 고려하는 5가지 기준",
-      "nearest": {
-        "a": "mens-outdoor-cinema-outfit-guide",
-        "b": "mens-summer-baseball-game-outfit-guide",
-        "titleA": "3040 남성을 위한 늦여름 야외 영화 관람 옷차림: 바람·좌석·귀가를 고려한 5가지 기준",
-        "titleB": "3040 남성을 위한 여름 야구장 관람 옷차림: 더위와 실내 냉방을 함께 고려하는 5가지 기준",
-        "similarity": 0.1082
-      }
-    },
-    {
-      "slug": "mens-summer-commute-sweat-care-guide",
-      "title": "3040 남성을 위한 여름 출근 땀 자국 관리: 셔츠와 재킷을 나누어 보는 5가지 기준",
-      "nearest": {
-        "a": "mens-linen-trouser-care-guide",
-        "b": "mens-summer-commute-sweat-care-guide",
-        "titleA": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-        "titleB": "3040 남성을 위한 여름 출근 땀 자국 관리: 셔츠와 재킷을 나누어 보는 5가지 기준",
-        "similarity": 0.1794
-      }
-    },
-    {
-      "slug": "mens-summer-wedding-guest-guide",
-      "title": "3040 남성을 위한 여름 결혼식 하객룩 기준 5가지",
-      "nearest": {
-        "a": "mens-family-gathering-outfit-guide",
-        "b": "mens-summer-wedding-guest-guide",
-        "titleA": "3040 남성을 위한 주말 가족 모임 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 여름 결혼식 하객룩 기준 5가지",
-        "similarity": 0.1675
-      }
-    },
-    {
-      "slug": "mens-sweatshirt-styling-guide",
-      "title": "3040 남성을 위한 스웨트셔츠를 단정하게 입는 기준 5가지",
-      "nearest": {
-        "a": "mens-overshirt-styling-guide",
-        "b": "mens-sweatshirt-styling-guide",
-        "titleA": "3040 남성을 위한 오버셔츠를 재킷처럼 활용하는 기준 5가지",
-        "titleB": "3040 남성을 위한 스웨트셔츠를 단정하게 입는 기준 5가지",
-        "similarity": 0.1677
-      }
-    },
-    {
-      "slug": "mens-swimwear-aftercare-guide",
-      "title": "3040 남성을 위한 수영복 세탁과 보관: 휴가 뒤 확인할 5가지",
-      "nearest": {
-        "a": "mens-linen-trouser-care-guide",
-        "b": "mens-swimwear-aftercare-guide",
-        "titleA": "3040 남성을 위한 여름 리넨 팬츠 관리: 세탁 전 확인부터 주름 정리까지 5가지 기준",
-        "titleB": "3040 남성을 위한 수영복 세탁과 보관: 휴가 뒤 확인할 5가지",
-        "similarity": 0.1641
-      }
-    },
-    {
-      "slug": "mens-temple-visit-outfit-guide",
-      "title": "3040 남성을 위한 사찰 방문 옷차림 가이드",
-      "nearest": {
-        "a": "mens-all-day-standing-shoe-guide",
-        "b": "mens-temple-visit-outfit-guide",
-        "titleA": "하루 종일 서 있는 날, 3040 남성이 신발을 고르는 5가지 기준",
-        "titleB": "3040 남성을 위한 사찰 방문 옷차림 가이드",
-        "similarity": 0.1688
-      }
-    },
-    {
-      "slug": "mens-theater-outfit-guide",
-      "title": "3040 남성을 위한 공연장·극장 관람 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-reunion-outfit-guide",
-        "b": "mens-theater-outfit-guide",
-        "titleA": "3040 남성을 위한 동창회 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 공연장·극장 관람 옷차림 기준 5가지",
-        "similarity": 0.1394
-      }
-    },
-    {
-      "slug": "mens-tie-knot-collar-proportion-guide",
-      "title": "3040 남성을 위한 넥타이 매듭과 셔츠 칼라 비율: 중요한 미팅 전 5가지 점검",
-      "nearest": {
-        "a": "mens-necktie-selection-guide",
-        "b": "mens-tie-knot-collar-proportion-guide",
-        "titleA": "3040 남성을 위한 넥타이를 과하지 않게 고르는 기준 5가지",
-        "titleB": "3040 남성을 위한 넥타이 매듭과 셔츠 칼라 비율: 중요한 미팅 전 5가지 점검",
-        "similarity": 0.1627
-      }
-    },
-    {
-      "slug": "mens-transitional-weather-office-layering-guide",
-      "title": "3040 남성을 위한 환절기 출근복 온도차 레이어링 기준 5가지",
-      "nearest": {
-        "a": "mens-transitional-weather-office-layering-guide",
-        "b": "mens-work-weekend-wardrobe-guide",
-        "titleA": "3040 남성을 위한 환절기 출근복 온도차 레이어링 기준 5가지",
-        "titleB": "3040 남성을 위한 일과 주말을 잇는 옷장 구성 기준 5가지",
-        "similarity": 0.099
+        "a": "mens-business-casual-guide",
+        "b": "mens-travel-outfit-packing-guide",
+        "titleA": "비즈니스 캐주얼 남자 코디: 회사 단계별 구성표와 계절 조합",
+        "titleB": "출장 짐 싸기, 며칠이면 옷을 몇 벌 챙길까",
+        "similarity": 0.0775
       }
     },
     {
       "slug": "mens-trench-coat-commute-guide",
-      "title": "3040 남성을 위한 가을 트렌치코트 출근 코디: 5가지 판단 기준",
+      "title": "트렌치코트 남자 출근룩 길이와 비 오는 날 준비",
       "nearest": {
-        "a": "mens-denim-shirt-commute-guide",
+        "a": "mens-coat-length-fit-guide",
         "b": "mens-trench-coat-commute-guide",
-        "titleA": "3040 남성을 위한 초가을 데님 셔츠 출근 코디: 5가지 판단 기준",
-        "titleB": "3040 남성을 위한 가을 트렌치코트 출근 코디: 5가지 판단 기준",
-        "similarity": 0.3385
+        "titleA": "남자 코트 기장, 재킷 위에서 고르는 법",
+        "titleB": "트렌치코트 남자 출근룩 길이와 비 오는 날 준비",
+        "similarity": 0.1169
       }
     },
     {
-      "slug": "mens-trouser-center-crease-guide",
-      "title": "3040 남성을 위한 팬츠 센터 크리스 선택·관리 기준 5가지",
+      "slug": "mens-trouser-care-guide",
+      "title": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
       "nearest": {
-        "a": "mens-trouser-center-crease-guide",
-        "b": "mens-trouser-pleat-selection-guide",
-        "titleA": "3040 남성을 위한 팬츠 센터 크리스 선택·관리 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 플리츠 구조 선택 기준 5가지",
-        "similarity": 0.1829
-      }
-    },
-    {
-      "slug": "mens-trouser-fabric-weight-selection-guide",
-      "title": "3040 남성을 위한 팬츠 원단 두께·무게 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-knit-gauge-selection-guide",
-        "b": "mens-trouser-fabric-weight-selection-guide",
-        "titleA": "3040 남성을 위한 니트 게이지와 두께 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 원단 두께·무게 선택 기준 5가지",
-        "similarity": 0.1378
+        "a": "mens-shirt-ironing-wrinkle-guide",
+        "b": "mens-trouser-care-guide",
+        "titleA": "셔츠 다림질 하는 법, 순서와 온도부터 린넨 관리까지",
+        "titleB": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+        "similarity": 0.2005
       }
     },
     {
       "slug": "mens-trouser-fit-guide",
-      "title": "3040 남성을 위한 슬랙스 핏 5가지 기준",
+      "title": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
       "nearest": {
-        "a": "mens-smart-denim-styling-guide",
+        "a": "mens-body-type-outfit-guide",
         "b": "mens-trouser-fit-guide",
-        "titleA": "3040 남성을 위한 데님을 단정하게 입는 기준 5가지",
-        "titleB": "3040 남성을 위한 슬랙스 핏 5가지 기준",
-        "similarity": 0.1569
-      }
-    },
-    {
-      "slug": "mens-trouser-fly-closure-selection-guide",
-      "title": "3040 남성을 위한 팬츠 앞여밈과 지퍼 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-garment-zipper-troubleshooting-guide",
-        "b": "mens-trouser-fly-closure-selection-guide",
-        "titleA": "3040 남성을 위한 의류 지퍼 걸림·벌어짐 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 앞여밈과 지퍼 구조 선택 기준 5가지",
-        "similarity": 0.17
-      }
-    },
-    {
-      "slug": "mens-trouser-hem-finish-selection-guide",
-      "title": "3040 남성을 위한 팬츠 밑단 마감 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-trouser-hem-finish-selection-guide",
-        "b": "mens-trouser-pleat-selection-guide",
-        "titleA": "3040 남성을 위한 팬츠 밑단 마감 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 플리츠 구조 선택 기준 5가지",
-        "similarity": 0.1801
-      }
-    },
-    {
-      "slug": "mens-trouser-inner-thigh-wear-guide",
-      "title": "3040 남성을 위한 슬랙스 안쪽 허벅지 마모 점검 기준 5가지",
-      "nearest": {
-        "a": "mens-garment-zipper-troubleshooting-guide",
-        "b": "mens-trouser-inner-thigh-wear-guide",
-        "titleA": "3040 남성을 위한 의류 지퍼 걸림·벌어짐 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 슬랙스 안쪽 허벅지 마모 점검 기준 5가지",
-        "similarity": 0.1262
-      }
-    },
-    {
-      "slug": "mens-trouser-knee-bagging-care-guide",
-      "title": "3040 남성을 위한 팬츠 무릎 늘어남 예방·회복 관리 기준 5가지",
-      "nearest": {
-        "a": "mens-trouser-center-crease-guide",
-        "b": "mens-trouser-knee-bagging-care-guide",
-        "titleA": "3040 남성을 위한 팬츠 센터 크리스 선택·관리 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 무릎 늘어남 예방·회복 관리 기준 5가지",
-        "similarity": 0.141
-      }
-    },
-    {
-      "slug": "mens-trouser-pleat-selection-guide",
-      "title": "3040 남성을 위한 팬츠 플리츠 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-trouser-pleat-selection-guide",
-        "b": "mens-trouser-waistband-selection-guide",
-        "titleA": "3040 남성을 위한 팬츠 플리츠 구조 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 허리밴드 구조 선택 기준 5가지",
-        "similarity": 0.2234
-      }
-    },
-    {
-      "slug": "mens-trouser-pocket-selection-guide",
-      "title": "3040 남성을 위한 팬츠 포켓 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-jacket-pocket-selection-guide",
-        "b": "mens-trouser-pocket-selection-guide",
-        "titleA": "3040 남성을 위한 재킷 포켓 선택 가이드: 격식과 활용도를 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 팬츠 포켓 구조 선택 기준 5가지",
-        "similarity": 0.2563
-      }
-    },
-    {
-      "slug": "mens-trouser-rise-selection-guide",
-      "title": "3040 남성을 위한 팬츠 밑위 길이 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-online-clothing-measurement-guide",
-        "b": "mens-trouser-rise-selection-guide",
-        "titleA": "3040 남성을 위한 온라인 의류 실측 비교 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 밑위 길이 선택 기준 5가지",
-        "similarity": 0.1575
-      }
-    },
-    {
-      "slug": "mens-trouser-waistband-selection-guide",
-      "title": "3040 남성을 위한 팬츠 허리밴드 구조 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-trouser-pleat-selection-guide",
-        "b": "mens-trouser-waistband-selection-guide",
-        "titleA": "3040 남성을 위한 팬츠 플리츠 구조 선택 기준 5가지",
-        "titleB": "3040 남성을 위한 팬츠 허리밴드 구조 선택 기준 5가지",
-        "similarity": 0.2234
+        "titleA": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+        "titleB": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+        "similarity": 0.1663
       }
     },
     {
       "slug": "mens-tshirt-fit-guide",
-      "title": "3040 남성을 위한 티셔츠 핏 선택 기준 5가지",
+      "title": "남자 티셔츠 핏은 어깨선부터 봅니다",
       "nearest": {
-        "a": "mens-shirt-fit-guide",
+        "a": "mens-polo-shirt-selection-guide",
         "b": "mens-tshirt-fit-guide",
-        "titleA": "3040 남성을 위한 셔츠 핏 점검 기준 5가지",
-        "titleB": "3040 남성을 위한 티셔츠 핏 선택 기준 5가지",
-        "similarity": 0.2408
-      }
-    },
-    {
-      "slug": "mens-tshirt-neckline-care-guide",
-      "title": "티셔츠 목선이 달라 보일 때: 실제 케어라벨 읽기와 상태 점검",
-      "nearest": {
-        "a": "mens-autumn-minimal-office-set-up-guide",
-        "b": "mens-tshirt-neckline-care-guide",
-        "titleA": "가을 남성 출근 셋업: 세 가지 조합 비교와 재킷·팬츠 핏 점검",
-        "titleB": "티셔츠 목선이 달라 보일 때: 실제 케어라벨 읽기와 상태 점검",
-        "similarity": 0.1014
-      }
-    },
-    {
-      "slug": "mens-tweed-jacket-selection-guide",
-      "title": "3040 남성을 위한 가을 트위드 재킷 선택: 조직·무게·실루엣·장면·관리를 나누는 5가지 기준",
-      "nearest": {
-        "a": "mens-harrington-jacket-selection-guide",
-        "b": "mens-tweed-jacket-selection-guide",
-        "titleA": "3040 남성 해링턴 재킷 선택: 원단·실루엣·레이어·장면·관리 5가지 기준",
-        "titleB": "3040 남성을 위한 가을 트위드 재킷 선택: 조직·무게·실루엣·장면·관리를 나누는 5가지 기준",
-        "similarity": 0.1666
-      }
-    },
-    {
-      "slug": "mens-umbrella-drying-care-guide",
-      "title": "3040 남성을 위한 우산 건조와 보관: 출근 가방·현관·옷장 손상 줄이는 5가지 기준",
-      "nearest": {
-        "a": "mens-commute-umbrella-selection-guide",
-        "b": "mens-umbrella-drying-care-guide",
-        "titleA": "3040 남성을 위한 출근용 우산 선택과 옷차림 연결 기준 5가지",
-        "titleB": "3040 남성을 위한 우산 건조와 보관: 출근 가방·현관·옷장 손상 줄이는 5가지 기준",
-        "similarity": 0.1757
-      }
-    },
-    {
-      "slug": "mens-valley-daytrip-outfit-guide",
-      "title": "3040 남성을 위한 늦여름 계곡 나들이 옷차림: 이동·물놀이·귀가를 고려한 5가지 기준",
-      "nearest": {
-        "a": "mens-valley-daytrip-outfit-guide",
-        "b": "mens-weekend-farmers-market-outfit-guide",
-        "titleA": "3040 남성을 위한 늦여름 계곡 나들이 옷차림: 이동·물놀이·귀가를 고려한 5가지 기준",
-        "titleB": "3040 남성을 위한 주말 파머스 마켓 옷차림: 이동과 장보기를 고려한 5가지 기준",
-        "similarity": 0.2093
-      }
-    },
-    {
-      "slug": "mens-video-meeting-outfit-guide",
-      "title": "3040 남성을 위한 화상회의 옷차림 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-presentation-outfit-guide",
-        "b": "mens-video-meeting-outfit-guide",
-        "titleA": "3040 남성을 위한 사내 발표·강연 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 화상회의 옷차림 선택 기준 5가지",
-        "similarity": 0.1636
+        "titleA": "남자 폴로셔츠 고르는 법과 피케·니트 폴로 출근 코디",
+        "titleB": "남자 티셔츠 핏은 어깨선부터 봅니다",
+        "similarity": 0.1633
       }
     },
     {
       "slug": "mens-wardrobe-budget-guide",
-      "title": "3040 남성을 위한 옷장 예산 배분 기준 5가지",
+      "title": "남자 옷 예산, 무엇부터 사고 무엇을 고쳐 입을까",
       "nearest": {
-        "a": "mens-wardrobe-budget-guide",
-        "b": "mens-weight-change-wardrobe-guide",
-        "titleA": "3040 남성을 위한 옷장 예산 배분 기준 5가지",
-        "titleB": "3040 남성을 위한 체중 변화 뒤 옷장 재정비 기준 5가지",
-        "similarity": 0.1021
-      }
-    },
-    {
-      "slug": "mens-wardrobe-photo-inventory-guide",
-      "title": "3040 남성을 위한 옷장 사진 기록으로 중복 구매를 줄이는 5단계",
-      "nearest": {
-        "a": "mens-linen-shirt-care-guide",
-        "b": "mens-wardrobe-photo-inventory-guide",
-        "titleA": "3040 남성을 위한 린넨 셔츠 세탁 뒤 형태 점검과 관리 5단계",
-        "titleB": "3040 남성을 위한 옷장 사진 기록으로 중복 구매를 줄이는 5단계",
-        "similarity": 0.0753
-      }
-    },
-    {
-      "slug": "mens-watch-outfit-pairing-guide",
-      "title": "3040 남성을 위한 옷차림에 맞는 손목시계 크기·스트랩 선택 기준 5가지",
-      "nearest": {
-        "a": "mens-polo-shirt-selection-guide",
-        "b": "mens-watch-outfit-pairing-guide",
-        "titleA": "3040 남성을 위한 폴로셔츠를 단정하게 고르는 기준 5가지",
-        "titleB": "3040 남성을 위한 옷차림에 맞는 손목시계 크기·스트랩 선택 기준 5가지",
-        "similarity": 0.1631
-      }
-    },
-    {
-      "slug": "mens-weekend-bookstore-outfit-guide",
-      "title": "3040 남성을 위한 주말 서점 나들이 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-weekend-bookstore-outfit-guide",
-        "b": "mens-weekend-brunch-outfit-guide",
-        "titleA": "3040 남성을 위한 주말 서점 나들이 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 주말 브런치 약속 옷차림 가이드",
-        "similarity": 0.2797
-      }
-    },
-    {
-      "slug": "mens-weekend-brunch-outfit-guide",
-      "title": "3040 남성을 위한 주말 브런치 약속 옷차림 가이드",
-      "nearest": {
-        "a": "mens-weekend-bookstore-outfit-guide",
-        "b": "mens-weekend-brunch-outfit-guide",
-        "titleA": "3040 남성을 위한 주말 서점 나들이 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 주말 브런치 약속 옷차림 가이드",
-        "similarity": 0.2797
-      }
-    },
-    {
-      "slug": "mens-weekend-farmers-market-outfit-guide",
-      "title": "3040 남성을 위한 주말 파머스 마켓 옷차림: 이동과 장보기를 고려한 5가지 기준",
-      "nearest": {
-        "a": "mens-valley-daytrip-outfit-guide",
-        "b": "mens-weekend-farmers-market-outfit-guide",
-        "titleA": "3040 남성을 위한 늦여름 계곡 나들이 옷차림: 이동·물놀이·귀가를 고려한 5가지 기준",
-        "titleB": "3040 남성을 위한 주말 파머스 마켓 옷차림: 이동과 장보기를 고려한 5가지 기준",
-        "similarity": 0.2093
-      }
-    },
-    {
-      "slug": "mens-weekend-overnight-trip-outfit-guide",
-      "title": "3040 남성을 위한 도심 근교 주말 1박 여행 옷차림 5가지 기준",
-      "nearest": {
-        "a": "mens-weekend-brunch-outfit-guide",
-        "b": "mens-weekend-overnight-trip-outfit-guide",
-        "titleA": "3040 남성을 위한 주말 브런치 약속 옷차림 가이드",
-        "titleB": "3040 남성을 위한 도심 근교 주말 1박 여행 옷차림 5가지 기준",
-        "similarity": 0.1431
-      }
-    },
-    {
-      "slug": "mens-weight-change-wardrobe-guide",
-      "title": "3040 남성을 위한 체중 변화 뒤 옷장 재정비 기준 5가지",
-      "nearest": {
-        "a": "mens-weight-change-wardrobe-guide",
-        "b": "mens-work-weekend-wardrobe-guide",
-        "titleA": "3040 남성을 위한 체중 변화 뒤 옷장 재정비 기준 5가지",
-        "titleB": "3040 남성을 위한 일과 주말을 잇는 옷장 구성 기준 5가지",
-        "similarity": 0.1264
-      }
-    },
-    {
-      "slug": "mens-wet-suede-shoe-care-guide",
-      "title": "3040 남성을 위한 비에 젖은 스웨이드 신발 관리: 말리기 전 확인할 5가지 기준",
-      "nearest": {
-        "a": "mens-new-shirt-first-wash-guide",
-        "b": "mens-wet-suede-shoe-care-guide",
-        "titleA": "3040 남성을 위한 새 셔츠 첫 세탁 전 확인할 5가지 기준",
-        "titleB": "3040 남성을 위한 비에 젖은 스웨이드 신발 관리: 말리기 전 확인할 5가지 기준",
-        "similarity": 0.1073
-      }
-    },
-    {
-      "slug": "mens-wine-tasting-outfit-guide",
-      "title": "3040 남성을 위한 와인 테이스팅 옷차림 가이드",
-      "nearest": {
-        "a": "mens-pottery-class-outfit-guide",
-        "b": "mens-wine-tasting-outfit-guide",
-        "titleA": "3040 남성을 위한 주말 도예 클래스 옷차림 가이드",
-        "titleB": "3040 남성을 위한 와인 테이스팅 옷차림 가이드",
-        "similarity": 0.1739
-      }
-    },
-    {
-      "slug": "mens-winter-glove-selection-guide",
-      "title": "3040 남성을 위한 겨울 장갑 선택·코디 기준 5가지",
-      "nearest": {
-        "a": "mens-boot-selection-styling-guide",
-        "b": "mens-winter-glove-selection-guide",
-        "titleA": "3040 남성을 위한 부츠 선택·코디 기준 5가지",
-        "titleB": "3040 남성을 위한 겨울 장갑 선택·코디 기준 5가지",
+        "a": "mens-clothing-alteration-guide",
+        "b": "mens-wardrobe-budget-guide",
+        "titleA": "옷 수선 가능 범위와 고칠지 바꿀지 판단하는 법",
+        "titleB": "남자 옷 예산, 무엇부터 사고 무엇을 고쳐 입을까",
         "similarity": 0.0963
       }
     },
     {
-      "slug": "mens-winter-wedding-guest-outerwear-guide",
-      "title": "3040 남성을 위한 겨울 결혼식 하객 아우터 선택 가이드",
+      "slug": "mens-watch-outfit-pairing-guide",
+      "title": "남자 시계 고르는 법과 옷차림에 맞는 크기·스트랩",
       "nearest": {
-        "a": "mens-exhibition-opening-outfit-guide",
-        "b": "mens-winter-wedding-guest-outerwear-guide",
-        "titleA": "3040 남성을 위한 전시 오프닝 초대 복장 가이드",
-        "titleB": "3040 남성을 위한 겨울 결혼식 하객 아우터 선택 가이드",
-        "similarity": 0.1765
+        "a": "mens-belt-selection-guide",
+        "b": "mens-watch-outfit-pairing-guide",
+        "titleA": "남자 벨트 고르는 법: 폭·길이·버클·가죽 표시",
+        "titleB": "남자 시계 고르는 법과 옷차림에 맞는 크기·스트랩",
+        "similarity": 0.104
       }
     },
     {
-      "slug": "mens-wool-coat-pilling-care-guide",
-      "title": "3040 남성을 위한 울 코트 보풀 관리: 착용·제거·보관 전 5가지 기준",
+      "slug": "mens-wedding-guest-outfit-guide",
+      "title": "결혼식 하객룩 남자, 예식장과 계절마다 뭘 입을까",
       "nearest": {
-        "a": "mens-coat-fabric-selection-guide",
-        "b": "mens-wool-coat-pilling-care-guide",
-        "titleA": "3040 남성을 위한 코트 원단 선택: 울·혼방·촉감과 출근 활용을 가르는 5가지 기준",
-        "titleB": "3040 남성을 위한 울 코트 보풀 관리: 착용·제거·보관 전 5가지 기준",
-        "similarity": 0.1936
+        "a": "mens-formal-family-meeting-outfit-guide",
+        "b": "mens-wedding-guest-outfit-guide",
+        "titleA": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
+        "titleB": "결혼식 하객룩 남자, 예식장과 계절마다 뭘 입을까",
+        "similarity": 0.1315
       }
     },
     {
       "slug": "mens-work-bag-selection-guide",
-      "title": "3040 남성을 위한 출근 가방 선택 기준 5가지",
+      "title": "출근 가방 고르는 법과 노트북 치수 재기",
       "nearest": {
-        "a": "mens-pocket-carry-silhouette-guide",
+        "a": "mens-belt-selection-guide",
         "b": "mens-work-bag-selection-guide",
-        "titleA": "3040 남성을 위한 주머니 수납과 옷 실루엣 정리 기준 5가지",
-        "titleB": "3040 남성을 위한 출근 가방 선택 기준 5가지",
-        "similarity": 0.1341
-      }
-    },
-    {
-      "slug": "mens-work-dinner-outfit-guide",
-      "title": "3040 남성을 위한 직장 회식 옷차림 기준 5가지",
-      "nearest": {
-        "a": "mens-reunion-outfit-guide",
-        "b": "mens-work-dinner-outfit-guide",
-        "titleA": "3040 남성을 위한 동창회 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 직장 회식 옷차림 기준 5가지",
-        "similarity": 0.1682
-      }
-    },
-    {
-      "slug": "mens-work-weekend-wardrobe-guide",
-      "title": "3040 남성을 위한 일과 주말을 잇는 옷장 구성 기준 5가지",
-      "nearest": {
-        "a": "mens-museum-date-outfit-guide",
-        "b": "mens-work-weekend-wardrobe-guide",
-        "titleA": "3040 남성을 위한 미술관 데이트 옷차림 기준 5가지",
-        "titleB": "3040 남성을 위한 일과 주말을 잇는 옷장 구성 기준 5가지",
-        "similarity": 0.1686
-      }
-    },
-    {
-      "slug": "rainy-season-office-look",
-      "title": "장마철 남성 오피스룩",
-      "nearest": {
-        "a": "rainy-season-office-look",
-        "b": "summer-office-look",
-        "titleA": "장마철 남성 오피스룩",
-        "titleB": "여름 오피스룩 제안",
-        "similarity": 0.1489
-      }
-    },
-    {
-      "slug": "summer-office-look",
-      "title": "여름 오피스룩 제안",
-      "nearest": {
-        "a": "rainy-season-office-look",
-        "b": "summer-office-look",
-        "titleA": "장마철 남성 오피스룩",
-        "titleB": "여름 오피스룩 제안",
-        "similarity": 0.1489
-      }
-    },
-    {
-      "slug": "summer-resort-top5",
-      "title": "2026 여름 휴양지에서 빛나는 남성 패션 탑5 코디",
-      "nearest": {
-        "a": "mens-shorts-styling-guide",
-        "b": "summer-resort-top5",
-        "titleA": "3040 남성을 위한 반바지를 단정하게 입는 기준 5가지",
-        "titleB": "2026 여름 휴양지에서 빛나는 남성 패션 탑5 코디",
-        "similarity": 0.1132
-      }
-    },
-    {
-      "slug": "working-with-agent-team",
-      "title": "이번 시즌 무드 — 절제된 따뜻함",
-      "nearest": {
-        "a": "hello-magma-contents",
-        "b": "working-with-agent-team",
-        "titleA": "MAGMA를 시작하며 — 오래 입을 기본에 대하여",
-        "titleB": "이번 시즌 무드 — 절제된 따뜻함",
-        "similarity": 0.0797
+        "titleA": "남자 벨트 고르는 법: 폭·길이·버클·가죽 표시",
+        "titleB": "출근 가방 고르는 법과 노트북 치수 재기",
+        "similarity": 0.1102
       }
     }
   ]
