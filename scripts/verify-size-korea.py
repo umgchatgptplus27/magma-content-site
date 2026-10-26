@@ -15,7 +15,9 @@ workbook = openpyxl.load_workbook(source, read_only=True, data_only=True)
 sheet = workbook['(1~2차년도) 직접측정']
 headers = next(sheet.iter_rows(min_row=7, max_row=7, values_only=True))
 fields = {'neck_mm': '032. 목둘레', 'wrist_mm': '038. 손목둘레',
-          'foot_length_mm': '122. 발직선길이', 'foot_width_mm': '123. 발너비'}
+          'foot_length_mm': '122. 발직선길이', 'foot_width_mm': '123. 발너비',
+          'height_mm': '002. 키', 'chest_mm': '041. 가슴둘레',
+          'waist_mm': '045. 허리둘레', 'hip_mm': '048. 엉덩이둘레'}
 columns = {key: next(i for i, h in enumerate(headers) if str(h).strip() == name)
            for key, name in fields.items()}
 rows = [r for r in sheet.iter_rows(min_row=8, values_only=True)
@@ -31,7 +33,7 @@ def summarize(values):
             **{f'p{p}': percentile(p / 100) for p in [5, 25, 50, 75, 95]}}
 
 result = {
-    'verified_date': '2026-10-26', 'source_file': source.name,
+    'verified_date': '2026-10-27', 'source_file': source.name,
     'source_sha256': hashlib.sha256(source.read_bytes()).hexdigest(),
     'source_url': 'https://sizekorea.kr/human-info/meas-report?measDegree=8',
     'sheet': sheet.title, 'filter': '성별 M, 30 <= 나이 < 50',
@@ -39,7 +41,7 @@ result = {
     'limitations': '조사 참여자의 분포이며 한국 남성 전체의 가중 추정치나 개인의 핏·신발 폭 판정 기준이 아님. 원자료 파일의 공식 배포본 동일성은 별도 재확인 필요.',
     'groups': {}
 }
-for label, low, high in [('30-39', 30, 40), ('40-49', 40, 50), ('30-49', 30, 50)]:
+for label, low, high in [('30-34', 30, 35), ('35-39', 35, 40), ('30-39', 30, 40), ('40-49', 40, 50), ('30-49', 30, 50)]:
     group = [r for r in rows if low <= r[4] < high]
     result['groups'][label] = {'participants': len(group), **{
         key: summarize([r[index] for r in group]) for key, index in columns.items()}}
