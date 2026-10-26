@@ -139,5 +139,34 @@
       "google_canonical": "검사된 URL"
     },
     "note": "3개월 비교 기간이 하루 이동했으므로 96회에서 94회로 바뀐 것을 순위 하락이나 수정 효과로 해석하지 않음"
+  },
+  "followup_2026_10_27": {
+    "observed_date": "2026-10-27",
+    "source": "로그인된 Search Console 및 AdSense 화면 직접 확인",
+    "three_months": {
+      "start": "2026-07-25",
+      "end": "2026-10-24",
+      "clicks": 0,
+      "impressions": 94,
+      "average_position": 13.8
+    },
+    "selected_28_days": {
+      "chart_start": "2026-10-07",
+      "chart_end": "2026-10-24",
+      "clicks": 0,
+      "impressions": 8,
+      "average_position": 10.9,
+      "query_table": "데이터 없음"
+    },
+    "adsense": {
+      "status": "주의 필요",
+      "reason": "가치가 별로 없는 콘텐츠",
+      "last_updated_display": "2026년 10월 23일 오후 5:43 KST",
+      "ownership": "확인됨",
+      "ads_txt": "승인됨",
+      "review_available_from": "2026-10-30",
+      "review_submitted": false
+    },
+    "interpretation": "10월 27일 발행 효과는 아직 평가할 수 없음. 전체 방문자 수가 아닌 Google 웹 검색 지표. ads.txt 승인과 사이트 승인은 별개."
   }
 }
