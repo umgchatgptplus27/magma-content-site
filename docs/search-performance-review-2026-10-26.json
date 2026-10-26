@@ -1,0 +1,119 @@
+{
+  "recorded_date": "2026-10-26",
+  "observed_date": "2026-10-25",
+  "property": "https://www.eurachoachoa.com/",
+  "search_type": "web",
+  "three_months": {
+    "chart_start": "2026-07-23",
+    "chart_end": "2026-10-22",
+    "clicks": 0,
+    "impressions": 96,
+    "ctr_percent": 0,
+    "average_position": 13.6,
+    "legacy_blogger_url_impressions": 88,
+    "fashion_url_impressions": 8,
+    "visible_queries": [
+      {
+        "query": "현관 정리정돈 해결 인테리어 방법",
+        "impressions": 10,
+        "clicks": 0
+      },
+      {
+        "query": "침 묻은 음식 냉장고",
+        "impressions": 1,
+        "clicks": 0
+      }
+    ]
+  },
+  "selected_28_days": {
+    "chart_visible_start": "2026-10-07",
+    "chart_end": "2026-10-22",
+    "clicks": 0,
+    "impressions": 8,
+    "average_position": 10.9,
+    "query_table": "데이터 없음",
+    "pages": [
+      {
+        "path": "/blog/mens-lightweight-jacket-fit-guide",
+        "clicks": 0,
+        "impressions": 2,
+        "redirect_destination": "/blog/mens-overshirt-styling-guide"
+      },
+      {
+        "path": "/blog/mens-transitional-weather-office-layering-guide",
+        "clicks": 0,
+        "impressions": 1,
+        "redirect_destination": "/blog/mens-business-casual-guide"
+      },
+      {
+        "path": "/blog/mens-scarf-styling-guide",
+        "clicks": 0,
+        "impressions": 1,
+        "redirect_destination": null
+      },
+      {
+        "path": "/blog/mens-winter-glove-selection-guide",
+        "clicks": 0,
+        "impressions": 1,
+        "redirect_destination": "/blog/mens-scarf-styling-guide"
+      },
+      {
+        "path": "/blog/mens-trouser-care-guide",
+        "clicks": 0,
+        "impressions": 1,
+        "redirect_destination": null
+      },
+      {
+        "path": "/blog/mens-travel-outfit-packing-guide",
+        "clicks": 0,
+        "impressions": 1,
+        "redirect_destination": null
+      },
+      {
+        "path": "/blog/mens-shirt-fit-guide",
+        "clicks": 0,
+        "impressions": 1,
+        "redirect_destination": null
+      }
+    ]
+  },
+  "checks": {
+    "legacy_fashion_redirects": "all 3 verified HTTP 308 to configured representative article",
+    "manual_actions": "감지된 문제 없음",
+    "security_issues": "감지된 문제 없음"
+  },
+  "url_inspections": [
+    {
+      "path": "/tools/size-compare",
+      "status": "URL이 Google에 등록되어 있음",
+      "last_crawl_displayed": "2026. 10. 24. 오전 7:12:38",
+      "fetch": "성공",
+      "crawler": "Googlebot 스마트폰",
+      "indexing_allowed": true,
+      "google_canonical": "검사된 URL"
+    },
+    {
+      "path": "/blog/mens-online-clothing-measurement-guide",
+      "status": "크롤링됨 - 현재 색인이 생성되지 않음",
+      "last_crawl_displayed": "2026. 8. 10. 오후 6:44:54",
+      "fetch": "성공",
+      "indexing_allowed": true,
+      "google_canonical": "검사된 URL"
+    }
+  ],
+  "remaining": [
+    "다운 재킷 라벨 가이드 후속 색인 확인: 작업 공간 74가 사라져 미완료",
+    "10월 23~25일 개선 이후 기간의 검색 노출·클릭 확인",
+    "10월 30일 이후 AdSense 재심사 가능 여부 확인"
+  ],
+  "decisions": [
+    "검색어 표본이 부족하고 노출 검색어가 이전 주제여서 이를 근거로 현재 패션 글 제목을 변경하지 않음",
+    "10월 22일까지의 실적은 23~25일 배포 효과를 평가하는 자료로 사용하지 않음",
+    "이미 접수한 동일 URL 색인 요청을 반복 제출하지 않음"
+  ],
+  "limitations": [
+    "Google 웹 검색 클릭만 확인했으며 전체 방문자 수는 알 수 없음",
+    "검색어 표에 없는 노출의 검색어를 추정하지 않음",
+    "색인 완료·직접 조치 없음은 AdSense 승인 보장이 아님"
+  ]
+}
