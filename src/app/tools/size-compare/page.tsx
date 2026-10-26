@@ -57,7 +57,7 @@ export default function SizeComparePage() {
       <div className="post-body mt-14">
         <h2>내 옷을 재는 법</h2>
         <p>
-          옷을 단추나 지퍼를 모두 잠근 상태로 바닥이나 탁자에 평평하게 놓고, 주름을 손으로 펴서 줄자로 잽니다. 쇼핑몰 사이즈표의 &lsquo;단면&rsquo;은 앞판 한 면의 좌우 폭이므로, 둘레로 바꾸려면 2를 곱합니다.
+          옷을 단추나 지퍼를 모두 잠근 상태로 바닥이나 탁자에 평평하게 놓고, 주름을 손으로 펴서 줄자로 잽니다. 쇼핑몰 사이즈표의 &lsquo;단면&rsquo;은 평평하게 놓은 옷의 좌우 폭을 뜻합니다. 같은 위치의 단면에 2를 곱한 값은 둘레의 근사값이며, 입체적인 재단에서는 실제 둘레와 차이가 날 수 있습니다.
           니트나 저지처럼 늘어나는 옷은 당기지 말고 놓인 그대로 잽니다.
         </p>
         <ul>
@@ -123,9 +123,9 @@ export default function SizeComparePage() {
           </table>
         </div>
 
-        <h2>바지 허리 사이즈 환산표 (인치 · cm)</h2>
+        <h2>허리 치수 단위 환산표 (인치 · cm)</h2>
         <p>
-          국내에서 흔히 쓰는 바지 사이즈 30·32·34는 허리둘레 인치 표기입니다. 표기는 몸 치수이고 실제 옷 허리는 핏과 브랜드에 따라 여유가 다르니, 구매 전에는 사이즈표의 허리단면에 2를 곱해 비교하세요.
+          아래는 인치를 cm로 바꾸는 단위 환산표이며, 특정 브랜드의 추천 사이즈표가 아닙니다. 바지 라벨의 30·32·34가 신체 허리둘레나 완성된 바지의 실제 둘레와 정확히 같다는 뜻은 아닙니다. 구매할 브랜드의 신체 치수표와 제품 실측표를 구분해 확인하세요.
         </p>
         <div className="table-scroll" role="region" aria-label="바지 허리 사이즈 환산표" tabIndex={0}>
           <table>
@@ -138,16 +138,20 @@ export default function SizeComparePage() {
           </table>
         </div>
 
+        <p>예를 들어 Levi&apos;s 미국 남성 하의 표는 라벨 32에 신체 허리 32.5–33인치를 대응시킵니다(2026년 10월 27일 확인). 32 × 2.54 = 81.3cm라는 단위 계산만으로 그 바지의 실측이나 권장 신체 치수를 알 수 없는 이유입니다.</p>
+
         <h2>자주 묻는 질문</h2>
         <h3>사이즈표에 단면이 아니라 둘레가 적혀 있으면 어떻게 하나요?</h3>
-        <p>둘레 값을 2로 나눠 단면으로 바꾼 뒤 입력하면 됩니다. 계산기는 단면 기준으로 차이를 계산하고, 폭 항목은 결과에 둘레 차이도 함께 보여 줍니다.</p>
+        <p>먼저 제품의 완성 둘레인지, 착용자에게 권장하는 신체 둘레인지 확인합니다. 같은 위치에서 잰 제품 둘레라면 2로 나눈 값을 단면의 근사값으로 비교할 수 있지만, 신체 둘레나 라벨의 호칭은 나눠 넣지 않습니다. 측정 위치나 입체 재단 때문에 단면으로 환산하기 어렵다면 판매처에 단면 실측을 문의합니다.</p>
         <h3>입력한 치수는 어디에 저장되나요?</h3>
-        <p>지금 쓰는 브라우저에만 저장되고 서버로 보내지지 않습니다. 다음에 방문하면 내 옷 치수가 그대로 남아 있어 사려는 옷 값만 바꿔 넣으면 됩니다. 브라우저 데이터를 지우면 함께 사라집니다.</p>
+        <p>입력한 내 옷과 구매 후보의 치수는 지금 쓰는 브라우저에 저장되며, 이 도구의 저장 기능으로 서버에 전송하지 않습니다. 삭제하려면 계산기의 ‘모든 품목의 저장값 삭제’를 누르세요. 브라우저 사이트 데이터를 삭제해도 사라집니다.</p>
         <h3>차이가 모두 1cm 안쪽인데도 입어 보면 다를 수 있나요?</h3>
         <p>그럴 수 있습니다. 같은 치수라도 원단의 신축성, 어깨 경사, 암홀 깊이처럼 사이즈표에 없는 요소가 착용감을 바꿉니다. 이 도구는 치수 차이를 계산하며, 구매 성공률이나 착용감을 예측하지 않습니다.</p>
 
         <h2>참고 자료</h2>
         <ul>
+          <li><a href="https://www.levi.com/US/en_US/info/sizeguide">Levi&apos;s — 남성 하의 라벨 호칭과 신체 치수표</a></li>
+          <li><a href="https://propercloth.com/reference/how-to-measure-a-dress-shirt/">Proper Cloth — 셔츠 실측 방법</a></li>
           <li><a href="https://www.nike.com/size-fit/mens-footwear">Nike — Men&apos;s Footwear Size Chart</a></li>
           <li><a href="https://propercloth.com/reference/how-the-sleeve-length-should-fit/">Proper Cloth — 소매 측정 시작점과 커프 조건</a></li>
           <li><a href="https://propercloth.com/reference/how-the-dress-shirt-collar-should-fit/">Proper Cloth — How the Dress Shirt Collar Should Fit</a></li>
