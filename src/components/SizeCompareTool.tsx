@@ -72,7 +72,11 @@ export default function SizeCompareTool() {
   useEffect(() => {
     if (!restored) return;
     try {
-      window.localStorage.setItem(STORAGE_KEY, JSON.stringify(values));
+      if (Object.keys(values).length === 0) {
+        window.localStorage.removeItem(STORAGE_KEY);
+      } else {
+        window.localStorage.setItem(STORAGE_KEY, JSON.stringify(values));
+      }
     } catch {
       /* 무시 */
     }
@@ -127,7 +131,7 @@ export default function SizeCompareTool() {
 
       <p className="mt-5 text-sm leading-relaxed text-ink-sub">
         옷을 평평하게 놓고 잰 <strong className="text-primary">단면 실측(cm)</strong>을 입력하세요. 왼쪽은 가장 잘 맞는 내 옷, 오른쪽은 사려는 옷의 사이즈표 값입니다.
-        입력한 두 옷의 치수는 이 브라우저에만 저장됩니다. 측정 위치와 단위를 먼저 맞춰 주세요.
+        입력한 두 옷의 치수는 이 브라우저에 저장되어 다음 방문 때 다시 표시됩니다. 모든 품목의 값을 지우려면 아래의 전체 삭제 버튼을 사용하세요. 측정 위치와 단위를 먼저 맞춰 주세요.
       </p>
 
       <div className="mt-6 space-y-4">
@@ -172,9 +176,14 @@ export default function SizeCompareTool() {
           : `${filled.length}개 항목을 비교했습니다. 치수 차이만으로 맞는 사이즈나 수선 가능 여부를 정할 수 없습니다. 같은 측정 위치인지 확인하고 소재·핏·시접을 함께 살펴보세요.`}
       </div>
 
-      <button type="button" onClick={clearTarget} className="mt-4 text-sm text-ink-muted underline underline-offset-2 hover:text-primary">
-        사려는 옷 값만 지우기
-      </button>
+      <div className="mt-4 flex flex-wrap gap-4">
+        <button type="button" onClick={clearTarget} className="text-sm text-ink-muted underline underline-offset-2 hover:text-primary">
+          사려는 옷 값만 지우기
+        </button>
+        <button type="button" onClick={() => setValues({})} disabled={!restored} className="text-sm text-ink-muted underline underline-offset-2 hover:text-primary disabled:opacity-50">
+          모든 품목의 저장값 삭제
+        </button>
+      </div>
     </div>
   );
 }
