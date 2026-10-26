@@ -125,7 +125,7 @@ export default async function PostPage(
         )}
         {(post.thumbnail || /!\[[^\]]*\]\(/.test(post.content)) && (
           <p className="mb-8 text-sm leading-relaxed text-ink-muted">
-            이 글의 스타일 이미지는 AI로 생성한 설명용 예시입니다. 실제 제품의 착용·측정 결과나 봉제·라벨을 검증한 사진이 아닙니다.
+            이 글의 스타일 이미지는 설명용 예시입니다. 실제 제품의 착용·측정 결과나 봉제·라벨을 검증한 사진이 아닙니다.
             {" "}<Link href="/about" className="underline underline-offset-2 hover:text-primary">이미지·편집 원칙</Link>
           </p>
         )}
