@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { measurementDifference, parseSavedMeasurements } from "@/lib/size-compare.mjs";
 
 type Kind = "width" | "length";
 type Field = { key: string; label: string; kind: Kind; hint: string };
@@ -42,7 +43,7 @@ const STORAGE_KEY = "magma-size-compare-v1";
 type Values = Record<string, Record<string, { mine: string; target: string }>>;
 
 function comparisonText(field: Field, diff: number): string {
-  if (diff === 0) return "입력한 치수가 같습니다. 착용감이 같다는 뜻은 아닙니다.";
+  if (diff === 0) return "0.1cm 단위로 반올림한 차이가 0입니다. 착용감이 같다는 뜻은 아닙니다.";
   const direction = diff > 0 ? "더 큽니다" : "더 작습니다";
   return field.kind === "width"
     ? `단면이 ${Math.abs(diff).toFixed(1)}cm ${direction}. 단면을 두 배 한 둘레 차이는 약 ${(Math.abs(diff) * 2).toFixed(1)}cm입니다.`
@@ -60,7 +61,7 @@ export default function SizeCompareTool() {
     const id = window.setTimeout(() => {
       try {
         const saved = window.localStorage.getItem(STORAGE_KEY);
-        if (saved) setValues(JSON.parse(saved));
+        if (saved) setValues(parseSavedMeasurements(saved));
       } catch {
         /* 저장소를 쓸 수 없는 환경에서는 빈 값으로 시작한다. */
       }
@@ -90,7 +91,7 @@ export default function SizeCompareTool() {
         const mine = Number(v?.mine);
         const target = Number(v?.target);
         const ready = Number.isFinite(mine) && mine > 0 && Number.isFinite(target) && target > 0;
-        return { field, v, ready, diff: ready ? target - mine : 0 };
+        return { field, v, ready, diff: ready ? measurementDifference(mine, target) : 0 };
       }),
     [fields, values, item],
   );
