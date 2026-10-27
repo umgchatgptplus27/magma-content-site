@@ -1,0 +1,2819 @@
+{
+  "checkedAt": "2026-10-27T22:33:35.948Z",
+  "method": "GET with redirects, 12 second timeout; status only, not content or factual verification. 403/429/timeouts do not prove a link is broken.",
+  "counts": {
+    "200": 292,
+    "402": 2,
+    "403": 32,
+    "429": 2,
+    "500": 1,
+    "unverified": 3
+  },
+  "results": [
+    {
+      "url": "http://www.fta.or.kr/sub02_06.php",
+      "posts": [
+        "mens-funeral-attire-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "http://www.fta.or.kr/sub02_06.php"
+    },
+    {
+      "url": "http://www.fta.or.kr/sub02_0602.php",
+      "posts": [
+        "mens-funeral-attire-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "http://www.fta.or.kr/sub02_0602.php"
+    },
+    {
+      "url": "http://www.fta.or.kr/sub02_0603.php",
+      "posts": [
+        "mens-funeral-attire-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "http://www.fta.or.kr/sub02_0603.php"
+    },
+    {
+      "url": "http://www.fta.or.kr/sub02_0604.php",
+      "posts": [
+        "mens-funeral-attire-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "http://www.fta.or.kr/sub02_0604.php"
+    },
+    {
+      "url": "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties/washing-linen-care-advice",
+      "posts": [
+        "mens-shirt-ironing-wrinkle-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties/washing-linen-care-advice"
+    },
+    {
+      "url": "https://arthurandlucca.com/pages/alterations-pricing",
+      "posts": [
+        "mens-clothing-alteration-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://arthurandlucca.com/pages/alterations-pricing"
+    },
+    {
+      "url": "https://articlesofstyle.com/blogs/news/how-it-should-fit-the-overcoat",
+      "posts": [
+        "mens-wedding-guest-outfit-guide.md",
+        "mens-coat-length-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://articlesofstyle.com/blogs/news/how-it-should-fit-the-overcoat"
+    },
+    {
+      "url": "https://articlesofstyle.com/blogs/news/how-it-should-fit-the-trouser",
+      "posts": [
+        "mens-trouser-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://articlesofstyle.com/blogs/news/how-it-should-fit-the-trouser"
+    },
+    {
+      "url": "https://blacklapel.com/blogs/the-compass/flawless-fit-series-tall-mens-clothing-guide",
+      "posts": [
+        "mens-body-type-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/flawless-fit-series-tall-mens-clothing-guide"
+    },
+    {
+      "url": "https://blacklapel.com/blogs/the-compass/how-dress-shirts-should-fit-the-complete-guide",
+      "posts": [
+        "mens-shirt-fit-guide.md",
+        "mens-shirt-fit-guide.md",
+        "mens-shirt-collar-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/how-dress-shirts-should-fit-the-complete-guide"
+    },
+    {
+      "url": "https://blacklapel.com/blogs/the-compass/how-long-should-my-suit-jacket-sleeves-be",
+      "posts": [
+        "mens-shirt-fit-guide.md",
+        "mens-shirt-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/how-long-should-my-suit-jacket-sleeves-be"
+    },
+    {
+      "url": "https://blacklapel.com/blogs/the-compass/how-should-an-overcoat-fit",
+      "posts": [
+        "mens-coat-length-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/how-should-an-overcoat-fit"
+    },
+    {
+      "url": "https://blacklapel.com/thecompass/buying-first-suit-5-key-factors/",
+      "posts": [
+        "mens-suit-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/buying-first-suit-5-key-factors"
+    },
+    {
+      "url": "https://blacklapel.com/thecompass/flawless-fit-series-clothes-for-short-men/",
+      "posts": [
+        "mens-body-type-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/flawless-fit-series-clothes-for-short-men"
+    },
+    {
+      "url": "https://blog.loake.com/featured/shoe-care-guide/",
+      "posts": [
+        "mens-leather-shoe-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog.loake.com/featured/shoe-care-guide/"
+    },
+    {
+      "url": "https://blog.ted.com/how-to-dress-for-ted-be-yourself/",
+      "posts": [
+        "mens-career-interview-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog.ted.com/how-to-dress-for-ted-be-yourself/"
+    },
+    {
+      "url": "https://bluntumbrellas.com/pages/care",
+      "posts": [
+        "mens-trench-coat-commute-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://bluntumbrellas.com/pages/care"
+    },
+    {
+      "url": "https://boardroomsocks.com/blogs/dress-sock-blog/matching-your-socks-shoes-and-pants",
+      "posts": [
+        "mens-sock-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://boardroomsocks.com/blogs/dress-sock-blog/matching-your-socks-shoes-and-pants"
+    },
+    {
+      "url": "https://brand.uiowa.edu/portrait-tips",
+      "posts": [
+        "mens-career-interview-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://brand.uiowa.edu/portrait-tips"
+    },
+    {
+      "url": "https://business.wfu.edu/newsroom/business-casual-dress-code-for-the-ma-in-management-program/",
+      "posts": [
+        "mens-smart-denim-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://business.wfu.edu/newsroom/business-casual-dress-code-for-the-ma-in-management-program/"
+    },
+    {
+      "url": "https://career.arizona.edu/blog/2024/10/03/the-dress-code-dictionary-a-comprehensive-guide/",
+      "posts": [
+        "mens-office-sneaker-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://career.arizona.edu/blog/2024/10/03/the-dress-code-dictionary-a-comprehensive-guide/"
+    },
+    {
+      "url": "https://career.hwahae.co.kr/faq",
+      "posts": [
+        "mens-career-interview-outfit-guide.md"
+      ],
+      "status": 429,
+      "finalUrl": "https://career.hwahae.co.kr/faq"
+    },
+    {
+      "url": "https://careerandlife.ucmo.edu/resources/guide-to-professional-dress/",
+      "posts": [
+        "mens-business-casual-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://careerandlife.ucmo.edu/resources/guide-to-professional-dress/"
+    },
+    {
+      "url": "https://careercenter.temple.edu/students/fly/interview-and-workplace-attire",
+      "posts": [
+        "mens-career-interview-outfit-guide.md",
+        "mens-business-casual-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://careercenter.temple.edu/students/fly/interview-and-workplace-attire"
+    },
+    {
+      "url": "https://cdo.som.yale.edu/blog/2023/09/18/what-does-business-casual-really-mean-in-2023/",
+      "posts": [
+        "mens-smart-denim-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://cdo.som.yale.edu/blog/2023/09/18/what-does-business-casual-really-mean-in-2023/"
+    },
+    {
+      "url": "https://cie.co.at/eilvterm/17-22-067",
+      "posts": [
+        "mens-muted-color-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://cie.co.at/eilvterm/17-22-067"
+    },
+    {
+      "url": "https://claremurthy.com/what-to-wear-newborn-photos/",
+      "posts": [
+        "mens-first-birthday-party-dad-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://claremurthy.com/what-to-wear-newborn-photos/"
+    },
+    {
+      "url": "https://collections.vam.ac.uk/item/O11194/pair-of-ankle-unknown/",
+      "posts": [
+        "mens-boot-selection-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://collections.vam.ac.uk/item/O11194/pair-of-ankle-unknown/"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/denim/denim-basics",
+      "posts": [
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-shirt-fabric-selection-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/denim/denim-basics"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/knitting/single-and-double-knits/",
+      "posts": [
+        "mens-knit-gauge-selection-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/knitting/single-and-double-knits/"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/sweater-manufacturing/sweater-manufacturing-basics/",
+      "posts": [
+        "mens-knit-gauge-selection-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/sweater-manufacturing/sweater-manufacturing-basics/"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/weaving/basic-woven-fabric-designs/",
+      "posts": [
+        "mens-chino-styling-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/weaving/basic-woven-fabric-designs/"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/weaving/complex-woven-fabric-designs/",
+      "posts": [
+        "mens-chino-styling-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/weaving/complex-woven-fabric-designs/"
+    },
+    {
+      "url": "https://dam.versuni.com/m/141207361c3f4c9e/original/Garment-Care_2024_GC026_Manual-Philips.pdf",
+      "posts": [
+        "mens-knit-pilling-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://dam.versuni.com/m/141207361c3f4c9e/original/Garment-Care_2024_GC026_Manual-Philips.pdf"
+    },
+    {
+      "url": "https://darntough.com/blogs/the-alternate-stitch/how-to-wear-mens-dress-socks-heights",
+      "posts": [
+        "mens-sock-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://darntough.com/blogs/the-alternate-stitch/how-to-wear-mens-dress-socks-heights"
+    },
+    {
+      "url": "https://darntough.com/pages/size-chart",
+      "posts": [
+        "mens-sock-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://darntough.com/pages/size-chart"
+    },
+    {
+      "url": "https://data.kma.go.kr/climate/average30Years/selectAverage30YearsList.do",
+      "posts": [
+        "mens-seasonal-wardrobe-storage-guide.md",
+        "mens-seasonal-wardrobe-storage-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://data.kma.go.kr/climate/average30Years/selectAverage30YearsList.do"
+    },
+    {
+      "url": "https://debretts.com/etiquette-category/events-and-dress-codes/",
+      "posts": [
+        "mens-invitation-dress-code-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://debretts.com/etiquette-category/events-and-dress-codes/"
+    },
+    {
+      "url": "https://dlionline.org/a-guide-to-home-stain-removal/",
+      "posts": [
+        "mens-garment-stain-first-aid-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://dlionline.org/a-guide-to-home-stain-removal/"
+    },
+    {
+      "url": "https://emilypost.com/advice/attire-guide-dress-codes-from-casual-to-white-tie",
+      "posts": [
+        "mens-invitation-dress-code-guide.md",
+        "mens-wedding-guest-outfit-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://emilypost.com/advice/attire-guide-dress-codes-from-casual-to-white-tie"
+    },
+    {
+      "url": "https://encykorea.aks.ac.kr/Article/E0016110",
+      "posts": [
+        "mens-first-birthday-party-dad-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://encykorea.aks.ac.kr/Article/E0016110"
+    },
+    {
+      "url": "https://encykorea.aks.ac.kr/Article/E0055140",
+      "posts": [
+        "mens-formal-family-meeting-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://encykorea.aks.ac.kr/Article/E0055140"
+    },
+    {
+      "url": "https://eu.meermin.com/pages/care",
+      "posts": [
+        "mens-leather-shoe-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://eu.meermin.com/pages/care"
+    },
+    {
+      "url": "https://eu.sunspel.com/products/mens-sea-island-cashmere-crew-neck-jumper-in-midnight-navy-mjum8203-buvn",
+      "posts": [
+        "mens-knit-gauge-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.sunspel.com/products/mens-sea-island-cashmere-crew-neck-jumper-in-midnight-navy-mjum8203-buvn"
+    },
+    {
+      "url": "https://europepmc.org/articles/PMC6204659",
+      "posts": [
+        "mens-work-bag-selection-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://europepmc.org/articles/PMC6204659"
+    },
+    {
+      "url": "https://faq-kr.uniqlo.com/pkb_Home_UQ_KR?id=kA0Ie000000TO06&q=utme&l=ko&fs=RelatedArticle",
+      "posts": [
+        "mens-tshirt-fit-guide.md",
+        "mens-tshirt-fit-guide.md",
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://faq-kr.uniqlo.com/pkb_Home_UQ_KR?id=kA0Ie000000TO06&q=utme&l=ko&fs=RelatedArticle"
+    },
+    {
+      "url": "https://fiorentini-baker.com/blogs/stories/caring-for-your-fiorentini-baker-leather-and-suede-footwear",
+      "posts": [
+        "mens-leather-shoe-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://fiorentini-baker.com/en-int/blogs/stories/caring-for-your-fiorentini-baker-leather-and-suede-footwear"
+    },
+    {
+      "url": "https://foxflannel.com/pages/cloth-weight-explained",
+      "posts": [
+        "mens-trouser-fit-guide.md",
+        "mens-suit-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://foxflannel.com/pages/cloth-weight-explained"
+    },
+    {
+      "url": "https://github.com/umgchatgptplus27/magma-content-site/blob/main/scripts/verify-size-korea.py",
+      "posts": [
+        "mens-average-body-size-korea-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://github.com/umgchatgptplus27/magma-content-site/blob/main/scripts/verify-size-korea.py"
+    },
+    {
+      "url": "https://gq.com/story/how-to-wear-a-sweater-vest",
+      "posts": [
+        "mens-knit-layering-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gq.com/story/how-to-wear-a-sweater-vest"
+    },
+    {
+      "url": "https://ichd-3.org/other-primary-headache-disorders/4-6-external-pressure-headache/4-6-1-external-compression-headache/",
+      "posts": [
+        "mens-hat-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://ichd-3.org/other-primary-headache-disorders/4-6-external-pressure-headache/4-6-1-external-compression-headache/"
+    },
+    {
+      "url": "https://idfl.com/info/explanation-of-down-and-feather-tests/",
+      "posts": [
+        "mens-down-jacket-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://idfl.com/info/explanation-of-down-and-feather-tests/"
+    },
+    {
+      "url": "https://int.burberry.com/l/mens-coats-jackets/trench-coats/",
+      "posts": [
+        "mens-coat-length-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://int.burberry.com/l/mens-coats-jackets/trench-coats/"
+    },
+    {
+      "url": "https://kats.go.kr/content.do?cmsid=527&mode=view&page=&cid=24422",
+      "posts": [
+        "mens-garment-care-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://kats.go.kr/content.do?cmsid=527&mode=view&page=&cid=24422"
+    },
+    {
+      "url": "https://law.go.kr/lsInfoP.do?lsiSeq=110996",
+      "posts": [
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://law.go.kr/lsInfoP.do?lsiSeq=110996"
+    },
+    {
+      "url": "https://leatheruk.org/care-instructions/",
+      "posts": [
+        "mens-overshirt-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://leatheruk.org/care-instructions/"
+    },
+    {
+      "url": "https://news.wpcarey.asu.edu/20200727-5-ways-prepare-your-space-virtual-interview",
+      "posts": [
+        "mens-career-interview-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://news.wpcarey.asu.edu/20200727-5-ways-prepare-your-space-virtual-interview"
+    },
+    {
+      "url": "https://newsroom.sennheiser.com/how-to-presentation-microphones-2-head-worn-and-lavalier-microphones-bby4kb",
+      "posts": [
+        "mens-career-interview-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://newsroom.sennheiser.com/how-to-presentation-microphones-2-head-worn-and-lavalier-microphones-bby4kb"
+    },
+    {
+      "url": "https://noburestaurants.com/milan/reservations",
+      "posts": [
+        "mens-anniversary-dinner-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://noburestaurants.com/milan/reservations"
+    },
+    {
+      "url": "https://npic.orst.edu/ingred/ptype/mothball/regulation.html",
+      "posts": [
+        "mens-seasonal-wardrobe-storage-guide.md",
+        "mens-seasonal-wardrobe-storage-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://npic.orst.edu/ingred/ptype/mothball/regulation.html"
+    },
+    {
+      "url": "https://oliverwicks.com/article/suit-size",
+      "posts": [
+        "mens-average-body-size-korea-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.oliverwicks.com/article/suit-size"
+    },
+    {
+      "url": "https://opendict.korean.go.kr/dictionary/view?sense_no=12746&viewType=confirm",
+      "posts": [
+        "mens-formal-family-meeting-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://opendict.korean.go.kr/dictionary/view?sense_no=12746&viewType=confirm"
+    },
+    {
+      "url": "https://opera.org.au/features/the-ultimate-guide-to-going-to-the-opera/",
+      "posts": [
+        "mens-invitation-dress-code-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://opera.org.au/features/the-ultimate-guide-to-going-to-the-opera/"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485773/",
+      "posts": [
+        "mens-muted-color-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485773/"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022145/",
+      "posts": [
+        "mens-polo-shirt-selection-guide.md",
+        "mens-polo-shirt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022145/"
+    },
+    {
+      "url": "https://producthelp.maytag.com/Laundry/Dryers/Product_Info/Dryer_Tips_and_Tricks/Reducing_Static_in_the_Dryer",
+      "posts": [
+        "mens-garment-care-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://producthelp.maytag.com/Laundry/Dryers/Product_Info/Dryer_Tips_and_Tricks/Reducing_Static_in_the_Dryer"
+    },
+    {
+      "url": "https://propercloth.com/dress-shirts/italian-light-wash-7.6oz-heavyweight-slub-denim-581668.html",
+      "posts": [
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-shirt-fabric-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/dress-shirts/italian-light-wash-7.6oz-heavyweight-slub-denim-581668.html"
+    },
+    {
+      "url": "https://propercloth.com/products/collar-stay-replacement-set-212.html",
+      "posts": [
+        "mens-shirt-collar-guide.md",
+        "mens-shirt-collar-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/products/collar-stay-replacement-set-212.html"
+    },
+    {
+      "url": "https://propercloth.com/products/mother-of-pearl-button-replacement-set-214.html",
+      "posts": [
+        "mens-shirt-fit-guide.md",
+        "mens-shirt-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/products/mother-of-pearl-button-replacement-set-214.html"
+    },
+    {
+      "url": "https://propercloth.com/reference/based-on-body-measurements-selecting-a-type-of-fit/",
+      "posts": [
+        "mens-body-type-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/based-on-body-measurements-selecting-a-type-of-fit/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-jacket-chest-width-should-fit/",
+      "posts": [
+        "mens-jacket-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-jacket-chest-width-should-fit/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-jacket-shoulder-slope-should-fit/",
+      "posts": [
+        "mens-jacket-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-jacket-shoulder-slope-should-fit/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-long-should-the-shirt-length-be/",
+      "posts": [
+        "mens-shirt-fit-guide.md",
+        "mens-shirt-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-long-should-the-shirt-length-be/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-much-can-alter-a-jacket-how-much-can-a-tailor-do/",
+      "posts": [
+        "mens-average-body-size-korea-guide.md",
+        "mens-body-type-outfit-guide.md",
+        "mens-coat-length-fit-guide.md",
+        "mens-trouser-fit-guide.md",
+        "mens-jacket-fit-guide.md",
+        "mens-wardrobe-budget-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-much-can-alter-a-jacket-how-much-can-a-tailor-do/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-the-dress-shirt-collar-should-fit/",
+      "posts": [
+        "mens-shirt-fit-guide.md",
+        "mens-shirt-fit-guide.md",
+        "mens-necktie-selection-guide.md",
+        "mens-shirt-collar-guide.md",
+        "mens-shirt-collar-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-the-dress-shirt-collar-should-fit/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-the-dress-shirt-cuffs-should-fit/",
+      "posts": [
+        "mens-shirt-fit-guide.md",
+        "mens-shirt-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/tight-dress-shirt-cuffs-fit/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-the-sleeve-length-should-fit/",
+      "posts": [
+        "mens-shirt-fit-guide.md",
+        "mens-shirt-fit-guide.md",
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-the-sleeve-length-should-fit/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-to-evaluate-your-casual-pant-fit/",
+      "posts": [
+        "mens-trouser-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-to-evaluate-your-casual-pant-fit/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-to-measure-a-dress-shirt/",
+      "posts": [
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-to-measure-a-dress-shirt/"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-to-measure-a-jacket/",
+      "posts": [
+        "mens-coat-length-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-to-measure-a-jacket-center-back-length/"
+    },
+    {
+      "url": "https://propercloth.com/reference/measure-tailored-suit-pants-trousers/",
+      "posts": [
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/measure-tailored-suit-pants-trousers/"
+    },
+    {
+      "url": "https://propercloth.com/reference/mini-grid-dress-shirt-fabrics/",
+      "posts": [
+        "mens-muted-color-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/mini-grid-dress-shirt-fabrics/"
+    },
+    {
+      "url": "https://propercloth.com/reference/watch-allowance/",
+      "posts": [
+        "mens-watch-outfit-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/watch-allowance/"
+    },
+    {
+      "url": "https://propercloth.com/reference/what-is-pant-break/",
+      "posts": [
+        "mens-smart-denim-styling-guide.md",
+        "mens-wedding-guest-outfit-guide.md",
+        "mens-trouser-fit-guide.md",
+        "mens-office-sneaker-styling-guide.md",
+        "mens-boot-selection-styling-guide.md",
+        "mens-sock-pairing-guide.md",
+        "mens-chino-styling-guide.md",
+        "mens-loafer-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/what-is-pant-break/"
+    },
+    {
+      "url": "https://propercloth.com/shirt-styles/collars/tab",
+      "posts": [
+        "mens-necktie-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/shirt-styles/collars/tab"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C208/index.html",
+      "posts": [
+        "mens-coat-fabric-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C208/index.html"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C210/index.html",
+      "posts": [
+        "mens-tshirt-fit-guide.md",
+        "mens-tshirt-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C210/index.html"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C211/index.html",
+      "posts": [
+        "mens-knit-gauge-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C211/index.html"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C227/index.html",
+      "posts": [
+        "mens-trouser-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C227/index.html"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C309/index.html",
+      "posts": [
+        "mens-trouser-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C309/index.html"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C314/index.html",
+      "posts": [
+        "mens-clothing-alteration-guide.md",
+        "mens-trouser-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C314/index.html"
+    },
+    {
+      "url": "https://putthison.com/a-basic-guide-on-alterations/",
+      "posts": [
+        "mens-body-type-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://putthison.com/a-basic-guide-on-alterations/"
+    },
+    {
+      "url": "https://reservation.knps.or.kr/contents/C/serviceGuide.do?prdDvcd=C&parkId=B02&deptId=B021001",
+      "posts": [
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://reservation.knps.or.kr/contents/C/serviceGuide.do?prdDvcd=C&parkId=B02&deptId=B021001"
+    },
+    {
+      "url": "https://sa.hm.com/en/ironing-shirt",
+      "posts": [
+        "mens-shirt-ironing-wrinkle-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://sa.hm.com/en/ironing-shirt"
+    },
+    {
+      "url": "https://school.use.go.kr/onnam-e/M010303/view/3525288",
+      "posts": [
+        "mens-first-birthday-party-dad-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://school.use.go.kr/onnam-e/M010303/view/3525288"
+    },
+    {
+      "url": "https://shoegazing.com/2021/04/06/guide-simple-corrections-of-fit-nr-2/",
+      "posts": [
+        "mens-dress-shoe-fit-check-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://shoegazing.com/2021/04/06/guide-simple-corrections-of-fit-nr-2/"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-alcoholic-beverages-beer-wine/",
+      "posts": [
+        "mens-garment-stain-first-aid-guide.md",
+        "mens-anniversary-dinner-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-alcoholic-beverages-beer-wine/"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-blood/",
+      "posts": [
+        "mens-garment-stain-first-aid-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-blood/"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-coffee-tea/",
+      "posts": [
+        "mens-garment-stain-first-aid-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-coffee-tea/"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-ink-ballpoint-felt-tip-india-mimeo-stamp-pad/",
+      "posts": [
+        "mens-garment-stain-first-aid-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-ink-ballpoint-felt-tip-india-mimeo-stamp-pad/"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-oil-based-foods/",
+      "posts": [
+        "mens-garment-stain-first-aid-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-oil-based-foods/"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-perspiration/",
+      "posts": [
+        "mens-garment-stain-first-aid-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-perspiration/"
+    },
+    {
+      "url": "https://sizekorea.kr/human-info/compare-meas-year",
+      "posts": [
+        "mens-average-body-size-korea-guide.md"
+      ],
+      "status": null,
+      "error": "TypeError"
+    },
+    {
+      "url": "https://sizekorea.kr/human-info/meas-report?measDegree=8",
+      "posts": [
+        "mens-average-body-size-korea-guide.md",
+        "mens-shirt-fit-guide.md",
+        "mens-dress-shoe-fit-check-guide.md"
+      ],
+      "status": null,
+      "error": "TypeError"
+    },
+    {
+      "url": "https://stetson.com/pages/frequently-asked-questions",
+      "posts": [
+        "mens-hat-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://stetson.com/pages/frequently-asked-questions"
+    },
+    {
+      "url": "https://suitsupply.com/en-no/journal/best-polo-shirts-for-men-styling-guide.html",
+      "posts": [
+        "mens-blazer-separates-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-no/journal/best-polo-shirts-for-men-styling-guide.html"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-it-should-fit-jacket.html",
+      "posts": [
+        "mens-knit-layering-guide.md",
+        "mens-jacket-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-it-should-fit-jacket.html"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-it-should-fit.html",
+      "posts": [
+        "mens-formal-family-meeting-outfit-guide.md",
+        "mens-suit-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-it-should-fit.html"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-shirts.html",
+      "posts": [
+        "mens-business-casual-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-shirts.html"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-suits.html",
+      "posts": [
+        "mens-shirt-ironing-wrinkle-guide.md",
+        "mens-suit-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-suits.html"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-trousers.html",
+      "posts": [
+        "mens-trouser-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-trousers.html"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/trousers-fit-guide.html",
+      "posts": [
+        "mens-body-type-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/trousers-fit-guide.html"
+    },
+    {
+      "url": "https://support.apple.com/en-sg/guide/personal-safety/ips0d7a5df82/web",
+      "posts": [
+        "mens-seasonal-wardrobe-storage-guide.md",
+        "mens-seasonal-wardrobe-storage-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-sg/guide/personal-safety/ips0d7a5df82/web"
+    },
+    {
+      "url": "https://support.apple.com/en-us/118234",
+      "posts": [
+        "mens-watch-outfit-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/118234"
+    },
+    {
+      "url": "https://support.apple.com/en-us/121552",
+      "posts": [
+        "mens-work-bag-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/121552"
+    },
+    {
+      "url": "https://textileresearchlab.pratt.edu/construction/knits",
+      "posts": [
+        "mens-polo-shirt-selection-guide.md",
+        "mens-polo-shirt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://textileresearchlab.pratt.edu/construction/knits"
+    },
+    {
+      "url": "https://textileresearchlab.pratt.edu/construction/wovens",
+      "posts": [
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-shirt-fabric-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://textileresearchlab.pratt.edu/construction/wovens"
+    },
+    {
+      "url": "https://thesuitdoctor.com/blog/anatomy-of-a-perfectly-fitting-suit-12-points",
+      "posts": [
+        "mens-clothing-alteration-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://thesuitdoctor.com/blog/anatomy-of-a-perfectly-fitting-suit-12-points"
+    },
+    {
+      "url": "https://turnbullandasser.com/pages/garment-care-shirts",
+      "posts": [
+        "mens-shirt-collar-guide.md",
+        "mens-shirt-collar-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://turnbullandasser.com/pages/garment-care-shirts"
+    },
+    {
+      "url": "https://uk.burberry.com/check-cashmere-scarf-p80765761",
+      "posts": [
+        "mens-scarf-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://uk.burberry.com/check-cashmere-scarf-p80765761"
+    },
+    {
+      "url": "https://uk.burberry.com/wide-check-cashmere-scarf-p80859311",
+      "posts": [
+        "mens-scarf-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://uk.burberry.com/wide-check-cashmere-scarf-p80859311"
+    },
+    {
+      "url": "https://us.baracuta.com/pages/about",
+      "posts": [
+        "mens-overshirt-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://kr.baracuta.com/pages/about?shpxid=f4ee5082-21cf-47fa-a948-1a24849e816f"
+    },
+    {
+      "url": "https://us.burberry.com/mid-length-gabardine-leadenham-trench-coat-p81270221",
+      "posts": [
+        "mens-trench-coat-commute-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://us.burberry.com/mid-length-gabardine-leadenham-trench-coat-p81270221"
+    },
+    {
+      "url": "https://us.canali.com/white-cotton-pochette-04hs000451/p",
+      "posts": [
+        "mens-necktie-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://us.canali.com/white-cotton-pochette-04hs000451/p"
+    },
+    {
+      "url": "https://us.crockettandjones.com/pages/size-guide-belts",
+      "posts": [
+        "mens-belt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://us.crockettandjones.com/pages/size-guide-belts"
+    },
+    {
+      "url": "https://us.dentsgloves.com/pages/belts-size-guide",
+      "posts": [
+        "mens-belt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://us.dentsgloves.com/pages/belts-size-guide"
+    },
+    {
+      "url": "https://vienneseball.stanford.edu/faq",
+      "posts": [
+        "mens-invitation-dress-code-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://vienneseball.stanford.edu/faq"
+    },
+    {
+      "url": "https://www.aad.org/public/diseases/eczema/insider/nickel-allergy",
+      "posts": [
+        "mens-watch-outfit-pairing-guide.md",
+        "mens-belt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.aad.org/public/diseases/eczema/insider/nickel-allergy"
+    },
+    {
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/gray-hair-causes",
+      "posts": [
+        "mens-muted-color-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/gray-hair-causes"
+    },
+    {
+      "url": "https://www.acnestudios.com/us/en/fringe-wool-scarf---oversized-black/CA0209-900.html",
+      "posts": [
+        "mens-scarf-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.acnestudios.com/us/en/fringe-wool-scarf---oversized-black/CA0209-900.html"
+    },
+    {
+      "url": "https://www.adobe.com/creativecloud/photography/discover/anti-aliasing.html",
+      "posts": [
+        "mens-career-interview-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.adobe.com/creativecloud/photography/discover/anti-aliasing.html"
+    },
+    {
+      "url": "https://www.airport.kr/ap_ko/906/subview.do",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md",
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.airport.kr/ap_ko/906/subview.do"
+    },
+    {
+      "url": "https://www.allaboutvision.com/eyewear/eyeglasses/styles/glasses-frame-size/",
+      "posts": [
+        "mens-eyewear-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.allaboutvision.com/eyewear/eyeglasses/styles/glasses-frame-size/"
+    },
+    {
+      "url": "https://www.allergyuk.org/about-allergy/types-of-allergies/hayfever/",
+      "posts": [
+        "mens-trench-coat-commute-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.allergyuk.org/types-of-allergies/hayfever/"
+    },
+    {
+      "url": "https://www.amefird.com/wp-content/uploads/2010/01/Selecting-the-right-SPI-2-5-10.pdf",
+      "posts": [
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.amefird.com/wp-content/uploads/2010/01/Selecting-the-right-SPI-2-5-10.pdf"
+    },
+    {
+      "url": "https://www.artofmanliness.com/style/101-style-tips-men/",
+      "posts": [
+        "mens-necktie-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.artofmanliness.com/style/101-style-tips-men/"
+    },
+    {
+      "url": "https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy",
+      "posts": [
+        "mens-business-casual-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy"
+    },
+    {
+      "url": "https://www.barbour.com/gb/quilted-jacket-care-guide.html",
+      "posts": [
+        "mens-overshirt-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.barbour.com/gb/quilted-jacket-care-guide.html"
+    },
+    {
+      "url": "https://www.bcdtravel.com/how-to-guides/how-to-pack-a-capsule-wardrobe-for-business-trips/",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.bcdtravel.com/how-to-guides/how-to-pack-a-capsule-wardrobe-for-business-trips/"
+    },
+    {
+      "url": "https://www.beautifulstore.org/donation-item",
+      "posts": [
+        "mens-wardrobe-budget-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.beautifulstore.org/donation-item"
+    },
+    {
+      "url": "https://www.belstaff.com/en-us/pages/product-care",
+      "posts": [
+        "mens-overshirt-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://belstaff.com/en-us/pages/product-care"
+    },
+    {
+      "url": "https://www.birkenstock.com/us/us-service-fittingguide.html",
+      "posts": [
+        "mens-loafer-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.birkenstock.com/us/us-service-fittingguide.html"
+    },
+    {
+      "url": "https://www.brides.com/can-men-wear-white-to-a-wedding-11807543",
+      "posts": [
+        "mens-wedding-guest-outfit-guide.md"
+      ],
+      "status": 402,
+      "finalUrl": "https://www.brides.com/can-men-wear-white-to-a-wedding-11807543"
+    },
+    {
+      "url": "https://www.brides.com/can-you-wear-black-to-a-wedding-4800808",
+      "posts": [
+        "mens-wedding-guest-outfit-guide.md"
+      ],
+      "status": 402,
+      "finalUrl": "https://www.brides.com/can-you-wear-black-to-a-wedding-4800808"
+    },
+    {
+      "url": "https://www.britannica.com/topic/flannel",
+      "posts": [
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-shirt-fabric-selection-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.britannica.com/topic/flannel"
+    },
+    {
+      "url": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-alum-vegetable-mineral-leather.html",
+      "posts": [
+        "mens-leather-shoe-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-alum-vegetable-mineral-leather.html"
+    },
+    {
+      "url": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/hanging-storage-costumes.html",
+      "posts": [
+        "mens-seasonal-wardrobe-storage-guide.md",
+        "mens-seasonal-wardrobe-storage-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/hanging-storage-costumes.html"
+    },
+    {
+      "url": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html",
+      "posts": [
+        "mens-seasonal-wardrobe-storage-guide.md",
+        "mens-seasonal-wardrobe-storage-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html"
+    },
+    {
+      "url": "https://www.canon-europe.com/pro/infobank/white-balance/",
+      "posts": [
+        "mens-eyewear-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.canon-europe.com/pro/infobank/white-balance/"
+    },
+    {
+      "url": "https://www.cdc.gov/blood-clots/risk-factors/travel.html",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md",
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.cdc.gov/blood-clots/risk-factors/travel.html"
+    },
+    {
+      "url": "https://www.cdc.gov/skin-cancer/sun-safety/index.html",
+      "posts": [
+        "mens-hat-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.cdc.gov/skin-cancer/sun-safety/index.html"
+    },
+    {
+      "url": "https://www.charlestyrwhitt.com/nl/en_NL/about-our-collars.html",
+      "posts": [
+        "mens-shirt-collar-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.charlestyrwhitt.com/nl/nl_NL/about-our-collars.html"
+    },
+    {
+      "url": "https://www.charlestyrwhitt.com/us/editorial-style-tips/about-our-non-iron-shirts.html",
+      "posts": [
+        "mens-shirt-collar-guide.md",
+        "mens-shirt-collar-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.charlestyrwhitt.com/us/editorial-style-tips/about-our-non-iron-shirts.html"
+    },
+    {
+      "url": "https://www.cheaney.co.uk/blog/what-is-the-difference-between-a-derby-shoe-vs-an-oxford-shoe/",
+      "posts": [
+        "mens-formal-family-meeting-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.cheaney.co.uk/blog/what-is-the-difference-between-a-derby-shoe-vs-an-oxford-shoe/"
+    },
+    {
+      "url": "https://www.church-footwear.com/us/en/p/calf-leather-oxford-brogue/EEB355_9WF_F0AAB_F_000000",
+      "posts": [
+        "mens-derby-oxford-shoe-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.church-footwear.com/us/en/p/calf-leather-oxford-brogue/EEB355_9WF_F0AAB_F_000000"
+    },
+    {
+      "url": "https://www.citizenwatch-global.com/support/maintenance/bandchange.html",
+      "posts": [
+        "mens-watch-outfit-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.citizenwatch-global.com/support/maintenance/bandchange.html"
+    },
+    {
+      "url": "https://www.clarks.com/en-gb/editorial/how-to-wear-desert-boots",
+      "posts": [
+        "mens-boot-selection-styling-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.clarks.com/en-gb/editorial/how-to-wear-desert-boots"
+    },
+    {
+      "url": "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care",
+      "posts": [
+        "mens-knit-pilling-care-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care"
+    },
+    {
+      "url": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide",
+      "posts": [
+        "mens-trouser-care-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide"
+    },
+    {
+      "url": "https://www.coach.com/support/repairs",
+      "posts": [
+        "mens-work-bag-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://korea.coach.com/"
+    },
+    {
+      "url": "https://www.coach.com/support/size-guide",
+      "posts": [
+        "mens-belt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://korea.coach.com/"
+    },
+    {
+      "url": "https://www.columbia.edu/~on2110/Papers/Schoenmueller_Netzer_Stahl_2020.pdf",
+      "posts": [
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.columbia.edu/~on2110/Papers/Schoenmueller_Netzer_Stahl_2020.pdf"
+    },
+    {
+      "url": "https://www.consumer.go.kr",
+      "posts": [
+        "mens-down-jacket-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.consumer.go.kr/"
+    },
+    {
+      "url": "https://www.cpsc.gov/s3fs-public/pdfs/foia_NPRStrollersCarriages.pdf",
+      "posts": [
+        "mens-first-birthday-party-dad-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.cpsc.gov/s3fs-public/pdfs/foia_NPRStrollersCarriages.pdf"
+    },
+    {
+      "url": "https://www.crockettandjones.com/blogs/the-article/a-guide-to-fitting",
+      "posts": [
+        "mens-dress-shoe-fit-check-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/blogs/the-article/a-guide-to-fitting"
+    },
+    {
+      "url": "https://www.crockettandjones.com/blogs/the-article/definitive-guide-the-english-oxford",
+      "posts": [
+        "mens-derby-oxford-shoe-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/blogs/the-article/definitive-guide-the-english-oxford"
+    },
+    {
+      "url": "https://www.crockettandjones.com/blogs/the-article/how-to-trying-shoes-on-at-home",
+      "posts": [
+        "mens-office-sneaker-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/blogs/the-article/how-to-trying-shoes-on-at-home"
+    },
+    {
+      "url": "https://www.crockettandjones.com/blogs/the-article/origins-of-shoe-styles-the-derby",
+      "posts": [
+        "mens-derby-oxford-shoe-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/blogs/the-article/origins-of-shoe-styles-the-derby"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/fitting-guide",
+      "posts": [
+        "mens-dress-shoe-fit-check-guide.md",
+        "mens-boot-selection-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/fitting-guide"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/grain-shoe-care",
+      "posts": [
+        "mens-leather-shoe-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/grain-shoe-care"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/repairs",
+      "posts": [
+        "mens-leather-shoe-care-guide.md",
+        "mens-derby-oxford-shoe-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/repairs"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/shoe-care-hacks",
+      "posts": [
+        "mens-leather-shoe-care-guide.md",
+        "mens-boot-selection-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/shoe-care-hacks"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/sole-guide",
+      "posts": [
+        "mens-boot-selection-styling-guide.md",
+        "mens-derby-oxford-shoe-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/sole-guide"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/style-guide",
+      "posts": [
+        "mens-boot-selection-styling-guide.md",
+        "mens-derby-oxford-shoe-guide.md",
+        "mens-loafer-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/style-guide"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/suede-shoe-care",
+      "posts": [
+        "mens-leather-shoe-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/suede-shoe-care"
+    },
+    {
+      "url": "https://www.debeach.co.kr/booking/use-guide",
+      "posts": [
+        "mens-first-golf-round-outfit-guide.md",
+        "mens-first-golf-round-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.debeach.co.kr/booking/use-guide"
+    },
+    {
+      "url": "https://www.dentsgloves.com/pages/gloves-size-guide",
+      "posts": [
+        "mens-scarf-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.dentsgloves.com/pages/gloves-size-guide"
+    },
+    {
+      "url": "https://www.dhs.gov/sites/default/files/publications/nppd-memorandum-business-casual-dress-guidance.pdf",
+      "posts": [
+        "mens-chino-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.dhs.gov/sites/default/files/publications/nppd-memorandum-business-casual-dress-guidance.pdf"
+    },
+    {
+      "url": "https://www.djtc.kr/kor/page.do?menuIdx=449",
+      "posts": [
+        "mens-scarf-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.djtc.kr/kor/page.do?menuIdx=449"
+    },
+    {
+      "url": "https://www.drakes.com/blogs/news/drakes-edinburgh-lookbook-2021",
+      "posts": [
+        "mens-muted-color-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.drakes.com/en-kr/blogs/news/drakes-edinburgh-lookbook-2021"
+    },
+    {
+      "url": "https://www.drakes.com/products/navy-and-ecru-bar-stripe-hand-rolled-silk-grenadine-tie",
+      "posts": [
+        "mens-necktie-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.drakes.com/en-kr/products/navy-and-ecru-bar-stripe-hand-rolled-silk-grenadine-tie"
+    },
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/use-and-care-home-humidifiers",
+      "posts": [
+        "mens-garment-care-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.epa.gov/indoor-air-quality-iaq/use-and-care-home-humidifiers"
+    },
+    {
+      "url": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home",
+      "posts": [
+        "mens-seasonal-wardrobe-storage-guide.md",
+        "mens-seasonal-wardrobe-storage-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home"
+    },
+    {
+      "url": "https://www.esquire.com/style/g69949472/best-shirt-jackets-for-men/",
+      "posts": [
+        "mens-overshirt-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.esquire.com/style/g69949472/best-shirt-jackets-for-men/"
+    },
+    {
+      "url": "https://www.esquire.com/style/mens-fashion/advice/a5740/belts-shoes-match-0509/",
+      "posts": [
+        "mens-belt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.esquire.com/style/mens-fashion/advice/a5740/belts-shoes-match-0509/"
+    },
+    {
+      "url": "https://www.faa.gov/travelers/fly_safe/turbulence",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md",
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.faa.gov/travelers/fly_safe/turbulence"
+    },
+    {
+      "url": "https://www.filson.com/pages/flannel-shirts-lp",
+      "posts": [
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-shirt-fabric-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.filson.com/pages/flannel-shirts-lp"
+    },
+    {
+      "url": "https://www.ftc.go.kr/www/contents.do?key=703",
+      "posts": [
+        "mens-wardrobe-budget-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ftc.go.kr/www/contents.do?key=703"
+    },
+    {
+      "url": "https://www.ftc.go.kr/www/selectBbsNttView.do?bordCd=3&key=12&searchCtgry=01%2C02&nttSn=46882",
+      "posts": [
+        "mens-down-jacket-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ftc.go.kr/www/selectBbsNttView.do?bordCd=3&key=12&searchCtgry=01%2C02&nttSn=46882"
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts",
+      "posts": [
+        "mens-coat-fabric-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts"
+    },
+    {
+      "url": "https://www.fultonumbrellas.com/products/ambassador-black",
+      "posts": [
+        "mens-trench-coat-commute-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.fultonumbrellas.com/products/ambassador-black"
+    },
+    {
+      "url": "https://www.fultonumbrellas.com/products/storm-black",
+      "posts": [
+        "mens-trench-coat-commute-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.fultonumbrellas.com/products/storm-black"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/beginners-combining-shoes-socks-pants/",
+      "posts": [
+        "mens-sock-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/beginners-combining-shoes-socks-pants/"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/how-to-button-your-suits/",
+      "posts": [
+        "mens-jacket-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/how-to-button-your-suits/"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/mohair-fabric-guide/",
+      "posts": [
+        "mens-suit-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/mohair-fabric-guide/"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/should-you-wear-cuffed-pants/",
+      "posts": [
+        "mens-smart-denim-styling-guide.md",
+        "mens-trouser-fit-guide.md",
+        "mens-chino-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/should-you-wear-cuffed-pants/"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/suit-alterations-what-a-tailor-can-do/",
+      "posts": [
+        "mens-clothing-alteration-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/suit-alterations-what-a-tailor-can-do/"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/wool-super-numbers-explained/",
+      "posts": [
+        "mens-suit-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/wool-super-numbers-explained/"
+    },
+    {
+      "url": "https://www.ghbass.com/blogs/news/loafer-fit-comfort-guide-how-should-loafers-really-feel",
+      "posts": [
+        "mens-loafer-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ghbass.com/blogs/news/loafer-fit-comfort-guide-how-should-loafers-really-feel"
+    },
+    {
+      "url": "https://www.ginetex.net/gb/labelling/care-symbols.asp",
+      "posts": [
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-polo-shirt-selection-guide.md",
+        "mens-polo-shirt-selection-guide.md",
+        "mens-shirt-ironing-wrinkle-guide.md",
+        "mens-tshirt-fit-guide.md",
+        "mens-tshirt-fit-guide.md",
+        "mens-trench-coat-commute-guide.md",
+        "mens-garment-care-label-guide.md",
+        "mens-coat-fabric-selection-guide.md",
+        "mens-hat-selection-guide.md",
+        "mens-blazer-separates-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ginetex.net/gb/labelling/care-symbols.asp"
+    },
+    {
+      "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+      "posts": [
+        "mens-trouser-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ginetex.net/GB/labelling/care-symbols.asp"
+    },
+    {
+      "url": "https://www.ginetex.net/labelling/care-symbols/",
+      "posts": [
+        "mens-necktie-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ginetex.net/labelling/care-symbols/"
+    },
+    {
+      "url": "https://www.gov.uk/guidance/the-highway-code/rules-for-drivers-and-motorcyclists-89-to-102",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md",
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gov.uk/guidance/the-highway-code/rules-for-drivers-and-motorcyclists-89-to-102"
+    },
+    {
+      "url": "https://www.grand-seiko.com/us-en/collections/sbgk007g",
+      "posts": [
+        "mens-watch-outfit-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.grand-seiko.com/us-en/collections/sbgk007g"
+    },
+    {
+      "url": "https://www.gucci.com/us/en/st/stories/making-of/article/the-making-of-the-horsebit-loafer",
+      "posts": [
+        "mens-loafer-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gucci.com/us/en/st/stories/making-of/article/the-making-of-the-horsebit-loafer"
+    },
+    {
+      "url": "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain",
+      "posts": [
+        "mens-anniversary-dinner-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain"
+    },
+    {
+      "url": "https://www.harristweedhebrides.com/pages/weights",
+      "posts": [
+        "mens-blazer-separates-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.harristweedhebrides.com/pages/weights"
+    },
+    {
+      "url": "https://www.heddels.com/2013/01/the-complete-guide-to-understanding-raw-denim-weights/",
+      "posts": [
+        "mens-smart-denim-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.heddels.com/2013/01/the-complete-guide-to-understanding-raw-denim-weights/"
+    },
+    {
+      "url": "https://www.hermes.com/us/en/content/89726-leathercareinstructions/",
+      "posts": [
+        "mens-work-bag-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hermes.com/us/en/content/89726-leathercareinstructions/"
+    },
+    {
+      "url": "https://www.hestragloves.us/blogs/guides/glove-care",
+      "posts": [
+        "mens-scarf-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hestragloves.us/blogs/guides/glove-care"
+    },
+    {
+      "url": "https://www.hsc.edu/winter-ball",
+      "posts": [
+        "mens-invitation-dress-code-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hsc.edu/winter-ball"
+    },
+    {
+      "url": "https://www.hse.gov.uk/slips/footprocure.htm",
+      "posts": [
+        "mens-derby-oxford-shoe-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hse.gov.uk/slips/footprocure.htm"
+    },
+    {
+      "url": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney/policies",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney/policies"
+    },
+    {
+      "url": "https://www.iso.org/standard/61686.html",
+      "posts": [
+        "mens-wardrobe-budget-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.iso.org/standard/61686.html"
+    },
+    {
+      "url": "https://www.kats.go.kr/content.do?cmsid=240&searchField=title&y=0&x=0&mode=view&page=1&cid=23007",
+      "posts": [
+        "mens-average-body-size-korea-guide.md",
+        "mens-body-type-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kats.go.kr/content.do?cmsid=240&searchField=title&y=0&x=0&mode=view&page=1&cid=23007"
+    },
+    {
+      "url": "https://www.kats.go.kr/content.do?cmsid=527&mode=view&page=&cid=24422",
+      "posts": [
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-shirt-fabric-selection-guide.md",
+        "mens-coat-fabric-selection-guide.md",
+        "mens-overshirt-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kats.go.kr/content.do?cmsid=527&mode=view&page=&cid=24422"
+    },
+    {
+      "url": "https://www.kats.go.kr/cwsboard/board.do?mode=download&bid=476&cid=19161&filename=19161_201904011556591851.pdf",
+      "posts": [
+        "mens-work-bag-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kats.go.kr/cwsboard/board.do?mode=download&bid=476&cid=19161&filename=19161_201904011556591851.pdf"
+    },
+    {
+      "url": "https://www.kca.go.kr/home/sub.do?menukey=4002&mode=view&no=1003973994",
+      "posts": [
+        "mens-down-jacket-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/home/sub.do?menukey=4002&mode=view&no=1003973994"
+    },
+    {
+      "url": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1001407559",
+      "posts": [
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1001407559"
+    },
+    {
+      "url": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003860348",
+      "posts": [
+        "mens-garment-stain-first-aid-guide.md",
+        "mens-garment-care-label-guide.md",
+        "mens-trouser-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003860348"
+    },
+    {
+      "url": "https://www.kca.go.kr/kca/board/download.do?menukey=5084&fno=10034336&bid=00000013&did=1003330774",
+      "posts": [
+        "mens-wardrobe-budget-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/kca/board/download.do?menukey=5084&fno=10034336&bid=00000013&did=1003330774"
+    },
+    {
+      "url": "https://www.kca.go.kr/smartconsumer/board/download.do?menukey=7301&fno=10034258&bid=00000146&did=1003327963",
+      "posts": [
+        "mens-watch-outfit-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/smartconsumer/board/download.do?menukey=7301&fno=10034258&bid=00000146&did=1003327963"
+    },
+    {
+      "url": "https://www.kca.go.kr/smartconsumer/sub.do?menukey=7301&mode=view&no=1003990149",
+      "posts": [
+        "mens-down-jacket-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/smartconsumer/sub.do?menukey=7301&mode=view&no=1003990149"
+    },
+    {
+      "url": "https://www.kdca.go.kr/kdca/3396/subview.do",
+      "posts": [
+        "mens-formal-family-meeting-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kdca.go.kr/kdca/3396/subview.do"
+    },
+    {
+      "url": "https://www.kfcpi.or.kr/portal/home/contents/contents_view.do?menuId=M0001000100030001",
+      "posts": [
+        "mens-funeral-attire-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kfcpi.or.kr/portal/home/contents/contents_view.do?menuId=M0001000100030001"
+    },
+    {
+      "url": "https://www.knps.or.kr/front/portal/visit/visitCourseSubMain.do?parkId=121500&parkNavGb=park&menuNo=7020092",
+      "posts": [
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.knps.or.kr/front/portal/visit/visitCourseSubMain.do?parkId=121500&parkNavGb=park&menuNo=7020092"
+    },
+    {
+      "url": "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198",
+      "posts": [
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198"
+    },
+    {
+      "url": "https://www.kolonsport.com/AfterSales/RepairCoverage",
+      "posts": [
+        "mens-clothing-alteration-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kolonsport.com/AfterSales/RepairCoverage"
+    },
+    {
+      "url": "https://www.korail.com/ticket/train/trainGuide/etiquette",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md",
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.korail.com/ticket/train/trainGuide/etiquette"
+    },
+    {
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148939574",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.korea.kr/news/policyNewsView.do?newsId=148939574"
+    },
+    {
+      "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000270136&chrClsCd=010201",
+      "posts": [
+        "mens-clothing-alteration-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000270136&chrClsCd=010201"
+    },
+    {
+      "url": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000239942",
+      "posts": [
+        "mens-watch-outfit-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000239942"
+    },
+    {
+      "url": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000250204",
+      "posts": [
+        "mens-belt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000250204"
+    },
+    {
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=009318&ancYnChk=0#0000",
+      "posts": [
+        "mens-dress-shoe-fit-check-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=009318&ancYnChk=0"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/전자상거래등에서의소비자보호에관한법률/제17조",
+      "posts": [
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98%EB%93%B1%EC%97%90%EC%84%9C%EC%9D%98%EC%86%8C%EB%B9%84%EC%9E%90%EB%B3%B4%ED%98%B8%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0/%EC%A0%9C17%EC%A1%B0"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/전자상거래등에서의소비자보호에관한법률/제18조",
+      "posts": [
+        "mens-online-clothing-measurement-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98%EB%93%B1%EC%97%90%EC%84%9C%EC%9D%98%EC%86%8C%EB%B9%84%EC%9E%90%EB%B3%B4%ED%98%B8%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0/%EC%A0%9C18%EC%A1%B0"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/news-working-business/news/article/5346/why-price-does-not-indicate-how-long-clothes-will-last",
+      "posts": [
+        "mens-wardrobe-budget-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.leeds.ac.uk/news-working-business/news/article/5346/why-price-does-not-indicate-how-long-clothes-will-last"
+    },
+    {
+      "url": "https://www.leeumhoam.org/leeum/info/visit",
+      "posts": [
+        "mens-invitation-dress-code-guide.md",
+        "mens-anniversary-dinner-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.leeumhoam.org/leeum/info/visit"
+    },
+    {
+      "url": "https://www.legendgolf.co.kr/Guide/Info.aspx",
+      "posts": [
+        "mens-first-golf-round-outfit-guide.md",
+        "mens-first-golf-round-outfit-guide.md"
+      ],
+      "status": 500,
+      "finalUrl": "https://www.legendgolf.co.kr/Guide/Info.aspx"
+    },
+    {
+      "url": "https://www.legislation.gov.uk/ukla/1993/11/section/7/enacted",
+      "posts": [
+        "mens-blazer-separates-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.legislation.gov.uk/ukla/1993/11/section/7/enacted"
+    },
+    {
+      "url": "https://www.levi.com/US/en_US/blog/article/the-definitive-guide-to-denim",
+      "posts": [
+        "mens-smart-denim-styling-guide.md"
+      ],
+      "status": null,
+      "error": "TimeoutError"
+    },
+    {
+      "url": "https://www.loake.com/faqs/",
+      "posts": [
+        "mens-blazer-separates-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.loake.com/faqs/"
+    },
+    {
+      "url": "https://www.lockhatters.com/pages/hat-care-tips",
+      "posts": [
+        "mens-hat-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.lockhatters.com/pages/hat-care-tips"
+    },
+    {
+      "url": "https://www.longchamp.com/in/en/maison-longchamp/savoir-faire/article-ensure-bag-longevity.html",
+      "posts": [
+        "mens-work-bag-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.longchamp.com/in/en/maison-longchamp/savoir-faire/article-ensure-bag-longevity.html"
+    },
+    {
+      "url": "https://www.lycra.com/en/business/news/discover-secret-durable-swimwear",
+      "posts": [
+        "mens-garment-care-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.lycra.com/en/business/news/discover-secret-durable-swimwear"
+    },
+    {
+      "url": "https://www.marriott.com/ko/hotels/seljw-jw-marriott-hotel-seoul/dining/",
+      "posts": [
+        "mens-formal-family-meeting-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.marriott.com/ko/hotels/seljw-jw-marriott-hotel-seoul/dining/"
+    },
+    {
+      "url": "https://www.mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1879940&boardMasterId=939&boardCategoryId=&decorator=",
+      "posts": [
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1879940&boardMasterId=939&boardCategoryId=&decorator="
+    },
+    {
+      "url": "https://www.medicaljournals.se/acta/content/html/10.2340/00015555-2655",
+      "posts": [
+        "mens-coat-fabric-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.medicaljournals.se/acta/content/html/10.2340/00015555-2655"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/bucket%20hat",
+      "posts": [
+        "mens-hat-selection-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/bucket%20hat"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/cardigan",
+      "posts": [
+        "mens-knit-layering-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/cardigan"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/chino",
+      "posts": [
+        "mens-chino-styling-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/chino"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/mitten",
+      "posts": [
+        "mens-scarf-styling-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/mitten"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/mock%20turtleneck",
+      "posts": [
+        "mens-knit-gauge-selection-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/mock%20turtleneck"
+    },
+    {
+      "url": "https://www.mmca.go.kr/seoul/viewingInfo/restrictedItems.do",
+      "posts": [
+        "mens-anniversary-dinner-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mmca.go.kr/seoul/viewingInfo/restrictedItems.do"
+    },
+    {
+      "url": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=29687",
+      "posts": [
+        "mens-business-casual-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=29687"
+    },
+    {
+      "url": "https://www.mrporter.com/en-au/journal/fashion/a-mans-guide-to-tying-a-winter-scarf-five-ways-1614518",
+      "posts": [
+        "mens-scarf-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mrporter.com/en-au/journal/fashion/a-mans-guide-to-tying-a-winter-scarf-five-ways-1614518"
+    },
+    {
+      "url": "https://www.mrporter.com/en-hk/journal/fashion/socks-with-sandals-trend-street-style-1296228",
+      "posts": [
+        "mens-loafer-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mrporter.com/en-hk/journal/fashion/socks-with-sandals-trend-street-style-1296228"
+    },
+    {
+      "url": "https://www.mrporter.com/en-us/journal/fashion/how-to-choose-the-right-belt-680402",
+      "posts": [
+        "mens-belt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mrporter.com/en-us/journal/fashion/how-to-choose-the-right-belt-680402"
+    },
+    {
+      "url": "https://www.mulberry.com/gb/customer-services/care-and-repairs",
+      "posts": [
+        "mens-work-bag-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mulberry.com/gb/customer-services/care-and-repairs"
+    },
+    {
+      "url": "https://www.museivaticani.va/content/museivaticani/en/organizza-visita/consigli-utili.html",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.museivaticani.va/content/museivaticani/en/organizza-visita/consigli-utili.html"
+    },
+    {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "posts": [
+        "mens-anniversary-dinner-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do"
+    },
+    {
+      "url": "https://www.neweracap.com/pages/sizing-chart",
+      "posts": [
+        "mens-hat-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.neweracap.com/pages/sizing-chart"
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/baby-and-toddler-safety/",
+      "posts": [
+        "mens-first-birthday-party-dad-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/baby/first-aid-and-safety/safety/baby-and-toddler-safety/"
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/blisters/",
+      "posts": [
+        "mens-dress-shoe-fit-check-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/conditions/blisters/"
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/visiting-someone-in-hospital/",
+      "posts": [
+        "mens-funeral-attire-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/visiting-someone-in-hospital/"
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/double-vision/",
+      "posts": [
+        "mens-eyewear-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/symptoms/double-vision/"
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/eye-pain/",
+      "posts": [
+        "mens-eyewear-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/symptoms/eye-pain/"
+    },
+    {
+      "url": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhtsa.gov/vehicle-safety/seat-belts"
+    },
+    {
+      "url": "https://www.nike.com/a/parts-of-shoe-anatomy",
+      "posts": [
+        "mens-office-sneaker-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nike.com/a/parts-of-shoe-anatomy"
+    },
+    {
+      "url": "https://www.nikonusa.com/learn-and-explore/c/products-and-innovation/moire-false-color",
+      "posts": [
+        "mens-first-birthday-party-dad-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nikonusa.com/learn-and-explore/c/products-and-innovation/moire-false-color"
+    },
+    {
+      "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors",
+      "posts": [
+        "mens-trouser-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors"
+    },
+    {
+      "url": "https://www.nps.gov/articles/10essentials.htm",
+      "posts": [
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nps.gov/articles/10essentials.htm"
+    },
+    {
+      "url": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+      "posts": [
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nps.gov/cato/planyourvisit/hiking.htm"
+    },
+    {
+      "url": "https://www.ntc.usta.com/about/terms-and-conditions-and-code-of-conduct",
+      "posts": [
+        "mens-first-golf-round-outfit-guide.md",
+        "mens-first-golf-round-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ntc.usta.com/about/terms-and-conditions-and-code-of-conduct"
+    },
+    {
+      "url": "https://www.nytimes.com/wirecutter/reviews/advice-rolling-clothes-vs-folding/",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md",
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.nytimes.com/wirecutter/reviews/advice-rolling-clothes-vs-folding/"
+    },
+    {
+      "url": "https://www.oliverwicks.com/article/suit-alterations",
+      "posts": [
+        "mens-jacket-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.oliverwicks.com/article/suit-alterations"
+    },
+    {
+      "url": "https://www.orthoinfo.org/en/staying-healthy/shoes-finding-the-right-fit/",
+      "posts": [
+        "mens-dress-shoe-fit-check-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.orthoinfo.org/staying-healthy/shoes-finding-the-right-fit/"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2016/03/how-wide-should-my-jacket-lapels-be.html",
+      "posts": [
+        "mens-jacket-fit-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2016/03/how-wide-should-my-jacket-lapels-be.html"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2020/05/summer-smart-casual-three-looks-three-levels-of-formality.html",
+      "posts": [
+        "mens-blazer-separates-styling-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2020/05/summer-smart-casual-three-looks-three-levels-of-formality.html"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2020/12/the-height-of-knitwear-why-necklines-matter.html",
+      "posts": [
+        "mens-knit-layering-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2020/12/the-height-of-knitwear-why-necklines-matter.html"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2021/08/adding-interest-to-a-navy-blazer-and-grey-trousers.html",
+      "posts": [
+        "mens-muted-color-pairing-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2021/08/adding-interest-to-a-navy-blazer-and-grey-trousers.html"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2022/03/the-formality-of-types-of-knitwear.html",
+      "posts": [
+        "mens-knit-layering-guide.md",
+        "mens-formal-family-meeting-outfit-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2022/03/the-formality-of-types-of-knitwear.html"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2024/01/what-colour-theory-can-teach-you-about-clothing.html",
+      "posts": [
+        "mens-muted-color-pairing-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2024/01/what-colour-theory-can-teach-you-about-clothing.html"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2024/09/belt-capsule-guide-the-basics.html",
+      "posts": [
+        "mens-belt-selection-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2024/09/belt-capsule-guide-the-basics.html"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2025/07/can-you-wear-structured-jackets-with-jeans.html",
+      "posts": [
+        "mens-smart-denim-styling-guide.md",
+        "mens-blazer-separates-styling-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2025/07/can-you-wear-structured-jackets-with-jeans.html"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2026/02/the-rules-and-how-to-break-them-your-socks-should-match-your-trousers.html",
+      "posts": [
+        "mens-sock-pairing-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2026/02/the-rules-and-how-to-break-them-your-socks-should-match-your-trousers.html"
+    },
+    {
+      "url": "https://www.premierevision.com/en/articles/f8f30281-75fa-ef11-90cb-00224888722c/technical-glossary-the-language-of-denim",
+      "posts": [
+        "mens-smart-denim-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.premierevision.com/en/articles/f8f30281-75fa-ef11-90cb-00224888722c/technical-glossary-the-language-of-denim"
+    },
+    {
+      "url": "https://www.rampleyandco.com/blogs/the-journal/16989644-pocket-square-etiquette",
+      "posts": [
+        "mens-necktie-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rampleyandco.com/blogs/the-journal/16989644-pocket-square-etiquette"
+    },
+    {
+      "url": "https://www.realmenrealstyle.com/dress-for-body-type/",
+      "posts": [
+        "mens-body-type-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.realmenrealstyle.com/dress-for-body-type/"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/down-vs-synthetic.html",
+      "posts": [
+        "mens-overshirt-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rei.com/learn/expert-advice/down-vs-synthetic.html"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/how-to-prevent-and-fix-pilling.html",
+      "posts": [
+        "mens-knit-pilling-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rei.com/learn/expert-advice/how-to-prevent-and-fix-pilling.html"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/what-is-down-fill-power.html",
+      "posts": [
+        "mens-overshirt-styling-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rei.com/learn/expert-advice/what-is-down-fill-power.html"
+    },
+    {
+      "url": "https://www.sac.or.kr/site/main/content/viewGuide",
+      "posts": [
+        "mens-invitation-dress-code-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.sac.or.kr/site/main/content/viewGuide"
+    },
+    {
+      "url": "https://www.sandals.com/blog/sandals-travel-checklist/",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md",
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.sandals.com/blog/sandals-travel-checklist/"
+    },
+    {
+      "url": "https://www.savilerowbespoke.com/about-us/tailoring-terms/",
+      "posts": [
+        "mens-suit-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.savilerowbespoke.com/about-us/tailoring-terms/"
+    },
+    {
+      "url": "https://www.schottnyc.com/products/740-the-original-navy-pea-coat",
+      "posts": [
+        "mens-coat-length-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.schottnyc.com/products/740-the-original-navy-pea-coat"
+    },
+    {
+      "url": "https://www.seikowatches.com/us-en/products/presage/ssa464j1",
+      "posts": [
+        "mens-watch-outfit-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.seikowatches.com/us-en/products/presage/ssa464j1"
+    },
+    {
+      "url": "https://www.shimaseiki.com/ire/company/vocabulary.html",
+      "posts": [
+        "mens-knit-gauge-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.shimaseiki.com/ire/company/vocabulary.html"
+    },
+    {
+      "url": "https://www.snuh.org/content/M002003.do",
+      "posts": [
+        "mens-funeral-attire-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.snuh.org/content/M002003.do"
+    },
+    {
+      "url": "https://www.spierandmackay.com/content/about-our-suits",
+      "posts": [
+        "mens-jacket-fit-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.spierandmackay.com/content/about-our-suits"
+    },
+    {
+      "url": "https://www.sunspel.com/en-eu/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa",
+      "posts": [
+        "mens-tshirt-fit-guide.md",
+        "mens-tshirt-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.sunspel.com/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa"
+    },
+    {
+      "url": "https://www.sunspel.com/en-eu/products/mens-short-sleeve-crew-neck-t-shirt-white",
+      "posts": [
+        "mens-tshirt-fit-guide.md",
+        "mens-tshirt-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.sunspel.com/products/mens-short-sleeve-crew-neck-t-shirt-white"
+    },
+    {
+      "url": "https://www.theknot.com/content/wedding-dress-code-for-guys",
+      "posts": [
+        "mens-wedding-guest-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.theknot.com/content/wedding-dress-code-for-guys"
+    },
+    {
+      "url": "https://www.thelaundress.com/blogs/tips/tips-tricks-for-seasonal-storage",
+      "posts": [
+        "mens-tshirt-fit-guide.md",
+        "mens-tshirt-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.thelaundress.com/blogs/tips/tips-tricks-for-seasonal-storage"
+    },
+    {
+      "url": "https://www.thetiebar.com/tie-size-guide",
+      "posts": [
+        "mens-necktie-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.thetiebar.com/tie-size-guide"
+    },
+    {
+      "url": "https://www.threadsmagazine.com/project-guides/fit-and-sew-tops/how-to-make-a-shirt-collar-2",
+      "posts": [
+        "mens-shirt-collar-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.threadsmagazine.com/project-guides/fit-and-sew-tops/how-to-make-a-shirt-collar-2"
+    },
+    {
+      "url": "https://www.tods.com/us-en/History-of-Tods/",
+      "posts": [
+        "mens-loafer-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.tods.com/us-en/History-of-Tods/"
+    },
+    {
+      "url": "https://www.tsa.gov/news/press/releases/2025/07/08/dhs-end-shoes-travel-policy",
+      "posts": [
+        "mens-travel-outfit-packing-guide.md",
+        "mens-travel-outfit-packing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.tsa.gov/news/press/releases/2025/07/08/dhs-end-shoes-travel-policy"
+    },
+    {
+      "url": "https://www.uniqlo.com/us/en/products/E481040-000/00",
+      "posts": [
+        "mens-knit-layering-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.uniqlo.com/us/en/products/E481040-000/00"
+    },
+    {
+      "url": "https://www.usmcu.edu/Portals/218/Attachment_5%20Appropriate%20Civilian%20Attire%20%28003%29.pdf",
+      "posts": [
+        "mens-polo-shirt-selection-guide.md",
+        "mens-polo-shirt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.usmcu.edu/Portals/218/Attachment_5%20Appropriate%20Civilian%20Attire%20%28003%29.pdf"
+    },
+    {
+      "url": "https://www.warbyparker.com/learn/glasses-for-different-face-shapes",
+      "posts": [
+        "mens-eyewear-outfit-guide.md"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.warbyparker.com/learn/glasses-for-different-face-shapes"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do",
+      "posts": [
+        "mens-wedding-guest-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/hazard/safety-guide/lightning.do",
+      "posts": [
+        "mens-trench-coat-commute-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.weather.go.kr/w/hazard/safety-guide/lightning.do"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/ocean/warning.do",
+      "posts": [
+        "mens-first-hiking-outfit-guide.md",
+        "mens-first-hiking-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.weather.go.kr/w/ocean/warning.do"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/theme/daily-life/life-weather-index.do",
+      "posts": [
+        "mens-first-golf-round-outfit-guide.md",
+        "mens-first-golf-round-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.weather.go.kr/w/forecast/life/life-weather-index.do"
+    },
+    {
+      "url": "https://www.wiener-staatsoper.at/en/practical-info/",
+      "posts": [
+        "mens-invitation-dress-code-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.wiener-staatsoper.at/en/practical-info/"
+    },
+    {
+      "url": "https://www.wmata.com/ride/elevators-escalators/safety.html",
+      "posts": [
+        "mens-coat-length-fit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.wmata.com/ride/elevators-escalators/safety.html"
+    },
+    {
+      "url": "https://www.woolmark.com/care/care-for-wool/",
+      "posts": [
+        "mens-shirt-ironing-wrinkle-guide.md",
+        "mens-trench-coat-commute-guide.md",
+        "mens-garment-care-label-guide.md",
+        "mens-knit-pilling-care-guide.md",
+        "mens-business-casual-guide.md",
+        "mens-knit-layering-guide.md",
+        "mens-coat-fabric-selection-guide.md",
+        "mens-blazer-separates-styling-guide.md",
+        "mens-seasonal-wardrobe-storage-guide.md",
+        "mens-seasonal-wardrobe-storage-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/care-for-wool/"
+    },
+    {
+      "url": "https://www.woolmark.com/care/how-to-dry-wool/",
+      "posts": [
+        "mens-polo-shirt-selection-guide.md",
+        "mens-polo-shirt-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/how-to-dry-wool/"
+    },
+    {
+      "url": "https://www.woolmark.com/care/how-to-repair-wool",
+      "posts": [
+        "mens-knit-pilling-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/how-to-repair-wool"
+    },
+    {
+      "url": "https://www.woolmark.com/care/how-to-wash-wool-sweater/",
+      "posts": [
+        "mens-knit-gauge-selection-guide.md",
+        "mens-knit-pilling-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/how-to-wash-wool-sweater/"
+    },
+    {
+      "url": "https://www.woolmark.com/care/pilling/",
+      "posts": [
+        "mens-polo-shirt-selection-guide.md",
+        "mens-polo-shirt-selection-guide.md",
+        "mens-knit-pilling-care-guide.md",
+        "mens-coat-fabric-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/pilling/"
+    },
+    {
+      "url": "https://www.woolmark.com/care/wash-wool-pants/",
+      "posts": [
+        "mens-trouser-care-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/wash-wool-pants/"
+    },
+    {
+      "url": "https://www.woolmark.com/globalassets/_06-new-woolmark/_industry/certification/_old-certification/product-specifications/f-6_fibre_quality_2016-1_22oct14_f.pdf",
+      "posts": [
+        "mens-suit-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/globalassets/_06-new-woolmark/_industry/certification/_old-certification/product-specifications/f-6_fibre_quality_2016-1_22oct14_f.pdf"
+    },
+    {
+      "url": "https://www.woolmark.com/industry/certification/product-specifications/",
+      "posts": [
+        "mens-coat-fabric-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/industry/certification/product-specifications/"
+    },
+    {
+      "url": "https://www.wrap.ngo/media-centre/press-releases/nations-wardrobes-hold-16-billion-items-unworn-clothes-people-open-new",
+      "posts": [
+        "mens-wardrobe-budget-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.wrap.ngo/media-centre/press-releases/nations-wardrobes-hold-16-billion-items-unworn-clothes-people-open-new"
+    },
+    {
+      "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/december/19/how-to-taste-wine",
+      "posts": [
+        "mens-anniversary-dinner-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.wsetglobal.com/knowledge-centre/blog/2023/december/19/how-to-taste-wine"
+    },
+    {
+      "url": "https://www.xrite.com/blog/what-is-metamerism",
+      "posts": [
+        "mens-muted-color-pairing-guide.md",
+        "mens-sock-pairing-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.xrite.com/blog/what-is-metamerism"
+    },
+    {
+      "url": "https://www.zeiss.com/vision-care/en/eye-health-and-care/understanding-vision/the-right-lenses-for-optimum-vision.html",
+      "posts": [
+        "mens-eyewear-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.zeiss.com/vision-care/en/eye-health-and-care/understanding-vision/the-right-lenses-for-optimum-vision.html"
+    },
+    {
+      "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260609164520793601",
+      "posts": [
+        "mens-first-golf-round-outfit-guide.md",
+        "mens-first-golf-round-outfit-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260609164520793601"
+    },
+    {
+      "url": "https://ykkamericas.com/product/aquaguard/",
+      "posts": [
+        "mens-work-bag-selection-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://ykkamericas.com/product/aquaguard-coil-with-bridge-top-stop/"
+    },
+    {
+      "url": "https://ykkamericas.com/wp-content/uploads/2021/10/ykk-zipper-instruction-manual-compressed.pdf",
+      "posts": [
+        "mens-clothing-alteration-guide.md",
+        "mens-shirt-ironing-wrinkle-guide.md",
+        "mens-garment-care-label-guide.md"
+      ],
+      "status": 200,
+      "finalUrl": "https://ykkamericas.com/wp-content/uploads/2021/10/ykk-zipper-instruction-manual-compressed.pdf"
+    }
+  ],
+  "followup": {
+    "scope": "55 public posts, unique external markdown URLs before corrections; HTTP success does not establish source accuracy.",
+    "confirmedIssues": [
+      {
+        "url": "https://www.coach.com/support/repairs",
+        "issue": "Redirected to Korean storefront homepage in this environment",
+        "action": "Replaced with Korean product-repair and FAQ pages; updated regional service claims"
+      },
+      {
+        "url": "https://www.coach.com/support/size-guide",
+        "issue": "Redirected to Korean storefront homepage in this environment",
+        "action": "Removed unverifiable Coach sizing recommendation and source; removed universal +2 inch starting recommendation"
+      }
+    ],
+    "unresolved": "40 non-200/timeouts need browser/content verification; do not label as broken. 292 HTTP 200 responses were not all reviewed for body content.",
+    "officialPolicySources": [
+      "https://support.google.com/adsense/answer/10015918?hl=ko",
+      "https://support.google.com/adsense/answer/7299563?hl=ko",
+      "https://support.google.com/adsense/answer/9724?hl=ko"
+    ],
+    "supplementalSearchGuidance": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ko",
+    "approvalLimitation": "No approval probability can be derived from this audit. Search guidance is not an AdSense approval checklist."
+  }
+}

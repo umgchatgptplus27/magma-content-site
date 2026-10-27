@@ -2,7 +2,7 @@
 title: "출근 가방 고르는 법과 노트북 치수 재기"
 description: "출근 가방 고르는 법을 정리했습니다. 브리프케이스·토트·백팩 비교, 노트북과 A4가 들어가는지 재는 법, 옷을 덜 상하게 드는 방식, 방수 문구와 가죽 관리까지 담았습니다."
 date: 2026-08-10
-updated: 2026-10-08
+updated: 2026-10-28
 tags: ["가방", "출근룩", "비즈니스 캐주얼", "보관", "수선"]
 thumbnail: "/images/mens-leather-bag-care-guide-look-2.webp"
 draft: false
@@ -96,7 +96,7 @@ Bellroy의 토트팩이나 TUMI의 3-way 브리프처럼 이름과 구조가 겹
 - **보관**: 속에 종이를 채워 모양을 잡고 더스트백에 넣어 통풍되는 곳에 둡니다. 비닐에 넣으면 습기가 차기 쉽습니다. 어깨끈은 접어 눌리지 않게 따로 둡니다.
 - **크림·오일**: 제조사 안내가 있는 경우에만, 먼저 안쪽이나 바닥처럼 눈에 띄지 않는 곳에 시험합니다. 색이 진해지거나 얼룩이 번지면 멈춥니다.
 
-손상이 생기면 부위로 판단합니다. 손잡이 봉제 풀림, 지퍼 고장, 금속 부품 흔들림, 모서리 마모는 수선으로 되살리는 경우가 많습니다. 표면 코팅이 넓게 갈라지거나 재조합가죽이 벗겨지는 경우는 수선보다 교체를 검토하는 편이 현실적입니다. 브랜드 수선도 범위가 정해져 있어서, Coach는 수선 접수 후 구조를 해치지 않고 고칠 수 있는지 평가해 결정하며 얼룩 제거와 가죽 재생은 수선 서비스에 포함하지 않는다고 안내합니다. 수선 기간도 브랜드 정책에 따라 몇 주씩 걸릴 수 있어, 매일 쓰는 가방이라면 맡기는 동안 쓸 대안을 먼저 준비합니다.
+손상이 생기면 부위로 판단합니다. 손잡이 봉제 풀림, 지퍼 고장, 금속 부품 흔들림, 모서리 마모는 수선으로 되살리는 경우가 많습니다. 표면 코팅이 넓게 갈라지거나 재조합가죽이 벗겨지는 경우는 수선보다 교체를 검토하는 편이 현실적입니다. 브랜드 수선은 구매 지역과 접수 조건을 확인합니다. Coach 한국 공식 안내는 가방·액세서리를 가까운 매장에 가져와 수선을 신청하도록 설명합니다. 한국 공식 온라인 스토어 FAQ에는 봉제·안감·금속 부품의 수선을 안내하고, 사용으로 생긴 소재·장식 손상은 보증 기간 중에도 유상이라고 명시합니다. 맡기기 전에 해당 제품의 수선 가능 여부와 비용을 매장에 확인합니다. 수선 기간도 브랜드 정책에 따라 몇 주씩 걸릴 수 있어, 매일 쓰는 가방이라면 맡기는 동안 쓸 대안을 먼저 준비합니다.
 
 ![회색 셔츠 차림의 남성이 짙은 갈색 가죽 가방을 열어 손잡이 연결부와 안감, 지퍼 주변을 살펴보는 장면](/images/mens-leather-bag-care-guide-look-4.webp)
 
@@ -128,5 +128,6 @@ Bellroy의 토트팩이나 TUMI의 3-way 브리프처럼 이름과 구조가 겹
 - [Hermès — Leather Care Instructions](https://www.hermes.com/us/en/content/89726-leathercareinstructions/)
 - [Longchamp — Product Care and Repair](https://www.longchamp.com/in/en/maison-longchamp/savoir-faire/article-ensure-bag-longevity.html)
 - [Mulberry — Care & Repairs](https://www.mulberry.com/gb/customer-services/care-and-repairs)
-- [Coach — Repairs](https://www.coach.com/support/repairs)
+- [Coach 한국 — 제품 수리](https://korea.coach.com/support/product-repair)
+- [Coach 한국 — FAQ, A/S 안내](https://korea.coach.com/support/faq)
 - [Siddiq et al. — Wallet Neuritis](https://europepmc.org/articles/PMC6204659)

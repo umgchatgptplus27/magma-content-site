@@ -2,7 +2,7 @@
 title: "남자 벨트 고르는 법: 폭·길이·버클·가죽 표시"
 description: "남자 벨트 고르는 법을 정장·비즈니스 캐주얼·데님별 폭, 기존 벨트로 사이즈 재기, 남는 끝 길이, 버클과 가죽 표시, 구두와 색 맞추기 순으로 정리했습니다."
 date: 2026-07-25
-updated: 2026-10-07
+updated: 2026-10-28
 tags: ["벨트", "구두", "색 조합", "비즈니스 캐주얼", "사이즈"]
 thumbnail: "/images/mens-belt-selection-guide-thumbnail.webp"
 draft: false
@@ -32,7 +32,7 @@ MR PORTER는 정장용 벨트를 약 3cm의 좁은 가죽과 작은 버클로 �
 
 ## 벨트 사이즈 재는 법: 바지 표기보다 '구멍까지의 길이'
 
-벨트 표기 사이즈와 바지 허리 표기는 같은 숫자가 아닐 수 있습니다. 브랜드마다 벨트 길이를 재는 기준점이 다르기 때문입니다. Crockett & Jones는 버클이 붙는 지점부터 가운데 구멍까지를 표기 길이로 삼고, Dents는 벨트를 맬 높이에서 허리를 직접 재도록 안내합니다. Coach는 자사 남성 벨트를 실제 허리보다 한 사이즈 크게 주문하라고 권합니다. 흔히 말하는 "바지 허리보다 5cm(2인치) 크게"는 출발점으로는 쓸 만하지만, 구매하려는 브랜드의 기준점을 먼저 확인해야 정확합니다.
+벨트 표기 사이즈와 바지 허리 표기는 같은 숫자가 아닐 수 있습니다. 브랜드마다 벨트 길이를 재는 기준점이 다르기 때문입니다. Crockett & Jones는 버클이 붙는 지점부터 가운데 구멍까지를 표기 길이로 삼고, Dents는 벨트를 맬 높이에서 허리를 직접 재도록 안내합니다. 바지 호칭에 일률적으로 5cm(2인치)를 더하기보다, 구매하려는 브랜드의 측정 기준과 잘 맞는 벨트의 실측을 대조합니다.
 
 가장 틀리지 않는 방법은 지금 잘 맞는 벨트를 재는 것입니다.
 
@@ -135,7 +135,6 @@ MR PORTER는 정장용 벨트를 약 3cm의 좁은 가죽과 작은 버클로 �
 - [Permanent Style — Belt capsule guide: The basics](https://www.permanentstyle.com/2024/09/belt-capsule-guide-the-basics.html)
 - [Crockett & Jones — Belt Size Guide](https://us.crockettandjones.com/pages/size-guide-belts)
 - [Dents — Men's Leather Belts Size Guide](https://us.dentsgloves.com/pages/belts-size-guide)
-- [Coach — Size Guide](https://www.coach.com/support/size-guide)
 - [Esquire — Why Your Belts and Shoes Don't Have to Match](https://www.esquire.com/style/mens-fashion/advice/a5740/belts-shoes-match-0509/)
 - [국가법령정보센터 — 안전기준준수대상생활용품의 안전기준, 부속서 3 가죽제품](https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000250204)
 - [American Academy of Dermatology — Nickel allergy](https://www.aad.org/public/diseases/eczema/insider/nickel-allergy)
