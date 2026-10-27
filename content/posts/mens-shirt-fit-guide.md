@@ -168,4 +168,4 @@ draft: false
 - [Proper Cloth — Mother of Pearl Button Replacement Set](https://propercloth.com/products/mother-of-pearl-button-replacement-set-214.html)
 - [Black Lapel — How Dress Shirts Should Fit: The Complete Guide](https://blacklapel.com/blogs/the-compass/how-dress-shirts-should-fit-the-complete-guide)
 - [Black Lapel — How Long Should My Suit Jacket Sleeves Be?](https://blacklapel.com/blogs/the-compass/how-long-should-my-suit-jacket-sleeves-be)
-- [사이즈코리아 — 제8차 인체치수조사 보고서·치수 데이터](https://sizekorea.kr/human-info/meas-report?measDegree=8)
+- [사이즈코리아 — 제8차 인체치수조사 보고서·치수 데이터](https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8)

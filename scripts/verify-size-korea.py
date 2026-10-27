@@ -38,7 +38,7 @@ def summarize(values):
 result = {
     'verified_date': '2026-10-28', 'source_file': source.name,
     'source_sha256': hashlib.sha256(source.read_bytes()).hexdigest(),
-    'source_url': 'https://sizekorea.kr/human-info/meas-report?measDegree=8',
+    'source_url': 'https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8',
     'sheet': sheet.title, 'filter': '성별 M, 30 <= 나이 < 50',
     'method': '비가중 집계. 항목별 숫자이며 0 < 값 < 9999인 값만 사용. 분위수는 (n-1)*p 위치의 선형 보간. 원자료 mm, cm 표시 시 10으로 나눔.',
     'limitations': '조사 참여자의 분포이며 한국 남성 전체의 가중 추정치나 개인의 핏·신발 폭 판정 기준이 아님. 원자료 파일의 공식 배포본 동일성은 별도 재확인 필요.',

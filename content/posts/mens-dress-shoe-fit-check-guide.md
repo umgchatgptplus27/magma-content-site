@@ -130,7 +130,7 @@ AAOS는 가장 긴 발가락과 신발 끝 사이에 약 1/2인치(약 1.3cm) �
 ## 참고 자료
 
 - [AAOS OrthoInfo — Shoes: Finding the Right Fit](https://www.orthoinfo.org/en/staying-healthy/shoes-finding-the-right-fit/)
-- [사이즈코리아 — 제8차 인체치수조사 보고서·치수 데이터](https://sizekorea.kr/human-info/meas-report?measDegree=8)
+- [사이즈코리아 — 제8차 인체치수조사 보고서·치수 데이터](https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8)
 - [Crockett & Jones — Fitting Guide](https://www.crockettandjones.com/pages/fitting-guide)
 - [Crockett & Jones — A Guide to Fitting](https://www.crockettandjones.com/blogs/the-article/a-guide-to-fitting)
 - [Shoegazing — Simple corrections of fit nr. 2](https://shoegazing.com/2021/04/06/guide-simple-corrections-of-fit-nr-2/)

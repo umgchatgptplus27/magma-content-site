@@ -10,7 +10,7 @@ draft: false
 
 30·40대 남성의 평균 치수가 내 옷 사이즈를 정해 주지는 않습니다. MAGMA가 보관한 사이즈코리아 제8차 공개용 원자료의 직접측정 시트에서 남성 957명을 재집계한 결과, 40–49세의 평균 허리둘레는 89.5cm였지만 가운데 50%는 83.8–94.9cm에 걸쳐 있었습니다. 하나의 평균값으로 같은 연령대의 바지 사이즈를 추천하기 어려운 이유입니다.
 
-국가기술표준원은 2020–2021년 제8차 조사에서 성인 6,839명을 대상으로 직접측정과 3차원측정을 실시했다고 발표했습니다. 아래 표는 그 전체 인원이 아니라 보관 원자료의 `(1~2차년도) 직접측정` 시트에서 성별 M, 나이 30세 이상 50세 미만인 기록을 고른 결과입니다. 가중치를 적용한 한국 남성 전체의 추정치나 2026년 현재의 평균을 뜻하지 않습니다.
+사이즈코리아의 제8차 조사 공식 안내에서 1~2차년도 직접측정 대상은 20~69세 남녀 5,092명(남성 2,319명, 여성 2,773명)입니다. 아래 표는 그 전체 인원이 아니라 보관 원자료의 `(1~2차년도) 직접측정` 시트에서 성별 M, 나이 30세 이상 50세 미만인 기록 957명을 고른 결과입니다. 직접측정 대상과 3차원측정 대상, 이 글의 연령별 분석 표본은 구분해서 읽어야 합니다. 가중치를 적용한 한국 남성 전체의 추정치나 2026년 현재의 평균을 뜻하지 않습니다.
 
 ## 30·40대 남성 평균 치수: 직접 재집계한 결과
 
@@ -62,7 +62,7 @@ draft: false
 - 분위수는 정렬된 값의 `(n−1) × p` 위치에서 선형 보간했습니다. 원자료의 개인별 기록은 이 사이트에 재게시하지 않습니다.
 - [반올림 전 집계 결과·계산 방법(JSON)](/downloads/size-korea-fit-summary.json)에는 항목별 인원과 사용 파일의 SHA-256 해시가 있습니다. [재집계 코드](https://github.com/umgchatgptplus27/magma-content-site/blob/main/scripts/verify-size-korea.py)도 공개합니다.
 
-이번 작업은 보관한 공개용 파일을 재계산한 것입니다. 현재 공식 배포본과 파일이 같은지는 별도 확인이 필요합니다. 서로 다른 조사 차수의 수치를 개인의 성장·노화 변화로 해석하지 않으며, 이 집계에서는 체중이나 BMI를 이용한 건강 판정을 하지 않습니다.
+이번 작업은 보관한 공개용 파일을 재계산한 것입니다. 2026년 10월 28일 국가기술표준원 도메인의 공식 자료 페이지에서 조사 대상과 다운로드 항목을 확인했습니다. 치수 데이터 다운로드에는 로그인이 필요해 현재 공식 배포본과 보관 파일의 동일성은 아직 확인하지 못했습니다. 서로 다른 조사 차수의 수치를 개인의 성장·노화 변화로 해석하지 않으며, 이 집계에서는 체중이나 BMI를 이용한 건강 판정을 하지 않습니다.
 
 ## 숫자가 상의 사이즈에 주는 뜻
 
@@ -119,6 +119,6 @@ draft: false
 
 - [사이즈코리아 — 차수별 측정치 비교(키·몸무게·가슴둘레·허리둘레·엉덩이둘레)](https://sizekorea.kr/human-info/compare-meas-year)
 - [국가기술표준원 — 한국인 평균 키 40년 전보다 남 6.4cm, 여 5.3cm 커졌다(보도자료, 2022.3.30)](https://www.kats.go.kr/content.do?cmsid=240&searchField=title&y=0&x=0&mode=view&page=1&cid=23007)
-- [사이즈코리아 — 8차 인체치수조사 보고서](https://sizekorea.kr/human-info/meas-report?measDegree=8)
+- [사이즈코리아 — 8차 인체치수조사 보고서](https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8)
 - [Oliver Wicks — How to Measure and Understand Men's Suit Sizes](https://oliverwicks.com/article/suit-size)
 - [Proper Cloth — How Much Can Your Garment Be Altered by a Tailor?](https://propercloth.com/reference/how-much-can-alter-a-jacket-how-much-can-a-tailor-do/)

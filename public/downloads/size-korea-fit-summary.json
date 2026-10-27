@@ -2,7 +2,7 @@
   "verified_date": "2026-10-28",
   "source_file": "8차 인체치수조사(2020~24)_치수데이터(공개용).xlsx",
   "source_sha256": "ea81a5417f869e3cfb5e19dff191add3f5328ee60a989f524d58a03c6816dc7b",
-  "source_url": "https://sizekorea.kr/human-info/meas-report?measDegree=8",
+  "source_url": "https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8",
   "sheet": "(1~2차년도) 직접측정",
   "filter": "성별 M, 30 <= 나이 < 50",
   "method": "비가중 집계. 항목별 숫자이며 0 < 값 < 9999인 값만 사용. 분위수는 (n-1)*p 위치의 선형 보간. 원자료 mm, cm 표시 시 10으로 나눔.",

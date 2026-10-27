@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-28",
+  "official_page": "https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8",
+  "verification_method": "Ego browser DOM of official page; task space 48",
+  "verified": {
+    "survey": "8차 인체치수조사 (2020~24)",
+    "direct_measurement_years_1_2": {
+      "total": 5092,
+      "male": 2319,
+      "female": 2773,
+      "ages": "20–69"
+    },
+    "download_label": "치수 데이터 다운받기",
+    "download_requires_login": true
+  },
+  "unverified": [
+    "Current official download file versus locally held workbook: no file downloaded; no byte or hash comparison completed.",
+    "New domain compare-meas-year page has not been verified; old comparison URL retained pending verification."
+  ],
+  "scope": "Corrected report-source URLs in 3 guides, the calculation script, and published summary metadata. No changes to computed data.",
+  "local_workbook_cross_check": {
+    "total": 5092,
+    "male": 2319,
+    "female": 2773,
+    "male_30_49": 957,
+    "matches_official_population_counts": true,
+    "published_aggregates_unchanged": true,
+    "byte_identity_verified": false
+  }
+}
