@@ -55,6 +55,15 @@ export default function SizeComparePage() {
       </div>
 
       <div className="post-body mt-14">
+        <h2>비교 기록을 파일로 남기기</h2>
+        <p>
+          <a href="/downloads/clothing-measurement-record.csv" download>옷 치수 기록표 내려받기(CSV)</a>에서
+          기준 옷과 후보의 이름·상품 주소·측정 위치·착용감을 함께 기록할 수 있습니다.
+          엑셀·Numbers·Google Sheets에서 열어 쓰는 빈 양식이며 자동 계산식은 없습니다.
+          이 계산기의 입력값은 파일에 자동으로 옮겨지지 않으므로 결과를 직접 적어 주세요.
+        </p>
+        <p><Link href="/blog/mens-online-clothing-measurement-guide">기록표 작성 순서와 실측 비교법</Link></p>
+
         <h2>내 옷을 재는 법</h2>
         <p>
           옷을 단추나 지퍼를 모두 잠근 상태로 바닥이나 탁자에 평평하게 놓고, 주름을 손으로 펴서 줄자로 잽니다. 쇼핑몰 사이즈표의 &lsquo;단면&rsquo;은 평평하게 놓은 옷의 좌우 폭을 뜻합니다. 같은 위치의 단면에 2를 곱한 값은 둘레의 근사값이며, 입체적인 재단에서는 실제 둘레와 차이가 날 수 있습니다.
