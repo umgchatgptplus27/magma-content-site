@@ -19,3 +19,12 @@ export function parseSavedMeasurements(raw) {
 export function measurementDifference(mine, target) {
   return Math.round((target - mine) * 10) / 10;
 }
+
+export function measurementsCsv(item, rows) {
+  const table = [["품목", "측정 항목", "내 옷(cm)", "사려는 옷(cm)", "차이(cm: 후보에서 내 옷 빼기)"]];
+  for (const { label, mine, target } of rows) {
+    if (!Number.isFinite(mine) || mine <= 0 || !Number.isFinite(target) || target <= 0) continue;
+    table.push([item, label, mine, target, measurementDifference(mine, target).toFixed(1)]);
+  }
+  return "\uFEFF" + table.map((row) => row.map((cell) => `"${String(cell).replaceAll('"', '""')}"`).join(",")).join("\r\n") + "\r\n";
+}

@@ -60,7 +60,7 @@ export default function SizeComparePage() {
           <a href="/downloads/clothing-measurement-record.csv" download>옷 치수 기록표 내려받기(CSV)</a>에서
           기준 옷과 후보의 이름·상품 주소·측정 위치·착용감을 함께 기록할 수 있습니다.
           엑셀·Numbers·Google Sheets에서 열어 쓰는 빈 양식이며 자동 계산식은 없습니다.
-          이 계산기의 입력값은 파일에 자동으로 옮겨지지 않으므로 결과를 직접 적어 주세요.
+          입력한 치수와 차이만 저장하려면 계산기의 ‘현재 품목 비교 결과 저장(CSV)’을 이용하세요. 상품 주소와 착용감까지 기록하려면 빈 기록표를 사용하세요.
         </p>
         <p><Link href="/blog/mens-online-clothing-measurement-guide">기록표 작성 순서와 실측 비교법</Link></p>
 

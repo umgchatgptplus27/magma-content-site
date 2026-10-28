@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { measurementDifference, parseSavedMeasurements } from "@/lib/size-compare.mjs";
+import { measurementDifference, measurementsCsv, parseSavedMeasurements } from "@/lib/size-compare.mjs";
 
 type Kind = "width" | "length";
 type Field = { key: string; label: string; kind: Kind; hint: string };
@@ -178,6 +178,15 @@ export default function SizeCompareTool() {
       </div>
 
       <div className="mt-4 flex flex-wrap gap-4">
+        {filled.length > 0 && (
+          <a
+            href={`data:text/csv;charset=utf-8,${encodeURIComponent(measurementsCsv(ITEMS[item].label, filled.map(({ field, v }) => ({ label: field.label, mine: Number(v?.mine), target: Number(v?.target) }))))}`}
+            download={`magma-size-compare-${item}.csv`}
+            className="inline-flex min-h-11 items-center text-sm text-primary underline underline-offset-2"
+          >
+            현재 품목 비교 결과 저장(CSV)
+          </a>
+        )}
         <button type="button" onClick={clearTarget} className="text-sm text-ink-muted underline underline-offset-2 hover:text-primary">
           사려는 옷 값만 지우기
         </button>
@@ -185,6 +194,7 @@ export default function SizeCompareTool() {
           모든 품목의 저장값 삭제
         </button>
       </div>
+      <p className="mt-3 text-xs leading-relaxed text-ink-muted">결과 파일에는 현재 품목에서 두 값을 모두 입력한 항목만 담깁니다. 차이는 화면처럼 0.1cm 단위로 반올림하며, 단면 차이를 둘레로 환산하지 않습니다.</p>
     </div>
   );
 }
