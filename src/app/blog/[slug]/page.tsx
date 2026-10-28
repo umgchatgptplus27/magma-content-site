@@ -111,6 +111,18 @@ export default async function PostPage(
             </div>
           </div>
         </header>
+        {toc.length >= 3 && (
+          <nav aria-labelledby="toc-heading" className="mb-12 rounded-card border border-line bg-card p-6">
+            <p id="toc-heading" className="eyebrow mb-3">이 글의 목차</p>
+            <ol className="list-decimal pl-5 text-sm text-ink-sub">
+              {toc.map((item) => (
+                <li key={item.id}>
+                  <a href={`#${item.id}`} className="flex min-h-11 items-center py-2 hover:text-primary focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary">{item.text}</a>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
         {post.thumbnail && (
           <div className="relative mb-12 aspect-[16/9] overflow-hidden rounded-card border border-line bg-card">
             <Image
@@ -128,18 +140,6 @@ export default async function PostPage(
             이 글의 스타일 이미지는 설명용 예시입니다. 실제 제품의 착용·측정 결과나 봉제·라벨을 검증한 사진이 아닙니다.
             {" "}<Link href="/about" className="underline underline-offset-2 hover:text-primary">이미지·편집 원칙</Link>
           </p>
-        )}
-        {toc.length >= 3 && (
-          <nav aria-labelledby="toc-heading" className="mb-12 rounded-card border border-line bg-card p-6">
-            <p id="toc-heading" className="eyebrow mb-3">이 글의 목차</p>
-            <ol className="list-decimal space-y-1.5 pl-5 text-sm text-ink-sub">
-              {toc.map((item) => (
-                <li key={item.id}>
-                  <a href={`#${item.id}`} className="hover:text-primary">{item.text}</a>
-                </li>
-              ))}
-            </ol>
-          </nav>
         )}
         <div className="post-body" dangerouslySetInnerHTML={{ __html: html }} />
         {topic && (
