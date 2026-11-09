@@ -531,14 +531,14 @@
       "title": "구두 관리법: 매일 손질부터 젖은 스웨이드 말리기까지",
       "draft": false,
       "description": "구두 관리법을 신고 벗은 날의 브러싱과 슈트리, 크림·왁스 순서, 비에 젖은 가죽 구두와 스웨이드 말리기, 굽·밑창 수선 시기 순으로 정리했습니다.",
-      "headingCount": 8,
+      "headingCount": 10,
       "sourceUrls": [
+        "https://eu.meermin.com/pages/care",
         "https://blog.loake.com/featured/shoe-care-guide/",
         "https://www.crockettandjones.com/pages/grain-shoe-care",
         "https://www.crockettandjones.com/pages/suede-shoe-care",
         "https://www.crockettandjones.com/pages/shoe-care-hacks",
         "https://www.crockettandjones.com/pages/repairs",
-        "https://eu.meermin.com/pages/care",
         "https://fiorentini-baker.com/blogs/stories/caring-for-your-fiorentini-baker-leather-and-suede-footwear",
         "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-alum-vegetable-mineral-leather.html"
       ],
@@ -1012,7 +1012,12 @@
       "scope": "metadata/headings/source URL inventory and deterministic hygiene only; not a factual or originality certification"
     }
   ],
-  "nextManualReviews": [],
+  "nextManualReviews": [
+    {
+      "slug": "mens-work-bag-selection-guide",
+      "reason": "Check model-specific laptop dimensions and material durability claims against primary sources; current article implies all 14-inch MacBook Pro models share one specification."
+    }
+  ],
   "completedThisRound": [
     "Full 55-post machine-readable inventory",
     "Guide search covering all 55 titles, descriptions and tags without new query URLs",
@@ -1057,6 +1062,18 @@
       "sourcesChecked": [
         "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1031805939"
       ]
+    },
+    {
+      "slug": "mens-leather-shoe-care-guide",
+      "date": "2026-11-10",
+      "scope": "Leather types, care-product scope, wet suede and repair eligibility; not a full check of every shoe-care claim",
+      "changes": "Added material-first selection and repair decision steps; removed guaranteed longevity/odor/stain recovery claims; scoped spray directions and explained Loake modification restrictions.",
+      "sourcesChecked": [
+        "https://blog.loake.com/featured/shoe-care-guide/",
+        "https://eu.meermin.com/pages/care",
+        "https://www.crockettandjones.com/pages/suede-shoe-care"
+      ]
     }
-  ]
+  ],
+  "updated": "2026-11-10"
 }
