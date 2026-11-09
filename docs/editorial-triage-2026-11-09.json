@@ -332,11 +332,14 @@
         "https://www.knps.or.kr/front/portal/visit/visitCourseSubMain.do?parkId=121500&parkNavGb=park&menuNo=7020092",
         "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198",
         "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+        "https://www.nps.gov/neri/planyourvisit/heat-and-cold-related-illness.htm",
+        "https://www.rei.com/learn/expert-advice/hiking-boots.html",
         "https://www.nps.gov/articles/10essentials.htm",
+        "https://www.nps.gov/articles/campfires.htm",
         "https://reservation.knps.or.kr/contents/C/serviceGuide.do?prdDvcd=C&parkId=B02&deptId=B021001",
         "https://www.mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1879940&boardMasterId=939&boardCategoryId=&decorator=",
         "https://www.weather.go.kr/w/ocean/warning.do",
-        "https://law.go.kr/lsInfoP.do?lsiSeq=110996"
+        "https://www.law.go.kr/법령/낚시관리및육성법/제29조"
       ],
       "mechanicalIssues": [],
       "scope": "metadata/headings/source URL inventory and deterministic hygiene only; not a factual or originality certification"
@@ -1077,6 +1080,20 @@
         "https://support.apple.com/en-us/121552",
         "https://www.ykkkorea.com/eng/product/FASTENER/VISLON%20FASTENER/AQUAGUARD",
         "https://korea.coach.com/support/faq"
+      ]
+    },
+    {
+      "slug": "mens-first-hiking-outfit-guide",
+      "date": "2026-11-10",
+      "scope": "Layering, footwear fit and safety guarantees, NPS essential categories, campfire clothing and fishing life-jacket source. Not a complete wilderness safety guide or full live check of local trail closures.",
+      "changes": "Removed fixed summer sufficiency and finger-fit guarantees; restored omitted emergency planning categories; replaced fixed water and volume rules with route-specific planning; clarified fire/material limitations and updated the law link to current Article 29.",
+      "sourcesChecked": [
+        "https://www.nps.gov/articles/10essentials.htm",
+        "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+        "https://www.nps.gov/neri/planyourvisit/heat-and-cold-related-illness.htm",
+        "https://www.rei.com/learn/expert-advice/hiking-boots.html",
+        "https://www.nps.gov/articles/campfires.htm",
+        "https://www.law.go.kr/LSW//lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0029&lsiSeq=267435&urlMode=lsScJoRltInfoR"
       ]
     }
   ],
