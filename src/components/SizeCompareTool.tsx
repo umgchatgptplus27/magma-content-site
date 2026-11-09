@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { measurementDifference, measurementsCsv, parseSavedMeasurements } from "@/lib/size-compare.mjs";
+import MeasurementDiagram from "@/components/MeasurementDiagram";
 
 type Kind = "width" | "length";
 type Field = { key: string; label: string; kind: Kind; hint: string };
@@ -11,7 +12,7 @@ const ITEMS: Record<string, { label: string; fields: Field[] }> = {
     label: "셔츠·티셔츠",
     fields: [
       { key: "shoulder", label: "어깨너비", kind: "length", hint: "양쪽 어깨 봉제선 끝 사이" },
-      { key: "chest", label: "가슴단면", kind: "width", hint: "겨드랑이 아래 1cm, 좌우 끝 사이" },
+      { key: "chest", label: "가슴단면", kind: "width", hint: "판매처가 정한 겨드랑이 아래 위치" },
       { key: "length", label: "총장", kind: "length", hint: "뒷목 칼라 아래 ~ 밑단" },
       { key: "sleeve", label: "소매길이", kind: "length", hint: "어깨 봉제선 ~ 소매 끝" },
     ],
@@ -29,9 +30,9 @@ const ITEMS: Record<string, { label: string; fields: Field[] }> = {
     label: "바지",
     fields: [
       { key: "waist", label: "허리단면", kind: "width", hint: "단추를 잠그고 허리밴드 위쪽" },
-      { key: "hip", label: "엉덩이단면", kind: "width", hint: "밑위 끝에서 가장 넓은 곳" },
+      { key: "hip", label: "엉덩이단면", kind: "width", hint: "판매처가 정한 허리 아래 높이에서" },
       { key: "rise", label: "앞밑위", kind: "length", hint: "허리밴드 위 ~ 가랑이 봉제선" },
-      { key: "thigh", label: "허벅지단면", kind: "width", hint: "가랑이 바로 아래" },
+      { key: "thigh", label: "허벅지단면", kind: "width", hint: "판매처가 정한 가랑이 아래 위치" },
       { key: "hem", label: "밑단단면", kind: "width", hint: "밑단 끝 좌우" },
       { key: "outseam", label: "총장", kind: "length", hint: "허리밴드 위 ~ 밑단(바깥 옆선)" },
     ],
@@ -131,17 +132,19 @@ export default function SizeCompareTool() {
       </div>
 
       <p className="mt-5 text-sm leading-relaxed text-ink-sub">
-        옷을 평평하게 놓고 잰 <strong className="text-primary">단면 실측(cm)</strong>을 입력하세요. 왼쪽은 가장 잘 맞는 내 옷, 오른쪽은 사려는 옷의 사이즈표 값입니다.
+        옷을 평평하게 놓고 잰 <strong className="text-primary">옷의 실측(cm)</strong>을 입력하세요. 왼쪽은 가장 잘 맞는 내 옷, 오른쪽은 사려는 옷의 사이즈표 값입니다.
         입력한 두 옷의 치수는 이 브라우저에 저장되어 다음 방문 때 다시 표시됩니다. 모든 품목의 값을 지우려면 아래의 전체 삭제 버튼을 사용하세요. 측정 위치와 단위를 먼저 맞춰 주세요.
       </p>
 
+      <MeasurementDiagram trouser={item === "trouser"} />
+
       <div className="mt-6 space-y-4">
-        {rows.map(({ field, v, ready, diff }) => {
+        {rows.map(({ field, v, ready, diff }, index) => {
           const result = ready ? comparisonText(field, diff) : null;
           return (
             <div key={field.key} className="grid gap-3 border-t border-line pt-4 sm:grid-cols-[9rem_1fr_1fr] sm:items-end">
               <div>
-                <p className="font-semibold text-primary">{field.label}</p>
+                <p className="font-semibold text-primary">{index + 1}. {field.label}</p>
                 <p className="text-xs text-ink-muted">{field.hint}</p>
               </div>
               {(["mine", "target"] as const).map((side) => (

@@ -65,6 +65,7 @@ export default function SizeComparePage() {
         <p><Link href="/blog/mens-online-clothing-measurement-guide">기록표 작성 순서와 실측 비교법</Link></p>
 
         <h2>내 옷을 재는 법</h2>
+        <p>계산기 안의 측정 도해는 입력 항목과 같은 번호를 사용합니다. 품목을 바꾸면 상의 뒷면 또는 바지 앞면의 측정 위치가 함께 바뀝니다. 도해로 시작점과 끝점을 확인한 뒤, 판매처가 제시한 측정 조건과 맞춰 주세요.</p>
         <p>
           옷을 단추나 지퍼를 모두 잠근 상태로 바닥이나 탁자에 평평하게 놓고, 주름을 손으로 펴서 줄자로 잽니다. 쇼핑몰 사이즈표의 &lsquo;단면&rsquo;은 평평하게 놓은 옷의 좌우 폭을 뜻합니다. 같은 위치의 단면에 2를 곱한 값은 둘레의 근사값이며, 입체적인 재단에서는 실제 둘레와 차이가 날 수 있습니다.
           니트나 저지처럼 늘어나는 옷은 당기지 말고 놓인 그대로 잽니다.
@@ -75,6 +76,10 @@ export default function SizeComparePage() {
           <li><strong>총장</strong>: 뒷목 칼라가 붙는 곳에서 밑단까지 수직으로 잽니다. 브랜드에 따라 어깨 가장 높은 곳에서 재기도 하니 사이즈표의 측정 위치 그림을 확인하세요.</li>
           <li><strong>바지 앞밑위</strong>: 허리밴드 위쪽에서 가랑이 봉제선이 만나는 곳까지 잽니다.</li>
         </ul>
+        <p>
+          엉덩이·허벅지 단면은 측정 높이까지 맞춰야 합니다. 예를 들어 Proper Cloth는 엉덩이를 허리밴드 위에서 7인치(17.78cm) 아래, 허벅지를 가랑이 접점에서 1인치(2.54cm) 아래에서 재도록 안내합니다(2026년 11월 9일 확인).
+          이는 해당 브랜드의 측정법입니다. 다른 판매처가 ‘가장 넓은 곳’이나 다른 높이를 지정하면 그 방법으로 기준 옷을 다시 재세요. 폭의 숫자만 같아도 측정 높이가 다르면 같은 항목으로 볼 수 없습니다.
+        </p>
         <p>
           부위별로 어느 정도가 잘 맞는 것인지는 <Link href="/blog/mens-shirt-fit-guide">셔츠 사이즈 고르는 법</Link>,{" "}
           <Link href="/blog/mens-trouser-fit-guide">슬랙스 핏 보는 법</Link>, <Link href="/blog/mens-jacket-fit-guide">재킷 사이즈 고르는 법</Link>에 정리했습니다.
@@ -161,6 +166,7 @@ export default function SizeComparePage() {
         <ul>
           <li><a href="https://www.levi.com/US/en_US/info/sizeguide">Levi&apos;s — 남성 하의 라벨 호칭과 신체 치수표</a></li>
           <li><a href="https://propercloth.com/reference/how-to-measure-a-dress-shirt/">Proper Cloth — 셔츠 실측 방법</a></li>
+          <li><a href="https://propercloth.com/reference/measure-tailored-suit-pants-trousers/">Proper Cloth — 바지 측정 위치와 높이</a></li>
           <li><a href="https://www.nike.com/size-fit/mens-footwear">Nike — Men&apos;s Footwear Size Chart</a></li>
           <li><a href="https://propercloth.com/reference/how-the-sleeve-length-should-fit/">Proper Cloth — 소매 측정 시작점과 커프 조건</a></li>
           <li><a href="https://propercloth.com/reference/how-the-dress-shirt-collar-should-fit/">Proper Cloth — How the Dress Shirt Collar Should Fit</a></li>
