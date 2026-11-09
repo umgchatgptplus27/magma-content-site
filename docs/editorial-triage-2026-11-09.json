@@ -518,9 +518,9 @@
       "description": "니트 보풀 제거 방법을 손·빗·전동 제거기별로 정리하고 보풀과 올 뜯김 구분법, 세탁·건조 습관, 늘어나지 않게 접어 보관하는 법까지 담았습니다.",
       "headingCount": 9,
       "sourceUrls": [
-        "https://www.woolmark.com/care/pilling/",
         "https://www.woolmark.com/care/how-to-wash-wool-sweater/",
         "https://www.woolmark.com/care/care-for-wool/",
+        "https://www.woolmark.com/care/pilling/",
         "https://www.woolmark.com/care/how-to-repair-wool",
         "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care",
         "https://www.rei.com/learn/expert-advice/how-to-prevent-and-fix-pilling.html",
@@ -1094,6 +1094,45 @@
         "https://www.rei.com/learn/expert-advice/hiking-boots.html",
         "https://www.nps.gov/articles/campfires.htm",
         "https://www.law.go.kr/LSW//lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0029&lsiSeq=267435&urlMode=lsScJoRltInfoR"
+      ]
+    },
+    {
+      "slug": "mens-knit-pilling-care-guide",
+      "date": "2026-11-10",
+      "scope": "Cross-article consistency for permitted washing, device settings, steam, woven-versus-knit brushing and return-before-first-wash. Not a full verification of every claim in these articles.",
+      "changes": "Put permission conditions next to each action; removed contradictory knit brushing advice and unconditional bathroom-steam recipes; distinguished course names from label restrictions and garment material from temperature settings; clarified first-wash timing after return decision.",
+      "sourcesChecked": [
+        "https://www.woolmark.com/care/how-to-wash-wool-sweater/",
+        "https://www.woolmark.com/care/care-for-wool/",
+        "https://www.ginetex.net/gb/labelling/care-symbols.asp",
+        "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties/washing-linen-care-advice",
+        "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-suits.html"
+      ]
+    },
+    {
+      "slug": "mens-shirt-ironing-wrinkle-guide",
+      "date": "2026-11-10",
+      "scope": "Cross-article consistency for permitted washing, device settings, steam, woven-versus-knit brushing and return-before-first-wash. Not a full verification of every claim in these articles.",
+      "changes": "Put permission conditions next to each action; removed contradictory knit brushing advice and unconditional bathroom-steam recipes; distinguished course names from label restrictions and garment material from temperature settings; clarified first-wash timing after return decision.",
+      "sourcesChecked": [
+        "https://www.woolmark.com/care/how-to-wash-wool-sweater/",
+        "https://www.woolmark.com/care/care-for-wool/",
+        "https://www.ginetex.net/gb/labelling/care-symbols.asp",
+        "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties/washing-linen-care-advice",
+        "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-suits.html"
+      ]
+    },
+    {
+      "slug": "mens-garment-care-label-guide",
+      "date": "2026-11-10",
+      "scope": "Cross-article consistency for permitted washing, device settings, steam, woven-versus-knit brushing and return-before-first-wash. Not a full verification of every claim in these articles.",
+      "changes": "Put permission conditions next to each action; removed contradictory knit brushing advice and unconditional bathroom-steam recipes; distinguished course names from label restrictions and garment material from temperature settings; clarified first-wash timing after return decision.",
+      "sourcesChecked": [
+        "https://www.woolmark.com/care/how-to-wash-wool-sweater/",
+        "https://www.woolmark.com/care/care-for-wool/",
+        "https://www.ginetex.net/gb/labelling/care-symbols.asp",
+        "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties/washing-linen-care-advice",
+        "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-suits.html"
       ]
     }
   ],
