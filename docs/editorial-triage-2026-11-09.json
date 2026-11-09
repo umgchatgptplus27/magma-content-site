@@ -999,8 +999,7 @@
       "headingCount": 8,
       "sourceUrls": [
         "https://support.apple.com/en-us/121552",
-        "https://ykkamericas.com/product/aquaguard/",
-        "https://www.kats.go.kr/cwsboard/board.do?mode=download&bid=476&cid=19161&filename=19161_201904011556591851.pdf",
+        "https://www.ykkkorea.com/eng/product/FASTENER/VISLON%20FASTENER/AQUAGUARD",
         "https://www.hermes.com/us/en/content/89726-leathercareinstructions/",
         "https://www.longchamp.com/in/en/maison-longchamp/savoir-faire/article-ensure-bag-longevity.html",
         "https://www.mulberry.com/gb/customer-services/care-and-repairs",
@@ -1012,12 +1011,7 @@
       "scope": "metadata/headings/source URL inventory and deterministic hygiene only; not a factual or originality certification"
     }
   ],
-  "nextManualReviews": [
-    {
-      "slug": "mens-work-bag-selection-guide",
-      "reason": "Check model-specific laptop dimensions and material durability claims against primary sources; current article implies all 14-inch MacBook Pro models share one specification."
-    }
-  ],
+  "nextManualReviews": [],
   "completedThisRound": [
     "Full 55-post machine-readable inventory",
     "Guide search covering all 55 titles, descriptions and tags without new query URLs",
@@ -1072,6 +1066,17 @@
         "https://blog.loake.com/featured/shoe-care-guide/",
         "https://eu.meermin.com/pages/care",
         "https://www.crockettandjones.com/pages/suede-shoe-care"
+      ]
+    },
+    {
+      "slug": "mens-work-bag-selection-guide",
+      "date": "2026-11-10",
+      "scope": "Laptop model/fit, material and weather claims, handle repair only; not all medical or garment-friction statements",
+      "changes": "Named the M4 2024 model; added an illustrative case-versus-interior comparison and opening check; removed material-name durability/price rankings and the old 2019 legal reference; linked current primary YKK guidance; scoped handle repair feasibility.",
+      "sourcesChecked": [
+        "https://support.apple.com/en-us/121552",
+        "https://www.ykkkorea.com/eng/product/FASTENER/VISLON%20FASTENER/AQUAGUARD",
+        "https://korea.coach.com/support/faq"
       ]
     }
   ],
