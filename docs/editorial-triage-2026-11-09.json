@@ -79,11 +79,11 @@
       "slug": "mens-body-type-outfit-guide",
       "title": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
       "draft": false,
-      "description": "체형별 남자 옷을 배·키·어깨·허벅지 고민으로 나눠, 수선으로 못 고치는 부위부터 맞추는 순서와 셔츠·바지·재킷·니트·코트 선택, 색과 비례를 정리했습니다.",
+      "description": "체형별 남자 옷을 배·키·어깨·허벅지 고민으로 나눠, 수선이 까다로운 부위부터 맞추는 순서와 셔츠·바지·재킷·니트·코트 선택, 색과 비례를 정리했습니다.",
       "headingCount": 9,
       "sourceUrls": [
-        "https://www.kats.go.kr/content.do?cmsid=240&searchField=title&y=0&x=0&mode=view&page=1&cid=23007",
         "https://propercloth.com/reference/how-much-can-alter-a-jacket-how-much-can-a-tailor-do/",
+        "https://www.kats.go.kr/content.do?cmsid=240&searchField=title&y=0&x=0&mode=view&page=1&cid=23007",
         "https://propercloth.com/reference/based-on-body-measurements-selecting-a-type-of-fit/",
         "https://blacklapel.com/thecompass/flawless-fit-series-clothes-for-short-men/",
         "https://blacklapel.com/blogs/the-compass/flawless-fit-series-tall-mens-clothing-guide",
@@ -848,7 +848,7 @@
         "https://www.faa.gov/travelers/fly_safe/turbulence",
         "https://www.cdc.gov/blood-clots/risk-factors/travel.html",
         "https://www.airport.kr/ap_ko/906/subview.do",
-        "https://www.korea.kr/news/policyNewsView.do?newsId=148939574",
+        "https://flyasiana.com/C/KR/KO/contents/restricted-transport-items",
         "https://www.tsa.gov/news/press/releases/2025/07/08/dhs-end-shoes-travel-policy",
         "https://www.korail.com/ticket/train/trainGuide/etiquette",
         "https://www.gov.uk/guidance/the-highway-code/rules-for-drivers-and-motorcyclists-89-to-102",
@@ -1011,28 +1011,33 @@
       "scope": "metadata/headings/source URL inventory and deterministic hygiene only; not a factual or originality certification"
     }
   ],
-  "nextManualReviews": [
-    {
-      "slug": "mens-body-type-outfit-guide",
-      "reason": "Specific alteration allowances from one brand may be generalized to all garments; verify scope before editing."
-    },
-    {
-      "slug": "mens-wardrobe-budget-guide",
-      "reason": "Statement that most taking-in alterations are possible needs garment-specific limits."
-    },
-    {
-      "slug": "mens-travel-outfit-packing-guide",
-      "reason": "Time-sensitive airline battery rules quoted from 2025 need current primary-source verification."
-    }
-  ],
+  "nextManualReviews": [],
   "completedThisRound": [
     "Full 55-post machine-readable inventory",
     "Guide search covering all 55 titles, descriptions and tags without new query URLs",
-    "Duplicate phrase corrected in belt guide"
+    "Duplicate phrase corrected in belt guide",
+    "Three scoped editorial reviews completed; see completedManualReviews for limits"
   ],
   "limitations": [
     "No full fact-check of every sentence in all 55 posts",
     "HTTP availability and automated checks do not prove AdSense eligibility",
     "AdSense review remains a Google decision"
+  ],
+  "completedManualReviews": [
+    {
+      "slug": "mens-body-type-outfit-guide",
+      "scope": "Alteration allowances and buying decisions only",
+      "changes": "Scoped Proper Cloth measurements to that brand, distinguished flat width from circumference, replaced general repair guarantees with garment-specific consultation questions."
+    },
+    {
+      "slug": "mens-wardrobe-budget-guide",
+      "scope": "Alteration feasibility and repair-versus-replace calculation only",
+      "changes": "Replaced blanket alteration claims with garment conditions; added an explicitly illustrative future-cost comparison, distinct from whole-life cost per wear."
+    },
+    {
+      "slug": "mens-travel-outfit-packing-guide",
+      "scope": "Packing assumptions, airline battery guidance and garment handling only",
+      "changes": "Checked current Asiana primary guidance, separated power banks from spare batteries, specified airline and check date, made packing quantities conditional and removed unsupported reduction/odor/steam guarantees."
+    }
   ]
 }
