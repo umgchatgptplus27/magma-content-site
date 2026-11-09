@@ -1,4 +1,5 @@
 import GuideEntryPoints from "@/components/GuideEntryPoints";
+import GuideSearch from "@/components/GuideSearch";
 import BlogTopicNav from "@/components/BlogTopicNav";
 import PostCard from "@/components/PostCard";
 import PaginationNav from "@/components/PaginationNav";
@@ -17,27 +18,29 @@ export default function BlogListing({ posts, page = 1 }: { posts: ContentMeta[];
       <p className="mt-4 max-w-2xl leading-relaxed text-ink-sub">
         관리, 핏, 출근, 상황별 옷차림처럼 지금 필요한 기준부터 골라 읽어 보세요.
       </p>
-      <BlogTopicNav />
-      {page === 1 && (
-        <section className="mb-12">
-          <h2 className="mb-4 font-display text-xl font-bold text-primary">필요한 답부터 찾기</h2>
-          <GuideEntryPoints />
-        </section>
-      )}
-      <p className="mb-6 text-sm text-ink-muted">전체 {posts.length}개 글 · {page} / {pageCount}페이지</p>
-      {visiblePosts.length === 0 ? (
-        <p className="text-sm text-ink-muted">아직 발행된 글이 없습니다.</p>
-      ) : (
-        <div className="grid gap-8 sm:grid-cols-2">
-          {visiblePosts.map((post) => <PostCard key={post.slug} post={post} />)}
-        </div>
-      )}
-      <PaginationNav
-        page={page}
-        pageCount={pageCount}
-        getPageHref={blogPageHref}
-        ariaLabel="블로그 페이지"
-      />
+      <GuideSearch guides={posts.map(({ slug, title, description, tags }) => ({ href: `/blog/${slug}`, title, description, tags }))}>
+        <BlogTopicNav />
+        {page === 1 && (
+          <section className="mb-12">
+            <h2 className="mb-4 font-display text-xl font-bold text-primary">필요한 답부터 찾기</h2>
+            <GuideEntryPoints />
+          </section>
+        )}
+        <p className="mb-6 text-sm text-ink-muted">전체 {posts.length}개 글 · {page} / {pageCount}페이지</p>
+        {visiblePosts.length === 0 ? (
+          <p className="text-sm text-ink-muted">아직 발행된 글이 없습니다.</p>
+        ) : (
+          <div className="grid gap-8 sm:grid-cols-2">
+            {visiblePosts.map((post) => <PostCard key={post.slug} post={post} />)}
+          </div>
+        )}
+        <PaginationNav
+          page={page}
+          pageCount={pageCount}
+          getPageHref={blogPageHref}
+          ariaLabel="블로그 페이지"
+        />
+      </GuideSearch>
     </div>
   );
 }
