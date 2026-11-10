@@ -2,7 +2,7 @@
 title: "남자 옷 예산, 무엇부터 사고 무엇을 고쳐 입을까"
 description: "남자 옷 예산을 착용 빈도로 나눠 먼저 살 옷을 정하고, 가격보다 먼저 볼 품질 신호와 체중이 바뀐 뒤 수선할 옷과 새로 살 옷을 가르는 기준을 담았습니다."
 date: 2026-07-29
-updated: 2026-11-09
+updated: 2026-11-10
 tags: ["옷장 관리", "수선", "사이즈", "온라인 쇼핑", "핏"]
 thumbnail: "/images/mens-weight-change-wardrobe-guide-look-1.webp"
 draft: false
@@ -128,7 +128,7 @@ Proper Cloth의 안내도 자사 옷의 부위별 수선 범위를 구분합니�
 
 ### 온라인 새 제품
 
-공정거래위원회는 인터넷 쇼핑 같은 통신판매에서 단순 변심은 물건을 받은 날부터 7일 이내, 계약과 다르게 온 경우는 3개월 이내(또는 그 사실을 안 날부터 30일 이내) 청약을 철회할 수 있다고 안내합니다. 다만 택을 떼거나 세탁·수선해 가치가 줄면 반품이 어려울 수 있으니, 받은 옷은 택을 단 채 집에서 먼저 입어 보고 앉기와 걷기까지 확인한 뒤 결정합니다.
+통신판매의 일반적인 청약철회는 계약 내용을 받은 날부터 7일 이내이며, 상품 공급이 더 늦으면 상품을 받은 날부터 계산합니다. 상품이 표시·광고나 계약 내용과 다르다면 받은 날부터 3개월 이내이면서, 그 사실을 안 날 또는 알 수 있었던 날부터 30일 이내여야 합니다. 두 기간 중 하나만 지키면 되는 것은 아닙니다. 받은 옷은 사용·세탁·수선 전에 상태를 기록하고, 기한 안에 판매자에게 청약철회 의사를 전달합니다. 제한 사유와 반송 비용, 판매자에게 남길 기록은 [온라인 구매·반품 안내](/blog/mens-online-clothing-measurement-guide)에서 확인할 수 있습니다.
 
 ### 중고
 
@@ -157,7 +157,8 @@ Proper Cloth의 안내도 자사 옷의 부위별 수선 범위를 구분합니�
 - [WRAP — Nation's wardrobes hold 1.6 billion items of unworn clothes](https://www.wrap.ngo/media-centre/press-releases/nations-wardrobes-hold-16-billion-items-unworn-clothes-people-open-new)
 - [University of Leeds — Why price does not indicate how long clothes will last](https://www.leeds.ac.uk/news-working-business/news/article/5346/why-price-does-not-indicate-how-long-clothes-will-last)
 - [ISO — ISO 8559-1:2017 Anthropometric definitions for body measurement](https://www.iso.org/standard/61686.html)
-- [공정거래위원회 — 전자상거래에서 소비자 보호](https://www.ftc.go.kr/www/contents.do?key=703)
+- [국가법령정보센터 — 전자상거래법 제17조 청약철회](https://www.law.go.kr/법령/전자상거래등에서의소비자보호에관한법률/제17조)
+- [법제처 — 제17조 제3항의 두 청약철회 기간 해석](https://opinion.lawmaking.go.kr/nl4li/lsItptEmp/421697)
 - [한국소비자원 — 중고거래 플랫폼 소비자문제 실태조사](https://www.kca.go.kr/kca/board/download.do?menukey=5084&fno=10034336&bid=00000013&did=1003330774)
 - [아름다운가게 — 기증품목](https://www.beautifulstore.org/donation-item)
 - [Proper Cloth — How Much Can Your Garment Be Altered by a Tailor?](https://propercloth.com/reference/how-much-can-alter-a-jacket-how-much-can-a-tailor-do/)

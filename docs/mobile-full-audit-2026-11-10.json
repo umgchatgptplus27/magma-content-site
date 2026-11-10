@@ -1,0 +1,3183 @@
+{
+  "scope": "320 CSS px layout audit, not physical-device testing or all interactions; site-header navigation uses first four anchors; article breadcrumbs/author links excluded from 40px navigation-height check",
+  "total": 62,
+  "completed": 62,
+  "results": [
+    {
+      "url": "/",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "유행은 지나가도, 기본은 남습니다",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": []
+    },
+    {
+      "url": "/blog",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "전체 가이드",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": []
+    },
+    {
+      "url": "/blog/page/2",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "전체 가이드 · 2페이지",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": []
+    },
+    {
+      "url": "/blog/page/3",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "전체 가이드 · 3페이지",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": []
+    },
+    {
+      "url": "/about",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "소개 및 문의",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": []
+    },
+    {
+      "url": "/privacy-policy",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "개인정보처리방침",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": []
+    },
+    {
+      "url": "/tools/size-compare",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "옷 사이즈 비교 계산기",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 581.71875
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": []
+    },
+    {
+      "url": "/blog/mens-anniversary-dinner-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "기념일 데이트 남자 옷차림을 장소별로 정리했습니다",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-average-body-size-korea-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "30·40대 남자 평균 키와 허리둘레, 옷 사이즈엔 어떻게 반영할까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-belt-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 벨트 고르는 법: 폭·길이·버클·가죽 표시",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-blazer-separates-styling-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 블레이저 코디, 바지와 이너는 어떻게 맞출까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "스타일링과 색 조합",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-body-type-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "체형별 남자 옷, 어느 부위부터 맞춰야 할까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-boot-selection-styling-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 부츠 종류와 첫 켤레 고르는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-business-casual-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "비즈니스 캐주얼 남자 코디: 회사 단계별 구성표와 계절 조합",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "출근과 비즈니스",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-career-interview-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "면접 복장 남자, 안내 문구에 맞춰 입는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "출근과 비즈니스",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-chino-styling-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "치노 팬츠 코디로 출근과 주말을 함께 입는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "스타일링과 색 조합",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-clothing-alteration-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "옷 수선 가능 범위와 고칠지 바꿀지 판단하는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-coat-fabric-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 코트 원단 고르는 법과 울·캐시미어·혼방 차이",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-coat-length-fit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 코트 기장, 재킷 위에서 고르는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-derby-oxford-shoe-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "더비와 옥스퍼드 차이로 고르는 첫 구두",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-down-jacket-label-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "구스다운 패딩 라벨 읽는 법, 거위털 비율과 솜털·깃털 비율부터",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-dress-shoe-fit-check-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "구두 사이즈 고르는 법: 발끝·발볼·발등·뒤꿈치 보기",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-eyewear-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "안경테 고르는 법, 얼굴과 옷 중 무엇부터 볼까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-first-birthday-party-dad-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "돌잔치 아빠 옷차림 장소별 조합과 전날 준비",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-first-golf-round-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "골프 복장 초보 남자가 첫 라운드에 입을 옷과 골프장 규정",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-first-hiking-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "등산 복장 초보 남자가 첫 산행에 입을 옷",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-formal-family-meeting-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "상견례 옷차림 남자: 장소별 복장부터 명절 옷까지",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-funeral-attire-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "조문 복장 남자 기본과 검정 정장이 없을 때",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-garment-care-label-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "세탁 기호 읽는 법, 물세탁부터 드라이 표시까지 한 표로",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-garment-stain-first-aid-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "옷 얼룩 지우는 법: 라벨 확인부터 종류별 처리까지",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-hat-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 모자 고르는 법과 머리둘레 재는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-invitation-dress-code-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "드레스코드 뜻과 남자 복장: 블랙타이부터 스마트 캐주얼까지",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-jacket-fit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 재킷 사이즈 고르는 법: 어깨부터 소매까지 보는 순서",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-knit-gauge-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "니트 게이지 뜻, 12G와 7G는 무엇이 다를까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-knit-layering-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "니트 레이어링 남자 코디 세 겹 입는 순서",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "스타일링과 색 조합",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-knit-pilling-care-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "니트 보풀 제거 방법과 늘어나지 않게 관리하는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-leather-shoe-care-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "구두 관리법: 매일 손질부터 젖은 스웨이드 말리기까지",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-loafer-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "로퍼 고르는 법은 종류보다 사이즈와 밑창이 먼저",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-muted-color-pairing-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "스타일링과 색 조합",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-necktie-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "넥타이 고르는 법과 셔츠 칼라에 맞는 매듭",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-office-sneaker-styling-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "출근용 스니커즈 고르는 법과 슬랙스·치노 코디",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "출근과 비즈니스",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-online-clothing-measurement-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "옷 사이즈 실측 비교법: 기준 옷 재기부터 시착·반품까지",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-overshirt-styling-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 가벼운 아우터, 어떤 종류부터 사야 할까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "스타일링과 색 조합",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-polo-shirt-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 폴로셔츠 고르는 법과 피케·니트 폴로 출근 코디",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-scarf-styling-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 머플러 두르는 법과 코트에 맞는 폭 고르는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-seasonal-wardrobe-storage-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "계절 옷 정리·보관법: 접을 옷과 걸 옷, 옷걸이, 옷장 기록",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-shirt-collar-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "셔츠 칼라 종류와 고르는 법: 타이·노타이·오픈칼라",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-shirt-fabric-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "셔츠 원단 종류별 차이와 출근용 고르는 법",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-shirt-fit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "셔츠 사이즈, 목·어깨·소매 중 어디부터 볼까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-shirt-ironing-wrinkle-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "셔츠 다림질 하는 법, 순서와 온도부터 린넨 관리까지",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-smart-denim-styling-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "청바지 출근룩: 단정하게 입는 색·핏·밑단·상의 조합",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "스타일링과 색 조합",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-sock-pairing-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "정장 양말 색은 바지에 맞춥니다",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-suit-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 정장 고르는 법: 색·원단·핏 순서와 기성복·맞춤 차이",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-travel-outfit-packing-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "출장 짐 싸기, 며칠이면 옷을 몇 벌 챙길까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-trench-coat-commute-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "트렌치코트 남자 출근룩 길이와 비 오는 날 준비",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "출근과 비즈니스",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-trouser-care-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "바지 관리법, 무릎 늘어남과 주름선은 어떻게 살릴까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-trouser-fit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "슬랙스 핏 보는 법은 허리와 밑위가 먼저입니다",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-tshirt-fit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 티셔츠 핏은 어깨선부터 봅니다",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "핏과 기본 아이템",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-wardrobe-budget-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 옷 예산, 무엇부터 사고 무엇을 고쳐 입을까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "관리와 옷장 운영",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-watch-outfit-pairing-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "남자 시계 고르는 법과 옷차림에 맞는 크기·스트랩",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "신발과 소품",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-wedding-guest-outfit-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "결혼식 하객룩 남자, 예식장과 계절마다 뭘 입을까",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "경조사와 외출",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "url": "/blog/mens-work-bag-selection-guide",
+      "width": 320,
+      "documentWidth": 320,
+      "h1": "출근 가방 고르는 법과 노트북 치수 재기",
+      "nav": [
+        {
+          "label": "MAGMA",
+          "visible": true
+        },
+        {
+          "label": "가이드",
+          "visible": true
+        },
+        {
+          "label": "사이즈 도구",
+          "visible": true
+        },
+        {
+          "label": "소개",
+          "visible": true
+        }
+      ],
+      "tables": [
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        },
+        {
+          "scrollContainer": true,
+          "width": 576
+        }
+      ],
+      "brokenImages": [],
+      "pass": true,
+      "articleHeaderLinks": [
+        {
+          "label": "가이드",
+          "visible": false
+        },
+        {
+          "label": "출근과 비즈니스",
+          "visible": false
+        },
+        {
+          "label": "작성자 소개·편집 원칙",
+          "visible": false
+        }
+      ]
+    }
+  ]
+}

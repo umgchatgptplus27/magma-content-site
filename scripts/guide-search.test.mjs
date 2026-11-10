@@ -27,3 +27,16 @@ test("searches guides beyond the first archive page without mutating the list", 
   assert.equal(JSON.stringify(archive), before);
   assert.deepEqual(searchGuides(archive, "없는단어"), []);
 });
+
+test("prioritizes the requested subject over incidental description and tag matches", () => {
+  const archive = [
+    { title: "코트 원단", description: "니트 보풀 관리와 비교", tags: [] },
+    { title: "보풀 정리: 니트와 코트", description: "관리", tags: [] },
+    { title: "니트 보풀 제거 방법", description: "관리", tags: [] },
+    { title: "겨울 옷 보관", description: "니트 보풀", tags: [] },
+  ];
+  const before = JSON.stringify(archive);
+  assert.deepEqual(searchGuides(archive, "니트 보풀"), [archive[2], archive[1], archive[0], archive[3]]);
+  assert.equal(JSON.stringify(archive), before);
+  assert.deepEqual(searchGuides(archive, ""), archive);
+});

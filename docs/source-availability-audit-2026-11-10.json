@@ -1,0 +1,3793 @@
+{
+  "scope": "Current article reference URLs: HTTP availability and obvious soft-error title checks only. Restrictions are not proof of broken links. Does not verify every factual claim.",
+  "baselineCount": 335,
+  "total": 336,
+  "completed": 336,
+  "removedLinks": [
+    {
+      "url": "https://www.ftc.go.kr/www/contents.do?key=703",
+      "slugs": [
+        "mens-wardrobe-budget-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ftc.go.kr/www/contents.do?key=703",
+      "title": "전자상거래에서 소비자 보호 - 공정거래위원회",
+      "bytes": 276214
+    },
+    {
+      "url": "https://www.grand-seiko.com/us-en/collections/sbgk007g",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.grand-seiko.com/us-en/collections/sbgk007g",
+      "title": "404 Page Not Found | Grand Seiko",
+      "bytes": 82380
+    }
+  ],
+  "results": [
+    {
+      "url": "https://www.mmca.go.kr/seoul/viewingInfo/restrictedItems.do",
+      "slugs": [
+        "mens-anniversary-dinner-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mmca.go.kr/seoul/viewingInfo/restrictedItems.do",
+      "title": "국립현대미술관",
+      "bytes": 148969,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.leeumhoam.org/leeum/info/visit",
+      "slugs": [
+        "mens-anniversary-dinner-outfit-guide",
+        "mens-invitation-dress-code-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.leeumhoam.org/leeum/info/visit",
+      "title": "방문안내 : 리움미술관",
+      "bytes": 79105,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "slugs": [
+        "mens-anniversary-dinner-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.museum.go.kr/MUSEUM/contents/M0101000000.do",
+      "title": "국립중앙박물관&gt;관람 정보&gt;관람 안내",
+      "bytes": 47979,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain",
+      "slugs": [
+        "mens-anniversary-dinner-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain",
+      "title": "Choosing shoes to reduce foot pain - Overview | Guy&#039;s and St Thomas&#039; NHS Foundation Trust",
+      "bytes": 75386,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/december/19/how-to-taste-wine",
+      "slugs": [
+        "mens-anniversary-dinner-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.wsetglobal.com/news-insights/insight-opinion/how-to-taste-wine/",
+      "title": "How to taste wine | A guide to tasting wine - WSET",
+      "bytes": 104330,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-alcoholic-beverages-beer-wine/",
+      "slugs": [
+        "mens-anniversary-dinner-outfit-guide",
+        "mens-garment-stain-first-aid-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-alcoholic-beverages-beer-wine/",
+      "title": "Remove Stains From Alcoholic Beverages, Beer, Wine | Textiles",
+      "bytes": 97835,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://noburestaurants.com/milan/reservations",
+      "slugs": [
+        "mens-anniversary-dinner-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://noburestaurants.com/milan/reservations",
+      "title": "Reservations - Nobu Milan",
+      "bytes": 114207,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://github.com/umgchatgptplus27/magma-content-site/blob/main/scripts/verify-size-korea.py",
+      "slugs": [
+        "mens-average-body-size-korea-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://github.com/umgchatgptplus27/magma-content-site/blob/main/scripts/verify-size-korea.py",
+      "title": "magma-content-site/scripts/verify-size-korea.py at main · umgchatgptplus27/magma-content-site · GitHub",
+      "bytes": 217943,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://sizekorea.kr/human-info/compare-meas-year",
+      "slugs": [
+        "mens-average-body-size-korea-guide"
+      ],
+      "status": null,
+      "error": "fetch failed",
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.kats.go.kr/content.do?cmsid=240&searchField=title&y=0&x=0&mode=view&page=1&cid=23007",
+      "slugs": [
+        "mens-average-body-size-korea-guide",
+        "mens-body-type-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kats.go.kr/content.do?cmsid=240&searchField=title&y=0&x=0&mode=view&page=1&cid=23007",
+      "title": "한국인 평균 키 40년 전보다 남 6.4cm, 여 5.3cm 커졌다(3/31 조간) | 국가기술표준원 &gt; 소식 &gt; 보도자료",
+      "bytes": 23202,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8",
+      "slugs": [
+        "mens-average-body-size-korea-guide",
+        "mens-dress-shoe-fit-check-guide",
+        "mens-shirt-fit-guide"
+      ],
+      "status": null,
+      "error": "fetch failed",
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://oliverwicks.com/article/suit-size",
+      "slugs": [
+        "mens-average-body-size-korea-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.oliverwicks.com/article/suit-size",
+      "title": "Men’s Suit Sizes (with a Size Chart): A Complete Guide - Oliver Wicks",
+      "bytes": 425220,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-much-can-alter-a-jacket-how-much-can-a-tailor-do/",
+      "slugs": [
+        "mens-average-body-size-korea-guide",
+        "mens-body-type-outfit-guide",
+        "mens-coat-length-fit-guide",
+        "mens-jacket-fit-guide",
+        "mens-online-clothing-measurement-guide",
+        "mens-trouser-fit-guide",
+        "mens-wardrobe-budget-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-much-can-alter-a-jacket-how-much-can-a-tailor-do/",
+      "title": "How Much Can Your Garment Be Altered by a Tailor? | Proper Cloth Help",
+      "bytes": 115771,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.mrporter.com/en-us/journal/fashion/how-to-choose-the-right-belt-680402",
+      "slugs": [
+        "mens-belt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mrporter.com/en-us/journal/fashion/how-to-choose-the-right-belt-680402",
+      "title": "How To Choose The Right Belt | The Journal | MR PORTER",
+      "bytes": 584906,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2024/09/belt-capsule-guide-the-basics.html",
+      "slugs": [
+        "mens-belt-selection-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2024/09/belt-capsule-guide-the-basics.html",
+      "title": "Just a moment...",
+      "bytes": 5634,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://us.crockettandjones.com/pages/size-guide-belts",
+      "slugs": [
+        "mens-belt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://us.crockettandjones.com/pages/size-guide-belts",
+      "title": "Size Guide - Belts &ndash; Crockett &amp; Jones US",
+      "bytes": 331944,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://us.dentsgloves.com/pages/belts-size-guide",
+      "slugs": [
+        "mens-belt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://us.dentsgloves.com/pages/belts-size-guide",
+      "title": "Men&#39;s Leather Belts Size Guide | Dents",
+      "bytes": 461521,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.esquire.com/style/mens-fashion/advice/a5740/belts-shoes-match-0509/",
+      "slugs": [
+        "mens-belt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.esquire.com/style/mens-fashion/advice/a5740/belts-shoes-match-0509/",
+      "title": "How to Match Belts and Shoes - Matching Belt with Shoe",
+      "bytes": 598459,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000250204",
+      "slugs": [
+        "mens-belt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000250204",
+      "title": "행정규칙 &gt; 안전기준준수대상생활용품의 안전기준 | 국가법령정보센터",
+      "bytes": 73384,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.aad.org/public/diseases/eczema/insider/nickel-allergy",
+      "slugs": [
+        "mens-belt-selection-guide",
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.aad.org/public/diseases/eczema/insider/nickel-allergy",
+      "title": "Nickel allergy: How to avoid exposure and reduce symptoms",
+      "bytes": 152730,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2025/07/can-you-wear-structured-jackets-with-jeans.html",
+      "slugs": [
+        "mens-blazer-separates-styling-guide",
+        "mens-smart-denim-styling-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2025/07/can-you-wear-structured-jackets-with-jeans.html",
+      "title": "Just a moment...",
+      "bytes": 5694,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2020/05/summer-smart-casual-three-looks-three-levels-of-formality.html",
+      "slugs": [
+        "mens-blazer-separates-styling-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2020/05/summer-smart-casual-three-looks-three-levels-of-formality.html",
+      "title": "Just a moment...",
+      "bytes": 5761,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.legislation.gov.uk/ukla/1993/11/section/7/enacted",
+      "slugs": [
+        "mens-blazer-separates-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.legislation.gov.uk/ukla/1993/11/section/7/enacted",
+      "title": "Harris Tweed Act 1993",
+      "bytes": 25894,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.harristweedhebrides.com/pages/weights",
+      "slugs": [
+        "mens-blazer-separates-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.harristweedhebrides.com/pages/weights",
+      "title": "Our Weights - A Weight For Every Season &ndash; Harris Tweed Hebrides Ltd",
+      "bytes": 244711,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.woolmark.com/care/care-for-wool/",
+      "slugs": [
+        "mens-blazer-separates-styling-guide",
+        "mens-business-casual-guide",
+        "mens-coat-fabric-selection-guide",
+        "mens-garment-care-label-guide",
+        "mens-knit-layering-guide",
+        "mens-knit-pilling-care-guide",
+        "mens-seasonal-wardrobe-storage-guide",
+        "mens-shirt-ironing-wrinkle-guide",
+        "mens-trench-coat-commute-guide",
+        "mens-trouser-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/care-for-wool/",
+      "title": "Caring for Wool | Woolmark",
+      "bytes": 123573,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ginetex.net/gb/labelling/care-symbols.asp",
+      "slugs": [
+        "mens-blazer-separates-styling-guide",
+        "mens-coat-fabric-selection-guide",
+        "mens-garment-care-label-guide",
+        "mens-hat-selection-guide",
+        "mens-polo-shirt-selection-guide",
+        "mens-shirt-fabric-selection-guide",
+        "mens-shirt-ironing-wrinkle-guide",
+        "mens-trench-coat-commute-guide",
+        "mens-tshirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ginetex.net/gb/labelling/care-symbols.asp",
+      "title": "GINETEX > Care symbols",
+      "bytes": 76887,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://suitsupply.com/en-no/journal/best-polo-shirts-for-men-styling-guide.html",
+      "slugs": [
+        "mens-blazer-separates-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-no/journal/best-polo-shirts-for-men-styling-guide.html",
+      "title": "Best Polo Shirts for Men Styling Guide",
+      "bytes": 357968,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.loake.com/faqs/",
+      "slugs": [
+        "mens-blazer-separates-styling-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.loake.com/faqs/",
+      "title": "Attention Required! | Cloudflare",
+      "bytes": 5669,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://propercloth.com/reference/based-on-body-measurements-selecting-a-type-of-fit/",
+      "slugs": [
+        "mens-body-type-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/based-on-body-measurements-selecting-a-type-of-fit/",
+      "title": "Selecting Type of Shirt Fit Based on Body Measurements | Proper Cloth Help",
+      "bytes": 50888,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://blacklapel.com/thecompass/flawless-fit-series-clothes-for-short-men/",
+      "slugs": [
+        "mens-body-type-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/flawless-fit-series-clothes-for-short-men",
+      "title": "What to Look for in Suits for Short Men|What to Look for in Suits for Short Men|What to Look for in Suits for Short Men &ndash; Black Lapel",
+      "bytes": 432062,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://blacklapel.com/blogs/the-compass/flawless-fit-series-tall-mens-clothing-guide",
+      "slugs": [
+        "mens-body-type-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/flawless-fit-series-tall-mens-clothing-guide",
+      "title": "Flawless Fit Series - A Tall Men&#39;s Clothing Guide &ndash; Black Lapel",
+      "bytes": 430123,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.realmenrealstyle.com/dress-for-body-type/",
+      "slugs": [
+        "mens-body-type-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.realmenrealstyle.com/dress-for-body-type/",
+      "title": "Body Shape &amp; Men&#039;s Style - How To Dress For Your Body Type - RealMenRealStyle",
+      "bytes": 504746,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/trousers-fit-guide.html",
+      "slugs": [
+        "mens-body-type-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/trousers-fit-guide.html",
+      "title": "Pants Fit Guide | SUITSUPPLY",
+      "bytes": 471903,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://putthison.com/a-basic-guide-on-alterations/",
+      "slugs": [
+        "mens-body-type-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://putthison.com/a-basic-guide-on-alterations/",
+      "title": "A Basic Guide on Alterations &#8211; Put This On",
+      "bytes": 135547,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/style-guide",
+      "slugs": [
+        "mens-boot-selection-styling-guide",
+        "mens-derby-oxford-shoe-guide",
+        "mens-loafer-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/style-guide",
+      "title": "Style Guide &ndash; Crockett &amp; Jones UK",
+      "bytes": 454113,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/sole-guide",
+      "slugs": [
+        "mens-boot-selection-styling-guide",
+        "mens-derby-oxford-shoe-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/sole-guide",
+      "title": "Sole Guide &ndash; Crockett &amp; Jones UK",
+      "bytes": 451317,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/shoe-care-hacks",
+      "slugs": [
+        "mens-boot-selection-styling-guide",
+        "mens-leather-shoe-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/shoe-care-hacks",
+      "title": "Shoe Care Hacks | Crockett &amp; Jones &ndash; Crockett &amp; Jones UK",
+      "bytes": 349626,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://collections.vam.ac.uk/item/O11194/pair-of-ankle-unknown/",
+      "slugs": [
+        "mens-boot-selection-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://collections.vam.ac.uk/item/O11194/pair-of-ankle-unknown/",
+      "title": "Pair of Ankle Boots | Unknown | V&A Explore The Collections",
+      "bytes": 54818,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.clarks.com/en-gb/editorial/how-to-wear-desert-boots",
+      "slugs": [
+        "mens-boot-selection-styling-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.clarks.com/en-gb/editorial/how-to-wear-desert-boots",
+      "title": "Attention Required! | Cloudflare",
+      "bytes": 5664,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://propercloth.com/reference/what-is-pant-break/",
+      "slugs": [
+        "mens-boot-selection-styling-guide",
+        "mens-chino-styling-guide",
+        "mens-loafer-selection-guide",
+        "mens-office-sneaker-styling-guide",
+        "mens-smart-denim-styling-guide",
+        "mens-sock-pairing-guide",
+        "mens-trouser-fit-guide",
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/what-is-pant-break/",
+      "title": "What Is a Pant Break? | Proper Cloth Help",
+      "bytes": 61889,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/fitting-guide",
+      "slugs": [
+        "mens-boot-selection-styling-guide",
+        "mens-dress-shoe-fit-check-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/fitting-guide",
+      "title": "Fitting Guide &ndash; Crockett &amp; Jones UK",
+      "bytes": 454766,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://careerandlife.ucmo.edu/resources/guide-to-professional-dress/",
+      "slugs": [
+        "mens-business-casual-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://careerandlife.ucmo.edu/resources/guide-to-professional-dress/",
+      "title": "Guide to Professional Dress &#8211; Career and Life Design Center | University of Central Missouri",
+      "bytes": 194197,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://careercenter.temple.edu/students/fly/interview-and-workplace-attire",
+      "slugs": [
+        "mens-business-casual-guide",
+        "mens-career-interview-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://careercenter.temple.edu/students/fly/interview-and-workplace-attire",
+      "title": "Interview and Workplace Attire | Career Center",
+      "bytes": 72333,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=29687",
+      "slugs": [
+        "mens-business-casual-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=29687",
+      "title": "넥타이 풀고 편안한 복장으로 근무하세요 | 행정안전부&gt; 뉴스·소식&gt; 보도자료&gt; 보도자료",
+      "bytes": 137889,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy",
+      "slugs": [
+        "mens-business-casual-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy",
+      "title": "Just a moment...",
+      "bytes": 5825,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-shirts.html",
+      "slugs": [
+        "mens-business-casual-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-shirts.html",
+      "title": "How to take care of your shirts | SUITSUPPLY",
+      "bytes": 421571,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://career.hwahae.co.kr/faq",
+      "slugs": [
+        "mens-career-interview-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://career.hwahae.co.kr/faq",
+      "title": "화해글로벌 - 채용 홈페이지",
+      "bytes": 236286,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://news.wpcarey.asu.edu/20200727-5-ways-prepare-your-space-virtual-interview",
+      "slugs": [
+        "mens-career-interview-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://news.wpcarey.asu.edu/20200727-5-ways-prepare-your-space-virtual-interview",
+      "title": "5 ways to prepare your space for a virtual interview | W. P. Carey News",
+      "bytes": 50193,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://newsroom.sennheiser.com/how-to-presentation-microphones-2-head-worn-and-lavalier-microphones-bby4kb",
+      "slugs": [
+        "mens-career-interview-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://newsroom.sennheiser.com/how-to-presentation-microphones-2-head-worn-and-lavalier-microphones-bby4kb",
+      "title": "How-To Presentation microphones 2: Head worn and Lavalier Microphones",
+      "bytes": 559347,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://blog.ted.com/how-to-dress-for-ted-be-yourself/",
+      "slugs": [
+        "mens-career-interview-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog.ted.com/how-to-dress-for-ted-be-yourself/",
+      "title": "How to dress for your TED Talk? Be yourself | TED Blog",
+      "bytes": 45827,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://brand.uiowa.edu/portrait-tips",
+      "slugs": [
+        "mens-career-interview-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://brand.uiowa.edu/portrait-tips",
+      "title": "Professional portrait tips | Brand Manual - The University of Iowa",
+      "bytes": 50787,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.adobe.com/creativecloud/photography/discover/anti-aliasing.html",
+      "slugs": [
+        "mens-career-interview-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.adobe.com/creativecloud/photography/discover/anti-aliasing.html",
+      "title": "Understanding aliasing and anti-aliasing techniques | Adobe",
+      "bytes": 40155,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/weaving/basic-woven-fabric-designs/",
+      "slugs": [
+        "mens-chino-styling-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/weaving/basic-woven-fabric-designs/",
+      "title": "Just a moment...",
+      "bytes": 5624,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/weaving/complex-woven-fabric-designs/",
+      "slugs": [
+        "mens-chino-styling-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/weaving/complex-woven-fabric-designs/",
+      "title": "Just a moment...",
+      "bytes": 5630,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/chino",
+      "slugs": [
+        "mens-chino-styling-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/chino",
+      "title": "Just a moment...",
+      "bytes": 5514,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.dhs.gov/sites/default/files/publications/nppd-memorandum-business-casual-dress-guidance.pdf",
+      "slugs": [
+        "mens-chino-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.dhs.gov/sites/default/files/publications/nppd-memorandum-business-casual-dress-guidance.pdf",
+      "title": null,
+      "bytes": 122760,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/should-you-wear-cuffed-pants/",
+      "slugs": [
+        "mens-chino-styling-guide",
+        "mens-smart-denim-styling-guide",
+        "mens-trouser-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/should-you-wear-cuffed-pants/",
+      "title": "Should You Wear Cuffed Pants? A Guide To Trouser Cuffs",
+      "bytes": 387751,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://arthurandlucca.com/pages/alterations-pricing",
+      "slugs": [
+        "mens-clothing-alteration-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://arthurandlucca.com/pages/alterations-pricing",
+      "title": "Alterations Pricing Chicago | Transparent Tailor Rates | Arthur + Lucca",
+      "bytes": 133506,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/전자상거래등에서의소비자보호에관한법률시행령/제21조",
+      "slugs": [
+        "mens-clothing-alteration-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98%EB%93%B1%EC%97%90%EC%84%9C%EC%9D%98%EC%86%8C%EB%B9%84%EC%9E%90%EB%B3%B4%ED%98%B8%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9/%EC%A0%9C21%EC%A1%B0",
+      "title": "전자상거래등에서의소비자보호에관한법률시행령",
+      "bytes": 1280,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/suit-alterations-what-a-tailor-can-do/",
+      "slugs": [
+        "mens-clothing-alteration-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/suit-alterations-what-a-tailor-can-do/",
+      "title": "Suit Alterations: What A Tailor Can (&amp; Can&#039;t) Do | Gentleman&#039;s Gazette",
+      "bytes": 456240,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://thesuitdoctor.com/blog/anatomy-of-a-perfectly-fitting-suit-12-points",
+      "slugs": [
+        "mens-clothing-alteration-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://thesuitdoctor.com/blog/anatomy-of-a-perfectly-fitting-suit-12-points",
+      "title": "Anatomy of a Perfectly Fitting Suit: The 12 Points That Matter | The Suit Doctor Blog",
+      "bytes": 69381,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C314/index.html",
+      "slugs": [
+        "mens-clothing-alteration-guide",
+        "mens-trouser-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C314/index.html",
+      "title": "Making Perfect Garment Hems | New Mexico State University - BE BOLD. Shape the Future.",
+      "bytes": 48769,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://ykkamericas.com/wp-content/uploads/2021/10/ykk-zipper-instruction-manual-compressed.pdf",
+      "slugs": [
+        "mens-clothing-alteration-guide",
+        "mens-garment-care-label-guide",
+        "mens-shirt-ironing-wrinkle-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://ykkamericas.com/wp-content/uploads/2021/10/ykk-zipper-instruction-manual-compressed.pdf",
+      "title": null,
+      "bytes": 843560,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000270136&chrClsCd=010201",
+      "slugs": [
+        "mens-clothing-alteration-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000270136&chrClsCd=010201",
+      "title": "행정규칙 &gt; 소비자분쟁해결기준 | 국가법령정보센터",
+      "bytes": 73602,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kolonsport.com/AfterSales/RepairCoverage",
+      "slugs": [
+        "mens-clothing-alteration-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kolonsport.com/AfterSales/RepairCoverage",
+      "title": "KOLON SPORT",
+      "bytes": 54062,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kats.go.kr/content.do?cmsid=527&mode=view&page=&cid=24422",
+      "slugs": [
+        "mens-coat-fabric-selection-guide",
+        "mens-overshirt-styling-guide",
+        "mens-shirt-fabric-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kats.go.kr/content.do?cmsid=527&mode=view&page=&cid=24422",
+      "title": "가정용 섬유제품('24.3.7. 시행) | 국가기술표준원 &gt; 정책 &gt; 제품안전 &gt; 안전기준열람 &gt; 생활용품안전기준",
+      "bytes": 21741,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts",
+      "slugs": [
+        "mens-coat-fabric-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts",
+      "title": "Threading Your Way Through the Labeling Requirements Under the Textile and Wool Acts | Federal Trade Commission",
+      "bytes": 1102566,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.woolmark.com/industry/certification/product-specifications/",
+      "slugs": [
+        "mens-coat-fabric-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/industry/certification/product-specifications/",
+      "title": "Woolmark Product Specifications | The Woolmark Company",
+      "bytes": 137491,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.medicaljournals.se/acta/content/html/10.2340/00015555-2655",
+      "slugs": [
+        "mens-coat-fabric-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.medicaljournals.se/acta/content/html/10.2340/00015555-2655",
+      "title": "Debunking the Myth of Wool Allergy: Reviewing the Evidence for Immune and Non-immune Cutaneous Reactions | HTML | Acta Dermato-Venereologica",
+      "bytes": 102707,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C208/index.html",
+      "slugs": [
+        "mens-coat-fabric-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C208/index.html",
+      "title": "Selecting Interfacings, Underlinings, and Linings | New Mexico State University - BE BOLD. Shape the Future.",
+      "bytes": 37789,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.woolmark.com/care/pilling/",
+      "slugs": [
+        "mens-coat-fabric-selection-guide",
+        "mens-knit-pilling-care-guide",
+        "mens-polo-shirt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/pilling/",
+      "title": "What is pilling? | Woolmark",
+      "bytes": 124160,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://articlesofstyle.com/blogs/news/how-it-should-fit-the-overcoat",
+      "slugs": [
+        "mens-coat-length-fit-guide",
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://articlesofstyle.com/blogs/news/how-it-should-fit-the-overcoat",
+      "title": "Articles of Style | HOW IT SHOULD FIT: THE OVERCOAT",
+      "bytes": 300768,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://blacklapel.com/blogs/the-compass/how-should-an-overcoat-fit",
+      "slugs": [
+        "mens-coat-length-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/how-should-an-overcoat-fit",
+      "title": "How Should An Overcoat Fit? &ndash; Black Lapel",
+      "bytes": 433219,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://int.burberry.com/l/mens-coats-jackets/trench-coats/",
+      "slugs": [
+        "mens-coat-length-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://int.burberry.com/l/mens-coats-jackets/trench-coats/",
+      "title": "Men’s Trench Coats | Burberry®",
+      "bytes": 2875323,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.schottnyc.com/products/740-the-original-navy-pea-coat",
+      "slugs": [
+        "mens-coat-length-fit-guide"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.schottnyc.com/products/740-the-original-navy-pea-coat",
+      "title": null,
+      "bytes": 18,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-to-measure-a-jacket/",
+      "slugs": [
+        "mens-coat-length-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-to-measure-a-jacket-center-back-length/",
+      "title": "How to Measure a Jacket: Center Back Length | Proper Cloth Help",
+      "bytes": 60855,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.wmata.com/ride/elevators-escalators/safety.html",
+      "slugs": [
+        "mens-coat-length-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.wmata.com/ride/elevators-escalators/safety.html",
+      "title": "Safety | WMATA",
+      "bytes": 113067,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/blogs/the-article/definitive-guide-the-english-oxford",
+      "slugs": [
+        "mens-derby-oxford-shoe-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/blogs/the-article/definitive-guide-the-english-oxford",
+      "title": "Definitive Guide... The English Oxford &ndash; Crockett &amp; Jones UK",
+      "bytes": 491934,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/blogs/the-article/origins-of-shoe-styles-the-derby",
+      "slugs": [
+        "mens-derby-oxford-shoe-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/blogs/the-article/origins-of-shoe-styles-the-derby",
+      "title": "Origins of... The Derby &ndash; Crockett &amp; Jones UK",
+      "bytes": 464565,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/repairs",
+      "slugs": [
+        "mens-derby-oxford-shoe-guide",
+        "mens-leather-shoe-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/repairs",
+      "title": "Repairs &ndash; Crockett &amp; Jones UK",
+      "bytes": 346976,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.church-footwear.com/us/en/p/calf-leather-oxford-brogue/EEB355_9WF_F0AAB_F_000000",
+      "slugs": [
+        "mens-derby-oxford-shoe-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.church-footwear.com/us/en/p/calf-leather-oxford-brogue/EEB355_9WF_F0AAB_F_000000",
+      "title": "Black Calf Leather Oxford Brogue | Church's",
+      "bytes": 1319632,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.hse.gov.uk/slips/footprocure.htm",
+      "slugs": [
+        "mens-derby-oxford-shoe-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hse.gov.uk/slips/footprocure.htm",
+      "title": "Slip-resistant footwear - HSE",
+      "bytes": 46555,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kca.go.kr/home/sub.do?menukey=4002&mode=view&no=1003973994",
+      "slugs": [
+        "mens-down-jacket-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/home/sub.do?menukey=4002&mode=view&no=1003973994",
+      "title": "한국소비자원 > 소비자뉴스 > 보도자료 > 상세보기",
+      "bytes": 81369,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kca.go.kr/smartconsumer/sub.do?menukey=7301&mode=view&no=1003990149",
+      "slugs": [
+        "mens-down-jacket-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/smartconsumer/sub.do?menukey=7301&mode=view&no=1003990149",
+      "title": "스마트컨슈머 > 소비자정보 > KCA보고서 > 상세보기",
+      "bytes": 74945,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ftc.go.kr/www/selectBbsNttView.do?bordCd=3&key=12&searchCtgry=01%2C02&nttSn=46882",
+      "slugs": [
+        "mens-down-jacket-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ftc.go.kr/www/selectBbsNttView.do?bordCd=3&key=12&searchCtgry=01%2C02&nttSn=46882",
+      "title": "보도자료 - 공정거래위원회",
+      "bytes": 291697,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://idfl.com/info/explanation-of-down-and-feather-tests/",
+      "slugs": [
+        "mens-down-jacket-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://idfl.com/info/explanation-of-down-and-feather-tests/",
+      "title": "Explanation of Down and Feather Tests - IDFL",
+      "bytes": 142590,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.consumer.go.kr",
+      "slugs": [
+        "mens-down-jacket-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.consumer.go.kr/",
+      "title": "소비자24",
+      "bytes": 1337,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.orthoinfo.org/en/staying-healthy/shoes-finding-the-right-fit/",
+      "slugs": [
+        "mens-dress-shoe-fit-check-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.orthoinfo.org/bodypart/foot-ankle/shoes-finding-the-right-fit/",
+      "title": "Shoes: Finding the Right Fit - OrthoInfo - AAOS",
+      "bytes": 54356,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/blogs/the-article/a-guide-to-fitting",
+      "slugs": [
+        "mens-dress-shoe-fit-check-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/blogs/the-article/a-guide-to-fitting",
+      "title": "A Guide to... Fitting &ndash; Crockett &amp; Jones UK",
+      "bytes": 476772,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://shoegazing.com/2021/04/06/guide-simple-corrections-of-fit-nr-2/",
+      "slugs": [
+        "mens-dress-shoe-fit-check-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://shoegazing.com/2021/04/06/guide-simple-corrections-of-fit-nr-2/",
+      "title": "Guide &#8211; Simple corrections of fit nr. 2 &#8211; Shoegazing.com",
+      "bytes": 133382,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nhs.uk/conditions/blisters/",
+      "slugs": [
+        "mens-dress-shoe-fit-check-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/conditions/blisters/",
+      "title": "Blisters - NHS",
+      "bytes": 42677,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=009318&ancYnChk=0#0000",
+      "slugs": [
+        "mens-dress-shoe-fit-check-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=009318&ancYnChk=0",
+      "title": "법령 &gt; 본문 &gt; 전자상거래 등에서의 소비자보호에 관한 법률 | 국가법령정보센터",
+      "bytes": 134301,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.allaboutvision.com/eyewear/eyeglasses/styles/glasses-frame-size/",
+      "slugs": [
+        "mens-eyewear-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.allaboutvision.com/eyewear/eyeglasses/styles/glasses-frame-size/",
+      "title": "Eyeglass Frame Sizes Explained",
+      "bytes": 181196,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.zeiss.com/vision-care/en/eye-health-and-care/understanding-vision/the-right-lenses-for-optimum-vision.html",
+      "slugs": [
+        "mens-eyewear-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.zeiss.com/vision-care/en/eye-health-and-care/understanding-vision/the-right-lenses-for-optimum-vision.html",
+      "title": "The right lenses for optimum vision",
+      "bytes": 254450,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.warbyparker.com/learn/glasses-for-different-face-shapes",
+      "slugs": [
+        "mens-eyewear-outfit-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.warbyparker.com/learn/glasses-for-different-face-shapes",
+      "title": "Warby Parker",
+      "bytes": 8455,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.glassesdirect.co.uk/eye-health/prescription-lens-thickness",
+      "status": 200,
+      "finalUrl": "https://www.glassesdirect.co.uk/eye-health/prescription-lens-thickness",
+      "title": "Lens thickness: What to know | Glasses Direct ™",
+      "bytes": 312690,
+      "slugs": [
+        "mens-eyewear-outfit-guide"
+      ],
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.canon-europe.com/pro/infobank/white-balance/",
+      "slugs": [
+        "mens-eyewear-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.canon-europe.com/pro/infobank/white-balance/",
+      "title": "White Balance: Definition &amp; Settings - Canon Europe",
+      "bytes": 347390,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/double-vision/",
+      "slugs": [
+        "mens-eyewear-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/symptoms/double-vision/",
+      "title": "Double vision - NHS",
+      "bytes": 33297,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nhs.uk/symptoms/eye-pain/",
+      "slugs": [
+        "mens-eyewear-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/symptoms/eye-pain/",
+      "title": "Eye pain - NHS",
+      "bytes": 29433,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://encykorea.aks.ac.kr/Article/E0016110",
+      "slugs": [
+        "mens-first-birthday-party-dad-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://encykorea.aks.ac.kr/Article/E0016110",
+      "title": "&#xB3CC; - &#xD55C;&#xAD6D;&#xBBFC;&#xC871;&#xBB38;&#xD654;&#xB300;&#xBC31;&#xACFC;&#xC0AC;&#xC804;",
+      "bytes": 96733,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nhs.uk/baby/first-aid-and-safety/safety/baby-and-toddler-safety/",
+      "slugs": [
+        "mens-first-birthday-party-dad-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/baby/first-aid-and-safety/safety/baby-and-toddler-safety/",
+      "title": "Baby and toddler safety - NHS",
+      "bytes": 41272,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://claremurthy.com/what-to-wear-newborn-photos/",
+      "slugs": [
+        "mens-first-birthday-party-dad-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://claremurthy.com/what-to-wear-newborn-photos/",
+      "title": "What To Wear For Newborn Photos | A New Parent&#039;s Guide",
+      "bytes": 113170,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nikonusa.com/learn-and-explore/c/products-and-innovation/moire-false-color",
+      "slugs": [
+        "mens-first-birthday-party-dad-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nikonusa.com/learn-and-explore/c/products-and-innovation/moire-false-color",
+      "title": "Moiré &amp; False Color",
+      "bytes": 514687,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://school.use.go.kr/onnam-e/M010303/view/3525288",
+      "slugs": [
+        "mens-first-birthday-party-dad-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://school.use.go.kr/onnam-e/M010303/view/3525288",
+      "title": "가정통신문<학교소식<온남초등학교",
+      "bytes": 103841,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.cpsc.gov/s3fs-public/pdfs/foia_NPRStrollersCarriages.pdf",
+      "slugs": [
+        "mens-first-birthday-party-dad-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.cpsc.gov/s3fs-public/pdfs/foia_NPRStrollersCarriages.pdf",
+      "title": null,
+      "bytes": 2968920,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.debeach.co.kr/booking/use-guide",
+      "slugs": [
+        "mens-first-golf-round-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.debeach.co.kr/booking/use-guide",
+      "title": "이용 및 요금안내 - 드비치 골프클럽",
+      "bytes": 26696,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.legendgolf.co.kr/Guide/Info.aspx",
+      "slugs": [
+        "mens-first-golf-round-outfit-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.legendgolf.co.kr/Guide/Info.aspx",
+      "title": "403 Forbidden",
+      "bytes": 118,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/theme/daily-life/life-weather-index.do",
+      "slugs": [
+        "mens-first-golf-round-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.weather.go.kr/w/forecast/life/life-weather-index.do",
+      "title": "생활기상지수 - 기상청 날씨누리",
+      "bytes": 144305,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ntc.usta.com/about/terms-and-conditions-and-code-of-conduct",
+      "slugs": [
+        "mens-first-golf-round-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ntc.usta.com/about/terms-and-conditions-and-code-of-conduct",
+      "title": "Terms and Conditions, and Code of Conduct",
+      "bytes": 211647,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260609164520793601",
+      "slugs": [
+        "mens-first-golf-round-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260609164520793601",
+      "title": "서울특별시 공공서비스예약",
+      "bytes": 126247,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.knps.or.kr/front/portal/visit/visitCourseSubMain.do?parkId=121500&parkNavGb=park&menuNo=7020092",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.knps.or.kr/front/portal/visit/visitCourseSubMain.do?parkId=121500&parkNavGb=park&menuNo=7020092",
+      "title": "코스별난이도 &lt; 북한산국립공원 < 국립공원탐방 < 국립공원공단",
+      "bytes": 402585,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.knps.or.kr/portal/main/contents.do?menuNo=8000198",
+      "title": "입산시간지정제&lt;안전한 탐방&lt;국립공원탐방&lt;국립공원공단&lt; 국립공원공단",
+      "bytes": 179959,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+      "title": "Hiking - Catoctin Mountain Park (U.S. National Park Service)",
+      "bytes": 53551,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nps.gov/neri/planyourvisit/heat-and-cold-related-illness.htm",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nps.gov/neri/planyourvisit/heat-and-cold-related-illness.htm",
+      "title": "Heat and Cold Related Illness - New River Gorge National Park & Preserve (U.S. National Park Service)",
+      "bytes": 42035,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/hiking-boots.html",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rei.com/learn/expert-advice/hiking-boots.html",
+      "title": "How to Choose Hiking Boots and Hiking Shoes | REI Expert Advice",
+      "bytes": 371388,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nps.gov/articles/10essentials.htm",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nps.gov/articles/10essentials.htm",
+      "title": "Ten Essentials (U.S. National Park Service)",
+      "bytes": 48995,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nps.gov/articles/campfires.htm",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nps.gov/articles/campfires.htm",
+      "title": "Campfires (U.S. National Park Service)",
+      "bytes": 38589,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://reservation.knps.or.kr/contents/C/serviceGuide.do?prdDvcd=C&parkId=B02&deptId=B021001",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://reservation.knps.or.kr/contents/C/serviceGuide.do?prdDvcd=C&parkId=B02&deptId=B021001",
+      "title": "국립공원공단 예약시스템",
+      "bytes": 54448,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1879940&boardMasterId=939&boardCategoryId=&decorator=",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1879940&boardMasterId=939&boardCategoryId=&decorator=",
+      "title": "기후에너지환경부 보도자료 상세 - 국립공원공단, 여름철 물놀이 안전관리 강화",
+      "bytes": 308827,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/ocean/warning.do",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.weather.go.kr/w/ocean/warning.do",
+      "title": "해상특보 - 기상청 날씨누리",
+      "bytes": 70011,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/낚시관리및육성법/제29조",
+      "slugs": [
+        "mens-first-hiking-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%82%9A%EC%8B%9C%EA%B4%80%EB%A6%AC%EB%B0%8F%EC%9C%A1%EC%84%B1%EB%B2%95/%EC%A0%9C29%EC%A1%B0",
+      "title": "낚시관리및육성법",
+      "bytes": 1266,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://opendict.korean.go.kr/dictionary/view?sense_no=12746&viewType=confirm",
+      "slugs": [
+        "mens-formal-family-meeting-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://opendict.korean.go.kr/dictionary/view?sense_no=12746&viewType=confirm",
+      "title": "우리말샘 - 내용 보기",
+      "bytes": 105780,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.marriott.com/ko/hotels/seljw-jw-marriott-hotel-seoul/dining/",
+      "slugs": [
+        "mens-formal-family-meeting-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.marriott.com/ko/hotels/seljw-jw-marriott-hotel-seoul/dining/",
+      "title": "JW Marriott Seoul 다이닝 | Marriott Bonvoy",
+      "bytes": 216789,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-it-should-fit.html",
+      "slugs": [
+        "mens-formal-family-meeting-outfit-guide",
+        "mens-suit-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-it-should-fit.html",
+      "title": "How it should fit | Perfect fit in 7 steps | SUITSUPPLY",
+      "bytes": 525517,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.cheaney.co.uk/blog/what-is-the-difference-between-a-derby-shoe-vs-an-oxford-shoe/",
+      "slugs": [
+        "mens-formal-family-meeting-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.cheaney.co.uk/blog/what-is-the-difference-between-a-derby-shoe-vs-an-oxford-shoe/",
+      "title": "What is the difference between an Oxford and a Derby shoe?",
+      "bytes": 466890,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2022/03/the-formality-of-types-of-knitwear.html",
+      "slugs": [
+        "mens-formal-family-meeting-outfit-guide",
+        "mens-knit-layering-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2022/03/the-formality-of-types-of-knitwear.html",
+      "title": "Just a moment...",
+      "bytes": 5649,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://encykorea.aks.ac.kr/Article/E0055140",
+      "slugs": [
+        "mens-formal-family-meeting-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://encykorea.aks.ac.kr/Article/E0055140",
+      "title": "&#xCC28;&#xB840; - &#xD55C;&#xAD6D;&#xBBFC;&#xC871;&#xBB38;&#xD654;&#xB300;&#xBC31;&#xACFC;&#xC0AC;&#xC804;",
+      "bytes": 81670,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kdca.go.kr/kdca/3396/subview.do",
+      "slugs": [
+        "mens-formal-family-meeting-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kdca.go.kr/kdca/3396/subview.do",
+      "title": "진드기매개감염병관리",
+      "bytes": 117112,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "http://www.fta.or.kr/sub02_0603.php",
+      "slugs": [
+        "mens-funeral-attire-guide"
+      ],
+      "status": 200,
+      "finalUrl": "http://www.fta.or.kr/sub02_0603.php",
+      "title": "한국장례협회",
+      "bytes": 22232,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "http://www.fta.or.kr/sub02_06.php",
+      "slugs": [
+        "mens-funeral-attire-guide"
+      ],
+      "status": 200,
+      "finalUrl": "http://www.fta.or.kr/sub02_06.php",
+      "title": "한국장례협회",
+      "bytes": 13286,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "http://www.fta.or.kr/sub02_0602.php",
+      "slugs": [
+        "mens-funeral-attire-guide"
+      ],
+      "status": 200,
+      "finalUrl": "http://www.fta.or.kr/sub02_0602.php",
+      "title": "한국장례협회",
+      "bytes": 11532,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "http://www.fta.or.kr/sub02_0604.php",
+      "slugs": [
+        "mens-funeral-attire-guide"
+      ],
+      "status": 200,
+      "finalUrl": "http://www.fta.or.kr/sub02_0604.php",
+      "title": "한국장례협회",
+      "bytes": 12960,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kfcpi.or.kr/portal/home/contents/contents_view.do?menuId=M0001000100030001",
+      "slugs": [
+        "mens-funeral-attire-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kfcpi.or.kr/portal/home/contents/contents_view.do?menuId=M0001000100030001",
+      "title": "한국장례문화진흥원",
+      "bytes": 101125,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.snuh.org/content/M002003.do",
+      "slugs": [
+        "mens-funeral-attire-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.snuh.org/content/M002003.do",
+      "title": "서울대학교병원",
+      "bytes": 92942,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/visiting-someone-in-hospital/",
+      "slugs": [
+        "mens-funeral-attire-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/visiting-someone-in-hospital/",
+      "title": "Visiting someone in hospital - NHS",
+      "bytes": 28865,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://kats.go.kr/content.do?cmsid=527&mode=view&page=&cid=24422",
+      "slugs": [
+        "mens-garment-care-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://kats.go.kr/content.do?cmsid=527&mode=view&page=&cid=24422",
+      "title": "가정용 섬유제품('24.3.7. 시행) | 국가기술표준원 &gt; 정책 &gt; 제품안전 &gt; 안전기준열람 &gt; 생활용품안전기준",
+      "bytes": 21733,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003860348",
+      "slugs": [
+        "mens-garment-care-label-guide",
+        "mens-garment-stain-first-aid-guide",
+        "mens-trouser-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003860348",
+      "title": "한국소비자원 > 소비자뉴스 > 피해예방주의보 > 상세보기",
+      "bytes": 82754,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.lycra.com/en/business/news/discover-secret-durable-swimwear",
+      "slugs": [
+        "mens-garment-care-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.lycra.com/en/business/news/discover-secret-durable-swimwear",
+      "title": "LYCRA XTRA LIFE® Fiber Creates Durable Swimwear | LYCRA® Brand",
+      "bytes": 119686,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://producthelp.maytag.com/Laundry/Dryers/Product_Info/Dryer_Tips_and_Tricks/Reducing_Static_in_the_Dryer",
+      "slugs": [
+        "mens-garment-care-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://producthelp.maytag.com/Laundry/Dryers/Product_Info/Dryer_Tips_and_Tricks/Reducing_Static_in_the_Dryer",
+      "title": "Reducing Static in the Dryer - Product Help | Maytag",
+      "bytes": 352842,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/use-and-care-home-humidifiers",
+      "slugs": [
+        "mens-garment-care-label-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.epa.gov/indoor-air-quality-iaq/use-and-care-home-humidifiers",
+      "title": "Use and Care of Home Humidifiers | US EPA",
+      "bytes": 69319,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide",
+        "mens-trouser-care-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide",
+      "title": "Just a moment...",
+      "bytes": 5634,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-coffee-tea/",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-coffee-tea/",
+      "title": "Remove Stains From Coffee, Tea | Textiles",
+      "bytes": 92096,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-oil-based-foods/",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-oil-based-foods/",
+      "title": "Remove Stains From Oil-Based Foods | Textiles",
+      "bytes": 127464,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-blood/",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-blood/",
+      "title": "Remove Stains From Blood | Textiles",
+      "bytes": 95290,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-ink-ballpoint-felt-tip-india-mimeo-stamp-pad/",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-ink-ballpoint-felt-tip-india-mimeo-stamp-pad/",
+      "title": "Remove Stains From Ink (Ballpoint, Felt Tip, India, Mimeo, Stamp Pad) | Textiles",
+      "bytes": 134141,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-perspiration/",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://site.extension.uga.edu/textiles/care/stain-removal/remove-stains-from-perspiration/",
+      "title": "Remove Stains From Perspiration | Textiles",
+      "bytes": 83812,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://dlionline.org/a-guide-to-home-stain-removal/",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://dlionline.org/a-guide-to-home-stain-removal/",
+      "title": "A Guide to Home Stain Removal | Dry Cleaning and Laundry Institute International",
+      "bytes": 64268,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.neweracap.com/pages/sizing-chart",
+      "slugs": [
+        "mens-hat-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.neweracap.com/pages/sizing-chart",
+      "title": "Sizing Chart &ndash; New Era Cap",
+      "bytes": 546152,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.cdc.gov/skin-cancer/sun-safety/index.html",
+      "slugs": [
+        "mens-hat-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.cdc.gov/skin-cancer/sun-safety/index.html",
+      "title": "Sun Safety Facts | Skin Cancer | CDC",
+      "bytes": 59400,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/bucket%20hat",
+      "slugs": [
+        "mens-hat-selection-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/bucket%20hat",
+      "title": "Just a moment...",
+      "bytes": 5557,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://ichd-3.org/other-primary-headache-disorders/4-6-external-pressure-headache/4-6-1-external-compression-headache/",
+      "slugs": [
+        "mens-hat-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://ichd-3.org/other-primary-headache-disorders/4-6-external-pressure-headache/4-6-1-external-compression-headache/",
+      "title": "4.6.1 External-compression headache - ICHD-3",
+      "bytes": 1498427,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://stetson.com/pages/frequently-asked-questions",
+      "slugs": [
+        "mens-hat-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://stetson.com/pages/frequently-asked-questions",
+      "title": "Frequently Asked Questions | Stetson",
+      "bytes": 327455,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.lockhatters.com/pages/hat-care-tips",
+      "slugs": [
+        "mens-hat-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.lockhatters.com/pages/hat-care-tips",
+      "title": "Hat Care &amp; Cleaning Guide - Lock &amp; Co. Hatters",
+      "bytes": 332087,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://debretts.com/etiquette-category/events-and-dress-codes/",
+      "slugs": [
+        "mens-invitation-dress-code-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://debretts.com/etiquette-category/events-and-dress-codes/",
+      "title": "Events and Dress Codes &bull; Debretts",
+      "bytes": 161542,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://emilypost.com/advice/attire-guide-dress-codes-from-casual-to-white-tie",
+      "slugs": [
+        "mens-invitation-dress-code-guide",
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://emilypost.com/advice/attire-guide-dress-codes-from-casual-to-white-tie",
+      "title": "Security Check",
+      "bytes": 2715,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.hsc.edu/winter-ball",
+      "slugs": [
+        "mens-invitation-dress-code-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hsc.edu/winter-ball",
+      "title": "The Annual Winter Ball",
+      "bytes": 27624,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://vienneseball.stanford.edu/faq",
+      "slugs": [
+        "mens-invitation-dress-code-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://vienneseball.stanford.edu/faq",
+      "title": "FAQ | Viennese Ball",
+      "bytes": 7028,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.sac.or.kr/site/main/content/viewGuide",
+      "slugs": [
+        "mens-invitation-dress-code-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.sac.or.kr/site/main/content/viewGuide",
+      "title": "관람예절 | 방문·이용 | 예술의전당",
+      "bytes": 323715,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.wiener-staatsoper.at/en/practical-info/",
+      "slugs": [
+        "mens-invitation-dress-code-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.wiener-staatsoper.at/en/practical-info/",
+      "title": "Practical Information | Vienna State Opera",
+      "bytes": 186790,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://opera.org.au/features/the-ultimate-guide-to-going-to-the-opera/",
+      "slugs": [
+        "mens-invitation-dress-code-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://opera.org.au/features/the-ultimate-guide-to-going-to-the-opera/",
+      "title": "The Ultimate Guide to Going to the Opera | Opera Australia",
+      "bytes": 111730,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-it-should-fit-jacket.html",
+      "slugs": [
+        "mens-jacket-fit-guide",
+        "mens-knit-layering-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-it-should-fit-jacket.html",
+      "title": "The Perfect Fit: Jackets | SUITSUPPLY",
+      "bytes": 467482,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-jacket-shoulder-slope-should-fit/",
+      "slugs": [
+        "mens-jacket-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-jacket-shoulder-slope-should-fit/",
+      "title": "How Jacket Shoulder Slope Should Fit | Proper Cloth Help",
+      "bytes": 78845,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-jacket-chest-width-should-fit/",
+      "slugs": [
+        "mens-jacket-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-jacket-chest-width-should-fit/",
+      "title": "How Jacket Chest Width Should Fit | Proper Cloth Help",
+      "bytes": 68594,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.oliverwicks.com/article/suit-alterations",
+      "slugs": [
+        "mens-jacket-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.oliverwicks.com/article/suit-alterations",
+      "title": "Suit Alterations for Men: What a Tailor Can &amp; Can’t Do - Oliver Wicks",
+      "bytes": 432657,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.spierandmackay.com/content/about-our-suits",
+      "slugs": [
+        "mens-jacket-fit-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.spierandmackay.com/content/about-our-suits",
+      "title": "Attention Required! | Cloudflare",
+      "bytes": 4554,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2016/03/how-wide-should-my-jacket-lapels-be.html",
+      "slugs": [
+        "mens-jacket-fit-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2016/03/how-wide-should-my-jacket-lapels-be.html",
+      "title": "Just a moment...",
+      "bytes": 5652,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/how-to-button-your-suits/",
+      "slugs": [
+        "mens-jacket-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/how-to-button-your-suits/",
+      "title": "How To Button Your Suits, Jackets, Vests, Overcoats, &amp; Tuxedo",
+      "bytes": 395015,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.shimaseiki.com/ire/company/vocabulary.html",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.shimaseiki.com/ire/company/vocabulary.html",
+      "title": "Shima Seiki Mfg., Ltd. | IR Information | Glossary",
+      "bytes": 52719,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/knitting/single-and-double-knits/",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/knitting/single-and-double-knits/",
+      "title": "Just a moment...",
+      "bytes": 5618,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/sweater-manufacturing/sweater-manufacturing-basics/",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/sweater-manufacturing/sweater-manufacturing-basics/",
+      "title": "Just a moment...",
+      "bytes": 5693,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C211/index.html",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C211/index.html",
+      "title": "Sewing Sleeves | New Mexico State University - BE BOLD. Shape the Future.",
+      "bytes": 37421,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://eu.sunspel.com/products/mens-sea-island-cashmere-crew-neck-jumper-in-midnight-navy-mjum8203-buvn",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.sunspel.com/en-eu/products/mens-sea-island-cashmere-crew-neck-jumper-in-midnight-navy-mjum8203-buvn",
+      "title": null,
+      "bytes": 18,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/mock%20turtleneck",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/mock%20turtleneck",
+      "title": "Just a moment...",
+      "bytes": 5572,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.woolmark.com/care/how-to-wash-wool-sweater/",
+      "slugs": [
+        "mens-knit-gauge-selection-guide",
+        "mens-knit-pilling-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/how-to-wash-wool-sweater/",
+      "title": "How to wash a wool sweater | Woolmark",
+      "bytes": 126165,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/cardigan",
+      "slugs": [
+        "mens-knit-layering-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/cardigan",
+      "title": "Just a moment...",
+      "bytes": 5523,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2020/12/the-height-of-knitwear-why-necklines-matter.html",
+      "slugs": [
+        "mens-knit-layering-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2020/12/the-height-of-knitwear-why-necklines-matter.html",
+      "title": "Just a moment...",
+      "bytes": 5697,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://gq.com/story/how-to-wear-a-sweater-vest",
+      "slugs": [
+        "mens-knit-layering-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gq.com/story/how-to-wear-a-sweater-vest",
+      "title": "How to Wear a Sweater Vest: 9 Stylish Ways to Pull Off the Endlessly Versatile Knit | GQ",
+      "bytes": 1662560,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.uniqlo.com/us/en/products/E481040-000/00",
+      "slugs": [
+        "mens-knit-layering-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.uniqlo.com/us/en/products/E481040-000/00",
+      "title": "Unisex Oversized Sweatshirt | UNIQLO US",
+      "bytes": 1017350,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.woolmark.com/care/how-to-repair-wool",
+      "slugs": [
+        "mens-knit-pilling-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/how-to-repair-wool",
+      "title": "How to repair wool | Woolmark",
+      "bytes": 134770,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care",
+      "slugs": [
+        "mens-knit-pilling-care-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care",
+      "title": "Just a moment...",
+      "bytes": 5649,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/how-to-prevent-and-fix-pilling.html",
+      "slugs": [
+        "mens-knit-pilling-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rei.com/learn/expert-advice/how-to-prevent-and-fix-pilling.html",
+      "title": "How to Prevent and Fix Pilling | REI Expert Advice",
+      "bytes": 246001,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://dam.versuni.com/m/141207361c3f4c9e/original/Garment-Care_2024_GC026_Manual-Philips.pdf",
+      "slugs": [
+        "mens-knit-pilling-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://dam.versuni.com/m/141207361c3f4c9e/original/Garment-Care_2024_GC026_Manual-Philips.pdf",
+      "title": null,
+      "bytes": 2148159,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://eu.meermin.com/pages/care",
+      "slugs": [
+        "mens-leather-shoe-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://eu.meermin.com/pages/care",
+      "title": "The Shoe Care Guide &ndash; Meermin Shoes - Europe",
+      "bytes": 574959,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://blog.loake.com/featured/shoe-care-guide/",
+      "slugs": [
+        "mens-leather-shoe-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://blog.loake.com/featured/shoe-care-guide/",
+      "title": "How to Care for Leather Shoes: A Complete Shoe Care Guide - Online Blog for Loake Shoemakers",
+      "bytes": 192678,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/grain-shoe-care",
+      "slugs": [
+        "mens-leather-shoe-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/grain-shoe-care",
+      "title": "Grain Shoe Care &ndash; Crockett &amp; Jones UK",
+      "bytes": 358395,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/pages/suede-shoe-care",
+      "slugs": [
+        "mens-leather-shoe-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/pages/suede-shoe-care",
+      "title": "Suede Shoe Care &ndash; Crockett &amp; Jones UK",
+      "bytes": 355698,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://fiorentini-baker.com/blogs/stories/caring-for-your-fiorentini-baker-leather-and-suede-footwear",
+      "slugs": [
+        "mens-leather-shoe-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://fiorentini-baker.com/en-int/blogs/stories/caring-for-your-fiorentini-baker-leather-and-suede-footwear",
+      "title": "CARING FOR YOUR FIORENTINI + BAKER LEATHER AND SUEDE FOOTWEAR &ndash; Fiorentini + Baker",
+      "bytes": 709086,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-alum-vegetable-mineral-leather.html",
+      "slugs": [
+        "mens-leather-shoe-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/care-alum-vegetable-mineral-leather.html",
+      "title": "Care of Alum, Vegetable and Mineral-tanned Leather – Canadian Conservation Institute (CCI) Notes 8/2 - Canada.ca",
+      "bytes": 40939,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ghbass.com/blogs/news/loafer-fit-comfort-guide-how-should-loafers-really-feel",
+      "slugs": [
+        "mens-loafer-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ghbass.com/blogs/news/loafer-fit-comfort-guide-how-should-loafers-really-feel",
+      "title": "Loafer Fit &amp; Comfort Guide: How Should Loafers Really Feel? &ndash; G.H.BASS",
+      "bytes": 1106455,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.gucci.com/us/en/st/stories/making-of/article/the-making-of-the-horsebit-loafer",
+      "slugs": [
+        "mens-loafer-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gucci.com/us/en/st/stories/making-of/article/the-making-of-the-horsebit-loafer",
+      "title": "For 70 years, the Horsebit 1953 Loafer has been an expression the House’s craftsmanship. - Gucci Stories",
+      "bytes": 958878,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.tods.com/us-en/History-of-Tods/",
+      "slugs": [
+        "mens-loafer-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.tods.com/us-en/History-of-Tods/",
+      "title": "The History of Tod&#x27;s: Legacy of Italian Excellence | Tod&#x27;s",
+      "bytes": 894766,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.birkenstock.com/us/us-service-fittingguide.html",
+      "slugs": [
+        "mens-loafer-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.birkenstock.com/us/us-service-fittingguide.html",
+      "title": "BIRKENSTOCK Fit Guide | BIRKENSTOCK Customer Care and Support",
+      "bytes": 481940,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.mrporter.com/en-hk/journal/fashion/socks-with-sandals-trend-street-style-1296228",
+      "slugs": [
+        "mens-loafer-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mrporter.com/en-hk/journal/fashion/socks-with-sandals-trend-street-style-1296228",
+      "title": "Fashion: Can You Ever Style Out Socks With Sandals? | The Journal | MR PORTER",
+      "bytes": 1213360,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://cie.co.at/eilvterm/17-22-067",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://cie.co.at/eilvterm/17-22-067",
+      "title": "17-22-067 | CIE",
+      "bytes": 65575,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2024/01/what-colour-theory-can-teach-you-about-clothing.html",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2024/01/what-colour-theory-can-teach-you-about-clothing.html",
+      "title": "Just a moment...",
+      "bytes": 5709,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2021/08/adding-interest-to-a-navy-blazer-and-grey-trousers.html",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2021/08/adding-interest-to-a-navy-blazer-and-grey-trousers.html",
+      "title": "Just a moment...",
+      "bytes": 5718,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.drakes.com/blogs/news/drakes-edinburgh-lookbook-2021",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.drakes.com/en-kr/blogs/news/drakes-edinburgh-lookbook-2021",
+      "title": "Drake&#39;s Ivy in Edinburgh: The Lookbook &ndash; Drakes",
+      "bytes": 1114351,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/gray-hair-causes",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/gray-hair-causes",
+      "title": "What causes gray hair, and can I stop it?",
+      "bytes": 149257,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/mini-grid-dress-shirt-fabrics/",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/mini-grid-dress-shirt-fabrics/",
+      "title": "Mini Grid Shirt Fabrics | Proper Cloth Help",
+      "bytes": 53377,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485773/",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485773/",
+      "title": "Checking your browser - reCAPTCHA",
+      "bytes": 21408,
+      "reviewClass": "challenge despite 200"
+    },
+    {
+      "url": "https://www.xrite.com/blog/what-is-metamerism",
+      "slugs": [
+        "mens-muted-color-pairing-guide",
+        "mens-sock-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.xrite.com/blog/what-is-metamerism",
+      "title": "What is Metamerism? | Science Behind Metamarism | X-Rite",
+      "bytes": 299076,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.thetiebar.com/tie-size-guide",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.thetiebar.com/tie-size-guide",
+      "title": "Tie Size Chart and Guide | The Tie Bar",
+      "bytes": 108023,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.drakes.com/products/navy-and-ecru-bar-stripe-hand-rolled-silk-grenadine-tie",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.drakes.com/products/navy-and-ecru-bar-stripe-hand-rolled-silk-grenadine-tie",
+      "title": null,
+      "bytes": 18,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.artofmanliness.com/style/101-style-tips-men/",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.artofmanliness.com/style/101-style-tips-men/",
+      "title": "101 Style Tips for Men | Find a Dressing Style for You",
+      "bytes": 170866,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-the-dress-shirt-collar-should-fit/",
+      "slugs": [
+        "mens-necktie-selection-guide",
+        "mens-shirt-collar-guide",
+        "mens-shirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-the-dress-shirt-collar-should-fit/",
+      "title": "How Snug Should a Shirt Collar Fit | Proper Cloth Help",
+      "bytes": 66222,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/shirt-styles/collars/tab",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/shirt-styles/collars/tab",
+      "title": "Tab Collar | Proper Cloth",
+      "bytes": 246325,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.rampleyandco.com/blogs/the-journal/16989644-pocket-square-etiquette",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rampleyandco.com/blogs/the-journal/16989644-pocket-square-etiquette",
+      "title": "Pocket Squares | Rules and Etiquette in 2026 &ndash; Rampley and Co",
+      "bytes": 867466,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://us.canali.com/white-cotton-pochette-04hs000451/p",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://us.canali.com/white-cotton-pochette-04hs000451/p",
+      "title": null,
+      "bytes": 1780966,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ginetex.net/labelling/care-symbols/",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ginetex.net/labelling/care-symbols/",
+      "title": "GINETEX > Erreur",
+      "bytes": 57601,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://career.arizona.edu/blog/2024/10/03/the-dress-code-dictionary-a-comprehensive-guide/",
+      "slugs": [
+        "mens-office-sneaker-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://career.arizona.edu/blog/2024/10/03/the-dress-code-dictionary-a-comprehensive-guide/",
+      "title": "The Dress Code Dictionary: A Comprehensive Guide &#8211; Center for Career Readiness",
+      "bytes": 177685,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nike.com/a/parts-of-shoe-anatomy",
+      "slugs": [
+        "mens-office-sneaker-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nike.com/a/parts-of-shoe-anatomy",
+      "title": "Shoe Anatomy 101: What Are the Parts of a Shoe?. Nike.com",
+      "bytes": 666635,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.crockettandjones.com/blogs/the-article/how-to-trying-shoes-on-at-home",
+      "slugs": [
+        "mens-office-sneaker-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.crockettandjones.com/blogs/the-article/how-to-trying-shoes-on-at-home",
+      "title": "How to... Trying shoes on at home &ndash; Crockett &amp; Jones UK",
+      "bytes": 475292,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-the-sleeve-length-should-fit/",
+      "slugs": [
+        "mens-online-clothing-measurement-guide",
+        "mens-shirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-the-sleeve-length-should-fit/",
+      "title": "How the Sleeve Length Should Fit | Proper Cloth Help",
+      "bytes": 65744,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://faq-kr.uniqlo.com/pkb_Home_UQ_KR?id=kA0Ie000000TO06&q=utme&l=ko&fs=RelatedArticle",
+      "slugs": [
+        "mens-online-clothing-measurement-guide",
+        "mens-tshirt-fit-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://faq-kr.uniqlo.com/pkb_Home_UQ_KR?id=kA0Ie000000TO06&q=utme&l=ko&fs=RelatedArticle",
+      "title": "Access Denied",
+      "bytes": 558,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-to-measure-a-dress-shirt/",
+      "slugs": [
+        "mens-online-clothing-measurement-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-to-measure-a-dress-shirt/",
+      "title": "How to Measure a Dress Shirt | Proper Cloth Help",
+      "bytes": 60704,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/measure-tailored-suit-pants-trousers/",
+      "slugs": [
+        "mens-online-clothing-measurement-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/measure-tailored-suit-pants-trousers/",
+      "title": "How to Measure Pants: Dress Trousers and Casual | Proper Cloth Help",
+      "bytes": 74317,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.amefird.com/wp-content/uploads/2010/01/Selecting-the-right-SPI-2-5-10.pdf",
+      "slugs": [
+        "mens-online-clothing-measurement-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.amefird.com/wp-content/uploads/2010/01/Selecting-the-right-SPI-2-5-10.pdf",
+      "title": null,
+      "bytes": 157371,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/전자상거래등에서의소비자보호에관한법률/제17조",
+      "slugs": [
+        "mens-online-clothing-measurement-guide",
+        "mens-wardrobe-budget-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98%EB%93%B1%EC%97%90%EC%84%9C%EC%9D%98%EC%86%8C%EB%B9%84%EC%9E%90%EB%B3%B4%ED%98%B8%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0/%EC%A0%9C17%EC%A1%B0",
+      "title": "전자상거래등에서의소비자보호에관한법률",
+      "bytes": 1277,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.law.go.kr/법령/전자상거래등에서의소비자보호에관한법률/제18조",
+      "slugs": [
+        "mens-online-clothing-measurement-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98%EB%93%B1%EC%97%90%EC%84%9C%EC%9D%98%EC%86%8C%EB%B9%84%EC%9E%90%EB%B3%B4%ED%98%B8%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0/%EC%A0%9C18%EC%A1%B0",
+      "title": "전자상거래등에서의소비자보호에관한법률",
+      "bytes": 1277,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1001407559",
+      "slugs": [
+        "mens-online-clothing-measurement-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1001407559",
+      "title": "한국소비자원 > 소비자뉴스 > 피해예방주의보 > 상세보기",
+      "bytes": 110818,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.columbia.edu/~on2110/Papers/Schoenmueller_Netzer_Stahl_2020.pdf",
+      "slugs": [
+        "mens-online-clothing-measurement-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.columbia.edu/~on2110/Papers/Schoenmueller_Netzer_Stahl_2020.pdf",
+      "title": null,
+      "bytes": 963162,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.esquire.com/style/g69949472/best-shirt-jackets-for-men/",
+      "slugs": [
+        "mens-overshirt-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.esquire.com/style/g69949472/best-shirt-jackets-for-men/",
+      "title": "15 Best Shirt Jackets for Men in 2026",
+      "bytes": 1076392,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/what-is-down-fill-power.html",
+      "slugs": [
+        "mens-overshirt-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rei.com/learn/expert-advice/what-is-down-fill-power.html",
+      "title": "What Is Down Fill Power? | REI Expert Advice",
+      "bytes": 247498,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.rei.com/learn/expert-advice/down-vs-synthetic.html",
+      "slugs": [
+        "mens-overshirt-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.rei.com/learn/expert-advice/down-vs-synthetic.html",
+      "title": "Down vs Synthetic Material | REI Expert Advice",
+      "bytes": 259032,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.barbour.com/gb/quilted-jacket-care-guide.html",
+      "slugs": [
+        "mens-overshirt-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.barbour.com/gb/quilted-jacket-care-guide.html",
+      "title": "How to Care for your Quilted Jacket | Barbour",
+      "bytes": 460415,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://us.baracuta.com/pages/about",
+      "slugs": [
+        "mens-overshirt-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://kr.baracuta.com/pages/about?shpxid=72fcc408-a658-4ba1-a53b-64594614f899",
+      "title": "About",
+      "bytes": 541293,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.belstaff.com/en-us/pages/product-care",
+      "slugs": [
+        "mens-overshirt-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://belstaff.com/en-us/pages/product-care",
+      "title": "Belstaff - Product Care &ndash; Belstaff.com",
+      "bytes": 302159,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://leatheruk.org/care-instructions/",
+      "slugs": [
+        "mens-overshirt-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://leatheruk.org/care-instructions/",
+      "title": "Leather care - Leather UK",
+      "bytes": 121441,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://textileresearchlab.pratt.edu/construction/knits",
+      "slugs": [
+        "mens-polo-shirt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://textileresearchlab.pratt.edu/construction/knits",
+      "title": "TRL - Knits",
+      "bytes": 155030,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022145/",
+      "slugs": [
+        "mens-polo-shirt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022145/",
+      "title": "Checking your browser - reCAPTCHA",
+      "bytes": 21406,
+      "reviewClass": "challenge despite 200"
+    },
+    {
+      "url": "https://www.usmcu.edu/Portals/218/Attachment_5%20Appropriate%20Civilian%20Attire%20%28003%29.pdf",
+      "slugs": [
+        "mens-polo-shirt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.usmcu.edu/Portals/218/Attachment_5%20Appropriate%20Civilian%20Attire%20%28003%29.pdf",
+      "title": null,
+      "bytes": 3340173,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.woolmark.com/care/how-to-dry-wool/",
+      "slugs": [
+        "mens-polo-shirt-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/how-to-dry-wool/",
+      "title": "How do I dry wool? | Woolmark",
+      "bytes": 112253,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://uk.burberry.com/check-cashmere-scarf-p80765761",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://uk.burberry.com/check-cashmere-scarf-p80765761",
+      "title": "Check Cashmere Scarf in Archive beige | Burberry® Official",
+      "bytes": 1149131,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://uk.burberry.com/wide-check-cashmere-scarf-p80859311",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://uk.burberry.com/wide-check-cashmere-scarf-p80859311",
+      "title": "Wide Check Cashmere Scarf in Sand beige | Burberry® Official",
+      "bytes": 1018636,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.acnestudios.com/us/en/fringe-wool-scarf---oversized-black/CA0209-900.html",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.acnestudios.com/us/en/fringe-wool-scarf---oversized-black/CA0209-900.html",
+      "title": "Acne Studios - Fringe wool scarf - oversized - Black",
+      "bytes": 325236,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.mrporter.com/en-au/journal/fashion/a-mans-guide-to-tying-a-winter-scarf-five-ways-1614518",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mrporter.com/en-au/journal/fashion/a-mans-guide-to-tying-a-winter-scarf-five-ways-1614518",
+      "title": "Fashion: Four Ways To Wear A Scarf | The Journal | MR PORTER",
+      "bytes": 891901,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.djtc.kr/kor/page.do?menuIdx=449",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.djtc.kr/kor/page.do?menuIdx=449",
+      "title": "에스컬레이터 안전이용요령 - 대전교통공사",
+      "bytes": 80015,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.merriam-webster.com/dictionary/mitten",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.merriam-webster.com/dictionary/mitten",
+      "title": "Just a moment...",
+      "bytes": 5517,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.dentsgloves.com/pages/gloves-size-guide",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.dentsgloves.com/pages/gloves-size-guide",
+      "title": "Gloves Size Guide | Dents",
+      "bytes": 520901,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.hestragloves.us/blogs/guides/glove-care",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hestragloves.us/blogs/guides/glove-care",
+      "title": "Glove care &ndash; Hestra Gloves",
+      "bytes": 585519,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://data.kma.go.kr/climate/average30Years/selectAverage30YearsList.do",
+      "slugs": [
+        "mens-seasonal-wardrobe-storage-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://data.kma.go.kr/climate/average30Years/selectAverage30YearsList.do",
+      "title": "기상자료개방포털[기후통계분석:평년값:우리나라 기후평년값]",
+      "bytes": 215705,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home",
+      "slugs": [
+        "mens-seasonal-wardrobe-storage-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home",
+      "title": "A Brief Guide to Mold, Moisture and Your Home | US EPA",
+      "bytes": 79290,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/hanging-storage-costumes.html",
+      "slugs": [
+        "mens-seasonal-wardrobe-storage-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/hanging-storage-costumes.html",
+      "title": "Hanging Storage for Costumes – Canadian Conservation Institute (CCI) Notes 13/5 - Canada.ca",
+      "bytes": 38786,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html",
+      "slugs": [
+        "mens-seasonal-wardrobe-storage-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/textiles-costumes.html",
+      "title": "Caring for textiles and costumes - Preventive conservation guidelines for collections - Canada.ca",
+      "bytes": 138571,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://npic.orst.edu/ingred/ptype/mothball/regulation.html",
+      "slugs": [
+        "mens-seasonal-wardrobe-storage-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://npic.orst.edu/ingred/ptype/mothball/regulation.html",
+      "title": "Regulation, Proper Uses, and Alternatives of Mothballs",
+      "bytes": 29945,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://support.apple.com/en-sg/guide/personal-safety/ips0d7a5df82/web",
+      "slugs": [
+        "mens-seasonal-wardrobe-storage-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-sg/guide/personal-safety/ips0d7a5df82/web",
+      "title": "Manage location metadata in Photos - Apple Support (SG)",
+      "bytes": 621920,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/products/collar-stay-replacement-set-212.html",
+      "slugs": [
+        "mens-shirt-collar-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/products/collar-stay-replacement-set-212.html",
+      "title": "Collar Stay Replacement Set - 51mm - 8pcs by Proper Cloth",
+      "bytes": 312072,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.charlestyrwhitt.com/us/editorial-style-tips/about-our-non-iron-shirts.html",
+      "slugs": [
+        "mens-shirt-collar-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.charlestyrwhitt.com/us/editorial-style-tips/about-our-non-iron-shirts.html",
+      "title": "Wrinkle-Free & Non-Iron Shirts | Charles Tyrwhitt US",
+      "bytes": 1232431,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://turnbullandasser.com/pages/garment-care-shirts",
+      "slugs": [
+        "mens-shirt-collar-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://turnbullandasser.com/pages/garment-care-shirts",
+      "title": "Dress Shirts - Washing &amp; Ironing Care Guide | Turnbull &amp; Asser &ndash; Turnbull &amp; Asser US",
+      "bytes": 442982,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.charlestyrwhitt.com/nl/en_NL/about-our-collars.html",
+      "slugs": [
+        "mens-shirt-collar-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.charlestyrwhitt.com/nl/nl_NL/about-our-collars.html",
+      "title": "About Our Shirt Collars | Charles Tyrwhitt",
+      "bytes": 1425091,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.threadsmagazine.com/project-guides/fit-and-sew-tops/how-to-make-a-shirt-collar-2",
+      "slugs": [
+        "mens-shirt-collar-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.threadsmagazine.com/project-guides/fit-and-sew-tops/how-to-make-a-shirt-collar-2",
+      "title": "Just a moment...",
+      "bytes": 5710,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://blacklapel.com/blogs/the-compass/how-dress-shirts-should-fit-the-complete-guide",
+      "slugs": [
+        "mens-shirt-collar-guide",
+        "mens-shirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/how-dress-shirts-should-fit-the-complete-guide",
+      "title": "How Dress Shirts Should Fit: The Complete Guide &ndash; Black Lapel",
+      "bytes": 431713,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://textileresearchlab.pratt.edu/construction/wovens",
+      "slugs": [
+        "mens-shirt-fabric-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://textileresearchlab.pratt.edu/construction/wovens",
+      "title": "TRL - Wovens",
+      "bytes": 175411,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.britannica.com/topic/flannel",
+      "slugs": [
+        "mens-shirt-fabric-selection-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.britannica.com/topic/flannel",
+      "title": "Just a moment...",
+      "bytes": 5500,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.filson.com/pages/flannel-shirts-lp",
+      "slugs": [
+        "mens-shirt-fabric-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.filson.com/pages/flannel-shirts-lp",
+      "title": "Filson Flannels | Filson",
+      "bytes": 657329,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://cottonworks.com/learning-hub/denim/denim-basics",
+      "slugs": [
+        "mens-shirt-fabric-selection-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://cottonworks.com/learning-hub/denim/denim-basics",
+      "title": "Just a moment...",
+      "bytes": 5552,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://propercloth.com/dress-shirts/italian-light-wash-7.6oz-heavyweight-slub-denim-581668.html",
+      "slugs": [
+        "mens-shirt-fabric-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/dress-shirts/italian-light-wash-7.6oz-heavyweight-slub-denim-581668.html",
+      "title": "The Leadville Heavyweight Western Shirt in Light Wash Italian Denim",
+      "bytes": 359623,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-the-dress-shirt-cuffs-should-fit/",
+      "slugs": [
+        "mens-shirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/tight-dress-shirt-cuffs-fit/",
+      "title": "How tight should dress shirt cuffs fit?",
+      "bytes": 54201,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://blacklapel.com/blogs/the-compass/how-long-should-my-suit-jacket-sleeves-be",
+      "slugs": [
+        "mens-shirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/how-long-should-my-suit-jacket-sleeves-be",
+      "title": "How Long Should My Suit Jacket Sleeves Be? Ultimate Suit Sleeve Length &ndash; Black Lapel",
+      "bytes": 432204,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-long-should-the-shirt-length-be/",
+      "slugs": [
+        "mens-shirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-long-should-the-shirt-length-be/",
+      "title": "How Long Should the Shirt&#039;s Back Length be? | Proper Cloth Help",
+      "bytes": 58590,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/products/mother-of-pearl-button-replacement-set-214.html",
+      "slugs": [
+        "mens-shirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/products/mother-of-pearl-button-replacement-set-214.html",
+      "title": "Mother of Pearl Button Set 10:2 by Proper Cloth",
+      "bytes": 312333,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties/washing-linen-care-advice",
+      "slugs": [
+        "mens-shirt-ironing-wrinkle-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties/washing-linen-care-advice",
+      "title": "Washing linen: Linen care tips | ALLIANCE",
+      "bytes": 109452,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-suits.html",
+      "slugs": [
+        "mens-shirt-ironing-wrinkle-guide",
+        "mens-suit-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-suits.html",
+      "title": "How to Take Care of Your Suits &amp; Blazers | SUITSUPPLY",
+      "bytes": 444004,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://sa.hm.com/en/ironing-shirt",
+      "slugs": [
+        "mens-shirt-ironing-wrinkle-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://sa.hm.com/en/ironing-shirt",
+      "title": "Attention Required! | Cloudflare",
+      "bytes": 5659,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://cdo.som.yale.edu/blog/2023/09/18/what-does-business-casual-really-mean-in-2023/",
+      "slugs": [
+        "mens-smart-denim-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://cdo.som.yale.edu/blog/2023/09/18/what-does-business-casual-really-mean-in-2023/",
+      "title": "What Does Business Casual Really Mean in 2023? &#8211; Career Development Yale School of Management",
+      "bytes": 200847,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://business.wfu.edu/newsroom/business-casual-dress-code-for-the-ma-in-management-program/",
+      "slugs": [
+        "mens-smart-denim-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://business.wfu.edu/newsroom/business-casual-dress-code-for-the-ma-in-management-program/",
+      "title": "Business Casual Dress Code for the MA in Management Program - Wake Forest University School of Business",
+      "bytes": 395700,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.premierevision.com/en/articles/f8f30281-75fa-ef11-90cb-00224888722c/technical-glossary-the-language-of-denim",
+      "slugs": [
+        "mens-smart-denim-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.premierevision.com/en/articles/f8f30281-75fa-ef11-90cb-00224888722c/technical-glossary-the-language-of-denim",
+      "title": "Technical Glossary: The Language of Denim",
+      "bytes": 517127,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.heddels.com/2013/01/the-complete-guide-to-understanding-raw-denim-weights/",
+      "slugs": [
+        "mens-smart-denim-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.heddels.com/2013/01/the-complete-guide-to-understanding-raw-denim-weights/",
+      "title": "The Complete Guide To Understanding Raw Denim Weights",
+      "bytes": 144014,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.levi.com/US/en_US/blog/article/the-definitive-guide-to-denim",
+      "slugs": [
+        "mens-smart-denim-styling-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.levi.com/US/en_US/blog/article/the-definitive-guide-to-denim",
+      "title": "How to Clean, Wash, &amp; Dry Jeans: Denim Cleaning Guide | Levi&#x27;s® US",
+      "bytes": 452491,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.permanentstyle.com/2026/02/the-rules-and-how-to-break-them-your-socks-should-match-your-trousers.html",
+      "slugs": [
+        "mens-sock-pairing-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.permanentstyle.com/2026/02/the-rules-and-how-to-break-them-your-socks-should-match-your-trousers.html",
+      "title": "Just a moment...",
+      "bytes": 5797,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/beginners-combining-shoes-socks-pants/",
+      "slugs": [
+        "mens-sock-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/beginners-combining-shoes-socks-pants/",
+      "title": "Combining Shoes, Socks, And Pants: A Beginner&#039;s Guide | Gentleman&#039;s Gazette",
+      "bytes": 389778,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://boardroomsocks.com/blogs/dress-sock-blog/matching-your-socks-shoes-and-pants",
+      "slugs": [
+        "mens-sock-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://boardroomsocks.com/blogs/dress-sock-blog/matching-your-socks-shoes-and-pants",
+      "title": "Matching Your Dress Socks, Shoes and Pants",
+      "bytes": 274171,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://darntough.com/blogs/the-alternate-stitch/how-to-wear-mens-dress-socks-heights",
+      "slugs": [
+        "mens-sock-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://darntough.com/blogs/the-alternate-stitch/how-to-wear-mens-dress-socks-heights",
+      "title": "How to Wear Men&#39;s Dress Socks: A Height Guide &ndash; Darn Tough",
+      "bytes": 460148,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://darntough.com/pages/size-chart",
+      "slugs": [
+        "mens-sock-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://darntough.com/pages/size-chart",
+      "title": "Sock Sizing Charts &ndash; Darn Tough",
+      "bytes": 430457,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.woolmark.com/globalassets/_06-new-woolmark/_industry/certification/_old-certification/product-specifications/f-6_fibre_quality_2016-1_22oct14_f.pdf",
+      "slugs": [
+        "mens-suit-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/globalassets/_06-new-woolmark/_industry/certification/_old-certification/product-specifications/f-6_fibre_quality_2016-1_22oct14_f.pdf",
+      "title": null,
+      "bytes": 1351770,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/wool-super-numbers-explained/",
+      "slugs": [
+        "mens-suit-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/wool-super-numbers-explained/",
+      "title": "Wool Suit Fabric &quot;Super&quot; Numbers Explained",
+      "bytes": 408015,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.gentlemansgazette.com/mohair-fabric-guide/",
+      "slugs": [
+        "mens-suit-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gentlemansgazette.com/mohair-fabric-guide/",
+      "title": "Mohair Suiting Fabric Guide",
+      "bytes": 351094,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://foxflannel.com/pages/cloth-weight-explained",
+      "slugs": [
+        "mens-suit-selection-guide",
+        "mens-trouser-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://foxflannel.com/pages/cloth-weight-explained",
+      "title": "Cloth Weights Explained | Tailoring Guide | Fox Brothers",
+      "bytes": 509699,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://blacklapel.com/thecompass/buying-first-suit-5-key-factors/",
+      "slugs": [
+        "mens-suit-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://blacklapel.com/blogs/the-compass/buying-first-suit-5-key-factors",
+      "title": "Buying Your First Suit — 5 Key Buying Factors &ndash; Black Lapel",
+      "bytes": 445976,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.savilerowbespoke.com/about-us/tailoring-terms/",
+      "slugs": [
+        "mens-suit-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.savilerowbespoke.com/about-us/tailoring-terms/",
+      "title": "Tailoring Terms - Savile Row Bespoke - Savile Row Bespoke",
+      "bytes": 39183,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.bcdtravel.com/how-to-guides/how-to-pack-a-capsule-wardrobe-for-business-trips/",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.bcdtravel.com/how-to-guides/how-to-pack-a-capsule-wardrobe-for-business-trips/",
+      "title": "Attention Required! | Cloudflare",
+      "bytes": 4546,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.faa.gov/travelers/fly_safe/turbulence",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.faa.gov/travelers/fly_safe/turbulence",
+      "title": "Turbulence: Staying Safe | Federal Aviation Administration",
+      "bytes": 113195,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.cdc.gov/blood-clots/risk-factors/travel.html",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.cdc.gov/blood-clots/risk-factors/travel.html",
+      "title": "Understanding Your Risk for Blood Clots with Travel | Venous Thromboembolism (Blood Clots) | CDC",
+      "bytes": 54910,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.airport.kr/ap_ko/906/subview.do",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.airport.kr/ap_ko/906/subview.do",
+      "title": "제한물품",
+      "bytes": 77344,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://flyasiana.com/C/KR/KO/contents/restricted-transport-items",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://flyasiana.com/C/KR/KO/contents/restricted-transport-items",
+      "title": "운송제한 물품│아시아나항공",
+      "bytes": 153663,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.tsa.gov/news/press/releases/2025/07/08/dhs-end-shoes-travel-policy",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.tsa.gov/news/press/releases/2025/07/08/dhs-end-shoes-travel-policy",
+      "title": "DHS to End ‘Shoes-Off’ Travel Policy | Transportation Security Administration",
+      "bytes": 74732,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.korail.com/ticket/train/trainGuide/etiquette",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.korail.com/ticket/train/trainGuide/etiquette",
+      "title": "코레일 승차권예매",
+      "bytes": 7656,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.gov.uk/guidance/the-highway-code/rules-for-drivers-and-motorcyclists-89-to-102",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.gov.uk/guidance/the-highway-code/rules-for-drivers-and-motorcyclists-89-to-102",
+      "title": "The Highway Code - Rules for drivers and motorcyclists (89 to 102) - Guidance - GOV.UK",
+      "bytes": 86413,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+      "title": "Seat Belt Safety: Buckle Up America | NHTSA",
+      "bytes": 137032,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney/policies",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney/policies",
+      "title": null,
+      "bytes": 734,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.sandals.com/blog/sandals-travel-checklist/",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.sandals.com/blog/sandals-travel-checklist/",
+      "title": "The Ultimate Sandals Resorts Travel Checklist | SANDALS",
+      "bytes": 96835,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.museivaticani.va/content/museivaticani/en/organizza-visita/consigli-utili.html",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.museivaticani.va/content/museivaticani/en/organizza-visita/consigli-utili.html",
+      "title": "Useful information for visitors",
+      "bytes": 63112,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nytimes.com/wirecutter/reviews/advice-rolling-clothes-vs-folding/",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.nytimes.com/wirecutter/reviews/advice-rolling-clothes-vs-folding/",
+      "title": "nyt.net",
+      "bytes": 767,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://us.burberry.com/mid-length-gabardine-leadenham-trench-coat-p81270221",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://us.burberry.com/mid-length-gabardine-leadenham-trench-coat-p81270221",
+      "title": "Mid-length Gabardine Leadenham Trench Coat in Estuary brown - Men, Cotton | Burberry® Official",
+      "bytes": 982795,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.fultonumbrellas.com/products/ambassador-black",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.fultonumbrellas.com/products/ambassador-black",
+      "title": null,
+      "bytes": 18,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.fultonumbrellas.com/products/storm-black",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.fultonumbrellas.com/products/storm-black",
+      "title": null,
+      "bytes": 18,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://bluntumbrellas.com/pages/care",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://bluntumbrellas.com/pages/care",
+      "title": "Care &ndash; BLUNT Umbrellas US",
+      "bytes": 207625,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/hazard/safety-guide/lightning.do",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.weather.go.kr/w/hazard/safety-guide/lightning.do",
+      "title": "국민행동요령-낙뢰 - 기상청 날씨누리",
+      "bytes": 65408,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.allergyuk.org/about-allergy/types-of-allergies/hayfever/",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.allergyuk.org/about-allergy/types-of-allergies/hayfever/",
+      "title": "Attention Required! | Cloudflare",
+      "bytes": 4546,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.woolmark.com/care/wash-wool-pants/",
+      "slugs": [
+        "mens-trouser-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.woolmark.com/care/wash-wool-pants/",
+      "title": "Washing wool pants | Woolmark",
+      "bytes": 123746,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-trousers.html",
+      "slugs": [
+        "mens-trouser-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://suitsupply.com/en-us/journal/how-to-take-care-of-your-trousers.html",
+      "title": "How to take care of your pants | SUITSUPPLY",
+      "bytes": 420442,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+      "slugs": [
+        "mens-trouser-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+      "title": "GINETEX > Care symbols",
+      "bytes": 76887,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C309/index.html",
+      "slugs": [
+        "mens-trouser-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C309/index.html",
+      "title": "Pressing Pointers | New Mexico State University - BE BOLD. Shape the Future.",
+      "bytes": 36818,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C227/index.html",
+      "slugs": [
+        "mens-trouser-care-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C227/index.html",
+      "title": "Making Perfect Pants | New Mexico State University - BE BOLD. Shape the Future.",
+      "bytes": 51586,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/how-to-evaluate-your-casual-pant-fit/",
+      "slugs": [
+        "mens-trouser-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/how-to-evaluate-your-casual-pant-fit/",
+      "title": "How to Evaluate Your Casual Pant Fit | Proper Cloth Help",
+      "bytes": 78395,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://articlesofstyle.com/blogs/news/how-it-should-fit-the-trouser",
+      "slugs": [
+        "mens-trouser-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://articlesofstyle.com/blogs/news/how-it-should-fit-the-trouser",
+      "title": "Articles of Style | HOW IT SHOULD FIT: THE TROUSER",
+      "bytes": 305893,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors",
+      "slugs": [
+        "mens-trouser-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors",
+      "title": "NIST Guide to the SI, Appendix B: Conversion Factors | NIST",
+      "bytes": 104849,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.sunspel.com/en-eu/products/mens-short-sleeve-crew-neck-t-shirt-white",
+      "slugs": [
+        "mens-tshirt-fit-guide"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.sunspel.com/en-eu/products/mens-short-sleeve-crew-neck-t-shirt-white",
+      "title": null,
+      "bytes": 18,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.sunspel.com/en-eu/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa",
+      "slugs": [
+        "mens-tshirt-fit-guide"
+      ],
+      "status": 429,
+      "finalUrl": "https://www.sunspel.com/en-eu/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa",
+      "title": null,
+      "bytes": 18,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://pubs.nmsu.edu/_c/C210/index.html",
+      "slugs": [
+        "mens-tshirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://pubs.nmsu.edu/_c/C210/index.html",
+      "title": "T is for T-Shirts | New Mexico State University - BE BOLD. Shape the Future.",
+      "bytes": 42656,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.thelaundress.com/blogs/tips/tips-tricks-for-seasonal-storage",
+      "slugs": [
+        "mens-tshirt-fit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.thelaundress.com/blogs/tips/tips-tricks-for-seasonal-storage",
+      "title": "Tips &amp; Tricks for Seasonal Storage",
+      "bytes": 426070,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.wrap.ngo/media-centre/press-releases/nations-wardrobes-hold-16-billion-items-unworn-clothes-people-open-new",
+      "slugs": [
+        "mens-wardrobe-budget-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.wrap.ngo/media-centre/press-releases/nations-wardrobes-hold-16-billion-items-unworn-clothes-people-open-new",
+      "title": "Nation’s wardrobes hold 1.6 billion items of unworn clothes* People open to new ways of shopping | WRAP - The Waste and Resources Action Programme",
+      "bytes": 126460,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/news-working-business/news/article/5346/why-price-does-not-indicate-how-long-clothes-will-last",
+      "slugs": [
+        "mens-wardrobe-budget-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.leeds.ac.uk/news-working-business/news/article/5346/why-price-does-not-indicate-how-long-clothes-will-last",
+      "title": "Why price does not indicate how long clothes will last | University of Leeds",
+      "bytes": 50387,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.iso.org/standard/61686.html",
+      "slugs": [
+        "mens-wardrobe-budget-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://www.iso.org/standard/61686.html",
+      "title": "Just a moment...",
+      "bytes": 5512,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://opinion.lawmaking.go.kr/nl4li/lsItptEmp/421697",
+      "status": 200,
+      "finalUrl": "https://opinion.lawmaking.go.kr/nl4li/lsItptEmp/421697",
+      "title": "국민참여입법센터",
+      "bytes": 41859,
+      "slugs": [
+        "mens-wardrobe-budget-guide"
+      ],
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kca.go.kr/kca/board/download.do?menukey=5084&fno=10034336&bid=00000013&did=1003330774",
+      "slugs": [
+        "mens-wardrobe-budget-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/kca/board/download.do?menukey=5084&fno=10034336&bid=00000013&did=1003330774",
+      "title": null,
+      "bytes": 503554,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.beautifulstore.org/donation-item",
+      "slugs": [
+        "mens-wardrobe-budget-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.beautifulstore.org/donation-item",
+      "title": "기증품목 - 아름다운가게",
+      "bytes": 78319,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://grandseikoboutique.us/products/watch-manual-strap-dress-sbgk007",
+      "status": 429,
+      "finalUrl": "https://grandseikoboutique.us/products/watch-manual-strap-dress-sbgk007",
+      "title": null,
+      "bytes": 18,
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.seikowatches.com/us-en/products/presage/ssa464j1",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.seikowatches.com/us-en/products/presage/ssa464j1",
+      "title": "SSA464J1 | Seiko Watch Corporation",
+      "bytes": 91310,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://propercloth.com/reference/watch-allowance/",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://propercloth.com/reference/watch-allowance/",
+      "title": "Selecting a Watch Allowance | Proper Cloth Help",
+      "bytes": 54238,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://support.apple.com/en-us/118234",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/118234",
+      "title": "Wearing your Apple Watch - Apple Support",
+      "bytes": 182221,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.citizenwatch-global.com/support/maintenance/bandchange.html",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.citizenwatch-global.com/support/maintenance/bandchange.html",
+      "title": "Watch strap Length Adjustment and Replacement | CITIZEN WATCH Global Network",
+      "bytes": 29996,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000239942",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000239942",
+      "title": "행정규칙 &gt; 안전기준준수대상생활용품의 안전기준 | 국가법령정보센터",
+      "bytes": 73379,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.kca.go.kr/smartconsumer/board/download.do?menukey=7301&fno=10034258&bid=00000146&did=1003327963",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.kca.go.kr/smartconsumer/board/download.do?menukey=7301&fno=10034258&bid=00000146&did=1003327963",
+      "title": null,
+      "bytes": 746378,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.theknot.com/content/wedding-dress-code-for-guys",
+      "slugs": [
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.theknot.com/content/wedding-dress-code-for-guys",
+      "title": "Every Wedding Dress Code for Guys, Explained",
+      "bytes": 993119,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.brides.com/can-men-wear-white-to-a-wedding-11807543",
+      "slugs": [
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "status": 402,
+      "finalUrl": "https://www.brides.com/can-men-wear-white-to-a-wedding-11807543",
+      "title": null,
+      "bytes": 612,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.brides.com/can-you-wear-black-to-a-wedding-4800808",
+      "slugs": [
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "status": 402,
+      "finalUrl": "https://www.brides.com/can-you-wear-black-to-a-wedding-4800808",
+      "title": null,
+      "bytes": 612,
+      "reviewClass": "automated access not verified"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do",
+      "slugs": [
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do",
+      "title": "국민행동요령-폭염 - 기상청 날씨누리",
+      "bytes": 72235,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://support.apple.com/en-us/121552",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://support.apple.com/en-us/121552",
+      "title": "MacBook Pro (14-inch, M4, 2024) - Tech Specs - Apple Support",
+      "bytes": 195005,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.ykkkorea.com/eng/product/FASTENER/VISLON%20FASTENER/AQUAGUARD",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.ykkkorea.com/eng/product/FASTENER/VISLON%20FASTENER/AQUAGUARD",
+      "title": "YKK - Little Parts. Big Difference.",
+      "bytes": 231113,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.hermes.com/us/en/content/89726-leathercareinstructions/",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.hermes.com/us/en/content/89726-leathercareinstructions/",
+      "title": "Leather Care Instructions | Hermès USA",
+      "bytes": 506807,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.longchamp.com/in/en/maison-longchamp/savoir-faire/article-ensure-bag-longevity.html",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.longchamp.com/in/en/maison-longchamp/savoir-faire/article-ensure-bag-longevity.html",
+      "title": "Product care and repair | Longchamp EN",
+      "bytes": 440333,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://www.mulberry.com/gb/customer-services/care-and-repairs",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://www.mulberry.com/gb/customer-services/care-and-repairs",
+      "title": "Care &amp; Repairs | Mulberry",
+      "bytes": 206867,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://korea.coach.com/support/product-repair",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://korea.coach.com/support/product-repair",
+      "title": "제품 수리 | COACH",
+      "bytes": 927576,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://korea.coach.com/support/faq",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "status": 200,
+      "finalUrl": "https://korea.coach.com/support/faq",
+      "title": "FAQ | COACH",
+      "bytes": 929262,
+      "reviewClass": "HTTP 200; claim support not implied"
+    },
+    {
+      "url": "https://europepmc.org/articles/PMC6204659",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "status": 403,
+      "finalUrl": "https://europepmc.org/articles/PMC6204659",
+      "title": "Just a moment...",
+      "bytes": 5535,
+      "reviewClass": "automated access not verified"
+    }
+  ]
+}

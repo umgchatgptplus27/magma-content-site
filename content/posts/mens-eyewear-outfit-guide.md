@@ -2,7 +2,7 @@
 title: "안경테 고르는 법, 얼굴과 옷 중 무엇부터 볼까"
 description: "안경테 고르는 법을 착용 위치부터 정리했습니다. 52□18-145 숫자 읽기, 매장에서 볼 코받침과 다리, 셔츠·니트·재킷에 맞는 테 굵기와 색까지 담았습니다."
 date: 2026-07-25
-updated: 2026-10-07
+updated: 2026-11-10
 tags: ["안경", "색 조합", "비즈니스 캐주얼", "핏", "출근룩"]
 thumbnail: "/images/mens-eyewear-outfit-guide-thumbnail.webp"
 draft: false
@@ -22,7 +22,7 @@ draft: false
 
 지금 잘 맞는 안경이 있다면 그 숫자를 먼저 적어 두면 됩니다. 새 안경을 고를 때 렌즈 폭과 브리지를 합한 값이 비슷하면 전체 폭도 비슷할 가능성이 높습니다. 다만 같은 숫자라도 테 모양과 코받침 구조에 따라 착용감이 달라질 수 있으니, 숫자는 후보를 좁히는 데 쓰고 최종 판단은 써 본 뒤에 합니다.
 
-처방 렌즈를 넣는다면 렌즈 폭이 클수록 가장자리가 두꺼워지는 점도 고려합니다. 근시 도수가 높을수록 렌즈 바깥쪽이 두꺼워지므로, 큰 테를 원한다면 안경사와 렌즈 굴절률을 함께 상의합니다. 누진렌즈처럼 테의 위치와 기울기가 시야에 영향을 주는 렌즈도 있어서, ZEISS는 일부 개인 맞춤 렌즈를 만들 때 동공 간 거리와 테의 전경각, 눈과 렌즈 사이 거리를 함께 잰다고 설명합니다.
+처방 렌즈의 두께는 테 크기뿐 아니라 도수·렌즈 재료·동공 간 거리와 가공 조건에 따라 달라집니다. 큰 테를 원한다면 안경사에게 내 처방과 테를 함께 보여 주고 완성 렌즈의 두께·무게를 상의합니다. 누진렌즈처럼 착용 위치가 시야에 영향을 주는 렌즈도 있어서, ZEISS는 일부 개인 맞춤 렌즈를 만들 때 동공 간 거리와 테의 전경각, 눈과 렌즈 사이 거리를 함께 잰다고 설명합니다.
 
 ![마스크·헤드폰·모자와 안경 두 개, 일정 카드를 탁자에 펼친 모습과 흰 셔츠·네이비 니트 차림으로 안경을 들고 살펴보는 남성](/images/mens-eyewear-outfit-guide-look-1.webp)
 
@@ -115,6 +115,7 @@ draft: false
 - [All About Vision — Eyeglass Frame Sizes Explained](https://www.allaboutvision.com/eyewear/eyeglasses/styles/glasses-frame-size/)
 - [ZEISS — The right lenses for optimum vision](https://www.zeiss.com/vision-care/en/eye-health-and-care/understanding-vision/the-right-lenses-for-optimum-vision.html)
 - [Warby Parker — Glasses for different face shapes](https://www.warbyparker.com/learn/glasses-for-different-face-shapes)
+- [Glasses Direct — Lens thickness: What to know](https://www.glassesdirect.co.uk/eye-health/prescription-lens-thickness)
 - [Canon Europe — White Balance: Definition & Settings](https://www.canon-europe.com/pro/infobank/white-balance/)
 - [NHS — Double vision](https://www.nhs.uk/symptoms/double-vision/)
 - [NHS — Eye pain](https://www.nhs.uk/symptoms/eye-pain/)
