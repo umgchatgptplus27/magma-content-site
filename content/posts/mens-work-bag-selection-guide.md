@@ -154,4 +154,4 @@ A4 용지 21×29.7cm가 들어가더라도 파일·바인더는 바깥 치수가
 - [Mulberry — Care & Repairs](https://www.mulberry.com/gb/customer-services/care-and-repairs)
 - [Coach 한국 — 제품 수리](https://korea.coach.com/support/product-repair)
 - [Coach 한국 — FAQ, A/S 안내](https://korea.coach.com/support/faq)
-- [Siddiq et al. — Wallet Neuritis](https://europepmc.org/articles/PMC6204659)
+- [Siddiq et al. — Wallet Neuritis](https://pubmed.ncbi.nlm.nih.gov/28294069/)

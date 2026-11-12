@@ -1,0 +1,741 @@
+{
+  "scope": "Browser read access follow-up for 50 non-200 and 2 challenge responses; readable does not certify support for every claim",
+  "total": 52,
+  "completed": 52,
+  "results": [
+    {
+      "index": 0,
+      "url": "https://sizekorea.kr/human-info/compare-meas-year",
+      "slugs": [
+        "mens-average-body-size-korea-guide"
+      ],
+      "finalUrl": "https://sizekorea.kr/human-info/compare-meas-year",
+      "title": "사이즈코리아",
+      "h1": "\n\t\t\t\n\t\t\t\t한국인 인체치수조사 Size Korea\n\t\t\t\n\t\t",
+      "characters": 2966,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/0.txt",
+      "reviewNote": "조사 차수 비교 화면을 확인했다. 개별 통계 전체의 재계산을 인증하는 검사는 아니다."
+    },
+    {
+      "index": 1,
+      "url": "https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8",
+      "slugs": [
+        "mens-average-body-size-korea-guide",
+        "mens-dress-shoe-fit-check-guide",
+        "mens-shirt-fit-guide"
+      ],
+      "finalUrl": "https://sizekorea.kats.go.kr/human-info/meas-report?measDegree=8",
+      "title": "사이즈코리아",
+      "h1": "\n\t\t\t\n\t\t\t\t한국인 인체치수조사 Size Korea\n\t\t\t\n\t\t",
+      "characters": 1853,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/1.txt",
+      "reviewNote": "직접측정 20–69세 5092명, 남성 2319명·여성 2773명 확인. 자체 957명 부분표본과 구분한다."
+    },
+    {
+      "index": 2,
+      "url": "https://www.permanentstyle.com/2024/09/belt-capsule-guide-the-basics.html",
+      "slugs": [
+        "mens-belt-selection-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2024/09/belt-capsule-guide-the-basics.html",
+      "title": "Belt capsule guide: The basics – Permanent Style",
+      "h1": "",
+      "characters": 9377,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/2.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 3,
+      "url": "https://www.permanentstyle.com/2025/07/can-you-wear-structured-jackets-with-jeans.html",
+      "slugs": [
+        "mens-blazer-separates-styling-guide",
+        "mens-smart-denim-styling-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2025/07/can-you-wear-structured-jackets-with-jeans.html",
+      "title": "Can you wear structured jackets with jeans? – Permanent Style",
+      "h1": "",
+      "characters": 6805,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/3.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 4,
+      "url": "https://www.permanentstyle.com/2020/05/summer-smart-casual-three-looks-three-levels-of-formality.html",
+      "slugs": [
+        "mens-blazer-separates-styling-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2020/05/summer-smart-casual-three-looks-three-levels-of-formality.html",
+      "title": "Summer smart/casual: Three looks, three levels of formality – Permanent Style",
+      "h1": "",
+      "characters": 6200,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/4.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 5,
+      "url": "https://www.loake.com/faqs/",
+      "slugs": [
+        "mens-blazer-separates-styling-guide"
+      ],
+      "finalUrl": "https://www.loake.com/faqs/",
+      "title": "Frequently Asked Questions | English Men's Shoes & Boots | Loake Shoemakers",
+      "h1": "Frequently Asked Questions ",
+      "characters": 5390,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/5.txt"
+    },
+    {
+      "index": 6,
+      "url": "https://www.clarks.com/en-gb/editorial/how-to-wear-desert-boots",
+      "slugs": [
+        "mens-boot-selection-styling-guide"
+      ],
+      "finalUrl": "https://www.clarks.com/en-gb/editorial/how-to-wear-desert-boots",
+      "title": "How to Wear Desert Boots | Clarks",
+      "h1": null,
+      "characters": 0,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/6.txt"
+    },
+    {
+      "index": 7,
+      "url": "https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy",
+      "slugs": [
+        "mens-business-casual-guide"
+      ],
+      "finalUrl": "https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy",
+      "title": "Standard 55 – Thermal Environmental Conditions for Human Occupancy",
+      "h1": "\n\tStandard 55 – Thermal Environmental Conditions for Human Occupancy\n",
+      "characters": 1826,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/7.txt",
+      "reviewNote": "환경 조건과 개인 조건을 함께 다루는 표준의 소개를 확인했다. 복장별 보편적 적정 온도를 뜻하지 않는다."
+    },
+    {
+      "index": 8,
+      "url": "https://cottonworks.com/learning-hub/weaving/basic-woven-fabric-designs/",
+      "slugs": [
+        "mens-chino-styling-guide"
+      ],
+      "finalUrl": "https://cottonworks.com/learning-hub/weaving/basic-woven-fabric-designs/",
+      "title": "Basic Woven Fabric Designs | CottonWorks™",
+      "h1": "Basic Woven Fabric Designs",
+      "characters": 9377,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/8.txt"
+    },
+    {
+      "index": 9,
+      "url": "https://cottonworks.com/learning-hub/weaving/complex-woven-fabric-designs/",
+      "slugs": [
+        "mens-chino-styling-guide"
+      ],
+      "finalUrl": "https://cottonworks.com/learning-hub/weaving/complex-woven-fabric-designs/",
+      "title": "Complex Woven Fabric Designs | CottonWorks™",
+      "h1": "Complex Woven Fabric Designs",
+      "characters": 7625,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/9.txt"
+    },
+    {
+      "index": 10,
+      "url": "https://www.merriam-webster.com/dictionary/chino",
+      "slugs": [
+        "mens-chino-styling-guide"
+      ],
+      "finalUrl": "https://www.merriam-webster.com/dictionary/chino",
+      "title": "CHINO Definition & Meaning - Merriam-Webster",
+      "h1": "chino",
+      "characters": 3496,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/10.txt"
+    },
+    {
+      "index": 11,
+      "url": "https://www.schottnyc.com/products/740-the-original-navy-pea-coat",
+      "slugs": [
+        "mens-coat-length-fit-guide"
+      ],
+      "finalUrl": "https://www.schottnyc.com/products/740-the-original-navy-pea-coat",
+      "title": "740 | The Original US Navy Peacoat – Schott N.Y.C.",
+      "h1": "740",
+      "characters": 2495,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/11.txt"
+    },
+    {
+      "index": 12,
+      "url": "https://www.warbyparker.com/learn/glasses-for-different-face-shapes",
+      "slugs": [
+        "mens-eyewear-outfit-guide"
+      ],
+      "finalUrl": "https://www.warbyparker.com/learn/glasses-for-different-face-shapes",
+      "title": "The Best Glasses Frames for Your Face Shape | Warby Parker",
+      "h1": "How To Find Glasses for Your Face Shape",
+      "characters": 10683,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/12.txt"
+    },
+    {
+      "index": 13,
+      "url": "https://www.legendgolf.co.kr/Guide/Info.aspx",
+      "slugs": [
+        "mens-first-golf-round-outfit-guide"
+      ],
+      "finalUrl": "https://www.legendgolf.co.kr/Guide/Info.aspx",
+      "title": "경주레전드 골프클럽",
+      "h1": null,
+      "characters": 88,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/13.txt"
+    },
+    {
+      "index": 14,
+      "url": "https://www.permanentstyle.com/2022/03/the-formality-of-types-of-knitwear.html",
+      "slugs": [
+        "mens-formal-family-meeting-outfit-guide",
+        "mens-knit-layering-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2022/03/the-formality-of-types-of-knitwear.html",
+      "title": "The formality of types of knitwear – Permanent Style",
+      "h1": "",
+      "characters": 7732,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/14.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 15,
+      "url": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide",
+        "mens-trouser-care-guide"
+      ],
+      "finalUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide?__cf_chl_rt_tk=wirSzdk3o2SXT7t_qlUlcV9baNVBKW7_VhVrD.501os-1794319767-1.0.1.1-b0TBFQdAT98bC7.QRW1H6zbAW4fsY7M3ara7hZeAgPI",
+      "title": "Just a moment...",
+      "h1": null,
+      "characters": 0,
+      "classification": "access restriction; not confirmed",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/15.txt"
+    },
+    {
+      "index": 16,
+      "url": "https://www.merriam-webster.com/dictionary/bucket%20hat",
+      "slugs": [
+        "mens-hat-selection-guide"
+      ],
+      "finalUrl": "https://www.merriam-webster.com/dictionary/bucket%20hat",
+      "title": "BUCKET HAT Definition & Meaning - Merriam-Webster",
+      "h1": "bucket hat",
+      "characters": 3592,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/16.txt"
+    },
+    {
+      "index": 17,
+      "url": "https://emilypost.com/advice/attire-guide-dress-codes-from-casual-to-white-tie",
+      "slugs": [
+        "mens-invitation-dress-code-guide",
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "finalUrl": "https://emilypost.com/advice/attire-guide-dress-codes-from-casual-to-white-tie",
+      "title": "Security Check",
+      "h1": "Verifying Your Browser",
+      "characters": 246,
+      "classification": "access restriction; not confirmed",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/17.txt"
+    },
+    {
+      "index": 18,
+      "url": "https://www.spierandmackay.com/content/about-our-suits",
+      "slugs": [
+        "mens-jacket-fit-guide"
+      ],
+      "finalUrl": "https://www.spierandmackay.com/content/about-our-suits",
+      "title": "Spier & Mackay",
+      "h1": "Sorry, the page you're looking for isn't here.",
+      "characters": 2758,
+      "classification": "soft 404 confirmed; source replaced",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/18.txt",
+      "replacement": {
+        "url": "https://lp.spierandmackay.com/learn-more-about-our-suits",
+        "reviewNote": "기존 링크 본문에 404가 표시됨. 공식 푸터의 현행 자료에서 어깨 구조와 하프·풀 캔버스 사양을 확인했다."
+      }
+    },
+    {
+      "index": 19,
+      "url": "https://www.permanentstyle.com/2016/03/how-wide-should-my-jacket-lapels-be.html",
+      "slugs": [
+        "mens-jacket-fit-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2016/03/how-wide-should-my-jacket-lapels-be.html",
+      "title": "How wide should my jacket lapels be? – Permanent Style",
+      "h1": "",
+      "characters": 4109,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/19.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 20,
+      "url": "https://cottonworks.com/learning-hub/knitting/single-and-double-knits/",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "finalUrl": "https://cottonworks.com/learning-hub/knitting/single-and-double-knits/",
+      "title": "Single & Double Knits | CottonWorks™",
+      "h1": "Single & Double Knits",
+      "characters": 15599,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/20.txt"
+    },
+    {
+      "index": 21,
+      "url": "https://cottonworks.com/learning-hub/sweater-manufacturing/sweater-manufacturing-basics/",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "finalUrl": "https://cottonworks.com/learning-hub/sweater-manufacturing/sweater-manufacturing-basics/",
+      "title": "Sweater Manufacturing Basics | CottonWorks™",
+      "h1": "Sweater Manufacturing Basics",
+      "characters": 2746,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/21.txt"
+    },
+    {
+      "index": 22,
+      "url": "https://eu.sunspel.com/products/mens-sea-island-cashmere-crew-neck-jumper-in-midnight-navy-mjum8203-buvn",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "finalUrl": "https://www.sunspel.com/products/mens-sea-island-cashmere-crew-neck-jumper-in-midnight-navy-mjum8203-buvn",
+      "title": "Men's Sea Island Cashmere Crew Neck Jumper in Midnight Navy | Sunspel",
+      "h1": "Sea Island Cashmere Crew Neck Jumper",
+      "characters": 1436,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/22.txt"
+    },
+    {
+      "index": 23,
+      "url": "https://www.merriam-webster.com/dictionary/mock%20turtleneck",
+      "slugs": [
+        "mens-knit-gauge-selection-guide"
+      ],
+      "finalUrl": "https://www.merriam-webster.com/dictionary/mock%20turtleneck",
+      "title": "MOCK TURTLENECK Definition & Meaning - Merriam-Webster",
+      "h1": "mock turtleneck",
+      "characters": 3343,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/23.txt"
+    },
+    {
+      "index": 24,
+      "url": "https://www.merriam-webster.com/dictionary/cardigan",
+      "slugs": [
+        "mens-knit-layering-guide"
+      ],
+      "finalUrl": "https://www.merriam-webster.com/dictionary/cardigan",
+      "title": "CARDIGAN Definition & Meaning - Merriam-Webster",
+      "h1": "cardigan",
+      "characters": 4010,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/24.txt"
+    },
+    {
+      "index": 25,
+      "url": "https://www.permanentstyle.com/2020/12/the-height-of-knitwear-why-necklines-matter.html",
+      "slugs": [
+        "mens-knit-layering-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2020/12/the-height-of-knitwear-why-necklines-matter.html",
+      "title": "The height of knitwear: why necklines matter – Permanent Style",
+      "h1": "",
+      "characters": 6574,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/25.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 26,
+      "url": "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care",
+      "slugs": [
+        "mens-knit-pilling-care-guide"
+      ],
+      "finalUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care?__cf_chl_rt_tk=30U9JD9SASN4BqmXPz6_qaV.3HhkB6_iXUaSzep_L7Q-1794319787-1.0.1.1-L79rORhdMk2Rdc4EyQnBM95tAavHsDCOueNUi4Ztqvg",
+      "title": "Just a moment...",
+      "h1": null,
+      "characters": 0,
+      "classification": "access restriction; not confirmed",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/26.txt"
+    },
+    {
+      "index": 27,
+      "url": "https://www.permanentstyle.com/2024/01/what-colour-theory-can-teach-you-about-clothing.html",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2024/01/what-colour-theory-can-teach-you-about-clothing.html",
+      "title": "What colour theory can teach you about clothing – Permanent Style",
+      "h1": "",
+      "characters": 14399,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/27.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 28,
+      "url": "https://www.permanentstyle.com/2021/08/adding-interest-to-a-navy-blazer-and-grey-trousers.html",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2021/08/adding-interest-to-a-navy-blazer-and-grey-trousers.html",
+      "title": "Adding interest to a navy blazer and grey trousers  – Permanent Style",
+      "h1": "",
+      "characters": 8121,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/28.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 29,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485773/",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485773/",
+      "title": "pmc.ncbi.nlm.nih.gov",
+      "h1": "Cookies must be enabled",
+      "characters": 0,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/29.txt"
+    },
+    {
+      "index": 30,
+      "url": "https://www.drakes.com/products/navy-and-ecru-bar-stripe-hand-rolled-silk-grenadine-tie",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "finalUrl": "https://www.drakes.com/en-kr/products/navy-and-ecru-bar-stripe-hand-rolled-silk-grenadine-tie",
+      "title": "Navy and Ecru Bar Stripe Hand Rolled Silk Grenadine Tie – Drakes",
+      "h1": "\n        Navy and Ecru Bar Stripe Hand Rolled Silk Grenadine Tie\n    ",
+      "characters": 98,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/30.txt"
+    },
+    {
+      "index": 31,
+      "url": "https://faq-kr.uniqlo.com/pkb_Home_UQ_KR?id=kA0Ie000000TO06&q=utme&l=ko&fs=RelatedArticle",
+      "slugs": [
+        "mens-online-clothing-measurement-guide",
+        "mens-tshirt-fit-guide"
+      ],
+      "finalUrl": "https://faq-kr.uniqlo.com/pkb_Home_UQ_KR?id=kA0Ie000000TO06&q=utme&l=ko&fs=RelatedArticle",
+      "title": "이용안내 | 신체 사이즈 · 제품 사이즈 측정 방법 | UQ KR | UQ KR Customer Service",
+      "h1": "이용안내 | 신체 사이즈 · 제품 사이즈 측정 방법",
+      "characters": 1689,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/31.txt",
+      "reviewNote": "인체치수와 상품치수 구분 확인. 그림 속 측정 위치 전체를 다시 인증한 것은 아니다."
+    },
+    {
+      "index": 32,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022145/",
+      "slugs": [
+        "mens-polo-shirt-selection-guide"
+      ],
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022145/",
+      "title": "Selection of suitable knitting parameters for 1 x 1 rib collar manufacturing in V-bed knitting machine - PMC",
+      "h1": "Selection of suitable knitting parameters for 1 x 1 rib collar manufacturing in V-bed knitting machine",
+      "characters": 21374,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/32.txt",
+      "reviewNote": "1×1 리브 칼라 제조 조건과 치수 연구다. 원단 칼라와의 세탁 내구성 비교로 확장한 설명을 수정했다."
+    },
+    {
+      "index": 33,
+      "url": "https://www.merriam-webster.com/dictionary/mitten",
+      "slugs": [
+        "mens-scarf-styling-guide"
+      ],
+      "finalUrl": "https://www.merriam-webster.com/dictionary/mitten",
+      "title": "MITTEN Definition & Meaning - Merriam-Webster",
+      "h1": "mitten",
+      "characters": 3435,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/33.txt"
+    },
+    {
+      "index": 34,
+      "url": "https://www.threadsmagazine.com/project-guides/fit-and-sew-tops/how-to-make-a-shirt-collar-2",
+      "slugs": [
+        "mens-shirt-collar-guide"
+      ],
+      "finalUrl": "https://www.threadsmagazine.com/project-guides/fit-and-sew-tops/how-to-make-a-shirt-collar-2",
+      "title": "How to Make a Shirt Stand Collar - Threads",
+      "h1": "\n\t\t\t\t\t\tFit & Sew Tops\t\t\t\t\t",
+      "characters": 22919,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/34.txt"
+    },
+    {
+      "index": 35,
+      "url": "https://www.britannica.com/topic/flannel",
+      "slugs": [
+        "mens-shirt-fabric-selection-guide"
+      ],
+      "finalUrl": "https://www.britannica.com/topic/flannel",
+      "title": "Flannel | Soft, Warm, Cozy | Britannica",
+      "h1": "flannel",
+      "characters": 1455,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/35.txt"
+    },
+    {
+      "index": 36,
+      "url": "https://cottonworks.com/learning-hub/denim/denim-basics",
+      "slugs": [
+        "mens-shirt-fabric-selection-guide"
+      ],
+      "finalUrl": "https://cottonworks.com/learning-hub/denim/denim-basics/",
+      "title": "Denim Basics | CottonWorks™",
+      "h1": "Denim Basics",
+      "characters": 11636,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/36.txt"
+    },
+    {
+      "index": 37,
+      "url": "https://sa.hm.com/en/ironing-shirt",
+      "slugs": [
+        "mens-shirt-ironing-wrinkle-guide"
+      ],
+      "finalUrl": "https://sa.hm.com/en/ironing-shirt",
+      "title": "Client Challenge",
+      "h1": null,
+      "characters": 0,
+      "classification": "access restriction; not confirmed",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/37.txt"
+    },
+    {
+      "index": 38,
+      "url": "https://www.permanentstyle.com/2026/02/the-rules-and-how-to-break-them-your-socks-should-match-your-trousers.html",
+      "slugs": [
+        "mens-sock-pairing-guide"
+      ],
+      "finalUrl": "https://www.permanentstyle.com/2026/02/the-rules-and-how-to-break-them-your-socks-should-match-your-trousers.html",
+      "title": "The rules and how to break them: Your socks should match your trousers – Permanent Style",
+      "h1": "",
+      "characters": 5813,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/38.txt",
+      "scopeNote": "저자의 스타일링 견해와 사례다. 보편적 과학 법칙이나 모든 제품의 사양으로 해석하지 않는다."
+    },
+    {
+      "index": 39,
+      "url": "https://www.bcdtravel.com/how-to-guides/how-to-pack-a-capsule-wardrobe-for-business-trips/",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "finalUrl": "https://www.bcdtravel.com/how-to-guides/how-to-pack-a-capsule-wardrobe-for-business-trips/",
+      "title": "How to pack a business travel capsule wardrobe",
+      "h1": "How to pack a business travel capsule wardrobe",
+      "characters": 2938,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/39.txt"
+    },
+    {
+      "index": 40,
+      "url": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney/policies",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "finalUrl": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney/policies",
+      "title": "",
+      "h1": null,
+      "characters": 0,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/40.txt"
+    },
+    {
+      "index": 41,
+      "url": "https://www.nytimes.com/wirecutter/reviews/advice-rolling-clothes-vs-folding/",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "finalUrl": "https://www.nytimes.com/wirecutter/reviews/advice-rolling-clothes-vs-folding/",
+      "title": "Should You Roll or Fold Your Clothes When You Pack? | Reviews by Wirecutter",
+      "h1": "Should You Roll or Fold Your Clothes When You Pack?",
+      "characters": 6129,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/41.txt"
+    },
+    {
+      "index": 42,
+      "url": "https://www.fultonumbrellas.com/products/ambassador-black",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "finalUrl": "https://www.fultonumbrellas.com/products/ambassador-black",
+      "title": "Ambassador Black: Men's Folding Umbrellas | Fulton Umbrella – A Fulton Company Ltd",
+      "h1": "\n                Ambassador 1 - Black\n\n                \n              ",
+      "characters": 593,
+      "classification": "original incomplete; accessible source substituted and relevant text reviewed",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/42.txt",
+      "replacement": {
+        "url": "https://www.fultonumbrellas.ca/product/ambassador/",
+        "reviewNote": "공식 캐나다 제품 페이지에서 43cm/97cm/430g을 확인했다."
+      }
+    },
+    {
+      "index": 43,
+      "url": "https://www.fultonumbrellas.com/products/storm-black",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "finalUrl": "https://www.fultonumbrellas.com/products/storm-black",
+      "title": "Fulton Umbrellas Storm Men's Wind Resistant Compact Folding Umbrella Black – A Fulton Company Ltd",
+      "h1": "\n                Storm™ 1 - Black\n\n                \n              ",
+      "characters": 931,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/43.txt"
+    },
+    {
+      "index": 44,
+      "url": "https://www.allergyuk.org/about-allergy/types-of-allergies/hayfever/",
+      "slugs": [
+        "mens-trench-coat-commute-guide"
+      ],
+      "finalUrl": "https://www.allergyuk.org/types-of-allergies/hayfever/",
+      "title": "Hay Fever | Allergy UK incorporating Anaphylaxis UK",
+      "h1": "Hay Fever and Allergic Rhinitis",
+      "characters": 25758,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/44.txt",
+      "reviewNote": "귀가 후 옷 갈아입기와 꽃가루가 많은 날 야외 건조 회피를 본문에서 확인했다."
+    },
+    {
+      "index": 45,
+      "url": "https://www.sunspel.com/en-eu/products/mens-short-sleeve-crew-neck-t-shirt-white",
+      "slugs": [
+        "mens-tshirt-fit-guide"
+      ],
+      "finalUrl": "https://www.sunspel.com/products/mens-short-sleeve-crew-neck-t-shirt-white",
+      "title": "Men's Classic T-shirt in White | Sunspel",
+      "h1": null,
+      "characters": 0,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/45.txt"
+    },
+    {
+      "index": 46,
+      "url": "https://www.sunspel.com/en-eu/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa",
+      "slugs": [
+        "mens-tshirt-fit-guide"
+      ],
+      "finalUrl": "https://www.sunspel.com/en-eu/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa",
+      "title": "Men's Relaxed Fit Heavyweight T-shirt in White | Sunspel",
+      "h1": "Relaxed Fit Heavyweight T‑shirt",
+      "characters": 680,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/46.txt"
+    },
+    {
+      "index": 47,
+      "url": "https://www.iso.org/standard/61686.html",
+      "slugs": [
+        "mens-wardrobe-budget-guide"
+      ],
+      "finalUrl": "https://www.iso.org/standard/61686.html",
+      "title": "ISO 8559-1:2017 - Size designation of clothes — Part 1: Anthropometric definitions for body measurement",
+      "h1": "\n    \n      ISO 8559-1:2017\n      \n    Size designation of clothesPart 1: Anthropometric definitions for body measurement",
+      "characters": 2340,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/47.txt",
+      "reviewNote": "공개 개요를 확인했다. 유료 표준 본문 전체를 읽은 것은 아니다."
+    },
+    {
+      "index": 48,
+      "url": "https://grandseikoboutique.us/products/watch-manual-strap-dress-sbgk007",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "finalUrl": "https://grandseikoboutique.us/products/watch-manual-strap-dress-sbgk007",
+      "title": "Grand Seiko Manual SBGK007 Steel Strap Dress Watch – Grand Seiko Official Boutique",
+      "h1": "Manual SBGK007",
+      "characters": 2032,
+      "classification": "partial page or accordion; claim confirmation incomplete",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/48.txt"
+    },
+    {
+      "index": 49,
+      "url": "https://www.brides.com/can-men-wear-white-to-a-wedding-11807543",
+      "slugs": [
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "finalUrl": "https://www.brides.com/can-men-wear-white-to-a-wedding-11807543",
+      "title": "Can Men Wear White to a Wedding?",
+      "h1": "Can Men Wear White to a Wedding? Here's What an Expert Stylist Says ",
+      "characters": 4719,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/49.txt"
+    },
+    {
+      "index": 50,
+      "url": "https://www.brides.com/can-you-wear-black-to-a-wedding-4800808",
+      "slugs": [
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "finalUrl": "https://www.brides.com/can-you-wear-black-to-a-wedding-4800808",
+      "title": "Can You Wear Black to a Wedding?",
+      "h1": "Can You Wear Black to a Wedding as a Guest?",
+      "characters": 12788,
+      "classification": "body readable; limited relevant text review, not complete claim certification",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/50.txt"
+    },
+    {
+      "index": 51,
+      "url": "https://europepmc.org/articles/PMC6204659",
+      "slugs": [
+        "mens-work-bag-selection-guide"
+      ],
+      "finalUrl": "https://europepmc.org/article/PMC/6204659",
+      "title": "Europe PMC",
+      "h1": "Search life-sciences literature\n          ",
+      "characters": 803,
+      "classification": "original incomplete; accessible source substituted and relevant text reviewed",
+      "bodyFile": "/tmp/eurachoachoa-source-bodies/51.txt",
+      "replacement": {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28294069/",
+        "reviewNote": "PubMed 초록에서 3명 증례보고임을 확인했다. 일반 인구의 발병률이나 인과 효과를 증명하는 연구는 아니다."
+      }
+    }
+  ],
+  "manualReviewScope": "52 URLs visited; accessible bodies and selected cited claims reviewed. Incomplete pages and blocked sources remain explicitly unresolved. No certification of all 336 sources or every claim.",
+  "remainingIncompleteOriginals": [
+    5,
+    6,
+    13,
+    15,
+    17,
+    26,
+    29,
+    30,
+    37,
+    40,
+    45,
+    46,
+    48
+  ],
+  "repairs": [
+    "jacket shoulder/fit decision conflicts corrected",
+    "polo manufacturing research scope corrected",
+    "Spier soft404 source replaced",
+    "Fulton specification source replaced",
+    "wallet case report abstract source replaced"
+  ]
+}

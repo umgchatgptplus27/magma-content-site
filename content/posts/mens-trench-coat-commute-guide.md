@@ -117,7 +117,7 @@ draft: false
 ## 근거로 삼은 자료
 
 - [Burberry — Mid-length Gabardine Leadenham Trench Coat](https://us.burberry.com/mid-length-gabardine-leadenham-trench-coat-p81270221)
-- [Fulton — Ambassador 1 (자동 접이식 우산 사양)](https://www.fultonumbrellas.com/products/ambassador-black)
+- [Fulton Canada — Ambassador (자동 접이식 우산 사양)](https://www.fultonumbrellas.ca/product/ambassador/)
 - [Fulton — Storm 1 (수동 접이식 우산 사양)](https://www.fultonumbrellas.com/products/storm-black)
 - [BLUNT — Umbrella Care](https://bluntumbrellas.com/pages/care)
 - [기상청 날씨누리 — 국민행동요령: 낙뢰](https://www.weather.go.kr/w/hazard/safety-guide/lightning.do)

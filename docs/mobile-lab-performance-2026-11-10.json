@@ -1,0 +1,1853 @@
+{
+  "scope": "Observed browser lab timings, not PageSpeed/Lighthouse score, field INP, or CrUX p75. Page-visible viewport images decoded plus two animation frames; later layout shifts and LCP can be missed.",
+  "conditions": {
+    "width": 390,
+    "height": 844,
+    "cpuSlowdown": 4,
+    "latencyMs": 150,
+    "downloadBytesPerSecond": 200000,
+    "uploadBytesPerSecond": 93750,
+    "cacheDisabled": true
+  },
+  "results": [
+    {
+      "path": "/",
+      "run": 1,
+      "url": "https://www.eurachoachoa.com/",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 65.29999995231628,
+      "fcpMs": 1804,
+      "lcp": {
+        "time": 1804,
+        "size": 198802,
+        "tag": "IMG",
+        "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-hero-poster.png&w=640&q=70"
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 5,
+      "longTaskBlockingMs": 658,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-hero-poster.png&w=640&q=70",
+          "transferSize": 14764,
+          "decodedBodySize": 14464,
+          "duration": 244.30000001192093,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 593.8000000119209,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 665.8000000119209,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 806.5999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1456.0999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1285.800000011921,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 647.2999999523163,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 541.1000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/33th_6l1f1_nb.js",
+          "transferSize": 6646,
+          "decodedBodySize": 15975,
+          "duration": 631.9000000357628,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 870.6999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58202,
+          "decodedBodySize": 167942,
+          "duration": 1305.199999988079,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-lookbook.png&w=640&q=75",
+          "transferSize": 28784,
+          "decodedBodySize": 28484,
+          "duration": 311.39999997615814,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611050101/show_ads_impl_fy2021.js",
+          "transferSize": 172980,
+          "decodedBodySize": 527034,
+          "duration": 1076.199999988079,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-garment-stain-first-aid-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 747,
+          "decodedBodySize": 447,
+          "duration": 168,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 744,
+          "decodedBodySize": 444,
+          "duration": 179,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 739,
+          "decodedBodySize": 439,
+          "duration": 191.89999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 689,
+          "decodedBodySize": 389,
+          "duration": 181.89999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/about?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 613,
+          "decodedBodySize": 313,
+          "duration": 159.80000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 612,
+          "decodedBodySize": 312,
+          "duration": 157.4000000357628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-garment-stain-first-aid-guide?_rsc=7h4NYy5eoyMcNlUN",
+          "transferSize": 1453,
+          "decodedBodySize": 3261,
+          "duration": 169,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/blog",
+      "run": 1,
+      "url": "https://www.eurachoachoa.com/blog",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 19.80000001192093,
+      "fcpMs": 1480,
+      "lcp": {
+        "time": 1480,
+        "size": 15637,
+        "tag": "P",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 4,
+      "longTaskBlockingMs": 710,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 228.60000002384186,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 233.10000002384186,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 594,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1400.0999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1080.5,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 432.5999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 365.69999998807907,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 656.7999999523163,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0f1x75-u9o_l-.js",
+          "transferSize": 7430,
+          "decodedBodySize": 17381,
+          "duration": 511.9000000357628,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58208,
+          "decodedBodySize": 167922,
+          "duration": 1265.7999999523163,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-quilted-jacket-selection-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 5266,
+          "decodedBodySize": 4966,
+          "duration": 224,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-trouser-fit-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 8250,
+          "decodedBodySize": 7950,
+          "duration": 267.89999997615814,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611060101/show_ads_impl_fy2021.js?bust=122882152",
+          "transferSize": 173157,
+          "decodedBodySize": 527447,
+          "duration": 1177.0999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 744,
+          "decodedBodySize": 444,
+          "duration": 165.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 739,
+          "decodedBodySize": 439,
+          "duration": 170.20000004768372,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 689,
+          "decodedBodySize": 389,
+          "duration": 182.5,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/care-and-laundry?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 799,
+          "decodedBodySize": 499,
+          "duration": 189.9000000357628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/occasions-and-outings?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 804,
+          "decodedBodySize": 504,
+          "duration": 165.10000002384186,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/work-and-business?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 800,
+          "decodedBodySize": 500,
+          "duration": 170.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/shoes-and-accessories?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 804,
+          "decodedBodySize": 504,
+          "duration": 170.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/color-and-styling?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 800,
+          "decodedBodySize": 500,
+          "duration": 171.69999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/fit-and-basics?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 797,
+          "decodedBodySize": 497,
+          "duration": 157.4000000357628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/about?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 613,
+          "decodedBodySize": 313,
+          "duration": 165.80000001192093,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/blog/mens-online-clothing-measurement-guide",
+      "run": 1,
+      "url": "https://www.eurachoachoa.com/blog/mens-online-clothing-measurement-guide",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 14.300000011920929,
+      "fcpMs": 2320,
+      "lcp": {
+        "time": 2320,
+        "size": 37347,
+        "tag": "H1",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 4,
+      "longTaskBlockingMs": 627,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-online-clothing-review-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 13136,
+          "decodedBodySize": 12836,
+          "duration": 504.5999999642372,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 265.5999999642372,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 511.9000000357628,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 644.3999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1379.6000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 411.30000001192093,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 498.9000000357628,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1123.1000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 724.8999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/198obnie64goz.js",
+          "transferSize": 6017,
+          "decodedBodySize": 14477,
+          "duration": 577.6999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58202,
+          "decodedBodySize": 167942,
+          "duration": 1300.300000011921,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611050101/show_ads_impl_fy2021.js",
+          "transferSize": 172980,
+          "decodedBodySize": 527034,
+          "duration": 1028.1000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/about?_rsc=rfEMikJabi8lkRmj",
+          "transferSize": 613,
+          "decodedBodySize": 313,
+          "duration": 172.69999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/fit-and-basics?_rsc=rfEMikJabi8lkRmj",
+          "transferSize": 797,
+          "decodedBodySize": 497,
+          "duration": 165.39999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog?_rsc=rfEMikJabi8lkRmj",
+          "transferSize": 612,
+          "decodedBodySize": 312,
+          "duration": 188.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=rfEMikJabi8lkRmj",
+          "transferSize": 689,
+          "decodedBodySize": 389,
+          "duration": 179.60000002384186,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/tools/size-compare",
+      "run": 1,
+      "url": "https://www.eurachoachoa.com/tools/size-compare",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 11.800000011920929,
+      "fcpMs": 1740,
+      "lcp": {
+        "time": 1740,
+        "size": 54437,
+        "tag": "P",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 4,
+      "longTaskBlockingMs": 640,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 222.19999998807907,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 235.69999998807907,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 584.6999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1312.8999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1061.0999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 398.80000001192093,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 368,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/085khxbbtjdg_.js",
+          "transferSize": 5331,
+          "decodedBodySize": 12380,
+          "duration": 497.69999998807907,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 651.8000000119209,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58209,
+          "decodedBodySize": 167922,
+          "duration": 1228.699999988079,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611060101/show_ads_impl_fy2021.js?bust=122882152",
+          "transferSize": 173157,
+          "decodedBodySize": 527447,
+          "duration": 1026.5,
+          "initiatorType": "script"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/",
+      "run": 2,
+      "url": "https://www.eurachoachoa.com/",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 11.399999976158142,
+      "fcpMs": 1504,
+      "lcp": {
+        "time": 1536,
+        "size": 198802,
+        "tag": "IMG",
+        "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-hero-poster.png&w=640&q=70"
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 4,
+      "longTaskBlockingMs": 667,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-hero-poster.png&w=640&q=70",
+          "transferSize": 14764,
+          "decodedBodySize": 14464,
+          "duration": 626.6000000238419,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 261.5,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 523.5,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 664.6999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1153.3999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1552.0999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 484.4000000357628,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 416.19999998807907,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/33th_6l1f1_nb.js",
+          "transferSize": 6646,
+          "decodedBodySize": 15975,
+          "duration": 566.3999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 744.5,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58210,
+          "decodedBodySize": 167922,
+          "duration": 1446.6000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-lookbook.png&w=640&q=75",
+          "transferSize": 28784,
+          "decodedBodySize": 28484,
+          "duration": 450.2000000476837,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611060101/show_ads_impl_fy2021.js?bust=122882152",
+          "transferSize": 173157,
+          "decodedBodySize": 527447,
+          "duration": 1112.2000000476837,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/ping?e=1",
+          "transferSize": 300,
+          "decodedBodySize": 0,
+          "duration": 172.89999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-garment-stain-first-aid-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 747,
+          "decodedBodySize": 447,
+          "duration": 169.80000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 744,
+          "decodedBodySize": 444,
+          "duration": 174.69999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 739,
+          "decodedBodySize": 439,
+          "duration": 176.4000000357628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 689,
+          "decodedBodySize": 389,
+          "duration": 179.39999997615814,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/blog",
+      "run": 2,
+      "url": "https://www.eurachoachoa.com/blog",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 15.099999964237213,
+      "fcpMs": 1836,
+      "lcp": {
+        "time": 1836,
+        "size": 15637,
+        "tag": "P",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 4,
+      "longTaskBlockingMs": 669,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 366.2999999523163,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 357.89999997615814,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 594.1999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1341.8999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 382.0999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 429.69999998807907,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1056.199999988079,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0f1x75-u9o_l-.js",
+          "transferSize": 7430,
+          "decodedBodySize": 17381,
+          "duration": 495,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 674.6000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58201,
+          "decodedBodySize": 167942,
+          "duration": 1250.5,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-quilted-jacket-selection-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 5266,
+          "decodedBodySize": 4966,
+          "duration": 216.0999999642372,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-trouser-fit-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 8250,
+          "decodedBodySize": 7950,
+          "duration": 228.5,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611050101/show_ads_impl_fy2021.js",
+          "transferSize": 172980,
+          "decodedBodySize": 527034,
+          "duration": 1150.7000000476837,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 744,
+          "decodedBodySize": 444,
+          "duration": 167.60000002384186,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 739,
+          "decodedBodySize": 439,
+          "duration": 171.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 689,
+          "decodedBodySize": 389,
+          "duration": 190.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/care-and-laundry?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 799,
+          "decodedBodySize": 499,
+          "duration": 180.29999995231628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/occasions-and-outings?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 804,
+          "decodedBodySize": 504,
+          "duration": 170.5,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/work-and-business?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 800,
+          "decodedBodySize": 500,
+          "duration": 168.30000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/shoes-and-accessories?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 804,
+          "decodedBodySize": 504,
+          "duration": 168,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/color-and-styling?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 800,
+          "decodedBodySize": 500,
+          "duration": 170.39999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/fit-and-basics?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 797,
+          "decodedBodySize": 497,
+          "duration": 166.89999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/about?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 613,
+          "decodedBodySize": 313,
+          "duration": 172.69999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 544,
+          "decodedBodySize": 244,
+          "duration": 159.10000002384186,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/blog/mens-online-clothing-measurement-guide",
+      "run": 2,
+      "url": "https://www.eurachoachoa.com/blog/mens-online-clothing-measurement-guide",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 14.099999964237213,
+      "fcpMs": 1892,
+      "lcp": {
+        "time": 1892,
+        "size": 37347,
+        "tag": "H1",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 4,
+      "longTaskBlockingMs": 427,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-online-clothing-review-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 13136,
+          "decodedBodySize": 12836,
+          "duration": 521.1000000238419,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 241.69999998807907,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 531.5,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 652.2999999523163,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1136,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1383,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 466.80000001192093,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 447.5,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 718.6999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/198obnie64goz.js",
+          "transferSize": 6017,
+          "decodedBodySize": 14477,
+          "duration": 493.5,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58202,
+          "decodedBodySize": 167942,
+          "duration": 1294.3999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611050101/show_ads_impl_fy2021.js",
+          "transferSize": 172980,
+          "decodedBodySize": 527034,
+          "duration": 1058.300000011921,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/about?_rsc=rfEMikJabi8lkRmj",
+          "transferSize": 613,
+          "decodedBodySize": 313,
+          "duration": 191.89999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/fit-and-basics?_rsc=rfEMikJabi8lkRmj",
+          "transferSize": 797,
+          "decodedBodySize": 497,
+          "duration": 199.80000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog?_rsc=rfEMikJabi8lkRmj",
+          "transferSize": 612,
+          "decodedBodySize": 312,
+          "duration": 203,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=rfEMikJabi8lkRmj",
+          "transferSize": 689,
+          "decodedBodySize": 389,
+          "duration": 177.5,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/tools/size-compare",
+      "run": 2,
+      "url": "https://www.eurachoachoa.com/tools/size-compare",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 10.199999988079071,
+      "fcpMs": 1440,
+      "lcp": {
+        "time": 1440,
+        "size": 54437,
+        "tag": "P",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 5,
+      "longTaskBlockingMs": 551,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 249.89999997615814,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 294.9000000357628,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 582.3000000119209,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1314.0999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1059.300000011921,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 436,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 384.30000001192093,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 659.7000000476837,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/085khxbbtjdg_.js",
+          "transferSize": 5331,
+          "decodedBodySize": 12380,
+          "duration": 452.30000001192093,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58168,
+          "decodedBodySize": 167814,
+          "duration": 1235.699999988079,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611090101/show_ads_impl_fy2021.js?bust=122882174",
+          "transferSize": 172703,
+          "decodedBodySize": 526441,
+          "duration": 1026.7000000476837,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/about?_rsc=EiKlc9vbvFmBgh2U",
+          "transferSize": 613,
+          "decodedBodySize": 313,
+          "duration": 163,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog?_rsc=EiKlc9vbvFmBgh2U",
+          "transferSize": 612,
+          "decodedBodySize": 312,
+          "duration": 165.89999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/?_rsc=EiKlc9vbvFmBgh2U",
+          "transferSize": 544,
+          "decodedBodySize": 244,
+          "duration": 170.69999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=sPvQDadnKHetrVQZ",
+          "transferSize": 1291,
+          "decodedBodySize": 2727,
+          "duration": 175,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=qVrvCo-yKnj-gXfI",
+          "transferSize": 3405,
+          "decodedBodySize": 9973,
+          "duration": 193,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/",
+      "run": 3,
+      "url": "https://www.eurachoachoa.com/",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 13.300000011920929,
+      "fcpMs": 1200,
+      "lcp": {
+        "time": 1516,
+        "size": 198802,
+        "tag": "IMG",
+        "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-hero-poster.png&w=640&q=70"
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 4,
+      "longTaskBlockingMs": 645,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-hero-poster.png&w=640&q=70",
+          "transferSize": 14764,
+          "decodedBodySize": 14464,
+          "duration": 548.6000000238419,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 225.5,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 533.8000000119209,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 662.1000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1540.4000000357628,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1135.3999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 488.2000000476837,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 420.39999997615814,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 732.8000000119209,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/33th_6l1f1_nb.js",
+          "transferSize": 6646,
+          "decodedBodySize": 15975,
+          "duration": 568.6000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58200,
+          "decodedBodySize": 167941,
+          "duration": 1391.1000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmagma-lookbook.png&w=640&q=75",
+          "transferSize": 28784,
+          "decodedBodySize": 28484,
+          "duration": 549.6999999880791,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611050101/show_ads_impl_fy2021.js",
+          "transferSize": 172980,
+          "decodedBodySize": 527034,
+          "duration": 1091.1000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-garment-stain-first-aid-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 747,
+          "decodedBodySize": 447,
+          "duration": 158.80000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 744,
+          "decodedBodySize": 444,
+          "duration": 166.69999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 739,
+          "decodedBodySize": 439,
+          "duration": 170.5,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=5CB68i4pnAekjehf",
+          "transferSize": 689,
+          "decodedBodySize": 389,
+          "duration": 176.30000001192093,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/blog",
+      "run": 3,
+      "url": "https://www.eurachoachoa.com/blog",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 19,
+      "fcpMs": 1532,
+      "lcp": {
+        "time": 1532,
+        "size": 15637,
+        "tag": "P",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 5,
+      "longTaskBlockingMs": 444,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 255.39999997615814,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 294.39999997615814,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 590.3000000119209,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1332.699999988079,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1078.6000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 439.30000001192093,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 388.10000002384186,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 670.0999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0f1x75-u9o_l-.js",
+          "transferSize": 7430,
+          "decodedBodySize": 17381,
+          "duration": 500.5,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58210,
+          "decodedBodySize": 167920,
+          "duration": 1247.5999999642372,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-quilted-jacket-selection-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 5266,
+          "decodedBodySize": 4966,
+          "duration": 208.9000000357628,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-trouser-fit-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 8250,
+          "decodedBodySize": 7950,
+          "duration": 237.89999997615814,
+          "initiatorType": "img"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611060101/show_ads_impl_fy2021.js?bust=122882152",
+          "transferSize": 173157,
+          "decodedBodySize": 527447,
+          "duration": 1217,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 744,
+          "decodedBodySize": 444,
+          "duration": 181.5,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 739,
+          "decodedBodySize": 439,
+          "duration": 165,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 689,
+          "decodedBodySize": 389,
+          "duration": 186.60000002384186,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/care-and-laundry?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 799,
+          "decodedBodySize": 499,
+          "duration": 171.29999995231628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/occasions-and-outings?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 804,
+          "decodedBodySize": 504,
+          "duration": 165.60000002384186,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/work-and-business?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 800,
+          "decodedBodySize": 500,
+          "duration": 160.9000000357628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/shoes-and-accessories?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 804,
+          "decodedBodySize": 504,
+          "duration": 170.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/color-and-styling?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 800,
+          "decodedBodySize": 500,
+          "duration": 172.39999997615814,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/topic/fit-and-basics?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 797,
+          "decodedBodySize": 497,
+          "duration": 158,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/about?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 613,
+          "decodedBodySize": 313,
+          "duration": 160.80000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/?_rsc=oz-_Q2BhlE850NaL",
+          "transferSize": 544,
+          "decodedBodySize": 244,
+          "duration": 160.9000000357628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=ZL5h4MJ06vFLTM3B",
+          "transferSize": 1472,
+          "decodedBodySize": 3275,
+          "duration": 156.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=guNLWIaJMNS6nuLJ",
+          "transferSize": 3404,
+          "decodedBodySize": 9973,
+          "duration": 178.20000004768372,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=zCoEoDzdt0r-vy0A",
+          "transferSize": 745,
+          "decodedBodySize": 445,
+          "duration": 168.20000004768372,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=oJDEkhuZhqwTsrMB",
+          "transferSize": 745,
+          "decodedBodySize": 445,
+          "duration": 171.30000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-wedding-guest-outfit-guide?_rsc=gIAB2TkNpNZOZpkT",
+          "transferSize": 12197,
+          "decodedBodySize": 35014,
+          "duration": 291.30000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/198obnie64goz.js",
+          "transferSize": 6017,
+          "decodedBodySize": 14477,
+          "duration": 213,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=ZL5h4MJ06vFLTM3B",
+          "transferSize": 1441,
+          "decodedBodySize": 3368,
+          "duration": 171.70000004768372,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=oJDEkhuZhqwTsrMB",
+          "transferSize": 745,
+          "decodedBodySize": 445,
+          "duration": 163.69999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog/mens-business-casual-guide?_rsc=gIAB2TkNpNZOZpkT",
+          "transferSize": 11676,
+          "decodedBodySize": 33882,
+          "duration": 235.5,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=ZL5h4MJ06vFLTM3B",
+          "transferSize": 1291,
+          "decodedBodySize": 2727,
+          "duration": 181.30000001192093,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=U1CFoGAaloqU8PSL",
+          "transferSize": 745,
+          "decodedBodySize": 445,
+          "duration": 161.70000004768372,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=TCncRcP_OVAjDL9K",
+          "transferSize": 745,
+          "decodedBodySize": 445,
+          "duration": 162.30000001192093,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/blog/mens-online-clothing-measurement-guide",
+      "run": 3,
+      "url": "https://www.eurachoachoa.com/blog/mens-online-clothing-measurement-guide",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 15.099999964237213,
+      "fcpMs": 1684,
+      "lcp": {
+        "time": 1684,
+        "size": 37347,
+        "tag": "H1",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 5,
+      "longTaskBlockingMs": 637,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/image?url=%2Fimages%2Fmens-online-clothing-review-guide-thumbnail.webp&w=640&q=75",
+          "transferSize": 13136,
+          "decodedBodySize": 12836,
+          "duration": 569.4000000357628,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 221.69999998807907,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 518.5,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 644.6999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1133.8999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1394,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 490.39999997615814,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 417.69999998807907,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 723.6000000238419,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/198obnie64goz.js",
+          "transferSize": 6017,
+          "decodedBodySize": 14477,
+          "duration": 500.5,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58201,
+          "decodedBodySize": 167941,
+          "duration": 1289.5,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611050101/show_ads_impl_fy2021.js",
+          "transferSize": 172980,
+          "decodedBodySize": 527034,
+          "duration": 1075,
+          "initiatorType": "script"
+        }
+      ],
+      "readyState": "complete"
+    },
+    {
+      "path": "/tools/size-compare",
+      "run": 3,
+      "url": "https://www.eurachoachoa.com/tools/size-compare",
+      "visibility": "visible",
+      "width": 390,
+      "documentWidth": 390,
+      "ttfbMs": 25.80000001192093,
+      "fcpMs": 1420,
+      "lcp": {
+        "time": 1420,
+        "size": 54437,
+        "tag": "P",
+        "url": ""
+      },
+      "layoutShiftSum": 0,
+      "longTaskCount": 4,
+      "longTaskBlockingMs": 631,
+      "resources": [
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/27oewxh1y1tyt.css",
+          "transferSize": 6601,
+          "decodedBodySize": 31998,
+          "duration": 231.10000002384186,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/0dhbjz-xsmu83.js",
+          "transferSize": 6698,
+          "decodedBodySize": 17697,
+          "duration": 227.70000004768372,
+          "initiatorType": "link"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3tqnqxx00iegt.js",
+          "transferSize": 11278,
+          "decodedBodySize": 50702,
+          "duration": 579.6999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/2bcknr5_tllvo.js",
+          "transferSize": 72584,
+          "decodedBodySize": 227315,
+          "duration": 1342.9000000357628,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/07u_h6i539_wj.js",
+          "transferSize": 41744,
+          "decodedBodySize": 150333,
+          "duration": 1099.800000011921,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/turbopack-0jyxeigfjmw_-.js",
+          "transferSize": 4858,
+          "decodedBodySize": 11041,
+          "duration": 424.30000001192093,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/3lvuogol6y654.js",
+          "transferSize": 4262,
+          "decodedBodySize": 9508,
+          "duration": 345.60000002384186,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/14mrh2-p_w84d.js",
+          "transferSize": 13687,
+          "decodedBodySize": 54646,
+          "duration": 638.6999999880791,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/_next/static/chunks/085khxbbtjdg_.js",
+          "transferSize": 5331,
+          "decodedBodySize": 12380,
+          "duration": 447.9000000357628,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9723123826200643",
+          "transferSize": 58203,
+          "decodedBodySize": 167941,
+          "duration": 1251.8999999761581,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202611050101/show_ads_impl_fy2021.js",
+          "transferSize": 172980,
+          "decodedBodySize": 527034,
+          "duration": 1072.800000011921,
+          "initiatorType": "script"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/about?_rsc=EiKlc9vbvFmBgh2U",
+          "transferSize": 613,
+          "decodedBodySize": 313,
+          "duration": 172.9000000357628,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/blog?_rsc=EiKlc9vbvFmBgh2U",
+          "transferSize": 612,
+          "decodedBodySize": 312,
+          "duration": 161.0999999642372,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/?_rsc=EiKlc9vbvFmBgh2U",
+          "transferSize": 544,
+          "decodedBodySize": 244,
+          "duration": 177.19999998807907,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=sPvQDadnKHetrVQZ",
+          "transferSize": 1291,
+          "decodedBodySize": 2727,
+          "duration": 181,
+          "initiatorType": "fetch"
+        },
+        {
+          "url": "https://www.eurachoachoa.com/tools/size-compare?_rsc=qVrvCo-yKnj-gXfI",
+          "transferSize": 3405,
+          "decodedBodySize": 9973,
+          "duration": 201.19999998807907,
+          "initiatorType": "fetch"
+        }
+      ],
+      "readyState": "complete"
+    }
+  ]
+}
