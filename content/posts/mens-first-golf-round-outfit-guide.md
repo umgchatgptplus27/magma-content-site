@@ -2,7 +2,7 @@
 title: "골프 복장 초보 남자가 첫 라운드에 입을 옷과 골프장 규정"
 description: "골프 복장 초보 남자가 첫 라운드에 입을 칼라 상의와 긴 바지, 골프화, 모자·장갑 고르는 법, 입장에서 걸리는 복장, 계절별 겹쳐 입기를 정리했습니다."
 date: 2026-08-11
-updated: 2026-10-05
+updated: 2026-11-12
 tags: ["골프", "바지", "모자", "핏"]
 thumbnail: "/images/mens-first-golf-round-outfit-guide-thumbnail.webp"
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 ## 골프장 복장 규정에서 걸리는 것과 괜찮은 것
 
-국내 골프장은 복장 규정을 홈페이지 이용 안내에 적어 둡니다. [드비치 골프클럽](https://www.debeach.co.kr/booking/use-guide)은 청바지와 칼라 없는 상의를 입장 불가 복장으로 명시합니다. [경주레전드골프클럽](https://www.legendgolf.co.kr/Guide/Info.aspx)은 다른 이용자에게 불쾌감을 주는 복장을 삼가도록 하면서 고무징 골프화를 안내합니다. 문구는 달라도 걸리는 품목은 대체로 비슷합니다.
+국내 골프장은 복장 규정을 홈페이지 이용 안내에 적어 둡니다. [드비치 골프클럽](https://www.debeach.co.kr/booking/use-guide)은 청바지와 칼라 없는 상의를 입장 불가 복장으로 명시합니다. [경주레전드골프클럽](https://www.legendgolf.co.kr/guide/guide)은 다른 이용자에게 불쾌감을 주는 복장을 삼가도록 하면서 고무징 골프화를 안내합니다. 문구는 달라도 걸리는 품목은 대체로 비슷합니다.
 
 | 품목 | 대부분 괜찮음 | 골프장마다 다름 | 대부분 제한 |
 | --- | --- | --- | --- |
@@ -136,7 +136,7 @@ draft: false
 ## 근거로 삼은 자료
 
 - [드비치 골프클럽 — 이용 및 요금 안내](https://www.debeach.co.kr/booking/use-guide)
-- [경주레전드골프클럽 — 이용안내](https://www.legendgolf.co.kr/Guide/Info.aspx)
+- [경주레전드골프클럽 — 이용안내](https://www.legendgolf.co.kr/guide/guide)
 - [기상청 날씨누리 — 생활기상지수](https://www.weather.go.kr/w/theme/daily-life/life-weather-index.do)
 - [USTA National Tennis Center — Terms and Conditions and Code of Conduct](https://www.ntc.usta.com/about/terms-and-conditions-and-code-of-conduct)
 - [서울특별시 공공서비스예약 — 월드컵공원 테니스장](https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260609164520793601)

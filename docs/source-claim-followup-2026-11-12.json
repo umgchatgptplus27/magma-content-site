@@ -1,0 +1,165 @@
+{
+  "scope": "13 previously incomplete source entries. Selected cited claims checked using official text or same-paper author copy, with repairs. Not certification of every sentence or all336 sources. Browser access blocks were not bypassed.",
+  "total": 13,
+  "unresolvedEntries": [],
+  "results": [
+    {
+      "index": 5,
+      "originalUrl": "https://www.loake.com/faqs/",
+      "slugs": [
+        "mens-blazer-separates-styling-guide"
+      ],
+      "verifiedUrl": "https://www.loake.com/faqs/",
+      "method": "동일 공식 FAQ 본문을 웹 도구로 읽음",
+      "claimReview": "Oxford는 closed lacing, Derby는 open lacing이며 덜 격식 있다는 인용 확인.",
+      "action": "유지",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 6,
+      "originalUrl": "https://www.clarks.com/en-gb/editorial/how-to-wear-desert-boots",
+      "slugs": [
+        "mens-boot-selection-styling-guide"
+      ],
+      "verifiedUrl": "https://www.clarks.com/en-ie/editorial/how-to-wear-desert-boots",
+      "method": "Clarks 공식 아일랜드판 본문",
+      "claimReview": "네이선 클라크가 버마 주둔 중 장교의 부츠를 보고 카이로 제작 경위를 알았다는 설명과 크레이프 밑창 확인.",
+      "action": "읽을 수 있는 동일 글 지역판으로 링크 교체",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 13,
+      "originalUrl": "https://www.legendgolf.co.kr/Guide/Info.aspx",
+      "slugs": [
+        "mens-first-golf-round-outfit-guide"
+      ],
+      "verifiedUrl": "https://www.legendgolf.co.kr/guide/guide",
+      "method": "Ego 공식 홈페이지 이용안내 클릭",
+      "claimReview": "기존 주소는 404. 현행 안내에서 30분 전 도착·고무징 골프화·다른 이용자에게 불쾌감을 주는 복장 삼가 확인.",
+      "action": "현행 공식 링크로 교체",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 15,
+      "originalUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide",
+      "slugs": [
+        "mens-garment-stain-first-aid-guide",
+        "mens-trouser-care-guide"
+      ],
+      "verifiedUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/stain-removal-guide",
+      "method": "동일 공식 본문을 웹 도구로 읽음",
+      "claimReview": "이른 처리, 라벨에 맞춘 세탁, 얼룩 제거 전 건조기 금지와 얼룩별 지시 확인. 모든 소재에 동일 처리 시간을 적용하지 않음.",
+      "action": "유지; 개별 문장 전체 인증은 아님",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 17,
+      "originalUrl": "https://emilypost.com/advice/attire-guide-dress-codes-from-casual-to-white-tie",
+      "slugs": [
+        "mens-invitation-dress-code-guide",
+        "mens-wedding-guest-outfit-guide"
+      ],
+      "verifiedUrl": "https://emilypost.com/advice/attire-guide-dress-codes-from-casual-to-white-tie",
+      "method": "동일 공식 본문을 웹 도구로 읽음",
+      "claimReview": "세미포멀·블랙타이·옵셔널 구성 확인. Festive와 Creative black tie는 동일 범주가 아님.",
+      "action": "초대장 표의 두 범주를 분리하고 턱시도 기반 조건 복원",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 26,
+      "originalUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care",
+      "slugs": [
+        "mens-knit-pilling-care-guide"
+      ],
+      "verifiedUrl": "https://www.cleaninginstitute.org/cleaning-tips/clothes/fabric-care/sweater-care",
+      "method": "동일 공식 본문을 웹 도구로 읽음",
+      "claimReview": "라벨 우선, 손세탁 시 비비거나 비틀지 않기, 평건조와 접어 보관 조건 확인.",
+      "action": "유지; 세탁기 손세탁 코스를 모든 손세탁 옷에 허용하지 않음",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 29,
+      "originalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3485773/",
+      "slugs": [
+        "mens-muted-color-pairing-guide"
+      ],
+      "verifiedUrl": "https://www.pisavisionlab.org/wp-content/uploads/2020/01/2011_Applying-the-Helmholtz-illusion-to-fashion-horizontal-stripes-wont-make-you-look-fatter.pdf",
+      "method": "연구자 연구실에서 제공하는 동일 DOI 논문 PDF",
+      "claimReview": "DOI10.1068/i0405. 여성 그림·원통·마네킹 등 통제 자극 연구임을 확인. 남성 실제 착장 전체나 연구 전체의 일관성을 증명하지 않음.",
+      "action": "저자 연구실 PDF로 교체하고 본문을 단일 연구 범위로 한정",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 30,
+      "originalUrl": "https://www.drakes.com/products/navy-and-ecru-bar-stripe-hand-rolled-silk-grenadine-tie",
+      "slugs": [
+        "mens-necktie-selection-guide"
+      ],
+      "verifiedUrl": "https://www.drakes.com/products/navy-and-ecru-bar-stripe-hand-rolled-silk-grenadine-tie",
+      "method": "동일 공식 제품 본문을 웹 도구로 읽음",
+      "claimReview": "폭8cm·길이147cm 확인. 한 제품으로 시장에서 가장 흔한 치수라는 주장은 뒷받침하지 못함.",
+      "action": "시장 전체 빈도 단정을 제거하고 제품 사례로 수정",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 37,
+      "originalUrl": "https://sa.hm.com/en/ironing-shirt",
+      "slugs": [
+        "mens-shirt-ironing-wrinkle-guide"
+      ],
+      "verifiedUrl": "https://sa.hm.com/en/ironing-shirt",
+      "method": "동일 공식 안내 본문을 웹 도구로 읽음",
+      "claimReview": "칼라 뒤·커프 뒤·소매·앞판·뒤판·요크 순서 및 라벨 우선 확인.",
+      "action": "본문 작업 순서를 유일한 정답으로 단정하지 않도록 수정",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 40,
+      "originalUrl": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney/policies",
+      "slugs": [
+        "mens-travel-outfit-packing-guide"
+      ],
+      "verifiedUrl": "https://www.hyatt.com/park-hyatt/en-US/sydph-park-hyatt-sydney/policies",
+      "method": "동일 공식 정책 본문을 웹 도구로 읽음",
+      "claimReview": "해당 호텔의 공용 공간·식음 공간에서 호텔 슬리퍼와 가운 금지 확인.",
+      "action": "유지; 모든 호텔 규정으로 일반화하지 않음",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 45,
+      "originalUrl": "https://www.sunspel.com/en-eu/products/mens-short-sleeve-crew-neck-t-shirt-white",
+      "slugs": [
+        "mens-tshirt-fit-guide"
+      ],
+      "verifiedUrl": "https://www.sunspel.com/products/mens-short-sleeve-crew-neck-t-shirt-white",
+      "method": "공식 글로벌 제품 본문을 웹 도구로 읽음",
+      "claimReview": "Slim fit, 가슴·허리·소매 밀착, 셔츠·니트·재킷 안 착용 설명 확인.",
+      "action": "읽을 수 있는 글로벌 링크로 교체",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 46,
+      "originalUrl": "https://www.sunspel.com/en-eu/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa",
+      "slugs": [
+        "mens-tshirt-fit-guide"
+      ],
+      "verifiedUrl": "https://www.sunspel.com/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa",
+      "method": "공식 글로벌 제품 본문을 웹 도구로 읽음",
+      "claimReview": "Relaxed fit와 wide-trim crew neckline, layering 용도 확인.",
+      "action": "읽을 수 있는 글로벌 링크로 교체",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    },
+    {
+      "index": 48,
+      "originalUrl": "https://grandseikoboutique.us/products/watch-manual-strap-dress-sbgk007",
+      "slugs": [
+        "mens-watch-outfit-pairing-guide"
+      ],
+      "verifiedUrl": "https://grandseikoboutique.us/products/watch-manual-strap-dress-sbgk007",
+      "method": "동일 공식 부티크 제품 본문을 웹 도구로 읽음",
+      "claimReview": "지름39mm·두께11.6mm·케이스길이44mm·러그폭19mm 확인.",
+      "action": "유지; 모든 손목·커프의 적합성으로 일반화하지 않음",
+      "disposition": "relevant cited scope reviewed; repair applied when needed"
+    }
+  ]
+}

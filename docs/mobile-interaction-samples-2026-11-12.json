@@ -1,0 +1,105 @@
+{
+  "scope": "CPU 4x, 390px browser event timing samples. Not field INP or Lighthouse. Only positive interaction IDs recorded; events below browser threshold can be absent.",
+  "results": [
+    {
+      "task": "clear search 1",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 200,
+          "interactionId": 7876,
+          "inputDelay": 1.7000000476837158
+        },
+        {
+          "name": "pointerup",
+          "duration": 192,
+          "interactionId": 7876,
+          "inputDelay": 0.7999999523162842
+        },
+        {
+          "name": "click",
+          "duration": 192,
+          "interactionId": 7876,
+          "inputDelay": 1
+        }
+      ],
+      "url": "https://www.eurachoachoa.com/blog",
+      "status": null
+    },
+    {
+      "task": "clear search 2",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 112,
+          "interactionId": 3252,
+          "inputDelay": 2.5
+        },
+        {
+          "name": "pointerup",
+          "duration": 200,
+          "interactionId": 3252,
+          "inputDelay": 25.100000023841858
+        },
+        {
+          "name": "click",
+          "duration": 200,
+          "interactionId": 3252,
+          "inputDelay": 25.200000047683716
+        }
+      ],
+      "url": "https://www.eurachoachoa.com/blog",
+      "status": null
+    },
+    {
+      "task": "clear search 3",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 72,
+          "interactionId": 10002,
+          "inputDelay": 2.799999952316284
+        },
+        {
+          "name": "pointerup",
+          "duration": 200,
+          "interactionId": 10002,
+          "inputDelay": 28.300000071525574
+        },
+        {
+          "name": "click",
+          "duration": 200,
+          "interactionId": 10002,
+          "inputDelay": 28.5
+        }
+      ],
+      "url": "https://www.eurachoachoa.com/blog",
+      "status": null
+    },
+    {
+      "task": "select trousers",
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 72,
+          "interactionId": 8533,
+          "inputDelay": 2.299999952316284
+        },
+        {
+          "name": "pointerup",
+          "duration": 136,
+          "interactionId": 8533,
+          "inputDelay": 26.799999952316284
+        },
+        {
+          "name": "click",
+          "duration": 136,
+          "interactionId": 8533,
+          "inputDelay": 27.5
+        }
+      ],
+      "url": "https://www.eurachoachoa.com/tools/size-compare",
+      "status": null
+    }
+  ]
+}

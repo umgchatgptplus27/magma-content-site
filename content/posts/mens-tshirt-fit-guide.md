@@ -2,7 +2,7 @@
 title: "남자 티셔츠 핏은 어깨선부터 봅니다"
 description: "남자 티셔츠 핏을 어깨 봉제선, 소매, 가슴, 기장, 목선 순서로 보는 법과 단독용·이너용 차이, 실측표 읽기, 목 늘어남을 막는 세탁·보관법을 정리했습니다."
 date: 2026-07-29
-updated: 2026-10-28
+updated: 2026-11-12
 tags: ["티셔츠", "핏", "사이즈", "세탁", "보관"]
 thumbnail: "/images/mens-tshirt-neckline-care-guide-thumbnail.webp"
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 ## 단독으로 입을지, 이너로 입을지부터
 
-같은 흰 티셔츠라도 역할에 따라 맞는 조건이 다릅니다. 단독으로 입으면 원단 두께와 목선이 인상을 좌우하고, 이너로 입으면 겉옷 안에서 뭉치지 않는 것이 먼저입니다. [Sunspel의 클래식 티셔츠](https://www.sunspel.com/en-eu/products/mens-short-sleeve-crew-neck-t-shirt-white)는 가슴·허리·소매가 몸에 가까운 슬림핏을 셔츠·니트·재킷 안에 입기 편한 핏으로 설명합니다. 같은 브랜드의 [릴랙스드 헤비웨이트 티셔츠](https://www.sunspel.com/en-eu/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa)는 여유 있는 몸판과 넓은 크루넥 트림으로 단독 착용과 레이어링을 겨냥합니다.
+같은 흰 티셔츠라도 역할에 따라 맞는 조건이 다릅니다. 단독으로 입으면 원단 두께와 목선이 인상을 좌우하고, 이너로 입으면 겉옷 안에서 뭉치지 않는 것이 먼저입니다. [Sunspel의 클래식 티셔츠](https://www.sunspel.com/products/mens-short-sleeve-crew-neck-t-shirt-white)는 가슴·허리·소매가 몸에 가까운 슬림핏을 셔츠·니트·재킷 안에 입기 편한 핏으로 설명합니다. 같은 브랜드의 [릴랙스드 헤비웨이트 티셔츠](https://www.sunspel.com/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa)는 여유 있는 몸판과 넓은 크루넥 트림으로 단독 착용과 레이어링을 겨냥합니다.
 
 | 역할 | 핏 | 원단 | 목선 | 주의할 점 |
 | --- | --- | --- | --- | --- |
@@ -127,8 +127,8 @@ draft: false
 ## 근거로 삼은 자료
 
 - [UNIQLO Korea — 신체 사이즈·제품 사이즈 측정 방법](https://faq-kr.uniqlo.com/pkb_Home_UQ_KR?id=kA0Ie000000TO06&q=utme&l=ko&fs=RelatedArticle)
-- [Sunspel — Men's Classic T-shirt](https://www.sunspel.com/en-eu/products/mens-short-sleeve-crew-neck-t-shirt-white)
-- [Sunspel — Men's Relaxed Fit Heavyweight T-shirt](https://www.sunspel.com/en-eu/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa)
+- [Sunspel — Men's Classic T-shirt](https://www.sunspel.com/products/mens-short-sleeve-crew-neck-t-shirt-white)
+- [Sunspel — Men's Relaxed Fit Heavyweight T-shirt](https://www.sunspel.com/products/mens-relaxed-fit-heavyweight-tshirt-in-white-mtsh0181-whaa)
 - [New Mexico State University — T is for T-Shirts](https://pubs.nmsu.edu/_c/C210/index.html)
 - [GINETEX — Care Symbols](https://www.ginetex.net/gb/labelling/care-symbols.asp)
 - [The Laundress — Tips & Tricks for Seasonal Storage](https://www.thelaundress.com/blogs/tips/tips-tricks-for-seasonal-storage)

@@ -2,7 +2,7 @@
 title: "남자 부츠 종류와 첫 켤레 고르는 법"
 description: "남자 부츠 종류인 첼시·처카·데저트·레이스업의 차이와 옷장에서 거꾸로 고르는 첫 부츠, 발목 핏, 바지 밑단과 색 조합, 겨울 밑창과 관리를 정리했습니다."
 date: 2026-07-31
-updated: 2026-11-10
+updated: 2026-11-12
 tags: ["부츠", "바지", "색 조합", "핏", "데님"]
 thumbnail: "/images/mens-boot-selection-styling-guide-thumbnail.webp"
 draft: false
@@ -99,6 +99,6 @@ Proper Cloth는 브레이크가 인심 길이뿐 아니라 밑단 폭에 따라 
 - [Crockett & Jones — Sole Guide](https://www.crockettandjones.com/pages/sole-guide)
 - [Crockett & Jones — Shoe Care Hacks](https://www.crockettandjones.com/pages/shoe-care-hacks)
 - [V&A Collections — Pair of ankle-high elastic-sided boots](https://collections.vam.ac.uk/item/O11194/pair-of-ankle-unknown/)
-- [Clarks — How to Wear Desert Boots](https://www.clarks.com/en-gb/editorial/how-to-wear-desert-boots)
+- [Clarks — How to Wear Desert Boots](https://www.clarks.com/en-ie/editorial/how-to-wear-desert-boots)
 - [Proper Cloth — What Is a Pant Break?](https://propercloth.com/reference/what-is-pant-break/)
 - [Crockett & Jones — Fitting Guide](https://www.crockettandjones.com/pages/fitting-guide)

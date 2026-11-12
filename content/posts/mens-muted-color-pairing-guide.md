@@ -2,7 +2,7 @@
 title: "남자 옷 색 조합 기본: 밝기 차 두는 법과 체크·질감 섞기"
 description: "남자 옷 색 조합을 네이비·그레이·브라운·올리브로 짜는 법입니다. 상하의 밝기 차, 흰머리와 어울리는 상의 색, 체크·스트라이프와 질감 섞는 법까지 담았습니다."
 date: 2026-07-30
-updated: 2026-10-04
+updated: 2026-11-12
 tags: ["색 조합", "출근룩", "셔츠", "바지", "소재"]
 thumbnail: "/images/mens-muted-color-pairing-guide-look-4.webp"
 draft: false
@@ -86,7 +86,7 @@ Permanent Style의 색채 해설도 밝기 수준이 서로 다른 색끼리가 
 
 두 가지 무늬를 함께 입을 때는 크기를 확연히 다르게 합니다. 잔체크 셔츠에 굵은 스트라이프 넥타이처럼 한쪽이 작고 한쪽이 크면 서로 부딪히지 않습니다. 비슷한 크기의 체크 두 개는 눈이 어느 쪽을 봐야 할지 몰라 복잡해집니다. 넥타이 무늬와 셔츠를 맞추는 법은 [넥타이 고르는 법](/blog/mens-necktie-selection-guide)에서 다뤘습니다.
 
-무늬를 고를 때는 거울 가까이에서만 보지 말고 약 1m, 그리고 2~3m 떨어진 전신으로도 봅니다. 가까이서 은은하던 무늬가 휴대전화 사진에서는 물결처럼 뭉개져 보이기도 하는데, 이는 화면과 카메라의 문제일 수 있으니 실물을 기준으로 판단합니다. "세로 줄무늬는 날씬해 보인다"는 통념도 연구에서 일관되게 확인되지 않았으므로, 체형 효과보다 오늘 자리에 맞는 무늬의 강도로 고르는 편이 낫습니다.
+무늬를 고를 때는 거울 가까이에서만 보지 말고 약 1m, 그리고 2~3m 떨어진 전신으로도 봅니다. 가까이서 은은하던 무늬가 휴대전화 사진에서는 물결처럼 뭉개져 보이기도 하는데, 이는 화면과 카메라의 문제일 수 있으니 실물을 기준으로 판단합니다. Thompson과 Mikellidou의 2011년 연구는 여성의 선 그림과 마네킹 사진 등 통제된 자극에서 줄무늬의 폭 지각을 비교했고, 가로 줄무늬가 더 넓어 보인다는 통념을 지지하지 않았습니다. 이 결과를 남성의 실제 착장 전체에 적용할 수는 없으므로, 줄 방향 하나로 체형 효과를 단정하지 말고 오늘 자리에 맞는 무늬의 강도를 비교합니다.
 
 ## 무늬 대신 질감으로 변화를 주는 법
 
@@ -138,5 +138,5 @@ Permanent Style의 색채 해설도 밝기 수준이 서로 다른 색끼리가 
 - [Drake's — Drake's in Edinburgh: The Lookbook](https://www.drakes.com/blogs/news/drakes-edinburgh-lookbook-2021)
 - [American Academy of Dermatology — What causes gray hair](https://www.aad.org/public/everyday-care/hair-scalp-care/hair/gray-hair-causes)
 - [Proper Cloth — Mini Grid Shirt Fabrics](https://propercloth.com/reference/mini-grid-dress-shirt-fabrics/)
-- [Thompson & Mikellidou — Applying the Helmholtz Illusion to Fashion](https://pmc.ncbi.nlm.nih.gov/articles/PMC3485773/)
+- [Thompson & Mikellidou — Applying the Helmholtz Illusion to Fashion](https://www.pisavisionlab.org/wp-content/uploads/2020/01/2011_Applying-the-Helmholtz-illusion-to-fashion-horizontal-stripes-wont-make-you-look-fatter.pdf)
 - [X-Rite — What is Metamerism?](https://www.xrite.com/blog/what-is-metamerism)
